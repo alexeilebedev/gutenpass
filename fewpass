@@ -1,0 +1,15 @@
+#!/usr/local/bin/perl
+sub getval($$) {
+    my $ret;
+    if ($_[0] =~ /\b$_[1]:(.*?)($|\s)/) {
+	$ret=$1;
+    }
+}
+
+foreach my $X (glob("lang/*.lang")) {
+    foreach my $Y (qw(1 2 3)) {
+	my $out=`./gutenpass -l $X -r -t 100`;
+	my $result=getval($out,"result");
+	printf("%25s %30s\n",$X,$result);
+    }
+}

@@ -1,0 +1,244 @@
+#!/usr/local/bin/perl
+use strict;
+use Getopt::Long;
+my $langfile="";"lang/warandpeace.lang";
+my $verbose;
+my $opt_numtail=1000;
+my $opt_nbits=48;
+my $opt_n=1;
+my $opt_report=0;
+my $opt_maxsyllable=100;
+my $opt_nofreq=0;
+my $opt_minfreq=0;
+my $interactive;
+my $usage = "$0 [options] [<code>]
+Convert a number to a more-memorable string representation using a
+'language' file that captures transition probabilities between various letters.
+
+   -langfile|-l <langfile>   File specifying output language (default: random)
+   -nbits                    Pick a random number with this many bits (Default: $opt_nbits)
+   -v                        Verbose mode
+   -i                        Interactive mode, encode one line at a time
+   -n <int>                  Generate N passwords without having to reload the lang file
+   -minfreq <int>            Ignore transitions with frequency lower than this
+   -maxsyllable <int>        Max syllable length
+   -nofreq                   Ignore frequency information
+   -numtail|-t <int>         Leave number this small as just an integer. Default: $opt_numtail
+   <code>                    Code to convert
+   -r                        Print report
+\n";
+GetOptions(
+    "langfile|l=s" => \$langfile
+    ,"r" => \$opt_report
+    ,"numtail|t=i" => \$opt_numtail
+    ,"nbits=i" => \$opt_nbits
+    ,"minfreq=i" => \$opt_minfreq
+    ,"nofreq" => \$opt_nofreq
+    ,"maxsyllable=i" => \$opt_maxsyllable
+    ,"i" => \$interactive
+    ,"n=i" => \$opt_n
+    ,"v" => \$verbose
+    ) or die $usage;
+
+#--------------------------------------------------------------------------------
+# load data from file $_[0]
+# return language object
+# language is a map from current syllable
+# to an array of (syllable,frequency) pairs
+sub loadlang($) {
+    open my $R, "<$_[0]" or die $!;
+    my $lang=();
+    while (<$R>) {
+	chomp;
+	if (/^(.*?):(.*)$/) {
+	    # skip empty syllables, and those consisting just of spaces
+	    my $prefix=$1;
+	    my @targets;
+	    foreach my $syllable (split(/\s+/,$2)) {
+		if ($syllable !~ /^\s*$/) {# ignore whitespace syllable
+		    my $freq=1;
+		    if ($syllable =~ s/:(.*)//) { # strip frequency
+			$freq=$1;
+		    }
+		    if ($freq < $opt_minfreq) {
+			next;
+		    }
+		    if ($freq < 1 || $opt_nofreq) {
+			$freq = 1;
+		    }
+		    if (length($syllable) <= $opt_maxsyllable) {
+			push (@targets,[$syllable,$freq]);
+		    }
+		}
+	    }
+	    # normalize frequencies to a max of 100
+	    my $sumfreq = sumfreq(\@targets);
+	    foreach my $target(@targets) {
+		my $n = $target->[1]*100/$sumfreq;
+		$n=1 if $n<1;
+		$target->[1] = $n;
+	    }
+	    $lang->{$prefix}=\@targets;
+	}
+    }
+    return $lang;
+}
+
+#--------------------------------------------------------------------------------
+
+sub sumfreq($) {
+    my $sum=0;
+    my $targets=$_[0];
+    foreach my $target(@$targets) {
+	$sum += $target->[1];
+    }
+    return $sum;
+}
+
+#--------------------------------------------------------------------------------
+
+sub weight_to_idx($$) {
+    my ($targets,$weight)=@_;
+    my $sum=0;
+    my $idx=0;
+    foreach my $target(@$targets) {
+	if ($sum >= $weight) {
+	    last;
+	}
+	if ($idx < scalar(@$targets)-1) {
+	    $sum += $target->[1];
+	    $idx++;
+	}
+    }
+    return $idx;
+}
+
+#--------------------------------------------------------------------------------
+# encode a number as a word
+# $_[0] - lang object
+# $_[1] - number to encode
+# output - string corresponding to then number
+# free parameters
+# - capitalization (TODO: follow a template)
+# - final number (TODO: follow a template)
+sub encode($$) {
+    my ($lang,$code)=@_;
+    my $start="-";
+    my $prefix=$start;
+    my $out;
+    my $entropy=1;
+    while ($code>0) {
+	my $targets=$lang->{$prefix};
+	if ($code<$opt_numtail || (!$targets && $prefix eq $start)) {
+	    # convert remainder of the code to a
+	    # number
+	    $out .= "-" if ($out && $out !~ /-$/);
+	    $out .= ($code % $opt_numtail);
+	    $entropy *= $code;
+	    $code = 0; # used it all
+	} elsif (!$targets || !scalar(@$targets)) {
+	    # dead-end prefix. end word, no reduction 
+	    $prefix=$start;
+	} else {
+	    # convert next few bits of the word to
+	    # a syllable. list of syllables is in $targets
+	    # (it is an array of [syllable,frequency])
+	    my $ntargets=scalar(@$targets);
+	    my $sumfreq = sumfreq($targets);
+	    my $idx = weight_to_idx($targets,int($code % $sumfreq));
+	    my $syllable = $targets->[$idx]->[0];
+	    my $freq = int($targets->[$idx]->[1]);
+	    if ($verbose) {
+		print " code:$code prefix:$prefix ntargets:$ntargets"
+		    ." sumfreq:$sumfreq idx:$idx freq:$freq -> $syllable\n";
+	    }
+	    my $choice=$sumfreq/$freq;
+	    if ($choice > $ntargets) {
+		$choice =$ntargets;
+	    }
+	    $code = int($code/$choice);
+	    $entropy = int($entropy*$choice);
+	    # insert separator if we just finished a word
+	    $out .= "-" if (($prefix eq $start) && $out && $out !~ /-$/);
+	    $out .= $syllable;
+	    $prefix=$syllable;
+	}
+    }
+    print "\n" if $verbose;
+    $out =~ s/-$//; # remove trailing -
+    return $out,$entropy;
+}
+
+# --------------------------------------------------------------------------------
+
+sub getrandom() {
+    open my $rnd, "<", "/dev/random";
+    my $ret=0;
+    for (my $n=0; $n<$opt_nbits;) {
+	my $value;
+	# read 32 bits of randomness into $value
+	read $rnd, $value, 4; 
+	$value = unpack("L*",$value);
+	my $n_use = $opt_nbits -$n;
+	if ($n_use>32) {
+	    $n_use=32;
+	}
+	# insert lower $n_use bits into $ret
+	$ret=($ret << $n_use) | ($value & ((1<<$n_use)-1));
+	$n+= $n_use;
+    }
+    return $ret;
+}
+
+# --------------------------------------------------------------------------------
+
+# estimate magnitude of number $_[0] in bits
+sub countbits($) {
+    my $ret=0;
+    my $num=$_[0];
+    while ($num>1) {
+	$num=int($num/2);
+	$ret++;
+    }
+    return $ret;
+}
+
+# --------------------------------------------------------------------------------
+
+sub do_encode($$) {
+    my ($lang,$code)=@_;
+    if ($code < 10*1000*1000*1000) {
+	print STDERR "WARNING: Code $code is very small\n";
+    }
+    my ($out,$entropy)=encode($lang,$code);
+    my $passbits=countbits($entropy);
+    if ($opt_report) {
+	print "gutenpass  result:$out  code:$code  passbits:$passbits  langfile:$langfile\n";
+    } else {
+	print "$out\n";
+    }
+}
+
+# --------------------------------------------------------------------------------
+
+if (!$langfile) {
+    my @langs=glob("lang/*.lang");
+    $langfile=$langs[rand(scalar(@langs))];
+}
+my $lang = loadlang($langfile);
+if ($interactive) {
+    while (my $code = <STDIN>) {
+	chomp $code;
+	do_encode($lang,$code);
+    }
+} else {
+    my $code=int(shift @ARGV);
+    $code = getrandom() if !$code;
+    do_encode($lang,$code);
+    for (my $i=0; $i<$opt_n-1; $i++) {
+	do_encode($lang,getrandom());
+    }
+}
+
+exit(0);
+

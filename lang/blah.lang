@@ -1,0 +1,15 @@
+-: bl gl fl
+bl: a e i o u
+gl: a e i o u
+fl: a e i o u
+a: r g h s t
+e: r g h s t 
+i: r g h s t 
+o: r g h s t 
+u: r g h s t 
+r: a e i o u -
+g: a e i o u -
+h: a e i o u -
+s: a e i o u -
+t: ie -
+
