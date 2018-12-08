@@ -228,7 +228,7 @@ if (!$langfile) {
 my $lang = loadlang($langfile);
 if ($interactive) {
     while (my $code = <STDIN>) {
-	chomp $code;
+	$code=int($code);
 	do_encode($lang,$code);
     }
 } else {
