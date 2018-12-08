@@ -99,16 +99,13 @@ sub sumfreq($) {
 
 sub weight_to_idx($$) {
     my ($targets,$weight)=@_;
-    my $sum=0;
     my $idx=0;
     foreach my $target(@$targets) {
-	if ($sum >= $weight) {
+	$weight -= $target->[1];
+	if ($weight <= 0) {
 	    last;
 	}
-	if ($idx < scalar(@$targets)-1) {
-	    $sum += $target->[1];
-	    $idx++;
-	}
+	$idx++;
     }
     return $idx;
 }

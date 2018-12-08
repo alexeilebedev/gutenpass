@@ -33,11 +33,11 @@ This says that a word can start with bl, gl or fl.
 bl can be followed by a e i o, or u. etc.
 The file generates phrases like this:
 ~~~
-    bligigasutie-glutie-flit-glahage
-    flotie-blirut-flugugohaguru
-    fluhuguh-flagohut-glesut
-    blehagigatie-blagetie-bluhuh-
-    flat-blehesirogugerat-glu
+florugisuruseg-blir-341
+blahiririgagosahi-625
+glasegerah-blit-flos-514
+glit-flosagarereg-gle-304
+blehatie-flet-fluh-gluheg-344
 ~~~
 The fanout for each syllable here is rather small, so the resulting
 strings end up being long, since each syllable encodes only a few bits of information.
