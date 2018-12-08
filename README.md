@@ -45,10 +45,11 @@ Good (and fun) langfiles result from analysis of texts.
 
 ## Provided lang files
 A dozen lang files are already provided. These include War And Peace,
-Critique of Pure Reason, Great Expectations, Alice in Wonderland,
+Iliad, Great Expectations, Alice in Wonderland,
 and other classics. Texts are in txt/ and resulting langfiles are under lang.
 Lang files can be re-generated with ./update-lang (read the source for more).
 
+Here a few passphrases inspired by Critique of Pure Reason:
 ~~~
 $ ./gutenpass -l lang/purereason.lang -n 10 -t 0 -minfreq 40
 trandere-d-sp-hr-brin-fr
@@ -64,9 +65,8 @@ r-l-bi-nz-re-suchti
 ~~~
 
 ## Tutorial
-To create your own language file
-and generate a random string from it. We'll use Cervantes' Don Quijote,
-in original spanish, as input:
+Let's create a new language file and generate a random string from it.
+We'll use Cervantes' Don Quijote, in original Spanish, as input:
 ~~~
 curl -s http://www.gutenberg.org/cache/epub/2000/pg2000.txt > x
 ./makelang x -token digram -minfreq 10 -minword 5 > y
