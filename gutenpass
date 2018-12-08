@@ -1,7 +1,7 @@
 #!/usr/local/bin/perl
 use strict;
 use Getopt::Long;
-my $langfile="";"lang/warandpeace.lang";
+my $langfile="";
 my $verbose;
 my $opt_numtail=1000;
 my $opt_nbits=48;
@@ -221,11 +221,47 @@ sub do_encode($$) {
 
 # --------------------------------------------------------------------------------
 
-if (!$langfile) {
-    my @langs=glob("lang/*.lang");
-    $langfile=$langs[rand(scalar(@langs))];
+# make sure that none of the transitions from $_[1] in lang $_[0]
+# are dead ends.
+# In the below example, me and mu are deleted from -'s list
+# -: ma me mu
+# ma: x y
+# me: -
+# mu: 
+sub lengthen_continuation($$) {
+    my ($lang,$str)=@_;
+    my $syllables = $lang->{$str};
+    my @newsyllables;
+    foreach my $syllable(@$syllables) {
+	my $array=$lang->{$syllable->[0]};
+	if ($array && scalar(@$array)>1) {
+	    push(@newsyllables,$syllable);
+	}
+    }
+    $lang->{$str}=\@newsyllables;
 }
+
+# --------------------------------------------------------------------------------
+
+# if code was given, let the code determine which file is chosen
+# otherwise, choose a random one
+sub choose_langfile {
+    my @langs=glob("lang/*.lang");
+    my $i = $ARGV[0];
+    if ($i > scalar(@langs)) {
+	$i = $i % scalar(@langs);
+    } else {
+	$i = int(rand(scalar(@langs)));
+    }
+    return $langs[$i];
+}
+
+# --------------------------------------------------------------------------------
+
+# choose a langfile if none was provided.
+$langfile = choose_langfile() if !$langfile;
 my $lang = loadlang($langfile);
+lengthen_continuation($lang,"-");
 if ($interactive) {
     while (my $code = <STDIN>) {
 	$code=int($code);

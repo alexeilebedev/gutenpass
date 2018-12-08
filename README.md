@@ -236,6 +236,29 @@ This is useful for choosing a good-sounding phrase from a list.
     you-whabba-795
 ~~~
 
+- The -r option provides a useful report, including the actual entropy of the resulting
+password. The actual entropy may be lower, especially with the trigram method, because the
+generated word may be present in the English dictionary.
+~~~
+    ./gutenpass -r
+    gutenpass  result:glet-flugogosut-glot-778  code:70973732737229  passbits:46  langfile:lang/blah.lang
+~~~
+
+- The -v (verbose) option gives debugging insights
+~~~
+    ./gutenpass -v
+     code:7221805794614 prefix:- ntargets:72 sumfreq:143.160289401059 idx:59 freq:3 -> w
+     code:151336781131 prefix:w ntargets:11 sumfreq:102.325192802057 idx:10 freq:35 -> i
+     code:51764254672 prefix:i ntargets:173 sumfreq:232.126130051193 idx:57 freq:1 -> sb
+     code:299215344 prefix:sb ntargets:3 sumfreq:100 idx:2 freq:60 -> u
+     code:179529206 prefix:u ntargets:136 sumfreq:197.663108493604 idx:102 freq:1 -> lf
+     code:1320067 prefix:lf ntargets:4 sumfreq:100.52380952381 idx:1 freq:1 -> u
+     code:330016 prefix:u ntargets:136 sumfreq:197.663108493604 idx:30 freq:1 -> nm
+     code:2426 prefix:nm ntargets:4 sumfreq:100 idx:1 freq:4 -> a
+
+    wisbulfunma-606
+~~~
+
 ## About Entropy
 When I'm talking about the amount of entropy in a string, I'm referring
 to the size of the smallest space from which the string can be recomputed.
