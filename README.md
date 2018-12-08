@@ -174,55 +174,67 @@ which I'll cover here.
 of the passphrase with a number. This does nothing to the password entropy
 but may be required by some services.
 
+~~~
     ./gutenpass -t 0
     quorecks-spraddyhaught
 
     ./gutenpass -t 10000
     a-ewahndt-jetz-4618
+~~~
 
 - The -nofreq option assumes that each symbol has frequency 1. This results in
 shorter phrases at the expense of readability
 
+~~~
     ./gutenpass 29465234946428   
     yer-aults-uptlydr-91
     ./gutenpass 29465234946428 -nofreq
     u-salonalarg-25
+~~~
 
 - The -maxsyllable option discards syllables longer than X. This results in shorter
 phrases at the expense of flavor.
 
+~~~
     ./gutenpass 29465234946428 -maxsyllable 1 -l lang/alice.lang 
     up-hucecalar-203
     /gutenpass 29465234946428 -maxsyllable 4 -l lang/alice.lang 
     youthouthushroor-ee-127
+~~~
 
 - The -l or -langfile option specifies which langfile to use. Default choice is to
 pick a random one.
 
 - The -nbits option controls the the approximate magnitude of the chosen random number.
 
+~~~
     ./gutenpass -nbits 20 -t 0
     WARNING: Code 979570 is very small
     crysask
     ./gutenpass -nbits 60 -t 0
     cunninety-dimensified-royautre-vag
+~~~
 
 - The -minfreq X option discards syllables whose frequency is lower than X. This results
 in very stereotypical but longer phrases.
 
+~~~
     ./gutenpass -minfreq 500 -langfile lang/purereason.lang 
     ge-als-se-als-die-werden-ab-nich-is-105
     ./gutenpass -minfreq 1 -langfile lang/purereason.lang 
     gtensorgr-aberli-226
+~~~
 
 - The -n option generates several passphrases while all other parameters remain the same.
 This is useful for choosing a good-sounding phrase from a list.
 
 - The -i option reads numbers from stdin and produces passphrases for each number read
 
+~~~
     (echo 765432345676543; echo 65434565432) | ./gutenpass -i -l lang/beowulf.lang 
     hlarmordlythouldegl-39
     you-whabba-795
+~~~
 
 ## About Entropy
 When I'm talking about the amount of entropy in a string, I'm referring
