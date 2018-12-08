@@ -268,7 +268,6 @@ of possible strings would be equal to the number of seconds in a year.
 
 Gutenpass by default generates passwords containing 48 bits of entropy
 sampled from /dev/random. This may seem like a low number, but it is
-practical: the resulting strings often have 70 bits of information and more, lang files
-can be customized, and each gutenpass run has enough options to make
-running it 2^48 times impractical. Its slowness is thus a security feature :-)
-
+practical: the resulting strings often have ~20 characters or more.
+Additionally, since lang files can be customized, and each gutenpass run has
+multiple options, running it 2^48 times for each possible choice of settings is impractical.
