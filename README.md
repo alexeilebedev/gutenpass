@@ -49,19 +49,13 @@ Iliad, Great Expectations, Alice in Wonderland,
 and other classics. Texts are in txt/ and resulting langfiles are under lang.
 Lang files can be re-generated with ./update-lang (read the source for more).
 
-Here a few passphrases inspired by Critique of Pure Reason:
 ~~~
-$ ./gutenpass -l lang/purereason.lang -n 10 -t 0 -minfreq 40
-trandere-d-sp-hr-brin-fr
-habewennt-hr-d-syntalen-g
-etwahr-gleicht-kannen-wirklichti
-sinden-v-blo-sofern-hes-do
-dies-gleicht-tischon-ere-ck
-i-sicht-trann-bleigegeht
-gleigen-jederzeinand-ner-da
-sofern-notwedere-hr-hin-woll
-jederzeinem-nken-werd-ohnes-ab
-r-l-bi-nz-re-suchti
+$ ./gutenpass -n 5 -l lang/donquijote.lang 
+illea-blar-um-28
+lav-granizcorr-623
+le-peronnos-aba-rr-9
+rtar-ticias-co-31
+zuelabolarentu-901
 ~~~
 
 ## Tutorial
