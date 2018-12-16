@@ -2,7 +2,6 @@
 # Create a lang file out of a txt file
 use strict;
 use Getopt::Long;
-my $infile=shift @ARGV;
 my $verbose=0;
 my $minline=20;
 my $lc=1;
@@ -32,6 +31,7 @@ GetOptions(
     ,"token=s" => \$token
     ) or die $usage;
 
+my $infile=shift @ARGV;
 die $usage if $opt_help;
 
 # --------------------------------------------------------------------------------
@@ -108,7 +108,7 @@ sub dumplang($) {
     my $lang=$_[0];
     foreach my $start (sort keys %$lang) {
 	my $map=$lang->{$start};
-	my @keys=keys %$map;
+	my @keys=sort keys %$map;
 	my $sumfreq=0;
 	my $out="$start:";
 	my $ntarget=0;
@@ -131,7 +131,7 @@ sub dumplang($) {
 
 # read file
 sub doit() {
-    open my $R, "$infile" or die "$!\n\n$usage";
+    open my $R, "$infile" or die "open [$infile]: $!\n\n$usage";
     my $saw_header=!$guten;
     my $saw_footer=0;
     my $lang={};
@@ -140,7 +140,6 @@ sub doit() {
 	    $saw_header=1;
 	    $saw_footer=0;
 	} elsif (/END OF .* PROJECT GUTENBERG/) {
-	    $saw_header=0;# ready for next file
 	    $saw_footer=1;
 	} elsif ($saw_header && !$saw_footer) {
 	    # only process what's between start and end marker
@@ -149,9 +148,9 @@ sub doit() {
     }
     dumplang($lang);
     
-    if (!$saw_footer) {
+    if (!$saw_header) {
 	die "Input file is not a project Gutenberg text file."
-	    ."\nPlease re-run with -ng flag";
+	    ."\nPlease re-run with --no-guten flag";
     }
 }
 

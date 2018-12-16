@@ -14,6 +14,7 @@ txt/sherlock.txt  -token vowel
 txt/donquijote.txt  -token digram
 txt/purereason.txt  -token digram
 txt/shakespeare.txt  -token digram
+txt/russianwords.txt --no-guten -minline 1 -token trigram
 ";
 foreach my $line (split(/\n/,$list)) {
     my @words=split(/\s+/,$line);

@@ -1,0 +1,9197 @@
+i
+v (vo)
+ne
+na
+ya
+on
+chto
+s (so)
+eto
+byt (i) (pres: est)
+a
+ves (f vsya, n vsyo, pl vse)
+oni
+ona
+kak
+my
+k (ko) (+d)
+u (+g)
+vy
+etot (f eta, n eto, pl eti)
+za
+tot (f ta, n to, pl te)
+no
+ty
+po (+d)
+iz (izo) (+g)
+o (ob/obo) (+pr)
+svoj
+tak
+odin (f odna, n odno)
+vot
+kotoryj
+nash
+tolko
+eshyo
+ot (+g)
+takoj
+moch/s-
+govorit/po- (s +inst)
+govorit/skazat
+dlya (+g)
+uzhe
+znat (i) (+a)
+da
+kakoj
+kogda
+drugoj
+pervyj
+chtoby
+ego
+god
+kto
+delo
+net
+eyo
+ochen
+bolshoj
+novyj
+stanovitsya/stat (+inst)
+rabota
+sejchas
+vremya (n)
+chelovek (pl ludi)
+idti/pojti
+esli
+dva (f dve) 
+moj
+zhizn (f)
+do (+g)
+gde
+kazhdyj
+samyj
+hotet/za-
+zdes
+nado
+ludi (pl)
+teper
+dom
+raz
+den (m)
+ili
+gorod
+tam
+slovo
+glaz
+potom
+videt/u- (+a)
+ih
+pod (+inst)
+dazhe
+dumat/po-
+horosho
+mozhno
+tut
+tysyacha
+li
+voda
+nichto/nichego (a/g)
+mnogo (+g)
+ruka
+sebya
+molodoj
+tozhe
+sprashivat/sprosit (+a o +pr)
+bez (+g)
+delat/s- (+a)
+tri
+vsyo
+to
+zhit/po-
+trud
+sam (f sama, n samo, pl sami)
+horoshij
+vtoroj
+cherez (+a)
+mesto
+posle (+g)
+strana
+dvadtsat
+dolzhen (f dolzhna, n dolzhno, pl dolzhny)
+bolshe
+vash
+dver (f)
+drug (pl druzya)
+mashina
+komnata
+uchitsya (i)
+nad (+inst)
+golova
+pochemu
+zemlya
+stol
+davat/dat (+a +d)
+pered (+inst)
+togda
+sidet/po-
+malchik
+devushka
+leto (g pl let)
+segodnya
+storona
+sovsem
+malenkij
+neskolko (+g)
+vdrug
+ni
+litso
+konechno
+narod
+nachinat/nachat
+pyat
+ved
+vopros
+pisat/na- (+a)
+pismo
+pri (+pr)
+mat (f)
+nuzhno
+smotret/po-
+sila
+vmeste
+vyhodit/vyjti
+lubit/po- (+a)
+doroga
+staryj
+ulitsa
+reshat/reshit (+inf/+a)
+kniga
+vsegda
+golos
+znachit (i)
+srazu
+lish
+minuta
+snova
+okno
+by
+uhodit/ujti
+devyatsot
+poslednij
+prohodit/projti
+otets
+chas
+prosto
+videt/uvidet
+zhe
+tretij
+potomu/potomu chto
+nikto
+zhdat/podo- (+a or g)
+skolko (+g)
+vysokij
+luchshe
+poluchat/poluchit (+a)
+pochti
+les
+konets
+noga
+sobstvennyj
+sto
+hudozhnik
+chetyre
+poka
+poka ne
+slushat/po- (+a)
+put (m)
+belyj
+respublika
+bystro
+kuda
+glavnyj
+deti (pl)
+rasskazyvat/rasskazat
+sovet
+gazeta
+ponimat/ponyat (+a)
+pora
+tvoj
+byvat (i)
+nahodit/najti (+a)
+pesnya
+imya (n)
+partiya
+vecher
+opyat
+imet (i) (+a)
+mezhdu (+inst)
+nastoyashij
+plan
+pravda
+sorok
+hodit/s-
+hodit/po-
+uznavat/uznat (+a)
+pole
+noch (f)
+vhodit/vojti
+krasnyj
+bolee
+urok
+nelzya
+telo
+ryadom
+lezhat/po-
+pro (+a)
+interesnyj
+nikogda
+rajon
+nuzhnyj
+osobenno
+otvechat/otvetit
+nachalnik
+raznyj
+tridtsat
+desyat
+mir
+kartina
+komitet
+mysl (f)
+gost (m)
+starshij
+vid
+sredi (+g)
+sluchaj
+narodnyj
+pomnit/vs- (+a/o +pr)
+prosit/po- (+a +inf)
+pust
+razgovor
+dvor
+dolgo
+mesyats
+vozvrashatsya/vernutsya
+souz
+vojna
+hotya
+bereg
+tselyj
+gruppa
+skoro
+student
+tovarish
+chast (f)
+spat/po-
+polnyj
+suda
+priezzhat/priehat
+ono
+zhenshina
+sobranie
+podhodit/podojti (k +d)
+derevo (pl derevya)
+sad
+chut
+boyatsya (i) (+g)
+zanimatsya (i) (+inst)
+papa (m)
+pomosh (f)
+proshlyj
+pryamo
+luchshij
+master
+sekretar (m)
+stena
+okazyvatsya/okazatsya (+inst)
+syn (pl synovya)
+brat
+zachem
+igrat/sygrat
+institut
+pyatyj
+ranshe
+tiho
+chyornyj
+velikij
+zavtra
+shirokij
+malo (+g)
+nakonets
+plecho
+razve
+razve… ne
+sneg
+budushij
+serdtse
+trudno
+yazyk
+prihodit/prijti
+russkij
+nedavno
+sovetskij
+nekotoryj
+prodolzhat/prodolzhit
+chlen
+poetomu
+zamechat/zametit (+a)
+kvartira
+umet/s- (+inf)
+svet
+nazad
+shkolnik
+domoj
+pravo
+silnyj
+srednij
+dalshe
+zadacha
+bezhat/po-
+veter
+pomogat/pomoch (+d)
+slovno
+dorogoj
+istoriya
+molchat/za-
+solntse
+doma
+more
+ogromnyj
+uchenik
+chuvstvo
+pet/s- (+a)
+borba
+rech (f)
+ehat/po-
+hleb
+dvizhenie
+prazdnik
+vnimanie
+schitat/schest
+schitat/so-
+inogda
+krichat/za-
+fabrika
+uspevat/uspet (+inf)
+dejstvitelno
+imenno
+obshij
+vsyakij
+direktor
+krasivyj
+nomer
+okolo (+g)
+paren (m)
+hozyajstvo
+vokrug (+g)
+dusha
+chetvyortyj
+shest
+podnimat/podnyat (+a)
+vzglyad
+inzhener
+takzhe
+tyazhyolyj
+tsvetok (pl tsvety)
+brat/vzyat (+a)
+vidno
+vozduh
+davno
+zabyvat/zabyt (+a or o +pr)
+iz-za (+g)
+opyt
+zvat/po- (+a)
+strojka
+zhena
+moloko
+stavit/po- (+a)
+odnako
+ugol
+bumaga
+prinimat/prinyat (+a)
+dlinnyj
+zanyatie
+chistyj
+saditsya/sest
+chasto
+shestoj
+voennyj
+vstavat/vstat
+igra
+kruzhok
+hozyain (pl hozyaeva)
+nikakoj
+dyadya (m)
+zhivoj
+derevnya
+obraz
+poryadok
+stroitel (m)
+uspeh
+prinosit/prinesti (+a)
+slishkom
+dobryj
+prezhde
+rasskaz
+semya
+utro
+lager (m)
+znakomyj
+armiya
+nos
+pozhalujsta
+sobiratsya/sobratsya (+inf)
+snachala
+tehnika
+dengi (f) (pl)
+doklad
+oba (f obe)
+sedmoj
+pozdno
+popadat/popast (v/na +a)
+vstrecha
+vozmozhnost (f)
+kultura
+sledovat/po-
+komanda
+nu
+ochered (f)
+lichnyj
+shkola
+rasti/vy-
+kolhoz
+prichina
+rebyata
+devochka
+mnogij
+organizatsiya
+mama
+stantsiya
+tuda
+uzh/uzhe
+sovershenno
+spokojno
+hotetsya/za- (+d)
+vsyo-taki
+chem
+budto
+mnenie
+vpervye
+luboj
+medlenno
+drug druga
+prihoditsya/prijtis (+d)
+nachalo
+pohozhij
+zal
+derzhat (i)
+predpriyatie
+sportivnyj
+vesyolyj
+zdravstvovat (i)
+Зdravstvuj(te)
+vperyod
+zelyonyj
+nyobo
+vstrechat/vstretit (+a)
+otnoshenie (k +d)
+babushka
+detskij
+ostanavlivatsya/ostanovitsya
+otvet
+vosem
+doska
+poyavlyatsya/poyavitsya
+nedelya
+zavod
+forma
+yavlyatsya (i) (+inst)
+vesh (f)
+geroj
+krome (+g)
+podnimatsya/podnyatsya
+sezd
+tochno
+hod
+ravno
+shag
+klub
+krupnyj
+vspominat/vspomnit (+a or o +pr)
+nebolshoj
+hudozhestvennyj
+kto-to
+nravitsya/po- (+d)
+shkolnyj
+gosudarstvo
+amerikanskij
+stroit/po- (+a)
+vosmoj
+nemnogo (+g)
+pauza
+pokazyvat/pokazat (+a +d)
+daleko
+zatem
+zdanie
+odnazhdy
+ptitsa
+samolyot
+sem
+shofyor
+dvesti
+izvestnyj
+pravilno
+reshenie
+vecherom
+gotovyj
+staratsya/po- (+inf)
+naprimer
+prostoj
+proizvedenie
+uchit/vy- (+a)
+uchit/na- (+a +d)
+inoj
+rezultat
+doktor
+sluchatsya/sluchitsya
+nazyvat/nazvat (+a +inst)
+vazhnyj
+znanie
+ulybatsya/ulybnutsya (+d)
+ploho
+uchitsya/na- (+inf)
+otkryvat/otkryt (+a)
+ostavatsya/ostatsya
+nauka
+kamen (m)
+protiv (+g)
+razvitie
+bog
+obshestvo
+nichego
+uslovie
+gospodin (pl gospoda)
+soldat
+revolutsiya
+nachinatsya/nachatsya
+oblast (f)
+chto-to
+vlast (f)
+sudba
+dejstvie
+mera
+energiya
+ryad
+nahoditsya/najtis
+polozhenie
+glyadet/po- (na +a)
+vek
+million
+obshestvennyj
+osnovnoj
+general
+interes
+legko
+material
+tsel (f)
+ogon (m)
+zakon
+priroda
+massa
+boj
+politicheskij
+luch
+volna
+protsess
+nauchnyj
+razlichnyj
+mirovoj
+sistema
+list
+hot
+rebyonok
+svyaz (f)
+voobshe
+verit/po-
+muzhchina (m)
+chto-nibud
+predstavlyat/predstavit (+a)
+iskat/po- (+a or +g)
+pisatel (m)
+promyshlennost (f)
+uchyonyj (m) (adj)
+verno
+sluzhit/po-
+pravitelstvo
+ekonomicheskij
+est/s- (+a)
+rabochij (m) (adj)
+sovremennyj
+rabotnik
+chyort
+kachestvo
+mezhdunarodnyj
+ofitser
+problema
+trebovat/po- (+g)
+kommunizm
+korabl (m)
+klass
+kilometr
+chislo
+baza
+palets
+kolichestvo
+kommunist
+pobeda
+reka
+pit/vy- (+a or +g)
+chelovecheskij
+gora
+milyj
+politika (no pl)
+proizvodstvo
+natsionalnyj
+holodnyj
+gosudarstvennyj
+otkuda
+slozhnyj
+bogatyj
+brosat/brosit (+a)
+stroitelstvo
+znachenie
+predsedatel (m)
+harakter
+neobhodimyj
+smeyatsya/za-/ras- (nad +inst)
+borotsya (i) (s +inst)
+izdelie
+osobyj
+smert (f)
+statya
+schyot
+vesma
+selskij
+sredstvo
+podobnyj
+primer
+revolutsionnyj
+skorost (f)
+fakt
+malyj
+chaj
+tyomnyj
+yavlenie
+sostoyat (i) (iz +g)
+yasno
+tochka
+stoit (i)
+um
+vpolne
+sobytie
+sushestvovat (i)
+kabinet
+spasibo
+vrag
+glubokij
+frantsuzskij
+blizkij
+ah
+deyatelnost (f)
+privodit/privesti (+a)
+trubka
+anglijskij
+sej 
+temperatura
+sostoyanie
+schaste
+smysl
+rubl (m)
+vchera
+pravyj
+avtor
+bolshinstvo
+izvestno
+melkij
+techenie
+oruzhie
+muzh
+proishodit/proizojti
+svobodnyj
+ideya
+usilie
+liniya
+iskusstvo
+sostav
+kapitalizm
+literatura
+stranitsa
+bit/po- (+a)
+inache
+chitatel (m)
+naibolee
+rost
+amerikanets
+koren (m)
+nemets
+nebo
+svojstvo
+vzglyadyvat/vzglyanut (na +a)
+vysoko
+naselenie
+steklo
+teatr
+nadezhda
+dovolno
+kraj
+muzhik
+step (f)
+tsvet
+ded
+osnova
+rano
+tehnicheskij
+schastlivyj
+krug
+moment
+neobhodimo
+stroj
+doch (f)
+ispolzovat (i/p) (+a)
+ministr
+sinij
+peredavat/peredat (+a)
+programma
+desyatok
+krov (f)
+otdavat/otdat (+a)
+otdelnyj
+svoboda
+hvatat/hvatit (+g)
+vnutrennij
+vystupat/vystupit
+kak-to
+zanimat/zanyat (+a)
+predstavitel (m)
+front
+bogatstvo
+zhelat/po- (+g)
+kakoj-nibud
+glubina
+mimo (+g)
+upravlenie
+slava
+sotnya
+strashnyj
+tem
+vesna
+dejstvovat/po-
+pol
+protsent
+rodina
+stsena
+znachitelnyj
+metr
+chuzhoj
+volya
+zub
+menee
+metod
+proshat/prostit (+a)
+svyazyvat/svyazat (+a)
+yarkij
+pesok
+uroven (m)
+istoricheskij
+istochnik
+polovina
+sluzhba
+ladno
+meshat/po- (+d)
+selo
+vprochem
+goryachij
+obrazovanie
+tonna
+vyzyvat/vyzvat (+a)
+zrenie
+morskoj
+ostalnoj
+semya (n)
+silno
+tonkij
+flot
+beseda
+dannyj
+dostatochno
+edinstvennyj
+lampa
+produktsiya
+tsentr
+vovse
+zapadnyj
+korrespondent
+pozhaluj
+priyom
+prochij
+strashno
+vozle (+g)
+von
+partijnyj
+telefon
+udavatsya/udatsya (+d)
+bystryj
+krestyanin
+vyhod
+pytatsya/po- (+inf)
+stih
+period
+ubivat/ubit (+a)
+druzhba
+edva
+neuzheli
+stepen (f)
+boevoj
+vojska (n, pl)
+karta
+napravlenie
+chelovechestvo
+vrode (+g)
+gromadnyj
+lyogkij
+polzovatsya/vos- (+inst)
+predlozhenie
+element
+yavlyatsya/yavitsya
+veroyatno
+pech/is- (+a)
+pech (f)
+kazatsya/po-
+umnyj
+glava
+plakat/za-
+skvoz (+a)
+sposob
+sposobnyj
+tserkov (f)
+chasy (m, pl)
+chest (f)
+otkrytyj
+pamyat (f)
+ponyatno
+soveshanie
+zamechatelnyj
+znamenityj
+predmet
+sleza
+gde-to
+dno
+magazin
+veshestvó
+sozdanie
+staruha
+karman
+muzej
+padat/past
+yasnyj
+poverhnost (f)
+blizko
+zayavlyat/zayavit (o +pr)
+zolotoj
+koleno
+ravnyj
+sleduushij
+snimat/snyat (+a)
+strah
+tyoplyj
+vysota
+muzyka
+ostrov
+otnositsya/otnestis (k +d)
+perestavat/perestat (+inf)
+stol
+mirnyj
+trudnyj
+dolgij
+zheleznyj
+pryamoj
+sotsialnyj
+volos
+vospitanie
+ditya (n)
+pokupat/kupit (+a)
+luna
+puskat/pustit (+a)
+vmesto (+g)
+nesmotrya (na +a)
+kulak
+kuhnya
+lubov (f)
+risunok
+sloj
+tema
+tsena
+kon (m)
+materialnyj
+teoriya
+baba
+teryat/po- (+a)
+prekrasnyj
+rod
+goluboj
+gospod (m)
+guba
+posylat/poslat (+a)
+rukovoditel (m)
+spetsialnyj
+tyotya
+tsentralnyj
+vsego
+vyvod
+vypolnyat/vypolnit (+a)
+zerno
+molodyozh (f)
+eh
+vozmozhno
+gluboko
+dobivatsya/dobitsya (+g)
+mestnyj
+rastenie
+starik
+pohod
+spina
+sudit (i/p) (o +pr)
+umirat/umeret
+ekonomika
+bolnoj
+duh
+nizhe
+okean
+zapas
+zemnoj
+ministerstvo
+obyazatelno
+polza
+predlagat/predlozhit (+a +d)
+sozdavat/sozdat (+a)
+vnov
+zaviset (i) (ot +g)
+plod
+radio (n) (indecl)
+raznoobraznyj
+sushestvovanie
+byvshij
+kasatsya/kosnutsya (+g)
+nikak
+osnovanie
+prikazyvat/prikazat (+d)
+rodnoj
+solnechnyj
+stremitsya (i) (k +d)
+gaz
+orudie
+radost (f)
+tom
+chestnyj
+issledovanie
+ladon (f)
+opredelyonnyj
+pozitsiya
+radi (+g)
+srok
+slyshat/u- (+a)
+uho
+shum
+apparat
+gorazdo
+kapital
+plohoj
+ploshad (f)
+poezd
+professor
+seryozno
+sol (f)
+son
+ten (f)
+grazhdanin
+dostavat/dostat (+a)
+durak
+ibo
+loshad (f)
+pshenitsa
+stolko (+g)
+epoha
+davaj(te)
+beda
+dalnij
+zakryvat/zakryt (+a)
+zvezda
+obychnyj
+provodit/provesti (+a)
+razgovarivat (i)
+razmer
+razreshat/razreshit (+d of person) 
+nechego
+atmosfera
+lodka
+nazvanie
+pravilnyj
+pustoj
+sapog
+skoree
+dalnejshij
+zhurnal
+libo
+televizor
+raketa
+sposobnost (f)
+akademiya
+vpechatlenie
+drevnij
+imetsya (i)
+ozhidat (i) (+a or +g)
+parohod
+razoruzhenie
+sled
+udar
+vneshnij
+nozh
+grud (f)
+krajnij
+moryak
+naoborot
+peredovoj
+printsip
+tajna
+tihij
+ustanavlivat/ustanovit (+a)
+elektricheskij
+vernyj
+vorota (nom pl)
+dvorets
+zoloto
+otkrytie
+otsuda
+spetsialist
+dlina
+nabludat (i) (+a)
+nemedlenno
+nemetskij
+povyshenie
+poluchatsya/poluchitsya
+soglashatsya/soglasitsya
+uchastie
+veselo
+levyj
+moskovskij
+postoyannyj
+prikaz
+roman
+smeh
+tvyordyj
+ton
+absolutno
+detal (f)
+obyom
+interesno
+knizhka
+kurs
+pochva
+nizkij
+ochevidno
+pyl (f)
+svetlyj
+seryj
+analiz
+vliyanie
+molchat/po-
+rukovodstvo
+atomnyj
+granitsa
+zashita
+kusok
+molchanie
+navernoe
+neozhidanno
+para
+platok
+prakticheskij
+predel
+stenka
+sushestvo
+tishina
+tovar
+vershina
+vzryv
+vinovatyj
+vyrastat/vyrasti
+grazhdanskij
+deyatel (m)
+dozhd (m)
+nazyvatsya/nazvatsya
+nevozmozhno
+obeshat (i/p) (+d)
+pozvolyat/pozvolit (+d)
+rol (f)
+sestra
+sledovatelno
+stolitsa
+figura
+tsar (m)
+bednyj
+verhnij
+vsled (za +inst)
+izmenenie
+nosit (i) (+a)
+osobennost (f)
+rad
+rezko
+zvonok
+ispytanie
+neobhodimost (f)
+obstanovka
+pechat (f)
+povod
+postoyanno
+razumetsya (i)
+stakan
+tochnyj
+uezzhat/uehat
+shiroko
+vozmozhnyj
+izuchenie
+komissiya
+gektar
+blagodarit/po- (+a; za +a)
+blestyashij
+ves
+vrach
+zhyoltyj
+krik
+nynche
+obespechivat/obespechit (+a +inst)
+poet
+rot
+sobaka
+sosednij
+tuman
+kapitan
+filosofiya
+dokazyvat/dokazat (+a)
+zdorove
+izvinyat/izvinit (+a)
+oshibka
+totchas
+vagon
+goret/za-
+dalyokij
+kanal
+praktika
+sozhalenie
+ukreplenie
+byt
+delatsya/s- (+inst)
+krysha
+nedostatok
+otrasl (f)
+podavat/podat (+a)
+poisk
+port
+svidanie
+trebovanie
+cherta
+shtat
+vzdyhat/vzdohnut
+zapiska
+ozero
+organizovat (i/p) (+a)
+soznanie
+teplo
+prezhnij
+prostranstvo
+sostavlyat/sostavit (+a)
+sputnik
+strelyat (i) (v +a or po +d)
+vdol (+g)
+vstrechatsya/vstretitsya (s +inst)
+dokument
+mechtat (i) (o +pr)
+obychno
+produkt
+sekunda
+selskohozyajstvennyj
+strannyj
+bratskij
+dohodit/dojti (do +g)
+dostizhenie
+zahodit/zajti
+myortvyj
+moguchij
+motor
+nezavisimost (f)
+predstavlenie
+primenenie
+trudnost (f)
+udovolstvie
+uzkij
+boets
+zhalko
+massovyj
+menshe
+mechta
+nochnoj
+obratno
+opasnost (f)
+otkazyvatsya/otkazatsya (+inf)
+polk
+polnostu
+popytka
+proshloe
+ris
+spokojnyj
+ugol (m)
+uchrezhdenie
+sheka
+vozrast
+gromko
+dym
+zhelanie
+zabota
+ispolzovanie
+krasota
+moshnyj
+postepenno
+prezident
+ryba
+sledit (i) (za +inst)
+hvatat/shvatit (+a)
+temnota
+trava
+tyazhelo
+uluchshenie
+ulybka
+uchenie
+glupyj
+zato
+lob
+nemalo
+pokolenie
+uchitel (m)
+vidimo
+voevat (i)
+vystuplenie
+unosha
+znachitelno
+iz-pod (+g)
+lozhitsya/lech
+probovat/po-
+promyshlennyj
+slabyj
+stul
+fotografiya
+tsep (f)
+vosstanie
+zadanie
+naverno
+obrashatsya/obratitsya (k +d)
+oktyabr (m)
+otlichatsya/otlichitsya
+povtoryat/povtorit (+a)
+soderzhanie
+ustraivat/ustroit (+a)
+vazhno
+vera
+demokraticheskij
+dolg
+zima
+krepko
+molcha
+perehod
+znakomitsya/po- (s +inst)
+portret
+chudo
+bok
+vvodit/vvesti (+a)
+derzhatsya (i) (za +a)
+zhalet/po- (+a)
+itak
+nadeyatsya (i)
+nastroenie
+oblako
+odnovremenno
+othodit/otojti (ot +g)
+ponyatie
+potok
+rozhdatsya/roditsya
+stoimost (f)
+stremlenie
+territoriya
+viset (i)
+vniz
+gornyj
+gorodskoj
+divan
+zagovarivat/zagovorit
+kstati
+obrazets
+prinadlezhat (i) (+d)
+sud
+avtomobil (m)
+adres
+vverh
+duhovnyj
+inostrannyj
+literaturnyj
+napominat/napomnit (+d o +pr)
+ostorozhno
+pobezhdat/pobedit (+a)
+poleznyj
+raschyot
+uverennyj
+bolezn (f)
+vperedi
+vskore
+zhelezo
+navstrechu (+d)
+obladat (i) (+inst)
+opasnyj
+poltora
+schitatsya (i)
+trudovoj
+uchastvovat (i) (v +pr)
+sheya
+uzhnyj
+brosatsya/brositsya
+vseobshij
+dogovor
+korotkij
+kulturnyj
+myagkij
+oj
+razvivatsya/razvitsya
+tyanut/po- (+a)
+vechnyj
+yanvar (m)
+obnaruzhivat/obnaruzhit (+a)
+osobennyj
+podgotovka (k +d)
+pridumyvat/pridumat (+a)
+redaktsiya
+sobstvennost (f)
+strogo
+ubezhdatsya/ubeditsya (v +pr)
+ugroza
+unichtozhat/unichtozhit (+a)
+gruz
+zdorovyj
+koltso
+konchat/konchit (+a)
+meshok
+most
+smena
+snimok
+telega
+tip
+toropitsya/po-
+fizicheskij
+vest (f)
+vodka
+govoritsya (i)
+devyat
+zakanchivat/zakonchit (+a)
+kruglyj
+moral (f)
+nemnozhko
+obida
+obyknovennyj
+okonchatelno
+pogodit (r)
+po-moemu
+pomoshnik
+pyanyj
+soedinenie
+tolpa
+udaryat/udarit (+a)
+huzhe
+edinyj
+zloj
+naznachenie
+osen (f)
+par
+polevoj
+chitat/prochest (+a)
+sobstvenno
+starinnyj
+stolovaya (f) (adj)
+suhoj
+gotovit/pri- (+a)
+derzhava
+zastavlyat/zastavit (+a +inf)
+koleso
+letet/po-
+nechto
+polagat (i)
+propast (f)
+svezhij
+severnyj
+sobirat/sobrat (+a)
+udivitelnyj
+uchastnik
+hozyajka
+chej
+bespokoitsya/o- (o +pr)
+vo-pervyh
+vyrazhenie
+gore
+detstvo
+dollar
+dolya
+itog
+koridor
+nyne
+priznavat/priznat
+sreda
+uchilishe
+bomba
+buro (indecl)
+vysshij
+dedushka (m)
+dejstvitelnost (f)
+zasedanie
+kluch
+kreslo
+ostavlyat/ostavit (+a)
+ostanavlivat/ostanovit (+a)
+otmechat/otmetit (+a)
+pogoda
+postupat/postupit
+rezhim
+reshitelno
+sravnenie
+stranno
+strogij
+stydno
+tanets
+bolno
+dobro
+zakluchat/zakluchit (+a)
+zanaves
+kogda-to
+konchatsya/konchitsya
+milliard
+nyneshnij
+obstoyatelstvo
+oh
+perehodit/perejti (+a or cherez +a)
+privykat/privyknut (k +d)
+prisylat/prislat (+a)
+protivnik
+realnyj
+spichka
+tvorcheskij
+torgovlya
+ustanovka
+vozdushnyj
+vsudu
+zhurnalist
+zahvatyvat/zahvatit (+a)
+zvanie
+zvonit/po- (+d)
+konkretnyj
+krichat/kriknut
+mart
+mnozhestvo
+otpravlyat/otpravit (+a)
+protivorechie
+rezkij
+somnenie
+temp
+truba
+turma
+vnimatelno
+lishnij
+pogibat/pogibnut
+porog
+pribyvat/pribyt
+prosba
+sostoyatsya (r)
+tvorchestvo
+universitet
+akademik
+bitva
+vzroslyj
+kaplya
+kontrol (m)
+mnogoe (n)
+neponyatnyj
+nizhnij
+osushestvlenie
+progress
+punkt
+redkij
+soderzhat (i)
+uvazhenie
+uzhas
+tsvetnoj
+shar
+vrat/so-
+dama
+demokratiya
+derevyannyj
+istina
+ischezat/ischeznut
+kamennyj
+lubimyj
+ottuda
+povedenie
+vesti/po- (+a)
+stoyat/po-
+potrebnost (f)
+rukav
+soedinyonnyj
+truditsya/po-
+familiya
+shumet (i)
+aktivnyj
+biblioteka
+ezdit/po-
+lezt/po-
+obrazovyvat/obrazovat (+a)
+pechka
+planeta
+ponyatnyj
+pravilo
+prozrachnyj
+torgovyj
+shinel (f)
+shutit/po-
+shutka
+yashik
+avtoritet
+bolet (i)
+vechernij
+vidnyj
+vnezapno
+gulyat/po-
+dvenadtsat
+zver (m)
+zvuk
+zvuchat/pro-
+komandovat (i) (+inst)
+kurit/po-
+nepremenno
+nizko
+obrazovyvatsya/obrazovatsya
+oznachat (i)
+ostryj
+pitanie
+polosa
+svyatoj
+seredina
+sluchajno
+sutki (f) (pl)
+ubegat/ubezhat
+shapka
+agressiya
+blagodarya (+d)
+zlo
+krugom
+kryltso
+neredko
+obed
+podderzhka
+podyom
+prichyom
+proekt
+soobshenie
+sosed
+sushnost (f)
+tvyordo
+tsifra
+anglichanin
+vo-vtoryh
+vooruzhenie
+vostok
+zapah
+zimnij
+karandash
+korova
+korpus
+kraska
+maj
+peredacha
+hodit/po-
+pohodit (i) (na +a)
+poyas
+ukazyvat/ukazat (+a or na +a)
+vryad li
+gorizont
+zhal
+zhitel (m)
+zadumyvatsya/zadumatsya (o +pr/nad +inst)
+izmenyat/izmenit (+a)
+minutka
+nekogda
+otvetstvennost (f)
+perednyaya
+post
+rasstoyanie
+svedenie
+sever
+serditsya/ras- (na +a)
+sovest (f)
+traditsiya
+fraza
+chemodan
+golyj
+zashishat/zashitit (+a)
+kafedra
+kompaniya
+oborudovanie
+pokoj
+pochemu-to
+smelyj
+sporit/po-
+sport
+uspeshno
+film
+bezopasnost (f)
+vypuskat/vypustit (+a)
+distsiplina
+dyshat/po- (+inst)
+zdorovo
+izobrazhenie
+klast/polozhit (+a)
+krepost (f)
+nesomnenno
+okruzhat/okruzhit (+a +inst)
+opuskat/opustit (+a)
+otlichno
+primerno
+spustya (+a)
+stroitelnyj
+talant
+ustavat/ustat
+unost (f)
+bratsya/vzyatsya (za +a)
+velichina
+vozvrashat/vernut (+a)
+zerkalo
+krylo
+lestnitsa
+opredelyat/opredelit (+a)
+ocherednoj
+palto (n) (indecl)
+papirosa
+plate
+razbiratsya/razobratsya (v +pr)
+pushka
+poluchenie
+priyatno
+posyolok
+poterya
+pozhar
+serdito
+sluh
+snaryad
+soobshat/soobshit (+a +d)
+tesnyj
+ekzamen
+blago
+boloto
+vnutri (+g)
+vyglyadet (i)
+gotovitsya (i) (k +d)
+dvigatel (m)
+dobavlyat/dobavit (+a k +d)
+drozhat/za-
+kapitalist
+krepkij
+muzykalnyj
+nehorosho
+obyavlyat/obyavit (+a or o +pr)
+organizm
+ostatok
+podobno (+d)
+pokryvat/pokryt (+a +inst)
+pop
+po-prezhnemu
+privychka
+soglashenie
+spor
+stroka
+tyanutsya/po-
+uvelichenie
+uzhasno
+urozhaj
+tsennyj
+chisto
+begat/po-
+begat/s-
+boroda
+deputat
+zayavlenie
+korotko
+naprasno
+nochu
+ohota
+pisha
+pomeshenie
+rovno
+tajga
+telegramma
+tolstyj
+transport
+byk
+vyderzhivat/vyderzhat (+a)
+dostigat/dostignut (+g)
+vynimat/vynut (+a)
+vypolnenie
+kozha
+menshij
+mol
+nastolko
+neozhidannyj
+ofitsialnyj
+ohotnik
+plamya (n)
+ponimanie
+protyagivat/protyanut (+a)
+professiya
+sooruzhenie
+speshit/po-
+storozh
+stupat/stupit
+trevoga
+utverzhdat (i)
+belosnezhnyj
+butylka
+volnovatsya/vz-
+davlenie
+zapad
+kolebanie
+krovat (f)
+mehanicheskij
+moshnost (f)
+napravlyat/napravit (+a)
+podarok
+podlinnyj
+poskolku
+prevrashenie
+profsouz
+razbivat/razbit (+a)
+smet/po- (+inf)
+stvol
+uverennost (f)
+fonar (m)
+verhovnyj
+vzaimnyj
+gradus
+dopuskat/dopustit (+a k +d)
+zakaz
+initsiativa
+lektsiya
+mokryj
+moralnyj
+opytnyj
+otdel
+otdyh
+otsutstvie
+prizyv
+proizvoditelnost (f)
+pyatnadtsat
+reaktsiya
+skazka
+shodit/sojti (s +g)
+starushka
+chudesnyj
+batareya
+burnyj
+velet (i/p) (+d +inf)
+glavnoe (n) (adj)
+gnat/po- (+a)
+dogadyvatsya/dogadatsya
+zavoyovyvat/zavoevat (+a)
+izba
+instrument
+kupets
+lyod
+moroz
+novost (f)
+oborona
+osvobozhdenie
+pahnut (i) (+inst)
+povest (f)
+podvig
+proshatsya/po- (s +inst)
+svyshe
+torchat (i)
+vyrazhat/vyrazit (+a)
+zhiznennyj
+znak
+kran
+krestyanskij
+lichnost (f)
+masshtab
+meropriyatie
+ohrana
+posvyashat/posvyatit (+a +d)
+prisutstvie
+pustyak
+pyatno
+raspolagat/raspolozhit (+a)
+rozhdenie
+soprotivlenie
+ugodno
+uzhasnyj
+flag
+tsarskij
+chastnost (f)
+aprel (m)
+ataka
+dvoe
+devchonka
+dostoinstvo
+evropejskij
+ezheli
+krestyanstvo
+medal (f)
+menyat/po- (+a)
+naschyot (+g)
+nichtozhnyj
+norma
+nuzhda
+otdelenie
+otchego
+patriot
+pobyvat (r) (v +pr)
+podpisyvat/podpisat (+a)
+posuda
+prekrasno
+propaganda
+pulemyot
+rajonnyj
+sorevnovanie
+grubyj
+uchastok
+brigada
+kollektiv
+komandir
+bitsya (i)
+gibel (f)
+gustoj
+edinstvo
+zritel (m)
+zrya
+ishodit (i) (iz +g)
+molodost (f)
+nishij
+otpravlyatsya/otpravitsya
+chuvstvovat/po- (+a)
+prezidium
+priznak
+dikij
+rasporyazhenie
+svetitsya (i)
+set (f)
+spasat/spasti (+a)
+summa
+sotsializm
+zakluchatsya (i) (v +pr)
+malchishka (m)
+dokladyvat/dolozhit (o +pr)
+ele
+zhenskij
+zanimatsya/zanyatsya (+inst)
+izmenyatsya/izmenitsya
+iskusstvennyj
+konferentsiya
+kust
+mozg
+natsiya
+nepreryvnyj
+obnimat/obnyat (+a)
+prevrashatsya/prevratitsya (v +a)
+samovar
+sverhu
+shyopot
+absolutnyj
+borets
+vyigrysh
+goryacho
+zhestokij
+zamestitel (m)
+kletka
+neizvestno
+neizvestnyj
+obyazannost (f)
+pustynya
+puteshestvie
+rasschityvat/rasschitat (na +a/+inf)
+remont
+sleva
+surovyj
+takov
+us
+fashistskij
+chastnyj
+chempion
+aga
+arestovyvat/arestovat (+a)
+berech (i) (+a)
+bilet
+vezde
+velikolepnyj
+vozbuzhdenie
+vstupat/vstupit (v +a)
+vypusk
+greh
+gryaznyj
+dochka
+izgotovlenie
+iskluchitelno
+koe-chto
+kritika
+nadpis (f)
+obrashenie (k +d)
+ottogo
+plavat/po-
+poezdka
+pozhiloj
+politsiya
+prochnyj
+ruzhyo
+ryzhij
+sahar
+sluzhashij (m) (adj)
+sprava
+tucha
+ustrojstvo
+utrom
+blagorodnyj
+burya
+vino
+voznikat/vozniknut
+vytaskivat/vytashit (+a iz +g)
+gigantskij
+zhalovatsya/po- (na +a)
+zamenyat/zamenit (+a +inst)
+lichno
+molodets
+navsegda
+nadevat/nadet (+a)
+obyasnyat/obyasnit (+a)
+povorachivat/povernut (+a)
+proizvodit/proizvesti (+a)
+stuchat/po- (v +a)
+ekspeditsiya
+batushka (m)
+vooruzhyonnyj
+vystrel
+garantirovat (i/p) (+a)
+zhertva
+zhivo
+zhivotnoe
+znamya (n)
+informatsiya
+kontsert
+kostyor
+krajne
+mehanizm
+mnogochislennyj
+naskolko
+obektivnyj
+obyasnenie
+perevorot
+pero
+povorot
+pozadi
+priobretat/priobresti (+a)
+prislushivatsya/prislushatsya (k +d)
+raspredelenie
+roditel (m)
+svecha
+svoeobraznyj
+sekret
+sklad
+skuchno
+soglasnyj
+somnevatsya/usomnitsya (v +pr)
+sochinenie
+spisok
+sposobstvovat (i) (+d)
+spravlyatsya/spravitsya (s +inst)
+sfera
+tantsevat/po-
+tashit/po- (+a)
+uspokaivatsya/uspokoitsya
+etap
+yavno
+aktyor
+arest
+besedovat/po- (s +inst)
+bytie
+vesennij
+vkus
+vospominanie
+vydavat/vydat (+a)
+vydaushijsya
+gudet (i)
+dobycha
+dorozhka
+dostavlyat/dostavit (+a)
+dostatochnyj
+krest
+meditsinskij
+mehanik
+múka
+muká
+napryazhenie
+normalnyj
+noyabr (m)
+pechalnyj
+privozit/privezti (+a)
+priznanie
+pryatat/s- (+a)
+rassvet
+segodnyashnij
+sushestvennyj
+uvazhat (i) (+a)
+firma
+avtomat
+bukva
+glupost (f)
+golod
+grecheskij
+delovoj
+doverie
+dragotsennyj
+dushevnyj
+zaglyadyvat/zaglyanut
+koj
+match
+nabludenie
+otkryvatsya/otkrytsya
+otlichie
+perestrojka
+preimushestvo
+priyatnyj
+raskryvat/raskryt (+a)
+redko
+sootvetstvovat (i) (+d)
+sootvetstvuushij
+stal (f)
+hvost
+chrezvychajno
+agressivnyj
+vokzal
+gluhoj
+dovodit/dovesti (do +g)
+estestvenno
+lubopytstvo
+neposredstvenno
+nigde
+obrashat/obratit (+a)
+obshirnyj
+otvetstvennyj
+otlichnyj
+park
+platit/za- (+d za +a)
+sazhat/posadit (+a)
+predstoyat (i) (+d)
+prostor
+profsouznyj
+reshitelnyj
+reshatsya/reshitsya (na +a or +inf)
+rynok
+sploshnoj
+stolb
+tochnost (f)
+troe
+udivitelno
+shestdesyat
+arena
+vzor
+vnosit/vnesti (+a v +a)
+vsledstvie (+g)
+grozit/pri- (+d)
+dalee
+dovolnyj (+inst)
+zavisimost (f)
+kto-nibud
+listok
+odetyj (v +a)
+okazyvat/okazat (+a)
+podruga
+podushka
+pravlenie
+rashoditsya/razojtis
+rubashka
+skala
+sperva
+spravedlivost (f)
+terpet/po- (+a)
+tma
+upravlyat (i) (+inst)
+fevral (m)
+harakternyj
+hm (or gm)
+artist
+blagopriyatnyj
+vybirat/vybrat (+a)
+dekabr (m)
+diviziya
+domashnij
+dyhanie
+zarya
+kolokol
+krutoj
+mednyj
+menyatsya/ob-
+nevidimyj
+obyazatelstvo
+oglyadyvatsya/oglyadetsya
+oglyadyvatsya/oglyanutsya
+orden
+otpuskat/otpustit (+a)
+ochki (pl)
+perevodit/perevesti (+a)
+perspektiva
+primenyat/primenit (+a)
+prisazhivatsya/prisest
+proveryat/proverit (+a)
+sbornik
+smeshnoj
+spektakl (m)
+spravedlivyj
+sravnitelno
+teoreticheskij
+ubirat/ubrat (+a)
+tsennost (f)
+agronom
+vnedrenie
+vostochnyj
+goditsya (i) (na +a/dlya +g)
+gordost (f)
+zhenitsya (i/p) (na +pr)
+zametno
+kino (indecl)
+korennoj
+maslo
+masterskaya
+myaso
+nadyozhnyj
+naznachat/naznachit (+a +inst)
+nastuplenie
+nevesta
+obratnyj
+odinakovyj
+otnositelno
+pamyatnik
+perebivat/perebit (+a)
+darit/po- (+a +d)
+podhod
+pomeshik
+poyavlenie
+pribyl (f)
+semejnyj
+slyhat (i) (o +pr)
+slyshatsya/po-
+sochinyat/sochinit (+a)
+talantlivyj
+tehnologiya
+tihonko
+tkan (f)
+tolk
+toska
+faktor
+hohotat/za-
+agent
+bassejn
+variant
+vne (+g)
+vybor
+gul
+zabor
+zadnij
+kontinent
+kopejka
+lozung
+nevolno
+nezhnyj
+nezametno
+neschastnyj
+neft (f)
+otnimat/otnyat (+a)
+otstupat/otstupit (ot +g)
+passazhir
+podvodnyj
+prekrashenie
+provozhat/provodit (+a)
+rab
+roza
+ruchka
+signal
+skryvat/skryt (+a)
+sovershat/sovershit (+a)
+stolik
+stuk
+torgovat (i) (+inst)
+torzhestvennyj
+fantasticheskij
+yarko
+beskonechno
+bukvalno
+vygodnyj
+generalnyj
+grandioznyj
+gryaz (f)
+dobiratsya/dobratsya (do +g)
+dolzhnost (f)
+pugatsya/is- (+g)
+iul (m)
+kojka
+kostum
+laskovo
+lokot (m)
+lubopytnyj
+nadoedat/nadoest (+d)
+nachalstvo
+nuzhdatsya (i) (v +pr)
+odezhda
+okoshko
+osobo
+otezd
+prakticheski
+prekrashat/prekratit (+a)
+progressivnyj
+prodolzhatsya (i)
+proiznosit/proiznesti (+a)
+razrabatyvat/razrabotat (+a)
+razum
+rozovyj
+slavnyj
+smeshno
+foto (indecl)
+shlyapa
+shtuka
+avtomaticheskij
+aktivno
+vbegat/vbezhat (v +a)
+vezti/po- (+a)
+vetv (f)
+vrednyj
+vskakivat/vskochit
+vyvodit/vyvesti (iz +g)
+grohot
+desyatiletie
+dostojnyj
+durnoj
+zhest
+zanyatyj
+zapisyvat/zapisat (+a)
+iskluchenie
+ledyanoj
+lenta
+mahat/mahnut (+inst)
+muha
+negromko
+neposredstvennyj
+obizhatsya/obidetsya
+obyazannyj
+oktyabrskij
+orat (i)
+otsenivat/otsenit (+a)
+plemya (n)
+pogloshat/poglotit (+a)
+podgotavlivat/podgotovit (+a)
+podrobno
+potolok
+provoditsya (i)
+proklyatyj
+razryv
+rasprostranenie
+samostoyatelnyj
+skladyvatsya/slozhitsya
+souznik
+strast (f)
+tank
+tarelka
+toplivo
+trista
+ubezhdat/ubedit (+a)
+udivlenie
+udobnyj
+holm
+chetvert (f)
+bezuslovno
+bolnitsa
+vostorg
+vynosit/vynesti (+a)
+vyskakivat/vyskochit (iz +g)
+gorlo
+dejstvitelnyj
+dohod
+dumatsya (i)
+zakluchenie
+izdanie
+izuchat/izuchit (+a)
+konechnyj
+korzina
+kormit/na- (+a)
+lishat/lishit (+a +g)
+muzhskoj
+nepreryvno
+obsuzhdenie
+odevat/odet (+a)
+palka
+peremena
+ploshadka
+pobeditel (m)
+podtverzhdat/podtverdit (+a)
+portfel (m)
+priyatel (m)
+proch
+razreshenie
+svyashennik
+sentyabr (m)
+sovershennyj
+sovat/sunut (+a)
+tyl
+uvelichivat/uvelichit (+a)
+ura
+fantaziya
+chego
+bumazhka
+val
+vina
+volnenie
+voskresene
+vposledstvii
+vyyasnyat/vyyasnit (+a)
+glyanut (r) (na +a)
+gostinitsa
+dvigatsya/dvinutsya
+dolzhno
+dolzhno byt
+dratsya/po-
+zapominat/zapomnit (+a)
+zveno
+izdatelstvo
+intelligentsiya
+komandovanie
+krepostnoj
+logika
+nasilie
+nastupat/nastupit
+nebesnyj
+nezavisimyj
+ogon(yo)k
+osvobozhdat/osvobodit (+a)
+otpusk
+peregovory (m) (pl)
+pidzhak
+plotnyj
+podderzhivat/podderzhat (+a)
+polka
+postoronnij
+poeticheskij
+prestuplenie
+propadat/propast
+razmah
+rannij
+rashod
+rejs
+reshaushij
+seriya
+stalnoj
+truzhenik
+tselikom
+avgust
+aerodrom
+bespoleznyj
+beschislennyj
+blednyj
+vnachale
+vnizu
+zadumchivo
+motiv
+nalivat/nalit (+a)
+napadenie
+napravlyatsya/napravitsya (k +d)
+napryazhyonnyj
+nepravda
+nikuda
+obmanyvat/obmanut (+a)
+odinokij
+osennij
+osnovyvat/osnovat (+a)
+otkladyvat/otlozhit (+a)
+pozdnij
+poloska
+postupok
+pristan (f)
+razvorachivat/razvernut (+a)
+razbirat/razobrat (+a)
+ranenyj
+skoryj
+sosredotochivat/sosredotochit (+a na +pr)
+sotrudnik
+stoletie
+stradat/po-
+temno
+udivlyatsya/udivitsya (+d)
+uchitelnitsa
+finansovyj
+chajnik
+ekran
+bestsvetnyj
+biografiya
+blesk
+bozhij
+bol (f)
+versta
+voobrazhenie
+vcherashnij
+groznyj
+domik
+zakat
+zametka
+kvartal
+kukla
+letnij
+lovit/pojmat (+a)
+model (f)
+nazyvaemyj
+narochno
+okonchanie
+otnud
+plastinka
+plyt/po-
+podbirat/podobrat (+a)
+pomimo (+g)
+posleduushij
+tselovat/po- (+a)
+prevrashat/prevratit (v +a)
+pulya
+pesa
+rubaha
+rukovodit (i) (+inst)
+sverkat (i)
+serebryanyj
+slushatsya/po- (+g)
+sort
+spasenie
+stil (m)
+stimul
+stroitsya/po-
+sumasshedshij
+to-to
+ugrozhat (i) (+d)
+umenie
+fantastika
+chtenie
+verh
+vkluchat/vkluchit (+a)
+vnezapnyj
+vsluh
+gordyj
+gorkij
+gospodstvo
+delegat
+deshyovyj
+dlitelnyj
+dogonyat/dognat (+a)
+estestvennyj
+zayats
+koli
+kora
+letat/po-
+lyotchik
+lug
+mgnovenie
+naprotiv
+neznakomyj
+nerv
+publikovat/o- (+a)
+otdyhat/otdohnut
+otsenka
+poeziya
+predydushij
+privetstvovat (i) (+a)
+primenyatsya/primenitsya
+razrushenie
+resurs
+rugatsya (i)
+soznatelnyj
+sravnivat/sravnit (+a s +inst)
+udovletvorenie
+unichtozhenie
+ej
+agressor
+beshenyj
+bormotat/pro-
+vdali
+vedro
+vsemirnyj
+vyryvatsya/vyrvatsya
+vyskazyvat/vyskazat (+a)
+vystavka
+dnevnoj
+dovod
+dozhidatsya/dozhdatsya (+g)
+dokazatelstvo
+zheleznodorozhnyj
+vyhodit/vyjti zamuzh (za +a)
+zamysel
+zona
+igrok
+iskluchitelnyj
+iun (m)
+korol (m)
+lavka
+ludskoj
+nanosit/nanesti (+a +d)
+nastojchivo
+nelovko
+obespechenie
+obmen
+obyasnyatsya/obyasnitsya
+okruzhaushij
+opravdyvat/opravdat (+a)
+osvobozhdatsya/osvoboditsya (ot +g)
+otkaz
+otkrovenno
+otzyvatsya/otozvatsya (na +a)
+podrobnost (f)
+polagatsya/polozhitsya (na +a)
+postel (f)
+prevyshat/prevysit (+a)
+privychnyj
+priglashat/priglasit (+a)
+provintsiya
+prohazhivatsya/projtis
+razlichie
+ranit (i/p) (+a)
+sklon
+sohranenie
+tesno
+tetrad (f)
+topor
+trogat/tronut (+a)
+tshatelno
+ugrumo
+upornyj
+shkaf
+shel (f)
+ug
+yaponskij
+balkon
+bokal
+brodit/po-
+vovremya
+volnovat/vz- (+a)
+vseryoz
+vhod
+grob
+devka
+dejstvuushij
+delegatsiya
+desyatyj
+zametnyj
+zaranee
+zashitnik
+zvon
+ispolnyat/ispolnit (+a)
+kakoj-libo
+kandidat
+kirpich
+kratkij
+kucha
+lider
+lozhka
+lubovatsya/po- (+inst or na +a)
+minuvshij
+napravo
+nevozmozhnyj
+nenavist (f)
+nitka
+obshestvennost (f)
+okonchatelnyj
+otrazhat/otrazit (+a)
+otchayanie
+ohotno
+pasha
+pismennyj
+po-vidimomu
+pokonchit (r) (s +inst)
+pochta
+premiya
+prepyatstvie
+prizyvat/prizvat
+prirodnyj
+proishozhdenie
+pronikat/proniknut (v +a)
+rovnyj
+samolubie
+svetit (i)
+svidetelstvo
+sovershatsya/sovershitsya
+sut (f)
+ubezhdenie
+uderzhivat/uderzhat (+a)
+tsenit (i) (+a)
+blagodarnyj
+vospityvat/vospitat (+a)
+vspyhivat/vspyhnut
+v-tretih
+vygonyat/vygnat (+a)
+vytyagivat/vytyanut (+a)
+genij
+geroicheskij
+zarabatyvat/zarabotat (+a)
+izvolit (+inf)
+interesovat/za- (+a)
+ish
+klassicheskij
+klimat
+marsh
+medved (m)
+mrachnyj
+napolnyat/napolnit (+a)
+nedavnij
+neizbezhno
+nepodvizhnyj
+osveshenie
+ottenok
+papka
+povyshat/povysit (+a)
+ponadobitsya (r)
+pristupat/pristupit (k +d)
+prodolzhenie
+proyavlenie
+publika
+budit/raz- (+a)
+raznitsa
+reshyotka
+svinya
+svistet/svistnut
+skromnyj
+slegka
+smertnyj
+snizhenie
+sochetanie
+tryapka
+filosofskij
+tsarstvo
+etazh
+bank
+blestet (i)
+bratets
+velichie
+golodnyj
+gromkij
+dvazhdy
+ezhegodno
+zapasnoj (or zapasnyj)
+zapis (f)
+zasypát (i) (+a +inst)
+znakomstvo (s +inst)
+izbirat/izbrat (+a)
+izredka
+imushestvo
+kost (f)
+manera
+neschaste
+netrudno
+orkestr
+otdalyonnyj
+otkrovennyj
+oshibatsya/oshibitsya
+pyostryj
+veshat/povesit (+a)
+pomeshat/pomestit (+a)
+predpolozhenie
+preduprezhdat/predupredit (+a o +pr)
+prozhivat/prozhit
+pyatsot
+ravenstvo
+rassuzhdat (i)
+szadi
+sibirskij
+skatert (f)
+smirno
+soobrazhenie
+spetsialno
+strela
+struya
+uzel
+usmeshka
+uspeshnyj
+uchebnyj
+yabloko
+akkuratno
+bedstvie
+blizhnij
+bytovoj
+vvedenie
+vladet/o- (+inst)
+vozrastat/vozrasti
+gasnut/po-
+dannye (pl)
+devitsa
+dnevnik
+druzhestvennyj
+zaveduushij (+inst)
+issledovatel (m)
+istinnyj
+kartinka
+kogda-nibud
+kosa
+koshka
+krizis
+kusochek
+militsiya
+molniya
+mysh (f)
+namerenie
+natura
+okanchivat/okonchit (+a)
+otchyot
+povorachivatsya/povernutsya
+povyshennyj
+politik
+pochyotnyj
+preodolevat/preodolet (+a)
+prodavat/prodat (+a)
+prohozhij (m) (adj)
+prygat/prygnut
+pugat/is- (+a)
+pylnyj
+rossijskij
+rugat/vz- (+a)
+svadba
+sladkij
+stanok
+skuka
+snezhnyj
+sokrashenie
+soldatskij
+subbota
+tainstvennyj
+tolkat/tolknut (+a)
+usherb
+hitryj
+chestno
+chinovnik
+shtany (m) (pl)
+bufet
+bystrota
+vynuzhdat/vynudit (+a +inf)
+vyhodnoj
+zabotitsya/po- (o +pr)
+zavidovat/po- (+d)
+zakurivat/zakurit (+a)
+zarubezhnyj
+imperiya
+ispytyvat/ispytat (+a)
+kamera
+kategoriya
+kolhoznik
+kolhoznyj
+lozh (f)
+milost (f)
+moneta
+mchatsya/po-
+myshlenie
+nebos
+opredelyatsya/opredelitsya
+past (f)
+podhodyashij
+pozhimat/pozhat (+a)
+pozdravlyat/pozdravit (+a s +inst)
+poperyok (+g)
+poruchat/poruchit (+a +d)
+prizhimat/prizhat (+a k +d)
+protivno
+proyavlyat/proyavit (+a)
+rabstvo
+radostno
+rezat/po- (+a)
+santimetr
+sverh (+g)
+svidetel (m)
+sedoj
+skot
+skryvatsya/skrytsya
+syroj
+taktika
+telefonnyj
+tech/po-
+tech (f)
+tupik
+uverenno
+usmehatsya/usmehnutsya
+utverzhdenie
+hlopat/hlopnut (+inst)
+holod
+sheptat/shepnut
+effekt
+aj
+belyo
+beryoza
+borodatyj
+vedushij
+vizit
+vozmushenie
+vozrazhat/vozrazit (protiv +g)
+vosklitsat/voskliknut
+vydelyatsya/vydelitsya (iz +g)
+vypadat/vypast (iz +g)
+gde-nibud
+gorshok
+groza
+grustnyj
+donositsya/donestis
+edinitsa
+zhadnyj
+zabirat/zabrat (+a)
+zadavat/zadat (+a +d)
+zaderzhivatsya/zaderzhatsya
+zakladyvat/zalozhit (+a)
+zanaveska
+zapirat/zaperet (+a)
+izdavat/izdat (+a)
+ispuganno
+kakov
+lubitel (m)
+mebel (f)
+medlennyj
+naryadnyj
+neizbezhnyj
+nenavidet/voz- (+a)
+obsuzhdat/obsudit (+a)
+opiratsya/operetsya (na +a)
+osveshat/osvetit (+a)
+otvorachivatsya/otvernutsya (ot +g)
+otritsat (i) (+a)
+perevod
+plata
+podvergatsya/podvergnutsya (+d)
+podymat/podnyat (+a)
+polnó (+g)
+pólno
+polozhitelnyj
+popadatsya/popastsya
+presledovat (i) (+a)
+pressa
+prokuror
+prostornyj
+razdavatsya/razdatsya
+razrabotka
+razumnyj
+ramka
+rasshirenie
+sverkaushij
+semnadtsat
+slovom
+skladyvat/slozhit (+a)
+sryvat/sorvat (+a s +g)
+tabak
+tepereshnij
+ugolok
+uchyot
+fon
+fond
+funt
+halat
+chetyrnadtsat
+elektrostantsiya
+afrikanskij
+barin
+baryshnya
+bolshij
+vdvoe
+vetka
+vladyolets
+volk
+vydumyvat/vydumat (+a)
+vyigryvat/vyigrat (+a)
+vyyasnyatsya/vyyasnitsya
+gnev
+davnij
+denezhnyj
+dobyvat/dobyt (+a)
+draka
+zhivot
+zakonomernost (f)
+zasluga
+izdali
+illuziya
+kachat/kachnut (+a or +inst)
+kvadratnyj
+krasavitsa
+laskovyj
+mineralnyj
+myagko
+nedaleko
+oblik
+oblomok
+odeyalo
+opuskatsya/opustitsya
+oskolok
+osushestvlyat/osushestvit (+a)
+pomirat/pomeret
+porazhenie
+prazdnichnyj
+predostavlyat/predostavit (+a +d)
+propuskat/propustit (+a)
+razvedka
+rasprostranyatsya/rasprostranitsya
+rubezh
+saraj
+siyat (i)
+sovetovat/po- (+d)
+sovremennik
+sok
+soobrazhat/soobrazit
+soprovozhdat (i) (+a)
+sohranyatsya/sohranitsya
+struktura
+stupen (f)
+styd
+tajnyj
+ugnetyonnyj
+usnut (p)
+utrennij
+filosof
+holodno
+auditoriya
+bazar
+bronzovyj
+valyatsya/po-
+veryovka
+vzvolnovannyj
+vremennyj
+vybrasyvat/vybrosit (+a)
+glupo
+dolina
+dopolnitelnyj
+dut/po-
+zhalkij
+zazhigat/zazhech (+a)
+zasypat/zasnut
+zastavat/zastat (+a)
+zdorovatsya/po- (c +inst)
+izvestie
+iskrennij
+kilogramm
+krysa
+meloch (f)
+molodyozhnyj
+myt/po- (+a)
+nedostatochno
+nemnogie (pl)
+nepriyatnyj
+ogorod
+opisyvat/opisat (+a)
+otrezát (i) (+a)
+ohvatyvat/ohvatit (+a)
+plyonka
+podzemnyj
+pokazyvatsya/pokazatsya
+poroj
+poryadochnyj
+prikryvat/prikryt (+a +inst)
+prilagat/prilozhit (k +d)
+razvodit/razvesti (+a)
+razglyadyvat (i) (+a)
+rosha
+sluchajnyj
+smelo
+smushyonno
+sozdavatsya/sozdatsya
+sohranyat/sohranit (+a)
+spuskatsya/spustitsya
+sumerki (pl)
+tyazhest (f)
+uvelichivatsya/uvelichitsya
+fashizm
+avtomashina
+besposhadnyj
+brak
+broshura
+bugor
+vechno
+vozit/po- (+a)
+vplot (do +g)
+vydelyat/vydelit (+a)
+vyezzhat/vyehat (iz +g)
+vytirat/vyteret (+a)
+gazetnyj
+golosovat/pro- (za +a/protiv +g)
+dub
+zhaloba (na +a)
+zabolevat/zabolet
+zavodit/zavesti (+a)
+zakrytyj
+katitsya/po-
+knizhnyj
+krutit/za- (+a)
+lovko
+lopata
+magnitofon
+masterstvo
+muzhestvo
+naverhu
+nagrada
+naryadu (s +inst)
+neobyknovennyj
+ovtsa
+otnosit/otnesti (+a)
+padenie
+podvodit/podvesti (+a)
+podozrevat (i) (+a)
+poistine
+pokojnyj
+poseshat/posetit (+a)
+postanovlenie
+pot
+prebyvanie
+predvaritelnyj
+prigotavlivat/prigotovit (+a)
+pristalno
+protyazhenie
+raznoobrazie
+rassmatrivat/rassmotret (+a)
+rvat/po- (+a)
+religiya
+rodstvennik
+sbivat/sbit (+a)
+svorachivat/svernut (+a)
+svodit/svesti (+a)
+skamejka
+sovershenstvovanie
+sokrovishe
+splosh
+sudya (m/f)
+sushestvuushij
+tolshina
+vidat/u- (+a)
+uzhin
+usadba
+hranit (i) (+a)
+chashka
+chepuha
+yavnyj
+brevno
+vidnetsya (i)
+vklad
+vosstanavlivat/vosstanovit (+a)
+vremenno
+vyzov
+vylezat/vylezti (iz +g)
+godovoj
+gotovnost (f)
+dostupnyj
+zharko
+zadumyvat/zadumat (+a)
+zapros
+izdaleka
+interesovatsya/za- (+inst)
+kadr
+kadry
+kakovoj
+kivat/kivnut (+inst)
+kitajskij
+korm
+krasivo
+krovavyj
+kryshka
+kushat/s- (+a)
+napivatsya/napitsya (+g)
+narushenie
+nelegko
+nestis/po-
+nit (f)
+nochevat/pere-
+nravstvennyj
+obedinyonnyj
+okraina
+opisanie
+ostanovka
+ochevidnyj
+ocherk
+patron
+pensiya
+plen
+ploskij
+plotno
+podval
+podchyorkivat/podcherknut (+a)
+podymatsya/podnyatsya
+est/po-
+polgoda
+nesti/po- (+a)
+prinimatsya/prinyatsya (za +a)
+prisushij (+d)
+pritom
+proigryvat/proigrat (+a)
+professionalnyj
+rasteryanno
+reklama
+rukovodyashij
+szhigat/szhech (+a)
+skamya
+skuchnyj
+snizu
+sobesednik
+sobor
+spinka
+pryatatsya/s-
+stukat/stuknut (+a)
+toroplivo
+trevozhit/vs- (+a)
+ubityj
+hudoj
+chrezvychajnyj
+shagat/shagnut
+effektivnost
+yakoby
+yarost (f)
+alleya
+banya
+bespokojstvo
+besporyadok
+bliz (+g)
+buryj
+valit/s- (+a)
+vedénie
+védenie
+velichestvennyj
+vzdumat (r) (+inf)
+vmeshatelstvo (v +a)
+vodnyj
+vozvrashenie
+grib
+gus (m)
+devyatyj
+eda
+zhestoko
+zhivotnyj
+zabastovka
+zámok
+zamók
+zatylok
+ideal
+kovyor
+kolossalnyj
+kuda-to
+mosh (f)
+naivnyj
+nalevo
+nevedomyj
+neudobno
+obman
+obhoditsya/obojtis
+obyazyvat/obyazat (+a +inf)
+oderzhivat/oderzhat (+a)
+osvoenie
+penie
+perezhivat/perezhit (+a)
+pechatat/na- (+a)
+peshkom
+planirovanie
+povar
+podelat (r)
+poznanie
+polyot
+posledstvie
+priblizitelno
+prigoditsya (r)
+progonyat/prognat (+a)
+prosveshenie
+prochnost (f)
+proyavlyatsya/proyavitsya
+pustynnyj
+rana
+rassprashivat/rassprosit (+a)
+ryadovoj (m) (adj)
+svidetelstvovat (i) (o +pr)
+slepoj
+traktor
+shtab
+bort
+tseh
+poroda
+germanskij
+órgan
+orgán
+laboratoriya
+kazak
+metall
+pribor
+obrabotka
+vidimyj
+ekspluatatsiya
+kolonna
+rybak
+proizvodstvennyj
+politsejskij
+zavoevanie
+brigadir
+pokazatel (m)
+chasovoj
+slushatel (m)
+slyshnyj
+srochno
+ssora
+stadiya
+stolknovenie
+stupenka
+sudno
+teryatsya/po-/ras-
+uvlechenie
+udivlyonno
+umstvennyj
+uchityvat/uchest (+a)
+chej-to
+yama
+beg
+bespokoit/o-/po- (+a)
+bessmertnyj
+vesele
+vzryvat/vzorvat (+a)
+vitrina
+vnuchka
+vnushat/vnushit (+a +d)
+vozbuzhdat/vozbudit (+a)
+voin
+gorditsya (i) (+inst)
+gorko
+grustno
+gusto
+dostavatsya/dostatsya (+d)
+dura
+ezhednevno
+zakanchivatsya/zakonchitsya
+izobretenie
+katastrofa
+kolebatsya/po-
+lampochka
+legenda
+letuchij
+mgla
+mladshij
+myslit (i)
+nakryvat/nakryt (+a)
+neploho
+nol (m)
+nota
+noty
+obilnyj
+oborachivatsya/obernutsya
+otechestvennyj
+otechestvo
+otstavat/otstat (ot +g)
+oshushenie
+pamyatnyj
+papasha (m)
+patrioticheskij
+perednij
+pereryv
+povtoryatsya/povtoritsya
+podi
+podlets
+podhvatyvat/podhvatit (+a)
+krasnet/po-
+porazhat/porazit (+a)
+predpolagat/predpolozhit
+pridavat/pridat (+a +d)
+priezd
+probiratsya/probratsya
+protest
+radovatsya/ob- (+d)
+radostnyj
+raznotsvetnyj
+rasstrelivat/rasstrelyat (+a)
+redaktor
+rubit (i) (+a)
+sdavat/sdat (+a)
+sledstvie
+smushatsya/smutitsya
+spuskat/spustit (+a)
+suho
+televidenie
+televizionnyj
+trevozhno
+tyazhkij
+uvlekat/uvlech (+a)
+udobno
+uhod
+tserkovnyj
+chudak
+ekzemplyar
+unyj
+bespokojnyj
+binokl (m)
+verhushka
+vzaimootnoshenie
+vosemdesyat
+vrezátsya (i) (v +a)
+vygoda
+vyrabatyvat/vyrabotat (+a)
+gladit/po- (+a)
+gorodok
+gudok
+dogovarivatsya/dogovoritsya (s +inst)
+dosada
+dyavol
+zharkij
+zabytyj
+zagadka
+zagryaznenie
+iskra
+iskrenne
+ispolnenie
+kidat/kinut (+a)
+kollega (m/f)
+kuda-nibud
+miritsya/po-/pri- (s +inst)
+molitva
+molchalivyj
+monah
+nabludatsya (i)
+naverh
+naklonyatsya/naklonitsya
+namechat/nametit (+a)
+nastaivat/nastoyat (na +pr)
+nastavat/nastat
+obsluzhivanie
+obedinyat/obedinit (+a)
+odinakovo
+odinnadtsat
+opasatsya (i) (+g)
+organizator
+poglyadyvat (i) (na +a)
+polotentse
+rabotat/po-
+porazitelnyj
+postrojka
+prestupnik
+privet
+prisutstvovat (i)
+prodazha
+ravnodushnyj (k +d)
+rasstavatsya/rasstatsya (s +inst)
+rastushij
+rvatsya/po-/razorvatsya
+seyat/po- (+a)
+slabost (f)
+soedinyatsya/soedinitsya
+togdashnij
+uborka
+uveryat/uverit (+a)
+ugadyvat/ugadat (+a)
+udachnyj
+uluchshat/uluchshit (+a)
+utverzhdat/utverdit (+a)
+uchyoba
+harakterizovat (i/p) (+a)
+hozyajskij
+shkura
+shuba
+avtomobilnyj
+bashnya
+beglyj
+bezrabotitsa
+blizost (f)
+vdvoyom
+vzamen (+g)
+vryvatsya/vorvatsya (v +a)
+vybiratsya/vybratsya (iz +g)
+vydvigat/vydvinut (+a)
+vyletat/vyletet
+vyryvat/vyrvat (+a)
+gvozd (m)
+glasnost (f)
+gnezdo
+gruzovik
+dezhurnyj
+dorogo
+druzhno
+zhara
+zdeshnij
+izobrazhat/izobrazit (+a)
+ispugannyj
+kazyonnyj
+kak-nibud
+kartoshka
+krivoj
+kurtka
+lgat/so-
+marka
+mahat/po-/mahnut (+inst)
+miting
+nalyot
+nalichie
+nekij
+nepodalyoku
+nepriyatnost (f)
+obvinenie
+obvinyat/obvinit (+a v +pr)
+oborot
+obsluzhivat/obsluzhit (+a)
+obychaj
+obyazatelnyj
+ogo
+otrazhenie
+podpis (f)
+podschityvat/podschitat (+a)
+podchinyat/podchinit (+a +d)
+pokidat/pokinut (+a)
+polchasa
+popravlyat/popravit (+a)
+posetitel (m)
+predprinimat/predprinyat (+a)
+pribavlyat/pribavit (+a)
+prigovor
+razdelyat/razdelit (+a)
+smeyatsya/ras-
+rassuzhdenie
+restoran
+sbrasyvat/sbrosit (+a)
+svoloch (f)
+slyshno
+sovmestnyj
+soedinyat/soedinit (+a)
+sootvetstvie
+spetsialnost (f)
+srochnyj
+starost (f)
+stremitelno
+strojnyj
+shema
+schastlivo
+traditsionnyj
+tysyacheletie
+uvazhaemyj
+ugolovnyj
+udovletvoryat/udovletvorit (+a)
+ustupat/ustupit (+a +d)
+harakteristika
+shirota
+bezobrazie
+besporyadochnyj
+blagopoluchie
+britanskij
+bumazhnyj
+vazhnost (f)
+vblizi
+vglyadyvatsya/vglyadetsya (v +a)
+vekovoj
+videtsya/u- (c +inst)
+vosstanovlenie
+vruchat/vruchit (+a)
+vsestoronnij
+grom
+druzheskij
+duma
+zhazhda
+zabiratsya/zabratsya (v/na +a)
+zavedenie
+zaderzhivat/zaderzhat (+a)
+zakonnyj
+zatrata
+izbegat/izbezhat (+g or inf)
+izvinyatsya/izvinitsya (pered +inst)
+kachatsya/kachnutsya
+kipet/vs-
+kleveta
+korobka
+lekarstvo
+mig
+minovat (i/p)
+morda
+mutnyj
+narushat/narushit (+a)
+nebyvalyj
+nekuda
+nemalyj
+nepravilno
+nepravilnyj
+nisheta
+obstoyat (i)
+obshezhitie
+opredelenie
+orator
+ostorozhnyj
+otrazhatsya/otrazitsya
+ohranyat/ohranit (+a)
+ochag
+perenosit/perenesti (+a)
+povsudu
+podpolnyj
+polden (m)
+poryvat/porvat (+a)
+poruchenie
+posredi (+g)
+trebovatsya/po-
+predstoyashij
+privlekat/privlech (+a)
+provalivatsya/provalitsya
+proisshestvie
+pusto
+pustota
+reshimost (f)
+rozhdat/rodit (+a)
+svobodno
+svyashennyj
+smelost (f)
+tekst
+tovarnyj
+turist
+ubijstvo
+ubytok
+ukladyvat/ulozhit (+a)
+uprazhnenie
+tsivilizatsiya
+chin
+shevelitsya/po-
+avtobus
+bessporno
+besstrashnyj
+blagodarnost (f)
+bruki (pl)
+vozhd (m)
+vspyshka
+vytekat/vytech
+gladkij
+grubo
+davit (i) (na +a)
+dvadtsatyj
+delitsya/raz- (na +a)
+deskat
+dryan (f)
+zavtrak
+zamechanie
+zelen (f)
+naglyadnyj
+nagruzka
+nadobnost (f)
+nedolgo
+nedostupnyj
+nezavisimo
+neyasnyj
+nul (m)
+ogranichennyj
+osmatrivat/osmotret (+a)
+otvergat/otvergnut (+a)
+pivo
+poberezhe
+podalshe
+polzti/po-
+pribegat/pribegnut (k +d)
+protivnyj
+pushistyj
+pyshnyj
+razbityj
+sboku
+valitsya/s-
+simpatiya (k +d)
+skazochnyj
+slabo
+sladko
+spravedlivo
+stalkivatsya/stolknutsya (s +inst)
+storonnik
+tipichnyj
+tonut/po-/u-
+tramvaj
+trotuar
+uvlekatsya/uvlechsya (+inst)
+uvodit/uvesti (+a ot +g)
+hor
+chetvero
+chistota
+bosoj
+vertet/po-
+vshodit/vzojti (na +a)
+vmeshivatsya/vmeshatsya (v +a)
+volnyj
+vorotnik
+vydumka
+vyslushivat/vyslushat (+a)
+vystavlyat/vystavit (+a)
+grust (f)
+davatsya/datsya (+d)
+data
+diplomat
+edinstvenno
+zhat/s- (+a)
+zhulik
+zavtrashnij
+zvenet/za-
+igrushka
+izlagat/izlozhit (+a)
+ispravlyat/ispravit (+a)
+kafe (n) (indecl)
+kasha
+kollektivnyj
+kontora
+marshrut
+mogushestvo
+nadelat (r) (+g)
+naruzhu
+nevidannyj
+nevysokij
+nedostatochnyj
+neznachitelnyj
+neobychnyj
+nepodvizhno
+nervnyj
+nichut
+nozhka
+oblegchat/oblegchit (+a)
+obryvat/oborvat (+a)
+obrabatyvat/obrabotat (+a)
+obuv (f)
+ozhidanie
+opora
+otdelno
+otbirat/otobrat (+a)
+otryvatsya/otorvatsya (ot +g)
+otritsatelnyj
+otchayannyj
+ochutitsya (r)
+pesenka
+pobolshe
+byt/po-
+podskazyvat/podskazat (+a)
+sovetovatsya/po- (s +inst)
+pretenziya
+proezzhat/proehat
+razvivat/razvit (+a)
+razrushat/razrushit (+a)
+rassmotrenie
+revet/za-
+rekomendovat (i/p) (+a)
+risk
+rukopis (f)
+ruchnoj
+rama
+sdavatsya/sdatsya
+skrytyj
+soglasie
+shoditsya/sojtis
+solnyshko
+stradanie
+shodstvo
+sytyj
+ubeditelno
+ubijtsa (m/f)
+uderzhivatsya/uderzhatsya
+ukreplyat/ukrepit (+a)
+unosit/unesti (+a)
+upryamo
+usluga
+hram
+chastyj
+yajtso
+bludo
+veroyatnost (f)
+veterok
+trudyashijsya
+melodiya
+posadka
+salo
+ustraivatsya/ustroitsya
+himiya
+vyt/za-
+samostoyatelnost (f)
+starichok
+tendentsiya
+zastoj
+ubilej
+administrativnyj
+perchatka
+razdume
+bolshevik
+hozyajstvennyj
+himicheskij
+tablitsa
+fashist
+lesnoj
+metallicheskij
+rezerv
+vintovka
+atom
+konstruktsiya
+sovhoz
+organicheskij
+materiya
+fundament
+chastitsa
+chertyozh
+stroenie
+syryo
+gvardiya
+paket
+pistolet
+sotsialisticheskij
+otryad
+paluba
+artilleriya
+obedinenie
+yadernyj
+burzhuaznyj
+partizan
+tehnologicheskij
+fizika
+nauchno-issledovatelskij
+geolog
+drova (n) (pl)
+italyanskij
+diktatura
+mashinnyj
+razvedchik
+akademicheskij
+otkazyvat/otkazat (+d v +pr)
+setka
+smenyatsya/smenitsya
+sovestno (+d)
+soloma
+sopernik
+takovoj
+telegraf
+formirovanie
+uridicheskij
+banka
+aviatsiya
+aktualnyj
+aristokratiya
+barzha
+batalon
+bashka (very coll)
+bogatyr (m)
+botinok
+vagonchik
+promezhutok
+beton
+goryashij
+diplom
+konstitutsiya
+listva
+med (f)
+netu (+g)
+obyknovenno
+provoloka
+puteshestvennik
+funktsiya
+agentstvo
+bulvar
+gazovyj
+izdatel (m)
+kaby
+knopka
+kuritsa
+vetochka
+vzaimodejstvie
+vzvolnovanno
+vzdoh
+vlazhnyj
+vozitsya (i) (s +inst)
+otvodit/otvesti (+a)
+vplotnuu (k)
+vsmatrivatsya/vsmotretsya (v +a)
+vsyacheski
+glazok
+golovka
+gramm
+gran (f)
+dar
+diplomaticheskij
+distantsiya
+doveryat/doverit (+d)
+donskoj
+drama
+zhenih
+zhiloj
+zavorachivat/zavernut (+a)
+zakluchyonnyj
+zasluzhivat/zasluzhit
+zatyagivat/zatyanut
+zvyozdochka
+ideologicheskij
+industriya
+instruktsiya
+karera
+knyaz (m)
+kovsh
+komandirskij
+konkurs
+kot
+likvidirovat (i/p)
+metro (indecl)
+mramor
+muzhestvennyj
+navernyaka
+nadolgo
+nasmeshlivo
+nasyp (f)
+nachalnyj
+nedra (pl)
+nepriyatno
+nyanya
+obuchenie (+d)
+obhodit/obojti (+a)
+opazdyvat/opozdat (na +a)
+orositelnyj
+otlichat/otlichit (+a)
+pasport
+pachka
+pashnya
+pyos
+planovyj
+ploskost (f)
+po-vashemu
+podborodok
+podvoda
+klanyatsya/poklonitsya
+poperechnyj
+populyarnyj
+posledovatelno
+posmeivatsya (i)
+predusmatrivat/predusmotret
+preobrazovanie
+protestovat/za- (protiv +g)
+protivopolozhnyj
+radiostantsiya
+razdelenie
+razmyshlyat/razmyslit (o +pr)
+raj
+rasshiryat/rasshirit (+a)
+redkost (f)
+rodnya
+ruchej
+svoditsya/svestis (k +d)
+serebro
+skazyvatsya/skazatsya
+slesar (m)
+smenyat/smenit (+a)
+snitsya/pri-
+ssylka
+sosedstvo
+sosna
+stesnyatsya/po-
+sudebnyj
+torzhestvo
+ugnetenie
+ugovarivat/ugovorit (+a)
+uzor
+ukrainskij
+unikalnyj
+ustavlyatsya/ustavitsya (v +a)
+ustojchivyj
+chislennost (f)
+sharik
+eksperiment
+energeticheskij
+etakij
+yaponets
+vesit (i)
+zhidkij
+matushka
+paradnyj
+postroenie
+razbojnik
+rebyatishki
+statuya
+traktornyj
+aziatskij
+ansambl (m)
+bliznets
+vladenie
+zemledelets
+brov (f)
+pravyashij
+raspolozhenie
+rels
+reforma
+rechnoj
+rul (m)
+stepnoj
+synok
+teplota
+trenie
+tundra
+ustanovlenie
+yazykovoj
+yarkost (f)
+ambar
+aspirant
+babij
+besplodnyj
+vorchat (i)
+diametr
+dorevolutsionnyj
+katorga
+kompas
+lechenie
+merzavets
+naberezhnaya (f) (adj)
+nakoplenie
+oglyadyvat/oglyanut (+a)
+paradoks
+vidat/po- (+a)
+pripodnimat/pripodnyat (+a)
+razorenie
+ispolkom
+balans
+steklyannyj
+starshina (m)
+polkovnik
+glina
+proizvoditelnyj
+gimnaziya
+pugovitsa
+kombinat
+sunduk
+melnitsa
+traktorist
+buket
+okop
+sezon
+parovoz
+ubilejnyj
+os (f)
+arestovannyj
+valenok
+zhivotnovodstvo
+strelba
+vyrabotka
+gonka
+zavodskoj
+prisluga
+razryad
+vdova
+posledovatelnyj
+psihologicheskij
+pud
+tsilindr
+frantsuz
+lejtenant
+agregat
+kalitka
+otverstie
+plenum
+kompleksnyj
+mashinist
+mamasha
+lunnyj
+prikazanie
+blagosostoyanie
+kompleks
+rota
+oblastnoj
+ofitserskij
+novogodnij
+vedomstvo
+kompozitor
+konstruktor
+pianino (indecl)
+vorobej
+plakat
+probka
+proizvoditsya/proizvestis
+blagopoluchno
+kachestvennyj
+kosmicheskij
+puchok
+sebestoimost (f)
+razlozhenie
+revolver
+tok
+ferma
+shahta
+naruzhnyj
+bratstvo
+delenie
+likvidatsiya
+izgotovlyat/izgotovit (+a)
+plavanie
+seni (pl)
+senator
+pervichnyj
+shashka
+obolochka
+pogon
+posev
+snabzhenie
+gospodstvuushij
+komanduushij (+inst)
+polskij
+grusha
+zhila
+stado
+barynya
+vodyanoj
+idiot
+intelligent
+kladbishe
+nagibatsya/nagnutsya
+gruzit/po- (+a)
+pogruzhat/pogruzit
+smes (f)
+ulichnyj
+vpred
+svyortok
+soderzhatsya (i)
+ravnovesie
+hata
+ekipazh
+ovrag
+furazhka
+buhta
+kozyol
+yakor (m)
+kombajn
+sani (pl)
+imperator
+polyarnyj
+royal (m)
+zemledelie
+dolzhnyj
+peschanyj
+pehota
+zaliv
+putyovka
+splochenie
+vypusknik
+mehanizatsiya
+mehanizator
+gospital (m)
+kongress
+rubka
+ogurets
+posol
+veteran
+voinskij
+poroshok
+udobrenie
+apparatura
+batka (m)
+parenyok
+dekret
+plotina
+progovorit (r)
+rang
+bezumie
+bessmertie
+tsentner
+ideologiya
+yadro
+pitatelnyj
+korma
+okraska
+arhitektura
+zritelnyj
+turnir
+prichal
+tratit/po- (+a)
+shtorm
+koreshok
+mina
+rumka
+kruchok
+himik
+vaza
+zarodysh
+sotrudnichestvo
+zhidkost (f)
+fizik
+sportsmen
+arhitekturnyj
+pokrov
+kollektsiya
+mirolubivyj
+plennyj (m) (adj)
+teplohod
+almaznyj
+kosmos
+skorostnoj
+avtomatizatsiya
+vulkan
+vyshe
+starets
+admiral
+ohlazhdenie
+sotsialist
+minus
+videnie
+lyzhi (pl)
+sbornyj
+kislorod
+peshera
+obshechelovecheskij
+kauta
+puzyryok
+ravnina
+devchata (pl)
+prodolzhitelnyj
+vodohranilishe
+vozdejstvie
+zapovednik
+chempionat
+serdityj
+tulup
+aktivnost (f)
+analizirovat/pro- (+a)
+aplodirovat/za- (+d)
+assortiment
+baraban
+bokovoj
+boltat/po-
+varit/za- (+a)
+vliyat/po- (na +a)
+vlublyonnyj (v +a)
+vnimatelnyj (k)
+voditel (m)
+vodit/po- (+a)
+vozvrashatsya/vozvratitsya
+vozrastaushij
+vpolgolosa
+vyrazhatsya/vyrazitsya
+greshnyj
+dacha
+dvojnoj
+disk
+dnyom
+dobrovolets
+dogadka
+dopros
+drevesnyj
+zhivopis (f)
+zavershat/zavershit (+a)
+zamanchivyj
+zarosl (f)
+zaryad
+zdravoohranenie
+kazn (f)
+kapitalnyj
+kartofel (m)
+kirpichnyj
+klad
+komputer
+konnyj
+korichnevyj
+kupol
+lavochka
+lad
+lechit/vy- (+a)
+millimetr
+mladenets
+namyok
+napevat/napet
+naskvoz
+nebrezhno
+neizbezhnost (f)
+nelyogkij
+nelepyj
+neobychajnyj
+neozhidannost (f)
+neplohoj
+neterpelivo
+neftyanoj
+obizhat/obidet (+a)
+obnaruzhivatsya/obnaruzhitsya
+obryv
+odinochestvo
+odobryat/odobrit (+a)
+opasno
+opera
+oprokidyvat/oprokinut (+a)
+oroshenie
+otbrasyvat/otbrosit (+a)
+otkos
+ohotnichij
+palata
+palach
+palochka
+parizhskij
+pejzazh
+peregruzka
+pereplyot
+podvergat/podvergnut (+a +d)
+podryad
+pozhelanie
+pokojnik
+po-raznomu
+po-svoemu
+potrebitel (m)
+pochin
+priblizhatsya/priblizitsya (k +d)
+priznavatsya/priznatsya (v +pr)
+printsipialnyj
+provod
+prozhektor
+prostota
+prochno
+proshedshij
+puzyr (m)
+razgrom
+razoblachat/razoblachit (+a)
+razom
+razryvat/razorvat (+a)
+rasprostranyat/rasprostranit (+a)
+rasseyannyj
+remen (m)
+robko
+svist
+svojstvennyj (+d)
+sderzhivat/sderzhat (+a)
+sev
+skandal
+slomit (r) (+a)
+sluchajnost (f)
+sobachij
+sovetnik
+soglasno (+d)
+sokrashat/sokratit (+a)
+solidnyj
+spokojstvie
+srazhenie
+stadion
+stan
+stojkost (f)
+stremitelnyj
+tait (i) (+a)
+taskat/po- (+a)
+tatarin
+uzhinat/po-
+upotreblyat/upotrebit (+a)
+usilenie
+ustranyat/ustranit (+a)
+fu
+chudovishnyj
+chuzhdyj
+shosse (n) (indecl)
+shumnyj
+era
+effektivnyj
+yasnost (f)
+advokat
+aktivist
+arhitektor
+bal
+bednota
+bloknot
+valitsya/po-/s-
+vvidu (+g)
+veko
+vesnoj
+veshalka
+vzdragivat/vzdrognut
+vnuk
+vopreki (+d)
+vor
+vorot
+vot-vot
+byt vprave (+inf)
+vspominatsya (i)
+vstrechnyj
+vyrashivat/vyrastit (+a)
+gluho
+gospodstvovat (i) (nad +inst)
+greben (m)
+dal (f)
+dvornik
+derevenskij
+dlitsya (i)
+zhalost (f)
+zhyostkij
+zabluzhdenie
+zagadochnyj
+zagovor
+zagoratsya/zagoretsya
+zadumchivyj
+zalezat/zalezt (v/na +a)
+zaodno
+zapolnyat/zapolnit (+a)
+zarabotok
+zasluzhennyj
+zimoj
+zloba
+izvlekat/izvlech (+a)
+izlishnij
+izobilie
+ikona
+individualnyj
+industrialnyj
+iskluchat/iskluchit (+a)
+kanikuly (f) (pl)
+kapelka
+kidatsya/kinutsya
+koe-gde
+kolichestvennyj
+komendant
+konflikt
+kontakt
+korka
+korrespondentsiya
+letom
+maksimalnyj
+mashinostroenie
+mestnost (f)
+mundir
+nabirat/nabrat (+a)
+nakaplivat/nakopit (+a)
+naletat/naletet (na +a)
+naryad
+nastojchivyj
+nahodka
+neodnokratno
+nervnichat (i)
+niskolko
+obidno
+ovladenie (+inst)
+ogranichivatsya/ogranichitsya (+inst)
+oreh
+otdelyat/otdelit (+a)
+otpirat/otperet (+a)
+otpravlenie
+oshushat/oshutit (+a)
+panika
+pahat (i) (+a)
+pervenstvo
+plast
+pleten (m)
+plotnik
+poblizhe
+podchinenie
+pozharnyj
+poklon
+polyana
+porozhdat/porodit (+a)
+poskoree
+posmatrivat (i) (na +a)
+pochitat (i/p) (+a)
+poema
+prezrenie
+preimushestvenno
+prisposoblenie
+prihod
+proverka
+proletat/proletet
+prosypatsya/prosnutsya
+rassypatsya
+rastvoryatsya/rastvoritsya
+teryatsya/ras-
+realnost (f)
+rekord
+rechka
+rukovodstvovatsya (i) (+inst)
+sbor
+svodka
+sdacha
+semdesyat
+seno
+serdechnyj
+situatsiya
+siyanie
+skvazhina
+lomat/s- (+a)
+sostavnoj
+ssylatsya/soslatsya (na +a)
+tvyordost (f)
+tetradka
+tirazh
+torzhestvenno
+toshij
+tresk
+treshina
+trup
+ukrashat/ukrasit (+a)
+uporno
+fokus
+formula
+futbolnyj
+hlebnyj
+hlópok
+hlopók
+tsikl
+eksperimentalnyj
+anarhiya
+banda
+betonnyj
+bremya (n)
+vertetsya (i)
+vinovat
+volno
+vosemnadtsat
+vredno
+vyderzhka
+vynuzhdennyj
+galstuk
+geograficheskij
+gitara
+glinyanyj
+gorka
+dvertsa
+devyanosto
+demonstratsiya
+dostoyanie
+dragotsennost (f)
+drognut (r)
+drognut/pro-
+druzhok
+yolka
+erunda
+zhech/s- (+a)
+zavershenie
+zavist (f)
+zavyazyvat/zavyazat (+a)
+zadyhatsya/zadohnutsya
+zaezzhat/zaehat
+zakluchitelnyj
+zakonodatelstvo
+zalivat/zalit (+a +inst)
+zanosit/zanesti (+a)
+zapreshat/zapretit
+zrelishe
+igolka
+izbavlyatsya/izbavitsya (ot +g)
+izlozhenie
+issledovat (i/p) (+a)
+istorik
+kassa
+klin
+kogda-libo
+kontrolnyj
+krohotnyj
+kupecheskij
+manyovr
+matematika
+meditsina
+mobilizovat (i/p) (+a)
+nabor
+naglyadno
+nalazhivat/naladit (+a)
+hmuritsya/na-
+natsionalnost (f)
+nedoumenie
+nelovkij
+neprimirimyj
+ovoshi (m) (pl)
+ograda
+opredelyonno
+originalnyj
+osushestvlyatsya/osushestvitsya
+otstaivat/otstoyat (+a)
+ottsovskij
+peremenyat/peremenit (+a)
+perila (pl)
+pechalno
+vredit/po- (+d)
+pozor
+polezno
+polyak
+poryv
+prednaznachat/prednaznachit (na +a/dlya +g)
+predpochitat (i) (+a +d)
+prekrashatsya/prekratitsya
+preodolenie
+prepodavatel (m)
+priglashenie
+prikosnovenie
+prisoedinyatsya/prisoedinitsya (k +d)
+prodelyvat/prodelat (+a)
+profil (m)
+pryzhok
+ravnyatsya/s-
+razvyortyvatsya/razvernutsya
+razrez
+razyasnyat/razyasnit (+a)
+raspolagatsya/raspolozhitsya
+rasshiryatsya/rasshiritsya
+rezhissyor
+religioznyj
+robkij
+ruhnut (r)
+samostoyatelno
+svyazannyj
+sdelka
+skuchat (i)
+sobludat/soblusti (+a)
+sovpadat/sovpast (s +inst)
+soznavat/soznat (+a)
+soskakivat/soskochit (s +g)
+sostyazanie
+stojka
+strelka
+struna
+supruga
+shodnyj
+trevozhnyj
+tugo
+ubezhdyonnyj
+ugrumyj
+uprekat/upreknut (+a v +pr)
+userdno
+ustalo
+uh
+filial
+holodilnik
+hudo
+tseplyatsya/za- (za +a)
+chastota
+cherdak
+chyotko
+shvyryat/shvyrnut (+a or +inst)
+shevelit/po- (+a or +inst)
+shyolkovyj
+sherst (f)
+ekskursiya
+ubka
+yastreb
+avangard
+arhiv
+ahat/ahnut
+besspornyj
+besheno
+byloj
+vvoditsya/vvestis
+velikolepno
+vzvod
+vidimost (f)
+visok
+vkladyvat/vlozhit (+a)
+vkusnyj
+vybegat/vybezhat (iz +g)
+vymysel
+gad
+goruchee (n) (adj)
+gramotnyj
+granata
+gremet/za-
+gret/po- (+a)
+diskussiya
+dich (f)
+drozhashij
+ej-bogu
+zheludok
+zabivat/zabit (+a)
+zadevat/zadet (+a)
+zamechatelno
+zapisnoj
+zasuha
+zatrudnenie
+znachok
+izbytok
+izobretat/izobresti (+a)
+izumitelnyj
+izyashnyj
+ishod
+kalendar (m)
+kartochka
+klyastsya/po-
+koalitsiya
+kommentarij
+kotelok
+kruto
+latinskij
+litsya/po-
+lihoj
+maska
+mel
+mirovozzrenie
+muchit/za-/iz- (+a)
+myach
+naedine
+naibolshij
+namechatsya/nametitsya
+nasmeshka
+nedovolnyj (+inst)
+neizmenno
+nemedlennyj
+neobyknovenno
+neponyatno
+neterpenie
+neudacha
+oboznachat/oboznachit (+a)
+oglyadyvat/oglyadet (+a)
+ogranichivat/ogranichit (+a)
+odobrenie
+oznakomlyatsya/oznakomitsya (s +inst)
+osuzhdat/osudit (+a)
+otbivat/otbit (+a)
+otvazhnyj
+palatka
+pena
+pervobytnyj
+perezhivanie
+petlya
+platforma
+plodorodnyj
+poverh (+g)
+povsednevnyj
+podvyortyvatsya/podvernutsya
+delitsya/po- (+inst c +inst)
+podlyj
+podpole
+podrazhat (i) (+d)
+pokachivatsya (i)
+pokoitsya (i) (na +pr)
+pokupka
+polnoch
+pomeshatsya/pomestitsya
+porok
+portit/is-
+poseshenie (+g)
+posredstvom (+g)
+posylka
+predlog
+predstavlyatsya/predstavitsya
+preryvat/prervat (+a)
+privyazyvat/privyazat (+a k +d)
+priyomnik
+proza
+prokladyvat/prolozhit (+a)
+proshalnyj
+psihologiya
+puteshestvovat/po-
+pyatnitsa
+razglyadet (r) (+a)
+razdel
+razyskivat/razyskat (+a)
+raskalyonnyj
+rasprostranyonnyj
+rasseivat/rasseyat (+a)
+tayat/ras-
+rasteryannyj
+revnovat (i)
+reputatsiya
+risovat/na- (+a)
+selenie
+siluet
+sineva
+skidyvat/skinut (+a)
+skladka
+sklonnyj (k +d or +inf)
+slezat/slezt (s +g)
+sovmestno
+sodruzhestvo
+stihiya
+studencheskij
+styditsya/po- (+g)
+sumka
+surovo
+shvatka
+temnet/po-
+tyotka
+tehnik
+tonenkij
+topit/po- (+a)
+trizhdy
+trubochka
+trus
+tryasti/po- (+a)
+udalyatsya/udalitsya
+udelyat/udelit (+a +d)
+uzelok
+ukazannyj
+ukrashenie
+umenshatsya/umenshitsya
+umnitsa (m/f) 
+unylyj
+upryok
+usilivat/usilit (+a)
+ustalyj
+utka
+fakultet
+tselovatsya/po-
+shutlivo
+elektrichestvo
+yablonya
+abstraktnyj
+agitatsiya
+administratsiya
+akkuratnyj
+armyanskij
+berezhno
+brodyaga (m)
+velikan
+vengerskij
+vlozhenie
+vozniknovenie
+volshebnyj
+vrazhdebnyj
+vred
+vybory (m pl)
+gadost (f)
+geologicheskij
+gimnastyorka
+gnyot
+graf
+grafik
+grosh
+guberniya
+demokrat
+dorozhnyj
+duhovenstvo
+edkij
+zhadno
+zhilishe
+zavetnyj
+zamena
+zanovo
+zapadnoevropejskij
+zapevat/zapet
+zatrachivat/zatratit (+a)
+zvonkij
+znatok
+ironiya
+ispoved (f)
+kozhanyj
+koloniya
+konskij
+konfeta
+kruzhitsya/za-
+kto-libo
+kupatsya/is-
+kuchka
+lapa
+lipa
+lovushka
+lopatsya/lopnut
+lubopytno
+materik
+mgnovenno
+metel (f)
+mostovaya (f)
+myshka
+navodit/navesti (+a)
+nalog
+napryazhyonnost (f)
+natsionalizm
+neverno
+negodyaj
+nedarom
+nedoverie
+nekto
+nenuzhnyj
+neprerekaemyj
+novinka
+obedat/po-
+obryvatsya/oborvatsya
+obrazovannyj
+ozhivlenie
+otnositelnyj
+otnyne
+otodvigat/otodvinut (+a)
+otchayanno
+ofitsiant
+oformlenie
+palma
+patriotizm
+pedagogicheskij
+perebirat/perebrat (+a)
+perepiska
+pererezat (i) (+a)
+pechal (f)
+plus
+plyasat/s-
+pogreb
+podmigivat/podmignut (+d)
+podschyot
+podezd
+pokorno
+polveka
+popravka
+poprostu
+posledovatelnost (f)
+smeyatsya/po-
+posredine (+g)
+poyasnyat/poyasnit (+a)
+pravilnost (f)
+prevoshodstvo
+predyavlyat/predyavit (+a +d)
+priderzhivatsya (i) (+g)
+priletat/priletet
+primes (f)
+provokatsiya
+propoved (f)
+prorok
+protivorechit (i) (+d)
+protsvetanie
+ptichij
+pyanstvo
+raduga
+gromit/raz- (+a)
+raskryvatsya/raskrytsya
+rasprava
+rassmatrivatsya (i)
+resnitsa
+ritm
+rybnyj
+sbivatsya/sbitsya
+svoevremennyj
+sderzhannyj
+sklonyatsya/sklonitsya
+skotina
+snoha
+soobshatsya/soobshitsya
+prognoz
+spiral (f)
+spravka
+spros
+srazhatsya/srazitsya (s +inst)
+topat/topnut
+tribuna
+tryastis (i)
+tusklyj
+tfu
+ubeditelnyj
+udacha
+uskorenie
+uspokaivat/uspokoit (+a)
+ustupka
+fakticheski
+tseremoniya
+tsirk
+chetverg
+chuvstvovatsya/po-
+chudesno
+sheptatsya (i)
+shumno
+elektroenergiya
+elementarnyj
+energichnyj
+entuziazm
+etak
+bezuprechnyj
+bezuslovnyj
+beryozka
+bespolezno
+biologicheskij
+bor
+borsh
+borushijsya
+bochka
+vyyavlyat/vyyavit (+a)
+budzhet
+valyat (i)
+vernost (f)
+vertikalnyj
+vzbiratsya/vzobratsya
+vzdor
+vitsya/s-
+vishnyovyj
+vlaga
+vlublyatsya/vlubitsya (v +a)
+vozglavlyat/vozglavit (+a)
+vozmushyonno
+volevoj
+voobrazhat/voobrazit
+voronka
+vosprinimat/vosprinyat (+a)
+vskidyvat/vskinut (+a na +a)
+vtornik
+vuz
+vylezat/vylezt
+vyruchat/vyruchit (+a)
+vysadka
+vysylat/vyslat (+a)
+golovnoj
+gorech (f)
+goroh
+gruzovoj
+dvenadtsatyj
+devichij
+delit/raz- (+a)
+devatsya/detsya
+dosrochno
+dostignutyj
+zhar
+zakonodatelnyj
+izbrannyj
+izmerenie
+indijskij
+inspektor
+intervu (n indecl)
+iskosa
+iskusstvenno
+istyokshij
+kanadskij
+kerosin
+kolokolnya
+kopatsya (i)
+kritik
+laureat
+lubeznyj
+lubimets
+melkat/melknut
+missiya
+mnogoletnij
+mogushestvennyj
+moda
+molitsya/po-
+mudrost (f)
+napolovinu
+nastoyashee
+nedovolno
+neobychajno
+niva
+nogot (m)
+nozdrya
+nosok
+nyanka
+obsuzhdatsya/obsuditsya
+ognennyj
+ozhidatsya (i)
+oko
+operativnyj
+opisannyj
+oplata
+organizovannyj
+osvaivat/osvoit (+a)
+ostro
+otvratitelnyj
+otdelka
+otkrytka
+otryvat/otorvat (+a ot +g)
+otstuplenie
+otchasti
+ochertanie
+pepel
+peredavatsya/peredatsya
+perelistyvat/perelistat (+a)
+petuh
+planirovat/za- (+a)
+podavlyaushij
+podbegat/podbezhat (k +d)
+podnos
+podnyatyj
+podozritelno
+pokazanie
+polivat/polit (+inst +a)
+pomilovat (r) (+a)
+po-novomu
+postavka
+tushit/po- (+a)
+pocherk
+pochtyonnyj
+poshada
+predlagatsya/predlozhitsya
+predpolagatsya/predpolozhitsya
+predstavat/predstat (pered +inst)
+prelest (f)
+press-konferentsiya
+prizhimatsya/prizhatsya (k +d)
+primanka
+printsipialno
+priobretenie
+priotkryvat/priotkryt (+a)
+prihozhaya
+proizvol
+protivorechivyj
+putyom (+g)
+razlichat/razlichit (+a)
+razlagat/razlozhit
+raskladyvat/razlozhit
+razluka
+ranee
+ratsionalnyj
+rezolutsiya
+remontnyj
+rimskij
+riskovat/risknut (+inst)
+rostok
+rulevoj
+svinets
+semiletnij
+skolzit (i)
+skolko-nibud (+g)
+skoplenie
+smertelnyj
+snabzhat/snabdit (+a +inst)
+sobstvennik
+sovokupnost (f)
+sozdannyj
+solomennyj
+sochuvstvovat (i) (+d)
+spetsificheskij
+stavka
+stihotvorenie
+stolichnyj
+stolovyj
+sueta
+sukin
+tantsevalnyj
+teatralnyj
+tipografiya
+tykat/tknut (+inst v +a or +a v +a)
+tovarisheskij
+tragediya
+trepat/po-
+tropinka
+tupoj
+upor
+upotreblenie
+utrachivat/utratit (+a)
+uchashijsya
+feleton
+haos
+hishnik
+hohot
+hranenie
+hranitsya/so-
+hrebet
+hrupkij
+tselina
+tseloe
+tsepochka
+chereschur
+chernila (n pl)
+chyotkij
+chistit/po- (+a)
+shestnadtsat
+shi (pl)
+ekonomist
+ekspluatirovat (i)
+avos
+avtorskij
+aktrisa
+alyj
+angel
+anketa
+antichnyj
+arbuz
+bankir
+begstvo
+bednost (f)
+benzin
+besplatnyj
+bespokojno
+blistatelnyj
+boleznennyj
+bryzgi (f) (pl)
+vdobavok (k +d)
+velenie
+veroyatnyj
+vladyka (m)
+vozbuzhdyonnyj
+vospriyatie
+vrazheskij
+vsevozmozhnyj
+vytesnyat/vytesnit (+a)
+gniloj
+gonyat/po- (+a)
+gosudar (m)
+grabit/o- (+a)
+dvigat/dvinut (+a or +inst)
+dvoryanin
+deyatelnyj
+dobrovolnyj
+donosit/donesti (+a do +g) 
+druzhina
+dymok
+zhevat/pro- (+a)
+zhitejskij
+zagonyat/zagnat (+a)
+zagolovok
+dushit/za- (+a)
+zazhimat/zazhat (+a)
+zaigrat (r) (+a)
+zakazyvat/zakazat (+a)
+zakusyvat/zakusit
+zapreshenie
+zemlyanoj
+znakomit/po- (+a s +inst)
+izvestnost (f)
+izdevatsya (i) (nad +inst)
+ispolnitelnyj
+kabina
+kamin
+kampaniya
+katok
+kolbasa
+kolos
+komandirovka
+kostyl (m)
+krepnut/o-
+kruzhka
+krupinka
+krytsya/po- (v +pr)
+kubok
+lishatsya/lishitsya (+g)
+luzha
+malchisheskij
+myod
+migat/mignut
+molotok
+molochnyj
+mrachno
+myslenno
+navalivatsya/navalitsya (na +a)
+nadzor (za +inst)
+nadlezhashij
+nakazyvat/nakazat (+a)
+nakidyvat/nakinut (+a)
+napadat/napast (na +a)
+napravlennyj
+pugat/na- (+a)
+narastat/narasti
+nasushnyj
+nachisto
+nezametnyj
+neizmennyj
+neogranichennyj
+nervno
+neustanno
+obzor
+okrashivat/okrasit (+a)
+okrestnost (f)
+otritsatelno
+otstalyj
+ofitsialno
+pen (m)
+pereezzhat/pereehat
+peresekat/peresech (+a)
+pisatsya (i)
+plevat/plunut
+pogovorka
+gubit/po- (+a)
+podavlennyj
+podnosit/podnesti (+a)
+podezzhat/podehat (k +d)
+pokupatel (m)
+polnota
+pominat/pomyanut (+a)
+po-nastoyashemu
+populyarnost (f)
+pouchitelnyj
+pochtitelno
+prevoshodnyj
+predvidet (i) (+a)
+prestol
+privychno
+prigotovlenie
+priezzhij
+prikluchenie
+prospekt
+pyatitsya/po-
+ravnodushno
+radovat/ob- (+a)
+razgar
+razdrazhat/razdrazhit (+a)
+razocharovanie
+raskidyvatsya/raskinutsya
+raspad
+ryov
+revolutsioner
+rodstvennyj
+rychat/za-
+samodeyatelnost (f)
+sbyt
+varit/svarit (+a)
+svarivat/svarit
+svintsovyj
+sgovarivatsya/sgovoritsya (s +inst)
+sdvig
+sedlo
+szhimat/szhat (+a)
+skupoj
+sovershenstvo
+sozrevat/sozret
+solyonyj
+solidarnost (f)
+soprovozhdatsya (i) (+inst)
+soprotivlyatsya (i) (+d)
+sryvatsya/sorvatsya
+ssoritsya/po- (s +inst)
+stihijnyj
+strastno
+strastnyj
+strochka
+styagivat/styanut (+a)
+taburetka
+tajkom
+tvorenie
+tekushij
+terpenie
+topol (m)
+tost
+uvozit/uvezti (+a)
+uvlekatelnyj
+uvy
+udivlyat/udivit (+a)
+ustav
+ustanovlennyj
+ustoyat (r)
+uchebnik
+hlopoty (pl)
+tsement
+chajnyj
+chinit/po- (+a)
+chuyat/po- (+a)
+shirina
+epizod
+yarostnyj
+avariya
+avtoritetnyj
+adskij
+aktiv
+appetit
+arabskij
+astronomicheskij
+balka
+bezzhalostno
+bezzvuchno
+bezogovorochnyj
+belokuryj
+beryozovyj
+beskonechnost (f)
+bessilnyj
+bessovestnyj
+bityj
+borodka
+byvalo
+vanna
+vezhlivyj
+verblud
+vertikalno
+vinovnik
+vnutr (+g)
+vozglas
+vozrozhdenie
+vostorzhennyj
+voshishenie
+vpadina
+vykladyvat/vylozhit (+a)
+vyrezat (+a)
+gasit/po- (+a)
+gibnut/po-
+globus
+glubinnyj
+gnevnyj
+gromada
+grubost (f)
+gryzt (i) (+a)
+dialog
+delovito
+demonstrirovat (i/p)
+dyoshevo
+diapazon
+diplomatiya
+dovoditsya/dovestis (+d +inf)
+dozhivat/dozhit (do +g)
+dostoprimechatelnost (f)
+drevnost (f)
+zhelannyj
+zhenatyj
+zhestokost (f)
+zabavnyj
+zakreplyat/zakrepit (+a)
+zapreshyonnyj
+zapuskat/zapustit (+a)
+zastyvat/zastyt
+zatevat/zateyat (+a)
+zatihat/zatihnut
+zahvat
+zahvatchik
+zloveshij
+zrachok
+igla
+izobretatel (m)
+kalosha or galosha
+kameshek
+karaul
+kaska
+kist (f)
+klyatva
+koe-kto
+komediya
+konchik
+kritikovat (i) (+a)
+krutitsya (i)
+kryt/po- (+a)
+kubicheskij
+kurnosyj
+lapot (m)
+laska
+lev
+lenivyj
+lit (i) (+a)
+luk
+mestechko
+metatsya (i)
+mehovoj
+mikroskop
+molodenkij
+montazh
+mudryj
+muzykant
+nabivat/nabit (+a +inst)
+nagovarivat/nagovorit (na +a) 
+nazhimat/nazhat (+a or na +a)
+nameren (+inf)
+naslazhdenie
+nasledie
+nasledstvo
+nastojchivost (f)
+nastraivat/nastroit (+a)
+neveroyatnyj
+negde
+nedalyokij
+nedobryj
+nejtralnyj
+neobyatnyj
+nitochka
+oblegchenie
+obozrevatel (m)
+obretat/obresti (+a)
+obshenie (s +inst)
+okanchivatsya/okonchitsya
+opravdanie
+opushka
+osoba
+otzyv
+otlivat/otlit (+a)
+otmechatsya/otmetitsya
+otyskivat/otyskat (+a)
+passazhirskij
+pervonachalnyj
+pervostepennyj
+pereglyadyvatsya/pereglyanutsya (s +inst)
+perspektivnyj
+pirog
+pitat/na- (+a)
+povidat (r) (+a)
+podavatsya/podatsya
+podgotovitelnyj
+pozabyvat/pozabyt (+a or o +pr)
+kositsya/po-
+poliklinika
+polkovodets
+polushubok
+posolstvo
+predanie
+predpochitat/predpochest (+a +d)
+predrassudok
+pribytie
+prizvanie
+primitivnyj
+prinadlezhnost (f)
+prints
+prismatrivatsya/prismotretsya (k +d)
+prisposoblyat/prisposobit (+a)
+probegat/probezhat
+prodavatsya/prodatsya
+produmyvat/produmat
+prohladnyj
+proshanie
+pyatnadtsatyj
+razvivaushijsya
+razvyazyvat/razvyazat (+a)
+razdavlivat/razdavit (+a)
+razmahivat (i) (+inst)
+razmyshlenie
+ranenie
+raspadatsya/raspastsya
+raspahivat/raspahnut (+a)
+raspuskat/raspustit (+a)
+rasstavlyat/rasstavit (+a)
+rekomendatsiya
+rog
+rybka
+rytsar (m)
+salfetka
+sbegat/sbezhat
+sdvigat/sdvinut (+a)
+serebristyj
+sigara
+sistematicheski
+skakat/po-
+skripet/pro-
+skulptura
+slozhnost (f)
+snaryazhenie
+snizhat/snizit (+a)
+sovershenstvovat/u- (+a)
+sozdatel (m)
+soznatelno
+sokol
+sokrashatsya/sokratitsya
+sotyj
+sous
+sochuvstvie
+stonat (i)
+strannik
+sugrob
+sulit/po- (+a)
+termin
+terpelivo
+terror
+tomitsya (i)
+toskovat (i)
+tochit (i) (+a)
+trojka
+tuflya
+ubezhdyonno
+ubornaya (f)
+ugoshat/ugostit (+a +inst)
+udarnyj
+upadok
+ronyat/uronit (+a)
+usvaivat/usvoit (+a)
+ustoj
+ushele
+fizionomiya
+hvastatsya/po- (+inst)
+hozyajnichat (i)
+horonit/po- (+a)
+tsarit (i)
+shit/s- (+a)
+ekij
+esteticheskij
+yadovityj
+agrarnyj
+apteka
+assotsiatsiya
+atakovat ((i/p)) (+a)
+balet
+barhat
+basnya
+bezumnyj
+bessonnyj
+besshumno
+bodrost (f)
+bombardirovka
+boyazn (f)
+britsya/po-
+bunt
+velosiped
+verenitsa
+veslo
+vzaimoponimanie
+vihr (m)
+vkluchenie
+vooruzhat/vooruzhit (+a)
+voskresnyj
+vrashatsya (i)
+vspomogatelnyj
+vtorzhenie
+vybivat/vybit (+a)
+vyglyadyvat/vyglyanut
+vygodno
+vyzyvatsya/vyzvatsya
+vypivat/vypit
+vysovyvatsya/vysunutsya
+vytyanutyj
+gadat (i)
+galereya
+godovshina
+golub (m)
+gorst (f)
+gostinaya (f) adj
+gruda
+dalnevostochnyj
+dezhurstvo
+dejstvennyj
+diktovat/pro- (+a)
+dissertatsiya
+dobrovolno
+dosrochnyj
+zhivopisnyj
+zhilishnyj
+zhirnyj
+zhrat/so- (very coll)
+zabegat/zabezhat
+zabegat (r)
+zabyvatsya/zabytsya
+zagorelyj
+zarastat/zarasti
+zarplata
+zatyagivatsya/zatyanutsya (+inst)
+zayavka
+zemlyak
+izbiratel (m)
+inzhenernyj
+ihnij
+kazna
+kapat/kapnut
+kareta
+kvalifitsirovannyj
+kepka
+klient
+kovarnyj
+kombinatsiya
+konyok
+konkurent
+kontrolirovat/pro- (+a)
+kopyto
+kofe (m) (indecl)
+koshelyok
+kriticheskij
+listochek
+lovkij
+lovkost (f)
+lomatsya/s-
+malost (f)
+malysh 
+massiv
+materinskij
+mechtanie
+milya
+minimum
+mirno
+moroznyj
+muchatsya/za-
+mylo
+nabludatel (m)
+navyk
+nadlezhat (i) (+d of person +inf)
+nakladyvat/nalozhit (+a na +a)
+nasmeshlivyj
+natisk
+natykatsya/natknutsya (na +a)
+nachinanie
+nevazhno
+nevezhestvo
+nevernyj
+negodovanie
+nedorazumenie
+nekrasivyj
+nelovkost (f)
+nesposobnyj
+nesterpimo
+neudachnyj
+niz
+novichok
+normalno
+nositsya (i)
+obezyana
+ovyos
+ogorchatsya/ogorchitsya
+odinochka (m/f)
+ozhestochyonnyj
+ozhivat/ozhit
+oranzhevyj
+organizatsionnyj
+osyol
+osmelivatsya/osmelitsya (+inf)
+osmatrivatsya/osmotretsya
+ostorozhnost (f)
+ostriyo
+otpor
+otchestvo
+parlament
+parus
+perechislyat/perechislit (+a)
+pitatsya (i) (+inst)
+plemyannik
+povyshatsya/povysitsya
+podavlyat/podavit (+a)
+podobie
+podrostok
+podchinyonnyj
+podchinyatsya/podchinitsya (+d)
+pozhenitsya (r)
+pozdravlenie
+polzat/po-
+polozhennyj
+pomenshe
+ponemnogu
+porazitelno
+po-russki
+postavshik
+pohozhe (na +a)
+potseluj
+pravitelstvennyj
+predotvrashat/predotvratit (+a)
+predskazyvat/predskazat (+a)
+prezirat (i) (+a)
+pretendent (na +a)
+privlekatelnyj
+prigovarivat/prigovorit (+a k +d)
+prizrak
+proryv
+prosizhivat/prosidet
+proslezhivat/prosledit (+a)
+proshatsya/prostitsya (s +inst)
+puskatsya/pustitsya (v +a or +inf)
+putat/s- (+a)
+rabotnitsa
+razvyortyvat/razvernut (+a)
+razdevatsya/razdetsya
+razmeshat/razmestit (+a)
+raznoglasie
+rasstrel
+rvanyj
+revnost (f)
+rybachij
+rychag
+sanatorij
+sblizhenie
+sgorat/sgoret
+sistematicheskij
+skripka
+slovar (m)
+sluzhebnyj
+smirnyj
+snaruzhi
+sovremennost (f)
+soglasovyvat/soglasovat (+a)
+sosedka
+soskuchitsya (r)
+spohvatyvatsya/spohvatitsya
+sprashivatsya (i)
+sram
+stiskivat/stisnut (+a)
+sugubo
+hvatatsya/shvatitsya (za +a)
+tvorit/so- (+a)
+tvoritsya (i)
+tezis
+tolkovat/is- (+a)
+tragicheskij
+trepetat (i)
+tropa
+tumannyj
+turetskij
+turemnyj
+uvolnyat/uvolit (+a)
+uvolnenie
+krast/u- (+a)
+ukryvatsya/ukrytsya (ot +g)
+umelo
+umolyat/umolit (+a)
+usilivatsya/usilitsya
+uskoryat/uskorit (+a)
+ustanavlivatsya/ustanovitsya
+ustremlyatsya/ustremitsya
+uteshat/uteshit (+a)
+fontan
+formalno
+frukt
+hvalit/po- (+a)
+hitrost (f)
+hlynut (r)
+homut
+huligan
+chayok
+chasha
+chto-libo
+shajka
+sherstyanoj
+analogichnyj
+arifmetika
+arsenal
+ateist
+bandit
+bditelnost (f)
+bezzavetnyj
+beznadyozhno
+bezrabotnyj
+belet/po-
+belizna
+beskorystnyj
+bespomoshnyj
+besposhadno
+bolvan
+bombardirovshik
+bran (f)
+bresti/po-
+brilliant
+broshennyj
+budni (pl)
+byvalyj
+vata
+vdohnovennyj
+vedat (i) (+inst) 
+vezhlivo
+veyat (i)
+veshat/vzvesit (+a)
+vizg
+vinovnyj
+vnikat/vniknut (v +a)
+vozlagat/vozlozhit (+a na +a)
+voploshenie
+voshodyashij
+vsenarodnyj
+vskrikivat/vskriknut
+vtroe
+vyveska
+vyvozit/vyvezti (+a)
+vygovor
+vynoslivost (f)
+vytyagivatsya/vytyanutsya
+vyshibat/vyshibit (+a)
+garnizon
+glyba
+gordo
+gramota
+grek
+griva
+grozno
+dvojka
+delnyj
+demokratizatsiya
+detishki (pl)
+dovoennyj
+dovolstvovatsya (i) (+inst)
+dostigatsya/dostichsya
+dosug
+zhestyanoj
+zhutko
+zavoyovannyj
+zamirat/zameret
+orat/za-
+zasovyvat/zasunut (+a v +a)
+shumet/za-
+zelenovatyj
+zemletryasenie
+zlitsya/obo- (na +a)
+zlost (f)
+znaushij
+zolochyonyj
+intonatsiya
+iskusno
+iskusnyj
+ispolinskij
+kaznit (i/p)
+kapusta
+karabkatsya/vs-
+katatsya/po-
+kvalifikatsiya
+klyon
+kol
+kollegiya
+kolot/za- (+a)
+konvert
+kooperativ
+kopiya
+korobochka
+kremlyovskij
+kriticheski
+layat/za-
+liven (m)
+len (f)
+loshadinyj
+lukavyj
+lustra
+lutyj
+malinovyj
+manit/po- (+a)
+matovyj
+machta
+morozhenoe
+musor
+myslyashij
+nazhivat/nazhit (+a)
+nakazanie
+nakal
+namnogo
+plevat/na- (na +a)
+nedostavat/nedostat (+g)
+nezhnost (f)
+nezadolgo (do +g)
+nenavistnyj
+neopredelyonnyj
+nereshitelno
+nespravedlivost (f)
+neudachnik
+obednya
+obeshanie
+obnazhat/obnazhit (+a)
+obozrenie
+obochina
+obhod
+obedinyatsya/obedinitsya (s +inst)
+obektivno
+okeanskij
+okoshechko
+okruzhenie
+opasenie
+opomnitsya (r)
+opravdyvatsya/opravdatsya
+osveshyonnyj
+otblesk
+otpechatok
+ohotitsya (i) (na +a)
+ochnutsya (r)
+pazuha
+partnyor
+peregorodka
+perezhitok
+krestitsya/pere-
+perekreshivatsya
+peremenyatsya/peremenitsya
+pereulok
+pila
+piramida
+plamennyj
+plach
+plita
+povedyvat/povedat (+a)
+podavlenie
+podvesti (p) (k +d)
+podlost (f)
+podozrenie
+podruzhka
+poza
+poroh
+postanovka
+staret/po-
+postuplenie
+potryasenie
+prah
+prevoshodit/prevzojti (+a)
+predannost (f)
+predvaritelno
+predostavlenie
+predshestvennik
+premer-ministr
+preobrazovyvat/preobrazovat (+a)
+presledovanie
+preslovutyj
+preuvelichivat/preuvelichit (+a)
+pribivat/pribit (k +d)
+privetstvie
+prikrytie
+prilichnyj
+prinyatie
+prinyatyj
+prislonyatsya/prislonitsya (k +d)
+progulka
+proslavlennyj
+prostupat/prostupit
+protekat/protech
+protivopolozhnost (f)
+proshlogodnij
+proshenie
+publichnyj
+putatsya/s-
+pyanitsa (m/f)
+radiopriyomnik
+razbivatsya/razbitsya
+razbrasyvat/razbrosat (+a)
+razdumyvat/razdumat
+razrushatsya/razrushitsya
+rasistskij
+rasstraivat/rasstroit (+a)
+rebro
+rozha
+rosa
+ruslo
+samoderzhavie
+kapitalisticheskij
+svistok
+svod
+semejstvo
+sirena
+myshtsa
+slivatsya/slitsya
+smiryatsya/smiritsya (s +inst)
+smuglyj
+snizhatsya/snizitsya
+sobludenie
+sodejstvie
+sozyvat/sozvat (+a)
+soznavatsya/soznatsya (v +pr)
+sootvetstvenno
+spetsializatsiya
+stavitsya/po-
+stimulirovanie
+stirat/vy- (+a)
+stoyashij
+strategicheskij
+suverenitet
+suk
+sumatoha
+sypatsya (i)
+taitsya (i)
+taksi
+tolkatsya (i)
+tolsha
+topot
+traktir
+tribunal
+trudoyomkij
+ugozhdat/ugodit (+d) 
+udobstvo
+mogila
+uklad
+ukol
+umno
+upominat/upomyanut (+a or o +pr)
+upryamyj
+usazhivatsya/usestsya
+ustojchivost (f)
+uhvatitsya (za +a)
+utselet (r)
+festival (m)
+finansy (m pl)
+hitro
+hlestat/hlestnut (+a)
+hmel (m)
+hokkej
+holostoj
+chelovechek
+chugun
+shipet (i)
+shpion
+eshelon
+yablochko
+yasli (pl)
+aktsiya
+anekdot
+aristokraticheskij
+assambleya
+bagrovyj
+barometr
+barer
+beznadyozhnyj
+bezymyannyj
+belorusskij
+beregovoj
+bespartijnyj
+bessmyslenno
+besstrashie
+bich
+blagoj
+bred
+brit/po- (+a)
+bruho
+burno
+buryan
+bushevat (i)
+verhovoj
+vestibul (m)
+vesy (m pl)
+vethij
+vecherinka
+vzveshivat/vzvesit (+a)
+vlezat/vlezt
+vnedryat/vnedrit (+a v +a)
+vospitatelnyj
+vrashenie
+vspominatsya/vspomnitsya
+vtorichno
+vtorichnyj
+vtseplyatsya/vtsepitsya (v +a)
+vymyvat/vymyt (+a)
+vyhodka
+garantiya
+garazh
+glasit (i)
+glush (f)
+gryadushij
+desant
+defitsitnyj
+direktiva
+dnishe
+doezzhat/doehat (do +g)
+doloj (+a)
+doprashivat/doprosit (+a)
+dorozhit (+inst)
+draznit (i) (+a)
+dremat (i)
+druzhnyj
+duel (f)
+dymka
+dyra
+zhilyo
+zabavno
+zabluditsya (r)
+zavalivat/zavalit (+a +inst)
+zainteresovyvatsya/zainteresovatsya (+inst)
+zapominatsya/zapomnitsya
+zarevo
+zatoplyat/zatopit (+a)
+zashitnyj
+zvonko
+zerkalnyj
+znamenatelnyj
+znachitsya (i)
+zolotistyj
+izbavlyat/izbavit (+a ot +g)
+izverzhenie
+izvne
+izmennik
+izmeryat/izmerit (+a)
+iznutri
+izolyatsiya
+izumlenie
+ispolnyatsya/ispolnitsya
+kak-nikak
+kislyj
+klop
+klochok
+knut
+kolyhatsya (i)
+komandnyj
+kosvennyj
+kotyol
+krestik
+krovnyj
+kuznets
+kukushka
+legkomyslennyj
+lyogkost (f)
+lzhivyj
+logicheskij
+manifest
+millionnyj
+mnimyj
+nabiratsya/nabratsya (+g)
+nagonyat/nagnat (+a)
+nakanune
+napitok
+napor
+narastaushij
+nasilstvennyj
+nasos
+nashestvie
+neveroyatno
+nevinnyj
+negramotnyj
+nedoumenno
+nekotorye
+nemyslimo
+neohotno
+nerazryvno
+nespravedlivyj
+neuverenno
+neftyanik
+nehoroshij
+nechistyj
+neyasno
+oborudovat ((i/p)) (+a)
+obryad
+obyavlenie
+obyatie
+ovladevat (i) (+inst)
+odalzhivat/odolzhit (+a +d)
+ozhivlyatsya/ozhivitsya
+osobnyak
+ostrota
+osuzhdenie
+otvozit/otvezti (+a)
+otvlekat/otvlech (+a)
+otvrashenie
+otdacha
+otdelnost
+otkuda-to
+otmenyat/otmenit (+a)
+otsutstvovat (i)
+ochishat/ochistit (+a)
+parad
+parikmaherskaya
+perekidyvat/perekinut (+a cherez +a)
+plash
+plesti (i) (+a)
+povrezhdenie
+poganyj
+pogibshij
+polozheno
+pogruzhatsya/pogruzitsya (v +a)
+podnyatie
+podrobnyj
+podchyorkivatsya/podcherknutsya
+pozornyj
+pokachivat/pokachat (+a or +inst)
+pokornyj
+pokryshka
+pologij
+poluchshe
+miritsya/po- (s +inst)
+ponizhenie
+poslevoennyj
+pospeshno
+potomok
+pohodka
+pravitel (m)
+predavat/predat (+a +d)
+predchuvstvie
+prelestnyj
+prestizh
+prigodnyj
+prigotovlyatsya/prigotovitsya (+inf or k +d)
+prilichno
+pripisyvat/pripisat (+a +d)
+prisposablivatsya/prisposobitsya (k +d)
+pritvoryatsya/pritvoritsya (+inst)
+pritihat/pritihnut
+probivatsya/probitsya
+proval
+provodnik
+prodovolstvie
+promyshlennik
+pronositsya/pronestis
+propityvat/propitat (+a)
+sheptat/pro-
+pryad (f)
+pryanik
+pulemyotnyj
+putanitsa
+pylaushij
+ravnomerno
+razvalina
+razdavat/razdat (+a)
+razdvigat/razdvinut (+a)
+razdrazhenie
+razlagatsya/razlozhitsya
+razumno
+rasseyanno
+rastsvet
+rastsenivat/rastsenit (+a)
+realizatsiya
+rezinovyj
+remeslo
+replika
+rodstvo
+rozh (f)
+roskosh (f)
+rusyj
+ruchatsya/poruchitsya (za +a)
+ryvok
+svalivat/svalit (+a)
+svetlo
+setovat/po- (o +pr/na +a)
+szhatyj
+skatyvatsya/skatitsya
+skvernyj
+skol
+slon
+smeshivat/smeshat (+a)
+smushat/smutit (+a)
+smushenie
+snezhinka
+sogrevat/sogret (+a)
+sozidatelnyj
+sootnoshenie
+sopka
+soprovozhdenie
+sosnovyj
+spotykatsya/spotknutsya (o +a)
+spusk
+starina
+staromodnyj
+staskivat/stashit (+a)
+stojkij
+stolbik
+storozhevoj
+stoyanka
+trusit/s- (pered or +g)
+ezdit/s-
+tabletka
+tajno
+tamozhennyj
+tverdit (i) (+a)
+teplitsa
+travit (i) (+a)
+transportnyj
+tropicheskij
+trofej
+tur
+turistskij
+tyaga
+udalyat/udalit (+a)
+udivlyonnyj
+ukaz
+umyvatsya/umytsya
+unizhenie
+upomyanutyj
+uragan
+formalnyj
+harakterno
+hmuryj
+hrabryj
+tsementnyj
+chasha
+cherpat/cherpnut (+a iz +g)
+chestnost (f)
+chetvyorka
+chugunnyj
+shans
+shapochka
+shyolk
+shibko
+shut
+shedro
+shyolkat/shyolknut (+a) 
+egoizm
+energichno
+entuziast
+umor
+unosheskij
+yanvarskij
+amnistiya
+asfalt
+aeroport
+balovat/iz- (+a)
+barrikada
+barskij
+bezludnyj
+bezrazlichno
+bespovorotno
+bespredelnyj
+bestseremonno
+blagorodstvo
+blazhennyj
+boltovnya
+bombyozhka
+brezglivo
+bronza
+butylochka
+valun
+varezhka
+veselitsya/po-
+vetchina
+vzaimno
+vinovato
+vneshne
+vneshnost (f)
+vozrazhenie
+volzhskij
+vorovat/s- (+a)
+vorochat (+a)
+vorochatsya (i)
+vpadat/vpast (v +a)
+vraz
+vruchnuu
+vstavlyat/vstavit (v +a)
+vstuplenie
+vtroyom
+vynoslivyj
+vysazhivatsya/vysaditsya
+vyskazyvatsya/vyskazatsya
+vychislyat/vychislit (+a)
+garmonicheskij
+gladko
+golubovatyj
+gumannyj
+davnym-davno 
+dvoryanskij
+dyorgat/dyornut (+a)
+detektiv
+diko
+dobavka
+dokatyvatsya/dokatitsya (do +g)
+domishko (m)
+dopolnitelno
+dostavka
+dostojno
+duratskij
+dushno
+dymit (i)
+zhazhdat (i) (+g)
+zabava
+zavesa
+zadannyj
+zazhitochnyj
+zakryvatsya/zakrytsya
+zakupka
+zanimatelnyj
+zapugivat/zapugat (+a)
+zaputannyj
+zasedat (i)
+zastrevat/zastryat
+zahod
+zachastuu
+zvukovoj
+zmeya
+igo
+igrushechnyj
+idealnyj
+izobrazitelnyj
+ironicheski
+iskrenno
+istrebitel (m)
+ishodnyj
+kabluk
+kanava
+kandidatura
+kapriznyj
+kara
+karaulit (i) (+a)
+kategoricheski
+klok
+konkretno
+kosynka
+kofta
+krajnost (f)
+krasavets
+kroshechnyj
+krylatyj
+kuvshin
+kurinyj
+lazit/po-
+lentochka
+lilovyj
+liho
+lihoradka
+lomka
+lohmatyj
+lyzhnik
+lyzhnyj
+majskij
+mamochka
+matematik
+menshinstvo
+metla
+millioner
+milostynya
+miniaturnyj
+modnyj
+monastyr (m)
+muskul
+muchitelno
+nazlo
+naimenovanie
+napryazhyonno
+narushatsya/narushitsya
+naslednik
+naschityvat (i) (+a)
+nevynosimyj
+neizmerimo
+nenadolgo
+neohota
+nepriyatel (m)
+netoroplivo
+netoroplivyj
+neulovimyj
+nehvatka
+nechayanno
+novenkij
+nosilki (f pl)
+nosovoj
+obilie
+obobshat/obobshit (+a)
+obgonyat/obognat (+a)
+obozhat (i) (+a)
+obrez
+obhvatyvat/obhvatit (+a)
+ogranichenie
+ogranichennost (f)
+odnorodnyj
+odolevat/odolet (+a)
+ozherele
+ozaryat/ozarit (+a)
+ozorstvo
+okkupatsiya
+okrug
+okurok
+oprovergat/oprovergnut (+a)
+pustet/o-
+oryol
+osnovatelno
+otkidyvatsya/otkinutsya
+otmahivatsya/otmahnutsya (ot +g)
+otmena
+otmetka
+otrabatyvat/otrabotat (+a)
+otstavka
+othod
+otchyotlivyj
+parashut
+parnishka (m) 
+pedagog
+perevorachivat/perevernut (+a)
+peredvizhenie
+peredraznivat/peredraznit (+a)
+peremeshatsya/peremestitsya
+peremeshenie
+pereputyvat/pereputat (+a)
+peresmatrivat/peresmotret (+a)
+personazh
+personalnyj
+pobezhdyonnyj
+poblyoskivat (i)
+povestka
+povtornyj
+povyazka
+pogonya
+podvigatsya/podvinutsya
+podzhigat/podzhech (+a)
+podol
+podryvat/podorvat (+a)
+podtverzhdenie
+podtyagivat/podtyanut (+a)
+pozavchera
+pola
+poleno
+lomat/po- (+a)
+polotno
+poluostrov
+poraboshenie
+posvistyvat/posvistet
+poselyatsya/poselitsya
+posobie
+postepennyj
+potryasat/potryasti (+a)
+potryasaushij
+pohvala
+pochtovyj
+pravit (i) (+inst)
+prazdnovat (i) (+a)
+prednaznachatsya/prednaznachitsya (dlya +g or na +a)
+prekrashat (i) (+a)
+pribegat/pribezhat
+priblizhenie
+pribirat/pribrat (+a)
+privyazyvatsya/privyazatsya (k +d)
+prilavok
+primechatelnyj
+primiryatsya/primiritsya (s +inst) 
+pripominat/pripomnit (+a)
+pristavlyat/pristavit (+a k +d)
+pristavat/pristat (k +d)
+provozglashat/provozglasit (+a)
+proglatyvat/proglotit (+a)
+prodavets
+prodolzhit (p) (+a)
+prolivat/prolit (+a)
+molchat/pro-
+proskakivat/proskochit
+proslavlyatsya/proslavitsya
+prosmatrivat/prosmotret (+a)
+proschyot
+protivostoyat (i) (+d)
+prohod
+ravnomernyj
+ravnopravie
+razvalivatsya/razvalitsya
+razvyortyvanie
+razvlechenie
+razdrazhatsya/razdrazhitsya
+raskol
+raspiska
+rasplachivatsya/rasplatitsya
+rasporyadok
+raspredelyatsya/raspredelitsya
+rasseivatsya/rasseyatsya
+rasstyogivat/rasstegnut (+a)
+rastit/vy- (+a)
+rvanutsya (r)
+redaktsionnyj
+reportazh
+restavratsiya
+rodimyj
+rumyanets
+ryt (i) (+a)
+svezhest (f)
+sverzhenie
+svoevremenno
+sderzhanno
+sestryonka
+sigareta
+skachok
+skverno
+sklonnost (f) (k +d)
+skrip
+slovesnyj
+slovechko 
+slozhivshijsya
+smutnyj
+sgibatsya/sognutsya
+sokrovishnitsa
+sonnyj
+sorokovoj
+sosat (i) (+a)
+sochetatsya (i) (s +inst)
+spalnya
+spasatsya/spastis
+spisyvat/spisat (+a)
+spichechnyj
+spyashij
+sredneaziatskij
+srednevekovyj
+statsya
+stihat/stihnut
+strogost (f)
+sumrak
+sup
+sushyonyj
+sformulirovat (r) (+a)
+syomka
+sezzhat/sehat
+surpriz
+tainstvenno
+takt
+teleskop
+tolpitsya (i)
+tormozit/za- (+a)
+trezvyj
+tron
+tros
+tsheslavie
+ubogij
+uglublenie
+uglublyatsya/uglubitsya
+udachno
+uletat/uletet
+umenshat/umenshit (+a)
+usta (pl)
+uslovnyj
+ustalost (f)
+utknutsya (r) (v +a)
+figurka
+fortochka
+fyrkat/fyrknut
+hlam
+horoshenkij
+hudoshavyj
+tsvesti/ras-
+tsvetochnyj
+tselnyj
+tsyplyonok
+tsypochki (pl)
+chek
+cherep
+chuditsya/po- (+d)
+chulok
+chut-chut
+sharit/po- (v +pr)
+shelest
+shtamp
+shtraf
+shturm
+shtuchka 
+shedryj
+ekonomicheski
+estradnyj
+eho
+yad
+yarostno
+avtomatika
+adresovat ((i/p)) (+a +d)
+arka
+arheolog
+aforizm
+ball
+bednyaga (m)
+bezgranichnyj
+bezdele
+bezzhalostnyj
+bezopasnyj
+barak
+belka
+blin
+bessmyslennyj
+bibliya
+biologiya
+blagoslovlyat/blagoslovit (+a)
+blesnut (r)
+blestyashe
+bodryj
+bojkij
+budnichnyj
+bulka
+vdohnovenie
+vdumyvatsya/vdumatsya (v +a)
+vedomost (f)
+veer
+vertolyot
+veruushij
+verhove
+veshestvennyj
+vzaimopomosh (f)
+vzletat/vzletet
+vizzhat (i)
+vinograd
+vodoyom
+vozvodit/vozvesti (+a)
+vozvrashat/vozvratit (+a)
+vozvyshatsya/vozvysitsya
+vozmezdie
+voj
+volosatyj
+vostorzhenno
+voshod
+vpryam
+vsemerno
+vsestoronne
+vskryvat/vskryt (+a)
+vsplesk
+vtorostepennyj
+v-chetvyortyh
+vykluchat/vykluchit (+a)
+vypisyvat/vypisat (+a)
+vypryamlyatsya/vypryamitsya
+vypuskatsya/vypustitsya
+vyrazitelnyj
+vyskazyvanie
+strelyat/vystrelit (v +a)
+vyhvatyvat/vyhvatit (+a)
+vuga
+genialnyj
+gidrostantsiya
+glub (f)
+gorevat (i)
+gorizontalnyj
+gorozhanin
+gostepriimstvo
+gripp
+gruzinskij
+dvourodnyj
+deklaratsiya
+derzkij
+detalno
+doblest (f)
+dobrodushnyj
+dobrotnyj
+durno
+dushit (i) (+a)
+ezhednevnyj
+zhadnost (f)
+zhatva
+zhiznennost (f)
+zhuk
+zhurnalistika
+zabotlivyj
+zavarivat/zavarit (+a)
+zavoditsya/zavestis
+zavisimyj
+glushit/za- (+a)
+zagranichnyj
+gudet/za-
+zadirat/zadrat (+a)
+zaimstvovat/po- (+a)
+zainteresovannost (f) (v +pr)
+zakidyvat/zakinut (+a)
+zakonnost (f)
+zakonomernyj
+zakuska
+zamerzat/zamyorznut
+zapasnyj 
+zapozdalyj
+zaryazhat/zaryadit (+a)
+zastrelivat/zastrelit (+a)
+zastyvshij
+zateya
+zatykat/zatknut (+a)
+zvyozdnyj
+zvuchanie
+zemelnyj
+zrelost (f)
+izmena
+invalid
+inej
+instantsiya
+ispolnitel (m)
+ispug
+istreblyat/istrebit (+a)
+kanun
+kashlyat/kashlyanut
+kvadrat
+koleya
+kolpak
+kolyaska
+kom
+konkurentsiya
+kontrolyor
+koryto
+kosit/s-
+koshmar
+kratko
+kulisy
+kusat (i) (+a)
+labirint
+legendarnyj
+lechebnyj
+litr
+lysina
+massivnyj
+matros
+mashinka
+medikament
+mel (f)
+mech
+meshanin
+milostivyj
+mnogoobrazie
+moralno
+morgat/morgnut
+moskvich
+mohnatyj
+mrak
+mstit/oto- (+d za +a)
+muchitelnyj
+myslitel (m)
+nabok
+navisat/navisnut
+navyazyvat/navyazat (+a +d)
+nagrazhdat/nagradit (+a)
+nazhim
+naivno
+nailuchshij
+nakoplyatsya/nakopitsya
+nalitso
+namekat/nameknut (na +a)
+namerevatsya (i) (+inf)
+nasekomoe
+naslazhdatsya/nasladitsya (+inst)
+naspeh
+naschityvatsya (i)
+negr
+negrityanskij
+nedovolstvo (+inst)
+nezachem (+i inf)
+neinteresno
+nejtralitet
+nemoj
+neotlozhnyj
+nereshitelnost (f)
+neslyhannyj
+nesmetnyj
+neuzhto
+novorozhdyonnyj
+obzhigat/obzhech (+a)
+obizhenno
+obmenivatsya/obmenyatsya (+inst)
+oboronnyj
+ogovorka
+odevatsya/odetsya
+odnoobraznyj
+odnostoronnij
+ozhivlyonno
+ozornoj 
+ozyabnut (r)
+okayannyj
+oklikat/okliknut (+a)
+oskorblyat/oskorbit (+a)
+osmotr
+ostyvat/ostyt
+otvlechyonnyj
+otvoryat/otvorit (+a)
+otkidyvat/otkinut (+a)
+otkrovennost (f)
+otliv
+otryv (ot +g)
+ottalkivat/ottolknut (+a)
+oformlyat/oformit (+a)
+palit/s- (+a)
+parovoj
+pasti (i) (+a)
+pensioner
+payok
+perevozit/perevezti (+a)
+perevyazyvat/perevyazat (+a)
+perehvatyvat/perehvatat (+a)
+perechityvat/perechitat (+a)
+pechatatsya (i)
+pishevoj
+blednet/po-
+boyatsya/po-
+poverhnostnyj
+povisat/povisnut
+pogrom
+poddavatsya/poddatsya (+d)
+podlinno
+podkladyvat/podlozhit (+a)
+podryvnoj
+pokryvatsya/pokrytsya (+inst)
+kushat/po-
+polusharie
+polus
+pomnitsya (i) (+d)
+poodal
+popravlyatsya/popravitsya
+poravnyatsya (r) (s +inst)
+portsiya
+postanovlyat/postanovit
+po-staromu
+potihonku 
+potruditsya (p) (+inf)
+hlopat/po-
+pochyot
+prazdnovanie
+predannyj
+predvidenie
+predelno
+predelnyj
+predposylka
+prezidentskij
+prenebrezhenie
+prepodavat (i) (+a)
+pretendovat (i) (na +a)
+privlechenie
+priliv
+pripodnimatsya/pripodnyatsya
+prisvoenie
+pristrastie (k +d)
+pritok
+prishivat/prishit (+a k +d)
+proba
+prodvizhenie
+proklinat/proklyast (+a)
+pronizyvat/pronizat (+a)
+proniknovenie
+pruzhina
+pult
+pshenichnyj
+pytka
+ravnodushie
+razgoratsya/razgoretsya
+razoblachenie
+raskrytyj
+rasovyj
+raspolozhennyj
+raspredelyat/raspredelit (+a)
+rasslyshat (r)
+rassuzhdat/rassudit (+a)
+rasteryannost (f)
+rashodovat/iz- (+a)
+retsept
+rumyanyj
+rushitsya/ob-
+ryhlyj
+svechka
+svirepyj
+svoeobrazie
+svyazyvatsya/svyazatsya (s +inst)
+svyatynya
+szhimatsya/szhatsya
+simvol
+simvolicheskij
+sirota (m/f)
+skorbnyj
+skudnyj
+skulastyj
+sledovatel (m)
+sledom (za +inst)
+sluzhenie (+d)
+smotr
+soznatelnost (f)
+sozyv
+sopet (i)
+sorevnovatsya (s +inst)
+splochyonnost (f)
+srabatyvat/srabotat
+suzhdenie
+suprug
+sushestvenno
+sypat/po- (+a or +inst)
+tabachnyj
+tvorets
+teret/po- (+a)
+tolkovanie
+tonkost (f)
+toropit/po- (+a)
+trakt
+treshat (i)
+tridtsatyj
+trost (f)
+tunnel (m)
+ugrozhaushij
+ukladyvatsya/ulozhitsya
+ukladyvatsya/ulechsya
+uklon
+ukradkoj
+ulavlivat/ulovit (+a)
+upuskat/upustit (+a)
+usik
+uskolzat/uskolznut
+uste
+utochnyat/utochnit (+a)
+utrata
+uhazhivat (i) (za +inst)
+uchast (f)
+uutnyj
+fabrichnyj
+faza
+federatsiya
+hvojnyj
+hmuro
+hudenkij 
+tsentralizovannyj
+tsitata
+chastichnyj
+cheredovatsya (i) (c +inst)
+chertit/na- (+a)
+chislitsya (i)
+chuvstvitelnyj
+chulan
+chuma
+chutochku 
+shvedskij
+shestsot
+shkatulka
+shlyopat/shlyopnut (+a)
+shoroh
+shyotka
+ekonomit/s- (+a)
+etiketka
+urist
+yavstvenno
+yagoda
+analogiya
+aromat
+baltijskij
+bas
+bezgranichno
+bezdomnyj
+bezmerno
+bessonnitsa
+biblejskij
+blagoslovenie
+vezhlivost (f)
+bogatyrskij
+bozhestvennyj
+bratishka 
+brevenchatyj
+vena
+burokrat
+varene
+vglub
+vdaleke
+vdovol
+vdohnovlyat/vdohnovit (+a)
+vedma
+velikolepie
+venik
+venok
+verhom
+vechnost (f)
+vzyvat/vozzvat (k +d)
+vishnya
+vkluchatsya/vkluchitsya
+vletat/vletet
+vliyatelnyj
+voditsya (i)
+vozobnovlyat/vozobnovit (+a)
+voinstvennyj
+vopl (m)
+vorotnichok
+vosproizvodit/vosproizvesti (+a)
+voshishatsya/voshititsya (+inst)
+vspylit (r)
+vshlipyvat/vshlipnut
+vsyacheskij 
+vtyagivat/vtyanut (+a)
+vyzhimat/vyzhat (+a)
+vysazhivat/vysadit (+a)
+vysypatsya/vyspatsya
+vyyasnenie
+vyazat/s- (+a)
+garmoniya
+geroizm
+gibkij
+gimn
+gipoteza
+glotat (i) (+a)
+golenishe
+golodat (i)
+golosovanie
+grafin
+gromozdkij
+gumanitarnyj
+gusha
+darom
+denyok
+detalnyj
+defitsit
+dzhinsy (pl)
+dobrosovestno
+dokumentatsiya
+dostatok
+dramaticheskij
+druzhit (i) (s +inst)
+durachok
+dushnyj
+dymitsya (i)
+dyrka
+zhelaushij
+zheltovatyj
+zakonchennyj
+zapechatlevat/zapechatlet (+a)
+zatragivat/zatronut (+a)
+shagat/za-
+zyornyshko
+znachimost (f)
+izgonyat/izgnat (+a)
+izlublennyj
+izmeryatsya/izmeritsya
+rashodovat/izrashodovat (+a)
+illuminator
+illustrirovat (i/p) (+a)
+imenovat/na- (+a)
+inventar (m)
+intellektualnyj
+iskopaemye
+ispolnennyj (+g)
+ispravlenie
+isterika
+ischerpyvaushij
+italyanets
+kanat
+kapitalovlozhenie
+katit/po- (+a)
+kievskij
+kipyatok
+klassnyj
+klinika
+koza
+kozyr (m)
+kolenka 
+koluchij
+komar
+kombinezon
+komod
+konvejer
+konfiskovat (i/p) (+a)
+kontsertnyj
+kontslager (m)
+konchina
+kooperativnyj
+kopat/kopnut (+a)
+koso
+kostochka
+kotyonok
+krasit/o-
+krasnovatyj
+krah
+kroshka
+kryahtet (i)
+kuzov
+kult
+lajner
+lyogkoe
+lenivo
+lechitsya (i) (ot +g)
+linejka
+londonskij
+loskut
+lubezno
+makushka
+manevrirovat/s-
+mashinalno
+mashinostroitelnyj
+melko
+melkom
+metit (i)
+meshanka
+mnogoobraznyj
+molva
+monument
+morshinka
+mramornyj
+muzhitskij
+navalivat/navalit (+a)
+navechno
+navoz
+nagluho
+nagrevat/nagret (+a)
+nadvigatsya/nadvinutsya
+nadobno 
+nanimat/nanyat (+a)
+poit/na- (+a)
+naposledok 
+naravne (s +inst)
+naskoro 
+nastezh
+nauchno
+nedoverchivo
+nezabyvaemyj
+nemyslimyj
+nenormalnyj
+nepobedimyj
+nepolnyj
+nepreklonnyj
+nepreodolimyj
+neslyshno
+neutomimyj
+nyryat/nyrnut
+obdumyvat/obdumat (+a)
+oberegat/oberech (+a ot +g)
+obihod
+oblachnyj
+oblivat/oblit (+a +inst)
+oblozhka
+obnazhyonnyj
+obobshenie
+obraztsovyj
+obrushivatsya/obrushitsya
+odnovremennyj
+ozhivlyonnyj
+okrestnyj
+opaska 
+oproverzhenie
+opushennyj
+osvoboditelnyj
+oslozhnenie
+osmyslivat/osmyslit (+a)
+ostavshijsya
+ostroumnyj
+otbor
+otdelyatsya/otdelitsya (ot +g)
+otklikatsya/otkliknutsya (na +a)
+otovsudu
+otritsanie
+oshutimyj
+oshushatsya (i)
+panorama
+parlamentskij
+parta
+pautina
+pevitsa
+pervonachalno
+pereval
+peredelka
+perekryostok
+pereliv
+perenimat/perenyat (+a)
+peresadka
+peresprashivat/peresprosit (+a)
+periodicheskij
+pirozhok
+plavno
+plavuchij
+plodotvornyj
+povestvovanie
+povinovatsya (i/p) (+d)
+povodit/povesti (+inst)
+pogranichnyj
+podveshivat/podvesit (+a)
+podderzhanie
+podlezhat (i) (+d)
+podozritelnyj
+podolgu
+po-drugomu
+podruzhitsya (r) (s +inst)
+podskakivat/podskochit
+podstup (k +d)
+podtverzhdatsya/podtverditsya
+podchas
+poedinok
+pointeresovatsya (r) (+inst)
+polirovannyj
+politburo
+politicheski
+polozhitelno
+pomeha
+ponedelnik
+pit/po-
+porochnyj
+pospevat/pospet (k +d/na +a)
+posredstvo
+posypatsya (i/p)
+po-tvoemu
+potirat/poteret (+a)
+trevozhit/po- (+a)
+pouchat (i) (+a)
+shadit/po- (+a)
+pregrada
+predislovie
+predotvrashenie
+predshestvovat (i) (+d)
+prenebregat/prenebrech (+inst)
+preniya (n pl)
+pribrezhnyj
+privivat/privit (+a)
+priz
+prikreplyat/prikrepit (+a k +d)
+primeta
+prisvaivat/prisvoit (+a)
+prismatrivat/prismotret (za +inst)
+pristalnyj
+prisutstvuushij
+priuchat/priuchit (+inf or k +d)
+prichyoska
+prichudlivyj
+propovedovat (i) (+a)
+proryvatsya/prorvatsya
+prorezyvat/prorezat (+a)
+prosvechivat (i)
+proslavlyat/proslavit (+a)
+prostaivat/prostoyat
+prostynya
+protokol
+protsedura
+ptichka
+puls
+puskaj
+pustyr (m)
+pylat (i)
+radikalnyj
+raduzhnyj
+razbeg
+razboj
+razbojnichij
+razvoditsya/razvestis
+razdrazhyonno
+razletatsya/razletetsya
+razmeshatsya/razmestitsya
+raznovidnost (f)
+razryvatsya/razorvatsya
+razoryatsya/razoritsya
+razreshatsya (i)
+rasa
+raskaivatsya/raskayatsya (v +pr)
+raskidyvat/raskinut (+a)
+raspravlyatsya/raspravitsya (s +inst)
+rastsvetat/rastsvesti
+realizm
+regulyarno
+regulyarnyj
+remontirovat (i/p) (+a)
+rzhavyj
+robet/o-
+rozygrysh
+rokovoj
+roskoshnyj
+roslyj
+rytsya/po- (v +pr)
+samootverzhennyj
+sanitarnyj
+sedina
+sekretnyj
+sektsiya
+semsot
+sessiya
+sklonyat/sklonit (+a)
+sliyanie
+slozhno
+meshat/s- (+a)
+smeshivatsya/smeshatsya
+smola
+smushyonnyj
+sobrannyj
+sovpadenie
+somnitelnyj
+sosredotochivatsya/sosredotochitsya (na +pr)
+spasitelnyj
+spirt
+splochyonnyj
+staven (m)
+temnet/s-
+stirat/steret (+a)
+stalkivat/stolknut (+a)
+ston
+stop
+suetitsya/za-
+sukonnyj
+schastlivets
+schyoty (pl)
+tarakan
+tahta
+telegrafnyj
+terpelivyj
+testo
+tolchok
+toptatsya (i)
+torgovets
+tosklivo
+tosklivyj
+trebovatelnyj
+trenirovka
+tret (f)
+trogatsya/tronutsya
+truslivyj
+tryapyo
+tryahnut (p)
+tss
+tumba
+tuchka
+ugnetat (i) (+a)
+udochka
+ukoriznenno
+umestno
+umysel
+unizhat/unizit (+a)
+unichtozhatsya/unichtozhitsya
+upravlyaemyj
+upravlyatsya (i)
+usilenno
+usilennyj
+uhitryatsya/uhitritsya (+inf)
+uut
+uutno
+uyasnyat/uyasnit (+a)
+falshivyj
+farfor
+fasad
+harakterizovatsya (i) (+inst)
+hlebnut (r) 
+hlopotat/po-
+holodok 
+horoshenko 
+hripet (i)
+hristianskij
+hromat (i)
+hromoj
+hudshij
+tsvetushij
+tselesoobraznost (f)
+chelovechnost (f)
+chernet/po-
+chyortov
+chudovishe
+chuzhbina
+shahtyor
+sherenga
+shestnadtsatyj
+shtora
+shurshat (i)
+avanturist
+aviatsionnyj
+agitirovat (i)
+akt
+ali 
+argument
+astronomiya
+bazis
+balovatsya (i)
+bar
+barhatnyj
+spirtnoj
+bashmak
+bedno
+bezvestnyj
+bezgramotnyj
+bezdelushka
+bezdelnik
+bezdonnyj
+berezhlivost (f)
+beryot
+besplatno
+besprepyatstvennyj
+besstrashno
+beshenstvo
+biolog
+birzha
+snosit/snesti (+a)
+blank
+blizitsya/pri-
+blizorukij
+bluzhdat (i)
+bogato
+boepripasy (pl)
+bojnya
+boyazno  (+d) (+inf)
+bresh (f)
+bulyzhnik
+burkat/burknut
+valuta
+vatnyj
+vvys
+vdogonku 
+venskij
+veritsya (i) (+d)
+versiya
+vestnik
+ustarevat/ustaret
+vzryvatsya/vzorvatsya
+vzyatie
+vzyatka
+vinit/ob- (+a v +pr)
+vkusno
+tonut/u-
+vlastno
+vlastnyj
+vlech (r) (+a)
+vodorosl (f)
+vozbuzhdaushij
+vozbuzhdyonno
+vozdvigat/vozdvignut (+a)
+vozdejstvovat (i/p) (na +a)
+vozmushat/vozmutit (+a)
+vooruzhatsya/vooruzhitsya
+vosemnadtsatyj
+voskresat/voskresnut
+vospityvatsya/vospitatsya
+vrazhda
+vrazhdebno
+predvybornyj
+vroz
+vsenoshnaya
+vserossijskij
+vybornyj
+vybyvat/vybyt (iz +g)
+vygovarivat/vygovorit (+a)
+vyzhivat/vyzhit
+vykidyvat/vykinut (+a)
+vymetat/vymesti (+a)
+vyplata
+vypolnyatsya (i)
+vypuklyj
+vyshvyrivat/vyshvyrnut (+a)
+gavan (f)
+gerb
+gerojstvo
+gimnastika
+golubchik 
+gonorar
+gonyatsya (i) (za +inst)
+goryachitsya/raz-
+grazhdanka
+gretsya/po-
+gulko
+gulyane
+devyatnadtsatyj
+delets
+derzost (f)
+dobrota
+doistoricheskij
+dokumentalnyj
+domna
+dosadno
+dostovernost (f)
+drat/so- (+a)
+dubovyj
+durit (i) 
+dymnyj
+dymchatyj
+dyakon
+dyadka (m) 
+el (f)
+yomkost (f)
+zhguchij
+zhelatelno
+zherlo
+zhyornov
+zhizneradostnyj
+zabvenie
+zabotlivo
+zabresti (r)
+zagar
+zagibat/zagnut (+a)
+zagorazhivat/zagorodit (+a)
+zagruzka
+zaderzhka
+zazvenet (r)
+zaladit (r) (+a)
+zaletat/zaletet (v +a) 
+zalivatsya/zalitsya
+maskirovat/za- (+a)
+zapadnya
+zaraza
+zarazhat/zarazit (+a +inst)
+rezat/za- (+a)
+zaslonyat/zaslonit (+a)
+obnadyozhivat/obnadyozhit (+a)
+zatvoryat/zatvorit (+a)
+zaterivatsya/zateryatsya
+zahlopyvat/zahlopnut (+a)
+zashishatsya/zashititsya
+zevat/zevnut
+zemledelcheskij
+zlodej
+zorko
+zyat (m)
+idealizm
+izdavatsya/izdatsya
+izdavna
+izdatelskij
+izumlyonno
+burzhuaziya
+klassovyj
+almaz
+sosud
+monopoliya
+pyatiletka
+chajka
+kislota
+konsul
+avstrjets
+avstrijskij
+okorok
+major
+vsesouznyj
+uglerod
+upravlyaushij (+inst)
+kolonialnyj
+krasnoarmyoets
+sharf
+volosok
+spetsializirovannyj
+ekspert
+arab
+bezhenets
+vahta
+trest
+hokkeist
+vsadnik
+vychislitelnyj
+gips
+obshatsya (i) (s +inst)
+zagotovka
+monarhiya
+nravstvennost (f)
+dlitelnost (f)
+mishen (f)
+zarplata (zarabotnaya plata)
+trassa
+kazachij
+kuharka
+obligatsiya
+vals
+kormovoj
+astronom
+vozzrenie
+kodeks
+efir
+zola
+kitel (m)
+kontsentratsiya
+obozhdat (r) (+a)
+prevoshoditelstvo
+burzhuj 
+idejnyj
+elektronnyj
+buksir
+lakej
+propusk
+osadok
+rastitelnyj
+yachejka
+artillerist
+sosushestvovanie
+ozimyj
+poruchik
+gornichnaya
+terrasa
+vselyonnaya
+luk
+skeptik
+svetyashijsya
+hrustal (m)
+plug
+chastushka
+shirma
+souznyj
+spekulyant
+trener
+brusok
+granit
+krolik
+monumentalnyj
+vodorod
+ochko
+rudnik
+futbol
+hutor
+potreblenie
+respublikanskij
+krater
+atmosfernyj
+svetovoj
+stanitsa
+ruda
+babka 
+kanadets
+kukuruza
+liricheskij
+nary (pl)
+nauchno-tehnicheskij
+sernyj
+flang
+shestyorka
+shef
+brus
+egipetskij
+izluchat/izluchit (+a)
+kommunisticheskij
+kontrrevolutsiya
+kotlovan
+linza
+oboz
+azh 
+bufetchik
+kubometr
+kurgan
+metallurgicheskij
+observatoriya
+otchyotnyj
+platyozhnyj
+platyozh
+pokuda 
+sochnyj
+susha
+agitator
+alpijskij
+batya (m) 
+bolshevistskij
+stabilnost (f)
+gimnazist
+izumrud
+proektirovanie
+urozhajnost (f)
+fizkultura
+ustnyj
+vyemka
+garmoshka 
+gorkom
+zaryazhennyj
+karavan
+krona
+mehanika
+nakidka
+otstavlyat/otstavit (+a)
+pavilon
+patrul (m)
+portovyj
+prositsya/po- (+inf or v/na +a)
+skulptor
+upiratsya/uperetsya (v +a)
+upolnomochennyj
+shajba
+shtatskij
+shtyk
+albom
+Бogoroditsa
+valovoj
+gol
+gruzchik
+dvustoronnij
+devalvatsiya
+desyatina
+kozyryok
+subektivnyj
+vozhzha
+gamma
+karniz
+drevesina
+opros
+katolicheskij
+kometa
+literator
+perevozka
+podvizhnyj
+proektnyj
+rakovina
+semechko
+sera
+smetana
+suzhdeno (+d +inf)
+vvod
+vneshnepoliticheskij
+vreditel (m)
+dotatsiya
+zhiletka
+zabolevanie
+zakalka
+zalezh (f)
+zernovoj
+izgotovlyatsya/izgotovitsya
+inspektsiya
+kollektivizatsiya
+konstruktorskij
+kooperatsiya
+lesnichij
+lishenie
+proizvoditel (m)
+fenomen
+radist
+uprochenie
+uran
+ham 
+hrustalnyj
+alkogolik
+chrevatyj (+inst)
+geografiya
+dushevno
+izvest (f)
+konushnya
+krupa
+lyagushka
+metallurgiya
+mys
+obsledovat (i/p) (+a)
+otrez
+peremirie
+plot
+predusmatrivatsya (i)
+prinuzhdenie
+prirost
+razgadyvat/razgadat (+a)
+rastvoryat/rastvorit (+a)
+reaktivnyj
+rys (f)
+rukzak
+svyazist
+sinteticheskij
+sostradanie
+start
+sushit/vy- (+a)
+dekada
+zavoevatel (m)
+katushka
+kitaets
+komendatura
+kotleta
+matematicheskij
+mikrofon
+obostrenie
+pirat
+plavki (pl)
+povarennyj
+prestarelyj
+purga
+reportyor
+svinstvo 
+sekretarsha 
+tayozhnyj
+ubezhdyonnost (f)
+shotlandskij
+shpaga
+shtabnoj
+shepa
+evolutsiya
+ekvator
+yagnyonok
+avstralijskij
+antisemitizm
+bob
+bulavka
+vataga
+vozzvanie
+vsemernyj
+debut
+estestvoznanie
+miloserdie
+karusel (f)
+konditsioner
+hozraschyot
+chutyo
+nakalyonnyj
+novator
+optimalnyj
+ostov
+otsek
+prishurivatsya/prishuritsya
+probeg
+proslezitsya (r)
+skula
+raketnyj
+rezba
+rodovoj
+sotsial-demokraticheskij
+tualet
+futbolist
+chemodanchik
+shovinizm
+shory (pl)
+avans
+ateisticheskij
+babushkin
+gipsovyj
+eres (f)
+zastenok
+kefir
+izveshat/izvestit (+a)
+kalach
+klichka
+kolokolchik
+kompozitsiya
+kontur
+koordinatsiya
+kochka
+kubik
+kura 
+kustarnik
+lednikovyj
+lepit/vy- (+a)
+lirika
+medlit (i)
+milenkij
+mozaika
+nagrevatsya/nagretsya
+obnovlenie
+poznavat/poznat (+a)
+priostanavlivatsya/priostanovitsya
+raspisanie
+sazha
+svetilo
+sechenie
+sliva
+snoshenie
+tusha
+upryazhka
+utopicheskij
+hodovoj
+chuvstvitelnost (f)
+chudnyj
+fara
+shluz
+shov
+shram
+emigrant
+azot
+aristokrat
+bes
+besedka
+blagoustrojstvo
+bolotnyj
+broshka
+varirovat (i) (+a)
+vetvitsya/raz-
+vish
+vodoprovod
+vozbuzhdatsya/vozbuditsya
+voskovoj
+vostorgatsya (i) (+inst)
+kinoteatr
+dostup (k +d)
+obekt
+gubernator
+dvoryanstvo
+divitsya/po- (+d)
+diktator
+zhyolob
+voenno-morskoj
+zhilka
+izmelchyonnyj
+isparenie
+kater
+tekstilnyj
+tuk
+otval
+istechenie
+kerosinovyj
+konus
+krepostnichestvo
+ledovyj
+lepyoshka
+lesnik
+maksimum
+mashinistka
+obshenarodnyj
+original
+orientatsiya
+osypat (i/p) (+a +inst)
+pyoryshko 
+peshij
+piterskij 
+pobedonosnyj
+karat/po- (+a)
+polkovoj
+pripiska
+promezh (+g or +inst)
+rezets
+reproduktsiya
+risovatsya (i)
+rukoyatka
+serp
+siren (f)
+sobachonka 
+soprikosnovenie
+splav
+srez
+stok
+strujka
+syr
+termometr
+transportirovka
+trum
+ugode
+utselevshij
+uchastnitsa
+imenie
+instinkt
+intensivnyj
+ispanskij
+izvozchik
+issledovatelskij
+kavkazskij
+kazarma
+kapkan
+karerist
+kastrulya
+kashel (m)
+kinzhal
+kishka
+klinok
+kloun
+klubok
+kobel (m)
+koe-kakoj
+kommercheskij
+kollektsioner
+kolodets
+kolotit/po- (+a)
+koluchka
+komplekt
+konvoj
+konki (m pl)
+konyak
+koordinirovat (i/p) (+a)
+koposhitsya (i)
+kopchyonyj
+kopyo
+korolyovskij
+kommunalnyj
+kosmonavt
+krab
+krastsya (i)
+krotkij
+krugozor
+kruzhit (i) (+a)
+krymskij
+kudryavyj
+kursy (m pl)
+lavina
+lampada
+landshaft
+legkomyslie
+letopis (f)
+lovlya
+lozhnyj
+lupa
+lulka
+magistral (f)
+magnit
+mamin
+martovskij
+maskirovka
+mah
+mayatnik
+mgnovennyj
+medik
+medlitelnyj
+mest (f)
+metat/metnut (+a)
+metko
+mehanizirovat (i/p) (+a)
+mirazh
+mif
+mnogovekovoj
+mobilizatsiya
+morshina
+moh
+muravej
+mut (f)
+myslennyj
+mychat (i)
+nabat
+naveki
+naglyj
+nadstrojka
+nayomnik
+nalichnyj
+napryamik 
+nasazhivat/nasadit (+a na +a)
+naselyonnyj
+nasilno
+nasmert
+nastorazhivatsya/nastorozhitsya
+nasyshat/nasytit (+a +inst)
+nasyshennyj
+nate 
+natyagivat/natyanut (+a)
+neblagopriyatnyj
+nevesyolyj
+nevest 
+nevzrachnyj
+negramotnost (f)
+nezamenimyj
+neminuemo
+neobozrimyj
+neobychno
+neostorozhnyj
+neotemlemyj
+nepopravimyj
+nepremennyj
+neprilichno
+neravnomernyj
+neslozhnyj
+nesomnennyj
+netronutyj
+neudobstvo
+neustojchivyj
+nepriemlemyj
+notka
+nudnyj
+obizhennyj
+obitat (i)
+obkladyvat/oblozhit (+a)
+oblagat/oblozhit (+a)
+obnimatsya/obnyatsya
+obogashatsya/obogatitsya
+obogashat/obogatit (+a)
+oboi (pl)
+oboronyatsya/oboronitsya (ot +g)
+obrechyonnyj
+obronit (r) (+a)
+obstoyatelnyj
+obstrel
+obuchat/obuchit (+a +d)
+obydennyj
+okidyvat/okinut (vzglyadom)
+okkupatsionnyj
+okovy (pl)
+operezhat/operedit (+a)
+opravlyatsya/opravitsya
+organizovannost (f)
+organizovyvat/organizovat (+a)
+orudijnyj
+osvobozhdyonnyj
+osenu
+oskorbitelnyj
+slabet/o-
+oslepitelnyj
+osnashat/osnastit (+a +inst)
+osoznavat/osoznat (+a)
+ostalnoe
+strich/o- (+a)
+ostrovok
+otboj
+otbyvat/otbyt (+a)
+otvaga
+otvalivat/otvalit (+a)
+otvesnyj
+otklik
+otryvok
+oshibochnyj
+panihida
+parom
+passivnyj
+pevets
+pepelnitsa
+perebrasyvat/perebrosit (+a cherez +a)
+peredumyvat/peredumat
+perekryvat/perekryt (+a)
+perelyot
+perenositsya/perenestis
+pereodevatsya/pereodetsya
+perepletatsya/pereplestis
+pererabotka
+perestupat/perestupit (+a or cherez +a)
+persidskij
+personal
+pilit (i) (+a)
+plasticheskij
+plenitelnyj
+plotnost (f)
+pobaivatsya (i) (+g)
+gruzitsya/po-
+pogruzka
+podavlyat (i) (+a)
+podpirat/podperet (+a)
+podstavlyat/podstavit (+a pod +a)
+podtalkivat/podtolknut (+a)
+podtyanutyj
+zhertvovat/po- (+a) 
+pokryvalo
+polovitsa
+poluchka 
+polyj
+mahat/po- (+inst)
+medlit/po-
+mereshitsya/po-
+pomyot
+pometka
+poprishe
+poputno
+poputnyj
+radovat/po- (+a)
+radovatsya/po- (+d)
+porazhyonnyj
+poryvisto
+postigat/postich (+a)
+potemnevshij
+tolkovat/po- (o +pr s +inst)
+potomstvennyj
+potryasyonnyj
+pohorony (pl)
+po-chelovecheski
+pochyom 
+pochtalon
+pochtenie
+predok
+predskazanie
+premera
+prepyatstvovat (i) (+d)
+priglyadyvatsya/priglyadetsya (k +d)
+prigorod
+priyomnyj
+prizemistyj
+prikryvatsya/prikrytsya (+inst)
+primenitelno (k +d)
+primykat (i) (k +d)
+pripodnyatyj
+prihvatyvat/prihvatit (+a)
+prichinyat/prichinit (+a)
+budit/pro- (+a)
+probyt (r)
+progolodatsya (r)
+prodvigatsya/prodvinutsya
+prodovolstvennyj
+produktivnost (f)
+proezd
+prozvishe
+prestupnost (f)
+prokat
+proklyatie
+prolezat/prolezt (v +a)
+promenivat/promenyat (+a na +a)
+promysel
+pronzitelnyj
+polnotsennyj
+prosvet
+prostitelno
+protivopostavlyat/protivopostavit (+a +d)
+protyazhno
+publikatsiya
+pusk
+pyatyorka
+razvitoj
+razgovoritsya (p)
+razevat/razinut (+a)
+razogrevat/razogret (+a)
+razrastatsya/razrastis
+razrezat (i/p) (+a)
+razuznavat/razuznat (+a)
+razezd
+razyasnenie
+rasproshatsya (p) (s +inst)
+rasstroennyj
+rashazhivat (i)
+rvanut (r) (+a)
+rekonstruirovat (i/p) (+a)
+relef
+repressiya
+roditelskij
+rodnik
+romantika
+reagirovat/ot- (na +a)
+rubinovyj
+rubrika
+rukopozhatie
+rybolovnyj
+sadovod
+samka
+samogon
+samoubijstvo
+saharnyj
+svyokla
+svergat/svergnut (+a)
+svetat (i)
+svetskij
+svojstvenno (+d)
+sgoranie
+sgoryacha
+sdvinutyj
+sderzhivatsya/sderzhatsya
+sviter
+sektor
+seryoznost (f)
+sibiryak
+sito
+skvoznoj
+sklyanka
+skovorodka
+skoplyatsya/skopitsya
+skorogovorka
+slavitsya (i) (+inst)
+slavyanskij
+slozhenie
+smyvat/smyt (+a)
+snimatsya/snyatsya
+sobachka
+sobludatsya (i)
+soprikasatsya (i) (s +inst)
+sornyak
+sotsial-demokrat
+sochetat (i/p) (+a s +inst)
+spad
+spekulyatsiya
+speshno
+speshnyj
+staratelno
+staya
+sterzhen (m)
+stirka
+strategiya
+stropilo
+suevernyj
+suhoputnyj
+sushij 
+surtuk
+tablichka
+takticheskij
+tankovyj
+tara
+tatarskij
+tvorcheski
+telyonok
+tolkom 
+teoreticheski
+terzat (i) (+a)
+tesnota
+tehnikum
+tigr
+tomitelnyj
+tonko
+tort
+tramplin
+trevozhitsya/vs-
+treugolnik
+trinadtsat
+tshatelnyj
+ubiratsya/ubratsya
+ugovor
+ukazanie
+udalenie
+udirat/udrat
+ukazyvatsya/ukazatsya
+uklonchivo
+ukor
+ukutyvat/ukutat (+a)
+uluchshatsya/uluchshitsya
+umelyj
+umnozhat/umnozhit (+a)
+unynie
+uporstvo
+upravlyatsya/upravitsya (s +inst)
+uregulirovanie
+usatyj
+uslovlivatsya/uslovitsya (c +inst o +pr/inf)
+uslovno
+uslyhat (r) (+a)
+usmatrivat/usmotret (+a v +pr)
+uhvatyvat/uhvatit (+a)
+fakel
+fakticheskij
+fermer
+fizicheski
+flejta
+formirovat/s- (+a)
+hizhina
+hihikat/hihiknut
+hladnokrovnyj
+hrabrost (f)
+hriplo
+hriplyj
+tsaritsa
+chastenko 
+chastichno
+cherv (m)
+chernomorskij
+chudno
+chutkij
+shalash
+shampanskoe
+shahmatnyj
+shkafchik
+shossejnyj
+shyolka
+shit
+ekonomno
+energetika
+estrada
+etika
+yantarnyj
+yantar (m)
+ad
+akkord
+aktivizatsiya
+altar (m)
+antenna
+apelsin
+apostol
+armejskij
+assignovanie
+baran
+bayan
+bezgramotnost (f)
+bezdna
+bezdushnyj
+bezzavetno
+bezmolvno
+beznakazanno
+bezoshibochno
+bezuspeshno
+belila (pl)
+berechsya (i)
+bessledno
+besstydno
+biznesmen
+blagopoluchnyj
+blazhenstvo
+dopustimyj
+blindazh
+bludechko
+bogach
+bodro
+bojko
+bombit/raz- (+a)
+braslet
+brozhenie
+bronya (bron)
+bronya
+brosok
+budka
+bukvalnyj
+buterbrod
+buhgalter
+burokraticheskij
+burokratiya
+vdrebezgi
+venets
+veselit/raz- (+a)
+vesomyj
+veshitsa
+vzaimovygodnyj
+vzyskanie
+vinogradnik
+vint
+dolgosrochnyj
+vitse-prezident
+vlevo
+vnushitelno
+vovlekat/vovlech (+a v +a)
+vodopad
+voedino
+voenshina
+vozhak
+vozvyshennyj
+vol
+vopiushij
+vorovstvo
+vorona
+vorchlivo
+vosemsot
+vseobemlushij
+vulgarnyj
+vhodnoj
+vygruzhat/vygruzit (+a)
+vydavatsya/vydatsya
+vydacha
+vydvigatsya/vydvinutsya
+vyzhidatelno
+vyzhidatelnyj
+vyzhidat/vyzhdat (+a)
+vyzdoravlivat/vyzdorovet
+vynyrivat/vynyrnut
+vysovyvat/vysunut (+a)
+vysokokachestvennyj
+gerojskij
+glinistyj
+glotok
+gnut/so- (+a)
+godnyj
+gollandskij
+gololyod
+gorlyshko
+gorchitsa
+grozitsya/po- (+inf)
+grohotat/za-
+gryada
+gryadka
+gubitelnyj
+devstvennyj
+dezhurit (i)
+detvora 
+deyanie 
+dobrodushno
+dobyvatsya/dobytsya
+doveritelno
+doveritsya (p) (+d)
+doverchivyj
+dozhdik
+dokladchik
+doktrina
+donesenie
+dostovernyj
+dohnut/po-
+dyshat/dohnut
+doshechka
+doyarka
+drozh (f)
+dubina
+duga
+dudka
+dymovoj
+dyryavyj
+dyavolski
+edinodushno
+zhalobnyj
+zhivuchij
+zhivyom 
+zhitie
+bormotat/za- (+a)
+zabrasyvat/zabrosit (+a)
+zavershatsya/zavershitsya
+zaveshat (i/p) (+a +d)
+zagadochno
+glohnut/za-
+zagonyat (r) (+a)
+zagrobnyj
+zad
+zadolgo
+zazhigatsya/zazhechsya
+zhmuritsya/za-
+zainteresovannyj (v +pr)
+kipet/za-
+zakladka
+zamatyvat/zamotat (+a)
+nochevat/za-
+zaokeanskij
+zapasatsya/zapastis
+zapodazrivat/zapodozrit (+a v +pr)
+zapazdyvat/zapozdat (s +inst)
+zapret
+zapryagat/zapryach (+a)
+zaputyvatsya/zaputatsya
+zarosshij
+zasazhivatsya/zasest
+zastenchivyj
+zataivat/zatait (+a)
+zatrudnyat/zatrudnit (+a)
+zatyazhka
+zaulybatsya (r)
+zauryadnyj
+zelenet/po-
+konstatirovat (i/p)
+znamenitost (f)
+znoj
+zrelyj
+zret/so-
+importnyj
+idilliya
+idol
+izbivat/izbit (+a)
+izlishne
+illustratsiya
+imeniny (pl)
+inertsiya
+inostranets
+ironicheskij
+iskanie
+ispytannyj
+istekat/istech
+isteriya
+istok
+istreblenie
+ischerpyvat/ischerpat (+a)
+kabala
+kamorka 
+kapriz
+katorzhnyj
+kauchuk
+kayatsya/ras- (v +pr)
+kverhu
+kipa
+kit
+kladka
+kletchatyj
+klimaticheskij
+klukva
+klyacha
+kobyla
+kolesiko
+kolechko
+kolybel (f)
+konservatoriya
+konservnyj
+kontrrevolutsioner
+kormitsya (i) (+inst)
+koroleva
+korona
+korystnyj
+kostyanoj
+kratkovremennyj
+krashenyj
+krivlyatsya (i) 
+krivo
+kruzhevo
+krupno
+kudri (pl)
+kupane or kupanie
+kupe
+ladit/po- (s +inst)
+lebed (m/f)
+legalnyj
+lednik
+lesenka 
+lesorub
+lizat/liznut (+a)
+limon
+lisa
+listat (i) (+a)
+lift
+lgota
+ldina
+lubovnyj
+medvezhij
+mezh (+inst or +g)
+myorznut/za-
+merit/iz- (+a)
+mertsat (i)
+meh
+mehanizirovannyj
+mehanicheski
+meshanskij
+meshanstvo
+mikrob
+mindal (m)
+minimalnyj
+mnogoznachitelno
+molot
+molba
+monarhicheskij
+monopolnyj
+motatsya (i) 
+motornyj
+mototsikl
+moshennik
+mudrets
+muzejnyj
+musornyj
+mchat (i) (+a)
+naves
+naveshat/navestit (+a)
+myasnoj
+nagryanut (r)
+nadbavka
+nayomnyj
+nakaplivatsya/nakopitsya
+naklon
+napodobie (+g)
+napolnyatsya/napolnitsya (+inst)
+narastanie
+naselyat/naselit (+a)
+nasledstvennyj
+nasovsem 
+nastavnik
+natvorit (r) (+g)
+natalkivatsya/natolknutsya (na +a)
+nahalstvo
+nayavu
+nebosklon
+nevmeshatelstvo (v +a)
+nevozmozhnost (f)
+naugad
+nevolnyj
+nedostojnyj
+nezheli
+nezakonno
+nezdorovyj
+nekogo (+inf)
+nelepo
+nepovtorimyj
+nepostizhimyj
+nepravyj
+neprivychnyj
+neprikosnovennyj
+neprohodimyj
+nesravnenno
+neterpelivyj
+neudachno
+neumestnyj
+nefteprovod
+nehotya
+nichtozhestvo
+novizna
+nozhik
+nozhnitsy (pl)
+nora
+nosik
+nochleg
+nosha
+obvodit/obvesti (+a)
+obitatel (m)
+oblezlyj 
+obnaruzhenie
+obosnovanie
+obosnovyvat/obosnovat (+a)
+obostryat/obostrit (+a)
+obraznyj
+obuvat/obut (+a)
+obhoditelnyj
+obsheizvestnyj
+obshina
+obektivnost (f)
+obyvatel (m)
+obysk
+ovatsiya
+ogolyonnyj
+ogorchenie
+ogorchat/ogorchit (+a)
+odyorgivat/odyornut (+a)
+odinnadtsatyj
+odinochnyj
+oziratsya (i)
+zlitsya/o-
+ozloblennyj
+oznakomlenie (s +inst)
+okazanie
+okkupirovat (i/p) (+a)
+opernyj
+opozdanie
+orientirovatsya (i/p)
+osvedomlyatsya/osvedomitsya (o +pr)
+osveshatsya/osvetitsya
+osnashenie
+osnovatelnyj
+otbivatsya/otbitsya (ot +g)
+otoplenie
+pechatat/ot- (+a)
+otpravka
+otrekatsya/otrechsya (ot +g)
+otrubat/otrubit (+a)
+otstavanie
+otstranyat/otstranit (+a)
+ohlazhdat/ohladit (+a)
+pakost (f)
+palchik
+parshivyj
+peregonyat/peregnat (+a)
+peredvigat/peredvinut (+a)
+peredelyvat/peredelat (+a)
+perednik
+pereezd
+pereigryvat/pereigrat (+a)
+perelivatsya/perelitsya
+perelom
+perenos
+perenosnyj
+perepisyvat/perepisat (+a)
+pereprava
+pereselyatsya/pereselitsya
+perestavlyat/perestavit (+a)
+peret (i) 
+perehvatyvat/perehvatit (+a)
+perets
+persona
+pisatelskij
+plavnyj
+planomernyj
+plachushij
+plemennoj
+plot (f)
+plyaska
+poblizosti
+pobornik (+g)
+pobuzhdenie
+povadka 
+povozka
+podacha
+podbrasyvat/podbrosit (+a)
+podvigat/podvinut (+a)
+polzovanie (+inst)
+ponachalu 
+podnozhie/podnozhe
+podokonnik
+podslushivat/podslushat (+a)
+podyomnyj
+zhevat/po- (+a)
+zhech/po- (+a)
+pozorno
+polosatyj
+polyhat (i)
+pomalkivat (i) 
+pomeshichij
+pomost
+ponizhat/ponizit (+a)
+obeshat/po- (+a +d)
+popolnenie
+poputchik
+porovnu
+porozhnij 
+rugatsya/po-
+poslezavtra
+postnyj
+postukivat (i)
+potomstvo
+potreblyat/potrebit (+a)
+prebyvat (i)
+prevoshodno
+predpisanie
+predprinimatel (m)
+preobladat (i)
+prestupnyj
+privetlivyj
+prigorodnyj
+pridvigatsya/pridvinutsya (k +d)
+priderzhivat/priderzhat (+a)
+priyomnaya
+priznannyj
+primechatelno
+primirenie
+pripadok
+pripasy (m pl)
+prisyagat/prisyagnut (v +pr +d)
+probel
+probivat/probit (+a)
+provokator
+gremet/pro-
+progulivatsya/progulyatsya
+demonstrirovat/pro- (+a)
+prozyvat/prozvat (+a +inst)
+promah
+promezhutochnyj
+pronzitelno
+propagandirovat (i) (+a)
+proportsionalnyj
+prosypat/prospat
+prostiratsya/prosteretsya
+prostorno
+prostuzhatsya/prostuditsya
+protirat/proteret (+a)
+protyagivatsya/protyanutsya
+prohvost 
+prohozhdenie
+protsvetat (i)
+proyasnenie
+prutik
+pchela
+psheno
+pyanka 
+pyata
+razbegatsya/razbezhatsya
+razvedyvatelnyj
+razveshivat/razvesit (+a)
+razdroblennyj
+razlivatsya/razlitsya
+razlichatsya (i) (+inst)
+razmeshenie
+raznorodnyj
+razgonyat/razognat (+a)
+razoryat/razorit (+a)
+razocharovannyj
+razygryvatsya/razygratsya
+rasizm
+raskusyvat/raskusit (+a)
+rasporyazhatsya/rasporyaditsya
+rasstilatsya/razostlatsya
+rasstrojstvo
+rassypat (i/p) (+a)
+rastitelnost (f)
+realisticheskij
+rebyachij
+revnivyj
+remeslennik
+resheto
+rogozha
+rozhok
+romans
+rynochnyj
+salut
+samokritika
+samosoznanie
+sberegat/sberech (+a)
+sveshivat/svesit (+a)
+sensatsiya
+sentyabrskij
+serviz
+serijnyj
+sidenie
+sinyak
+skalistyj
+skandalnyj
+skorb (f)
+skromno
+skromnost (f)
+slat/po- (+a)
+slovtso 
+sluga (m)
+smeshit (i) (+a)
+smeshok
+smutno
+snaryazhat/snaryadit (+a)
+snishoditelno
+snishoditelnyj
+sovershenstvovatsya/u- (v +pr)
+soderzhatelnyj
+soldatik
+solidno
+sooruzhat/soorudit (+a)
+sootechestvennik
+sopostavlyat/sopostavit (+a)
+soputstvovat (i) (+d)
+soroka
+sosedskij
+sosredotochenno
+sostavlenie
+sosulka
+speshka
+sprygivat/sprygnut (s +g)
+srezat (i/p) (+a)
+stakanchik
+stachka
+stekolshik
+stennoj
+stojko
+stranstvovat (i)
+strelkovyj
+struzhka
+struitsya (i)
+stychka
+sudorozhno
+suka
+sukno
+sumrachnyj
+suhar (m)
+suzhet
+tajnik
+tankist
+territorialnyj
+tesnitsya (i)
+tyotushka
+titul
+tif
+tokar (m)
+tolkovyj
+torzhestvovat (i) (nad +inst)
+trezvo
+triumf
+trogatelnyj
+truk
+tugoj
+turizm
+turok
+tysyacheletnij
+tyagost (f)
+uvesistyj
+udostaivat/udostoit (+a +g)
+uklonyatsya/uklonitsya (ot +g)
+ukorenyatsya/ukorenitsya
+ukreplyatsya/ukrepitsya
+universalnyj
+unimatsya/unyatsya
+upominatsya/upomyanutsya
+uporyadochenie
+uprava
+uproshyonnyj
+upryamstvo
+useivat/useyat (+a +inst)
+ustranenie
+utverzhdatsya/utverditsya
+uteshenie
+utug
+uha
+final
+finish
+finskij
+formatsiya
+hilyj
+hirurg
+hristianstvo
+hronika
+tsarapat/tsarapnut (+a)
+tselesoobraznyj
+tseleustremlyonnyj
+tsivilizovannyj
+tsygan
+chelust (f)
+cheredovanie
+chetyresta
+cheshskij
+chistka
+chitatelskij
+chihat/chihnut
+chrezmerno
+shatatsya (i)
+shatkij
+shahmaty (pl)
+shvejnyj
+shevelitsya/shevelnutsya
+sheluha
+shershavyj
+shiritsya (i)
+shishka
+shlyatsya (i) 
+shpora
+shtab-kvartira
+shtormovoj
+shedrost (f)
+shenok
+elektronika
+effektnyj
+yaichnitsa
+yarmarka
+avianosets
+avtonomnyj
+azart
+azbuka
+akula
+alkogol (m)
+arenda
+babochka
+bagazh
+bak
+barahlo 
+bditelnyj
+bedro
+bezdejstvovat (i)
+bezotvetstvennyj
+bezropotno
+bespechnyj
+bestolkovyj
+bint
+bloha
+boltatsya (i) 
+britva
+bujnyj
+byl (f)
+bulleten (m)
+vdyhat/vdohnut (+a)
+velichavyj
+veha
+vznos
+vilka
+viselitsa
+vnyatno
+vodruzhat/vodruzit (+a)
+vozderzhivatsya/vozderzhatsya (ot +g)
+vonyat (i) (+inst)
+voodushevlenie
+voochiu
+voroh
+vosk
+vtorgatsya/vtorgnutsya (v +a)
+vyruchka
+vystup
+vyshka
+vyalyj
+dogovoryonnost (f)
+gnit/s-
+gnusnyj
+gorb
+grad
+gusenitsa
+dan (f)
+devat/det (+a)
+dobrodetel (f)
+domysel
+doshatyj
+duhi (m pl)
+dushistyj
+evangelie
+evrej
+edinoglasno
+yozh
+zhanr
+zharit/za- (+a)
+zhemchuzhina
+zhir
+zhutkij
+zavsegdataj
+zaglavie
+zags
+zador
+zayom
+zakoulok
+zalog
+zameshatelstvo
+zamknutyj
+zaochno
+zapinatsya/zapnutsya
+zapchast (f)
+zastyogivat/zastegnut (+a)
+izryadnyj
+zahlyobyvatsya/zahlebnutsya
+zloupotreblyat/zloupotrebit (+inst)
+znatnyj
+zontik
+zybkij
+iva
+ikra
+iskazhat/iskazit (+a)
+iskushenie
+ispodvol 
+kaleka (m/f)
+kamysh
+karij
+kvitantsiya
+klevat/klunut
+klej
+klumba
+kovrik
+kogot (m)
+koe-kak
+korenastyj
+kosoj
+krasnorechie
+krushenie
+kuvyrkatsya/kuvyrknutsya
+kumir
+kutyozh
+lazejka
+lak
+lastochka
+lezvie
+lestnyj
+likovat (i)
+litsemerie
+lstit/po- (+d)
+mazat (i) (+a)
+mayak
+merzost (f)
+mesti (i) (+a)
+mizinets
+miska
+mozol (f)
+myatezh
+nabrosok
+naizust
+naperekor (+d)
+narekanie
+nasazhdenie
+nasmork
+nachinka
+nevestka
+nezvanyj
+nezyblemyj
+neistovyj
+nepoladka
+neprinuzhdyonnyj
+nerazberiha 
+nesovmestimyj
+nesprosta 
+neuryaditsa 
+nichej
+nrav
+nyt (i)
+nuhat/po- (+a)
+obayanie
+obuzdyvat/obuzdat (+a)
+ozabochennyj
+olen (m)
+omerzitelnyj
+omut
+opeka
+opilki (pl)
+oploshnost (f)
+oprava
+opryatnyj
+osparivat/osporit (+a)
+otbornyj
+otdelyvatsya/otdelatsya (ot +g)
+otmennyj
+otravlyat/otravit (+a)
+oshelomlyat/oshelomit (+a)
+paketik
+palisadnik
+panel (f)
+pasmurnyj
+pasynok
+peklo 
+pelyonka
+peredyshka
+perechen (m)
+perina
+perron
+pir
+pirozhnoe
+pishat/pisknut
+plastmassa
+plesen (f)
+pleskat/plesnut
+pechen (f)
+plyazh
+pobuzhdat/pobudit (+a +inf or k +d)
+poddannyj
+podoshva
+podsobnyj
+pozitivnyj
+poklonnik
+pokoryat/pokorit (+a)
+polovoj
+poltorasta
+pomeste
+pomidor
+pooshryat/pooshrit (+a)
+popolam
+porosyonok
+portnoj
+poslovitsa
+poslushnyj
+postavlyat/postavit (+a)
+poteha
+pohmele
+pochest (f)
+poshlyj
+pravoslavnyj
+praded
+prazdnost (f)
+predosuditelnyj
+presnyj
+pridiratsya/pridratsya (k +d)
+priemlemyj
+priznatelnyj
+prikidyvatsya/prikinutsya (+inst)
+priut
+provornyj
+proliv
+pronitsatelnyj
+proso
+prud
+ptenets
+puh
+pyl
+pylesos
+razvod
+razdole
+razitelnyj
+razlad
+razroznennyj
+razygryvat/razygrat (+a)
+raskat
+raskayanie
+rassudok
+rastryopannyj
+rinutsya (r)
+rozn (f)
+rokot
+rukavitsa
+rydat (i)
+sverstnik
+selyodka
+skver
+skvoznyak
+skitatsya (i)
+skorlupa
+skrezhet
+slyt/pro- (+inst or za +a)
+sluna
+smezhnyj
+smeta
+smyatenie
+myat/s- (+a)
+snovat (i)
+snorovka
+soblaznyat/soblaznit (+a)
+solovej
+spletni (f pl)
+spravochnik
+stazh
+stuzha 
+sutulyj
+sshibat/sshibit (+a)
+taz
+talon
+tyosha
+tlet (i)
+tshetno
+ujma (+g)
+umerennyj
+uprugij
+urod
+usmotrenie
+utechka
+utomitelnyj
+uhmylyatsya/uhmylnutsya
+feya
+hlopya (pl)
+chayanie
+chesat/po- (+a)
+chtit/po- (+a)
+shablon
+sharkat/sharknut (+inst)
+shestvie
+shnur
+shtabel (m)
+shustryj 
+shekotat/po- (+a)
+shetina
+shuka
+shupat/po- (+a)
+shuritsya/so-
+elektrichka 
+etazherka
+yaryj
