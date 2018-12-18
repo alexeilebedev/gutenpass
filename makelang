@@ -8,23 +8,26 @@ my $lc=1;
 my $guten=1;
 my $minword=1;
 my $token="vowel";
+my $apos=0;
 my $opt_help=0;
 my $usage = "$0 <textfile>
-   <textfile>         Input file from which to build lang file
-   -guten             Input file is a project gutenberg file. Default: $guten
-   -v                 Enable verbose logging
-   -minline <n>       Min line length. Default $minline
-   -minword <n>       Discard words up to this length. Default: $minword
-   -lc                Skip words containing uppercase letters. Default: $lc
-                         (such words are usually infrequent and not so interesting)
-   -token <token>     Use specified tokenization method. 
-       Possible values: vowel, trigram, digram
-\n";
+    <textfile>         Input file from which to build lang file
+    -guten             Input file is a project gutenberg file. Default: $guten
+    -apos              Leave apostrophes in place (e.g. russian)
+    -v                 Enable verbose logging
+    -minline <n>       Min line length. Default $minline
+    -minword <n>       Discard words up to this length. Default: $minword
+    -lc                Skip words containing uppercase letters. Default: $lc
+    (such words are usually infrequent and not so interesting)
+    -token <token>     Use specified tokenization method. 
+    Possible values: vowel, trigram, digram
+    \n";
 
 GetOptions(
     "v" => \$verbose
     ,"h|help" => \$opt_help
     ,"minline=i" => \$minline
+    ,"apos" => \$apos
     ,"guten!" => \$guten
     ,"lc!" => \$lc
     ,"minword=i" => \$minword
@@ -56,7 +59,11 @@ sub analyze_line($$$) {
 	$line="";
     }
     # replace special characters with word boundaries
-    $line =~ s/[^a-zA-Z]/ /g;
+    if ($apos) {
+	$line =~ s/[^a-zA-Z'"]/ /g;
+    } else {
+	$line =~ s/[^a-zA-Z]/ /g;
+    }
     # ensure end-of-word condition at the end of line
     $line .= " ";
     # strip short words
@@ -70,6 +77,7 @@ sub analyze_line($$$) {
 	if ($line =~ s/^\s+//) {
 	    $syllable = transition($lang,$syllable,"-");
 	}
+	my $handled=0;
 	if ($token eq "vowel") {
 	    # vowel method encodes key bits nicely
 	    # but can sound weird
@@ -77,25 +85,36 @@ sub analyze_line($$$) {
 		# y is always treated as a vowel
 		# even when it starts a word (yam, yellow)
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    } elsif ($line =~ s/^([bcdfghjklnmpqrstvwxz]+)//i) { # consonants
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    }
 	} elsif ($token eq "trigram") {
 	    if ($line =~ s/^(\w\w\w)//i) { # 3 chars
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    } elsif ($line =~ s/^(\w\w)//i) { # 2 chars
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    } elsif ($line =~ s/^(\w)//i) { # 1 char
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    }
 	} elsif ($token eq "digram") {
 	    if ($line =~ s/^(\w\w)//i) { # 2 chars
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    } elsif ($line =~ s/^(\w)//i) { # 1 char
 		$syllable = transition($lang,$syllable,$1);
+		$handled=1;
 	    }
-	} else {
-	    $line = "";
+	}
+	# default case to prevent infinite loop...
+	if (!$handled) {
+	    if ($line =~ s/^(.)//i) { # 1 char -- any char
+		$syllable = transition($lang,$syllable,$1);
+	    }
 	}
 	print " -> $syllable" if $verbose>1;
     }

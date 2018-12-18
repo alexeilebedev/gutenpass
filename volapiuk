@@ -1,7 +1,8 @@
 #!/usr/local/bin/perl
 use Encode qw(encode decode);
+use Getopt::Long;
 use strict;
-my %map=(
+my $map={
     0x430 => "a"
     , 0x431 => "b"
     , 0x432 => "v"
@@ -24,31 +25,61 @@ my %map=(
     , 0x443 => "u"
     , 0x444 => "f"
     , 0x445 => "h"
-    , 0x446 => "ts"
+    , 0x446 => "c"
     , 0x447 => "ch"
     , 0x448 => "sh"
     , 0x449 => "sh"
-    , 0x44A => ""
+    , 0x44A => "'"
     , 0x44B => "y"
-    , 0x44C => ""
-    , 0x44D => "e"
-    , 0x44E => "u"
+    , 0x44C => "\""
+    , 0x44D => "eh" # etot
+    , 0x44E => "yu"
     , 0x44F => "ya"
     , 0x451 => "yo"  # e -- sits outside the alphabet in utf8
-    );
+    };
 
+my $reverse;
+my $usage = "$0 [-r]
+   -r     Reverse map (translit -> russian)
+";
+GetOptions("-r" => \$reverse) or die $usage;
 binmode STDOUT, ':utf8';
-while (<>) {
-    # binary -> chars
-    my $text = decode('utf-8', $_);
-    my $out;
-    for (my $i=0; $i<length($text); $i++) {
-	my $x=substr($text,$i,1);
-	if (defined($map{ord($x)})) {
-	    $out .= $map{ord($x)};
-	} else {
-	    $out .= $x;
+
+if ($reverse) {
+    my $map2;
+    foreach my $key(keys %$map) {
+	$map2->{$map->{$key}}=chr($key);
+    }
+    $map=$map2;
+    while (<>) {
+	for (my $i=0; $i<length($_);) {
+	    my $step=3;
+	    for (; $step>=1; $step--) {
+		my $x=substr($_,$i,$step);
+		if ($map->{$x}) {
+		    print $map->{$x};
+		    last;
+		} elsif ($step == 1) {
+		    print $x;
+		    last;
+		}
+	    }
+	    $i+=$step;
 	}
     }
-    print $out;
+} else {
+    while (<>) {
+	# binary -> chars
+	my $text = decode('utf-8', $_);
+	my $out;
+	for (my $i=0; $i<length($text); $i++) {
+	    my $x=substr($text,$i,1);
+	    if (defined($map->{ord($x)})) {
+		$out .= $map->{ord($x)};
+	    } else {
+		$out .= $x;
+	    }
+	}
+	print $out;
+    }
 }

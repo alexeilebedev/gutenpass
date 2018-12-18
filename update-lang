@@ -2,20 +2,24 @@
 # build lang files out of txt files
 use strict;
 my $list="
-txt/alice.txt  -token vowel
-txt/beowulf.txt  -token vowel
-txt/expect.txt  -token vowel
-txt/federalist.txt  -token vowel
-txt/grimm.txt  -token trigram
-txt/iliad.txt  -token trigram
-txt/warandpeace.txt  -token trigram
-txt/mobydick.txt  -token vowel
-txt/sherlock.txt  -token vowel
-txt/donquijote.txt  -token digram
-txt/purereason.txt  -token digram
-txt/shakespeare.txt  -token digram
-txt/russianwords.txt --no-guten -minline 1 -token trigram
-";
+    txt/alice.txt  -token vowel
+    txt/beowulf.txt  -token vowel
+    txt/expect.txt  -token vowel
+    txt/federalist.txt  -token vowel
+    txt/grimm.txt  -token trigram
+    txt/iliad.txt  -token trigram
+    txt/warandpeace.txt  -token trigram
+    txt/mobydick.txt  -token vowel
+    txt/sherlock.txt  -token vowel
+    txt/donquijote.txt  -token digram
+    txt/purereason.txt  -token digram
+    txt/shakespeare.txt  -token digram
+    txt/russianwords.txt --no-guten -apos -minline 1 -token trigram
+    ";
+# prepare russian words...
+# todo: process russian directly...
+system("cat words/russian.utf8 | sed 's/[(\\/].*//' | ./volapiuk > txt/russianwords.txt");
+# create lang files out of txt files
 foreach my $line (split(/\n/,$list)) {
     my @words=split(/\s+/,$line);
     my $langfile=$words[0];
@@ -26,5 +30,3 @@ foreach my $line (split(/\n/,$list)) {
 	system($cmd)==0 or die $?;
     }
 }
-
-

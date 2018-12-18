@@ -1,46 +1,46 @@
 i
-v (vo)
+v 
 ne
 na
 ya
 on
 chto
-s (so)
-eto
-byt (i) (pres: est)
+s 
+ehto
+byt" 
 a
-ves (f vsya, n vsyo, pl vse)
+ves" 
 oni
 ona
 kak
 my
-k (ko) (+d)
-u (+g)
+k 
+u 
 vy
-etot (f eta, n eto, pl eti)
+ehtot 
 za
-tot (f ta, n to, pl te)
+tot 
 no
 ty
-po (+d)
-iz (izo) (+g)
-o (ob/obo) (+pr)
+po 
+iz 
+o 
 svoj
 tak
-odin (f odna, n odno)
+odin 
 vot
 kotoryj
 nash
-tolko
+tol"ko
 eshyo
-ot (+g)
+ot 
 takoj
-moch/s-
-govorit/po- (s +inst)
-govorit/skazat
-dlya (+g)
+moch"
+govorit"
+govorit"
+dlya 
 uzhe
-znat (i) (+a)
+znat" 
 da
 kakoj
 kogda
@@ -53,148 +53,148 @@ kto
 delo
 net
 eyo
-ochen
-bolshoj
+ochen"
+bol"shoj
 novyj
-stanovitsya/stat (+inst)
+stanovit"sya
 rabota
 sejchas
-vremya (n)
-chelovek (pl ludi)
-idti/pojti
+vremya 
+chelovek 
+idti
 esli
-dva (f dve) 
+dva 
 moj
-zhizn (f)
-do (+g)
+zhizn" 
+do 
 gde
 kazhdyj
 samyj
-hotet/za-
-zdes
+hotet"
+zdes"
 nado
-ludi (pl)
-teper
+lyudi 
+teper"
 dom
 raz
-den (m)
+den" 
 ili
 gorod
 tam
 slovo
 glaz
 potom
-videt/u- (+a)
+videt"
 ih
-pod (+inst)
+pod 
 dazhe
-dumat/po-
+dumat"
 horosho
 mozhno
 tut
 tysyacha
 li
 voda
-nichto/nichego (a/g)
-mnogo (+g)
+nichto
+mnogo 
 ruka
 sebya
 molodoj
 tozhe
-sprashivat/sprosit (+a o +pr)
-bez (+g)
-delat/s- (+a)
+sprashivat"
+bez 
+delat"
 tri
 vsyo
 to
-zhit/po-
+zhit"
 trud
-sam (f sama, n samo, pl sami)
+sam 
 horoshij
 vtoroj
-cherez (+a)
+cherez 
 mesto
-posle (+g)
+posle 
 strana
-dvadtsat
-dolzhen (f dolzhna, n dolzhno, pl dolzhny)
-bolshe
+dvadcat"
+dolzhen 
+bol"she
 vash
-dver (f)
-drug (pl druzya)
+dver" 
+drug 
 mashina
 komnata
-uchitsya (i)
-nad (+inst)
+uchit"sya 
+nad 
 golova
 pochemu
 zemlya
 stol
-davat/dat (+a +d)
-pered (+inst)
+davat"
+pered 
 togda
-sidet/po-
-malchik
+sidet"
+mal"chik
 devushka
-leto (g pl let)
+leto 
 segodnya
 storona
 sovsem
-malenkij
-neskolko (+g)
+malen"kij
+neskol"ko 
 vdrug
 ni
-litso
+lico
 konechno
 narod
-nachinat/nachat
-pyat
-ved
+nachinat"
+pyat"
+ved"
 vopros
-pisat/na- (+a)
-pismo
-pri (+pr)
-mat (f)
+pisat"
+pis"mo
+pri 
+mat" 
 nuzhno
-smotret/po-
+smotret"
 sila
 vmeste
-vyhodit/vyjti
-lubit/po- (+a)
+vyhodit"
+lyubit"
 doroga
 staryj
-ulitsa
-reshat/reshit (+inf/+a)
+ulica
+reshat"
 kniga
 vsegda
 golos
-znachit (i)
+znachit" 
 srazu
-lish
+lish"
 minuta
 snova
 okno
 by
-uhodit/ujti
-devyatsot
+uhodit"
+devyat"sot
 poslednij
-prohodit/projti
-otets
+prohodit"
+otec
 chas
 prosto
-videt/uvidet
+videt"
 zhe
 tretij
-potomu/potomu chto
+potomu
 nikto
-zhdat/podo- (+a or g)
-skolko (+g)
+zhdat"
+skol"ko 
 vysokij
 luchshe
-poluchat/poluchit (+a)
+poluchat"
 pochti
 les
-konets
+konec
 noga
 sobstvennyj
 sto
@@ -202,388 +202,388 @@ hudozhnik
 chetyre
 poka
 poka ne
-slushat/po- (+a)
-put (m)
+slushat"
+put" 
 belyj
 respublika
 bystro
 kuda
 glavnyj
-deti (pl)
-rasskazyvat/rasskazat
+deti 
+rasskazyvat"
 sovet
 gazeta
-ponimat/ponyat (+a)
+ponimat"
 pora
 tvoj
-byvat (i)
-nahodit/najti (+a)
+byvat" 
+nahodit"
 pesnya
-imya (n)
+imya 
 partiya
 vecher
-opyat
-imet (i) (+a)
-mezhdu (+inst)
+opyat"
+imet" 
+mezhdu 
 nastoyashij
 plan
 pravda
 sorok
-hodit/s-
-hodit/po-
-uznavat/uznat (+a)
+hodit"
+hodit"
+uznavat"
 pole
-noch (f)
-vhodit/vojti
+noch" 
+vhodit"
 krasnyj
 bolee
 urok
-nelzya
+nel"zya
 telo
 ryadom
-lezhat/po-
-pro (+a)
+lezhat"
+pro 
 interesnyj
 nikogda
 rajon
 nuzhnyj
 osobenno
-otvechat/otvetit
-nachalnik
+otvechat"
+nachal"nik
 raznyj
-tridtsat
-desyat
+tridcat"
+desyat"
 mir
 kartina
 komitet
-mysl (f)
-gost (m)
+mysl" 
+gost" 
 starshij
 vid
-sredi (+g)
+sredi 
 sluchaj
 narodnyj
-pomnit/vs- (+a/o +pr)
-prosit/po- (+a +inf)
-pust
+pomnit"
+prosit"
+pust"
 razgovor
 dvor
 dolgo
-mesyats
-vozvrashatsya/vernutsya
-souz
+mesyac
+vozvrashat"sya
+soyuz
 vojna
 hotya
 bereg
-tselyj
+celyj
 gruppa
 skoro
 student
 tovarish
-chast (f)
-spat/po-
+chast" 
+spat"
 polnyj
-suda
-priezzhat/priehat
+syuda
+priezzhat"
 ono
 zhenshina
 sobranie
-podhodit/podojti (k +d)
-derevo (pl derevya)
+podhodit"
+derevo 
 sad
-chut
-boyatsya (i) (+g)
-zanimatsya (i) (+inst)
-papa (m)
-pomosh (f)
+chut"
+boyat"sya 
+zanimat"sya 
+papa 
+pomosh" 
 proshlyj
 pryamo
 luchshij
 master
-sekretar (m)
+sekretar" 
 stena
-okazyvatsya/okazatsya (+inst)
-syn (pl synovya)
+okazyvat"sya
+syn 
 brat
 zachem
-igrat/sygrat
+igrat"
 institut
 pyatyj
-ranshe
+ran"she
 tiho
 chyornyj
 velikij
 zavtra
 shirokij
-malo (+g)
-nakonets
+malo 
+nakonec
 plecho
 razve
 razve… ne
 sneg
 budushij
-serdtse
+serdce
 trudno
 yazyk
-prihodit/prijti
+prihodit"
 russkij
 nedavno
 sovetskij
 nekotoryj
-prodolzhat/prodolzhit
+prodolzhat"
 chlen
-poetomu
-zamechat/zametit (+a)
+poehtomu
+zamechat"
 kvartira
-umet/s- (+inf)
+umet"
 svet
 nazad
-shkolnik
+shkol"nik
 domoj
 pravo
-silnyj
+sil"nyj
 srednij
-dalshe
+dal"she
 zadacha
-bezhat/po-
+bezhat"
 veter
-pomogat/pomoch (+d)
+pomogat"
 slovno
 dorogoj
 istoriya
-molchat/za-
-solntse
+molchat"
+solnce
 doma
 more
 ogromnyj
 uchenik
 chuvstvo
-pet/s- (+a)
-borba
-rech (f)
-ehat/po-
+pet"
+bor"ba
+rech" 
+ehat"
 hleb
 dvizhenie
 prazdnik
 vnimanie
-schitat/schest
-schitat/so-
+schitat"
+schitat"
 inogda
-krichat/za-
+krichat"
 fabrika
-uspevat/uspet (+inf)
-dejstvitelno
+uspevat"
+dejstvitel"no
 imenno
 obshij
 vsyakij
 direktor
 krasivyj
 nomer
-okolo (+g)
-paren (m)
+okolo 
+paren" 
 hozyajstvo
-vokrug (+g)
+vokrug 
 dusha
 chetvyortyj
-shest
-podnimat/podnyat (+a)
+shest"
+podnimat"
 vzglyad
 inzhener
 takzhe
 tyazhyolyj
-tsvetok (pl tsvety)
-brat/vzyat (+a)
+cvetok 
+brat"
 vidno
 vozduh
 davno
-zabyvat/zabyt (+a or o +pr)
-iz-za (+g)
+zabyvat"
+iz-za 
 opyt
-zvat/po- (+a)
+zvat"
 strojka
 zhena
 moloko
-stavit/po- (+a)
+stavit"
 odnako
 ugol
 bumaga
-prinimat/prinyat (+a)
+prinimat"
 dlinnyj
 zanyatie
 chistyj
-saditsya/sest
+sadit"sya
 chasto
 shestoj
 voennyj
-vstavat/vstat
+vstavat"
 igra
 kruzhok
-hozyain (pl hozyaeva)
+hozyain 
 nikakoj
-dyadya (m)
+dyadya 
 zhivoj
 derevnya
 obraz
 poryadok
-stroitel (m)
+stroitel" 
 uspeh
-prinosit/prinesti (+a)
+prinosit"
 slishkom
 dobryj
 prezhde
 rasskaz
-semya
+sem"ya
 utro
-lager (m)
+lager" 
 znakomyj
 armiya
 nos
 pozhalujsta
-sobiratsya/sobratsya (+inf)
+sobirat"sya
 snachala
 tehnika
-dengi (f) (pl)
+den"gi 
 doklad
-oba (f obe)
-sedmoj
+oba 
+sed"moj
 pozdno
-popadat/popast (v/na +a)
+popadat"
 vstrecha
-vozmozhnost (f)
-kultura
-sledovat/po-
+vozmozhnost" 
+kul"tura
+sledovat"
 komanda
 nu
-ochered (f)
+ochered" 
 lichnyj
 shkola
-rasti/vy-
+rasti
 kolhoz
 prichina
 rebyata
 devochka
 mnogij
-organizatsiya
+organizaciya
 mama
-stantsiya
+stanciya
 tuda
-uzh/uzhe
+uzh
 sovershenno
 spokojno
-hotetsya/za- (+d)
+hotet"sya
 vsyo-taki
 chem
 budto
 mnenie
 vpervye
-luboj
+lyuboj
 medlenno
 drug druga
-prihoditsya/prijtis (+d)
+prihodit"sya
 nachalo
 pohozhij
 zal
-derzhat (i)
+derzhat" 
 predpriyatie
 sportivnyj
 vesyolyj
-zdravstvovat (i)
-Зdravstvuj(te)
+zdravstvovat" 
+Зdravstvuj
 vperyod
 zelyonyj
 nyobo
-vstrechat/vstretit (+a)
-otnoshenie (k +d)
+vstrechat"
+otnoshenie 
 babushka
 detskij
-ostanavlivatsya/ostanovitsya
+ostanavlivat"sya
 otvet
-vosem
+vosem"
 doska
-poyavlyatsya/poyavitsya
+poyavlyat"sya
 nedelya
 zavod
 forma
-yavlyatsya (i) (+inst)
-vesh (f)
+yavlyat"sya 
+vesh" 
 geroj
-krome (+g)
-podnimatsya/podnyatsya
-sezd
+krome 
+podnimat"sya
+s'ezd
 tochno
 hod
 ravno
 shag
 klub
 krupnyj
-vspominat/vspomnit (+a or o +pr)
-nebolshoj
+vspominat"
+nebol"shoj
 hudozhestvennyj
 kto-to
-nravitsya/po- (+d)
-shkolnyj
+nravit"sya
+shkol"nyj
 gosudarstvo
 amerikanskij
-stroit/po- (+a)
-vosmoj
-nemnogo (+g)
+stroit"
+vos"moj
+nemnogo 
 pauza
-pokazyvat/pokazat (+a +d)
+pokazyvat"
 daleko
 zatem
 zdanie
 odnazhdy
-ptitsa
+ptica
 samolyot
-sem
+sem"
 shofyor
 dvesti
 izvestnyj
-pravilno
+pravil"no
 reshenie
 vecherom
 gotovyj
-staratsya/po- (+inf)
+starat"sya
 naprimer
 prostoj
 proizvedenie
-uchit/vy- (+a)
-uchit/na- (+a +d)
+uchit"
+uchit"
 inoj
-rezultat
+rezul"tat
 doktor
-sluchatsya/sluchitsya
-nazyvat/nazvat (+a +inst)
+sluchat"sya
+nazyvat"
 vazhnyj
 znanie
-ulybatsya/ulybnutsya (+d)
+ulybat"sya
 ploho
-uchitsya/na- (+inf)
-otkryvat/otkryt (+a)
-ostavatsya/ostatsya
+uchit"sya
+otkryvat"
+ostavat"sya
 nauka
-kamen (m)
-protiv (+g)
+kamen" 
+protiv 
 razvitie
 bog
 obshestvo
 nichego
 uslovie
-gospodin (pl gospoda)
+gospodin 
 soldat
-revolutsiya
-nachinatsya/nachatsya
-oblast (f)
+revolyuciya
+nachinat"sya
+oblast" 
 chto-to
-vlast (f)
-sudba
+vlast" 
+sud"ba
 dejstvie
 mera
-energiya
+ehnergiya
 ryad
-nahoditsya/najtis
+nahodit"sya
 polozhenie
-glyadet/po- (na +a)
+glyadet"
 vek
 million
 obshestvennyj
@@ -592,8 +592,8 @@ general
 interes
 legko
 material
-tsel (f)
-ogon (m)
+cel" 
+ogon" 
 zakon
 priroda
 massa
@@ -601,121 +601,121 @@ boj
 politicheskij
 luch
 volna
-protsess
+process
 nauchnyj
 razlichnyj
 mirovoj
 sistema
 list
-hot
+hot"
 rebyonok
-svyaz (f)
+svyaz" 
 voobshe
-verit/po-
-muzhchina (m)
-chto-nibud
-predstavlyat/predstavit (+a)
-iskat/po- (+a or +g)
-pisatel (m)
-promyshlennost (f)
-uchyonyj (m) (adj)
+verit"
+muzhchina 
+chto-nibud"
+predstavlyat"
+iskat"
+pisatel" 
+promyshlennost" 
+uchyonyj 
 verno
-sluzhit/po-
-pravitelstvo
-ekonomicheskij
-est/s- (+a)
-rabochij (m) (adj)
+sluzhit"
+pravitel"stvo
+ehkonomicheskij
+est"
+rabochij 
 sovremennyj
 rabotnik
 chyort
 kachestvo
 mezhdunarodnyj
-ofitser
+oficer
 problema
-trebovat/po- (+g)
+trebovat"
 kommunizm
-korabl (m)
+korabl" 
 klass
 kilometr
 chislo
 baza
-palets
+palec
 kolichestvo
 kommunist
 pobeda
 reka
-pit/vy- (+a or +g)
+pit"
 chelovecheskij
 gora
 milyj
-politika (no pl)
+politika 
 proizvodstvo
-natsionalnyj
+nacional"nyj
 holodnyj
 gosudarstvennyj
 otkuda
 slozhnyj
 bogatyj
-brosat/brosit (+a)
-stroitelstvo
+brosat"
+stroitel"stvo
 znachenie
-predsedatel (m)
+predsedatel" 
 harakter
 neobhodimyj
-smeyatsya/za-/ras- (nad +inst)
-borotsya (i) (s +inst)
+smeyat"sya
+borot"sya 
 izdelie
 osobyj
-smert (f)
-statya
+smert" 
+stat"ya
 schyot
-vesma
-selskij
+ves"ma
+sel"skij
 sredstvo
 podobnyj
 primer
-revolutsionnyj
-skorost (f)
+revolyucionnyj
+skorost" 
 fakt
 malyj
 chaj
 tyomnyj
 yavlenie
-sostoyat (i) (iz +g)
+sostoyat" 
 yasno
 tochka
-stoit (i)
+stoit" 
 um
 vpolne
 sobytie
-sushestvovat (i)
+sushestvovat" 
 kabinet
 spasibo
 vrag
 glubokij
-frantsuzskij
+francuzskij
 blizkij
 ah
-deyatelnost (f)
-privodit/privesti (+a)
+deyatel"nost" 
+privodit"
 trubka
 anglijskij
 sej 
 temperatura
 sostoyanie
-schaste
+schast"e
 smysl
-rubl (m)
+rubl" 
 vchera
 pravyj
 avtor
-bolshinstvo
+bol"shinstvo
 izvestno
 melkij
 techenie
 oruzhie
 muzh
-proishodit/proizojti
+proishodit"
 svobodnyj
 ideya
 usilie
@@ -724,28 +724,28 @@ iskusstvo
 sostav
 kapitalizm
 literatura
-stranitsa
-bit/po- (+a)
+stranica
+bit"
 inache
-chitatel (m)
+chitatel" 
 naibolee
 rost
-amerikanets
-koren (m)
-nemets
+amerikanec
+koren" 
+nemec
 nebo
 svojstvo
-vzglyadyvat/vzglyanut (na +a)
+vzglyadyvat"
 vysoko
 naselenie
 steklo
 teatr
 nadezhda
-dovolno
+dovol"no
 kraj
 muzhik
-step (f)
-tsvet
+step" 
+cvet
 ded
 osnova
 rano
@@ -755,69 +755,69 @@ krug
 moment
 neobhodimo
 stroj
-doch (f)
-ispolzovat (i/p) (+a)
+doch" 
+ispol"zovat" 
 ministr
 sinij
-peredavat/peredat (+a)
+peredavat"
 programma
 desyatok
-krov (f)
-otdavat/otdat (+a)
-otdelnyj
+krov" 
+otdavat"
+otdel"nyj
 svoboda
-hvatat/hvatit (+g)
+hvatat"
 vnutrennij
-vystupat/vystupit
+vystupat"
 kak-to
-zanimat/zanyat (+a)
-predstavitel (m)
+zanimat"
+predstavitel" 
 front
 bogatstvo
-zhelat/po- (+g)
-kakoj-nibud
+zhelat"
+kakoj-nibud"
 glubina
-mimo (+g)
+mimo 
 upravlenie
 slava
 sotnya
 strashnyj
 tem
 vesna
-dejstvovat/po-
+dejstvovat"
 pol
-protsent
+procent
 rodina
-stsena
-znachitelnyj
+scena
+znachitel"nyj
 metr
 chuzhoj
 volya
 zub
 menee
 metod
-proshat/prostit (+a)
-svyazyvat/svyazat (+a)
+proshat"
+svyazyvat"
 yarkij
 pesok
-uroven (m)
+uroven" 
 istoricheskij
 istochnik
 polovina
 sluzhba
 ladno
-meshat/po- (+d)
+meshat"
 selo
 vprochem
 goryachij
 obrazovanie
 tonna
-vyzyvat/vyzvat (+a)
+vyzyvat"
 zrenie
 morskoj
-ostalnoj
-semya (n)
-silno
+ostal"noj
+semya 
+sil"no
 tonkij
 flot
 beseda
@@ -825,8 +825,8 @@ dannyj
 dostatochno
 edinstvennyj
 lampa
-produktsiya
-tsentr
+produkciya
+centr
 vovse
 zapadnyj
 korrespondent
@@ -834,52 +834,52 @@ pozhaluj
 priyom
 prochij
 strashno
-vozle (+g)
+vozle 
 von
 partijnyj
 telefon
-udavatsya/udatsya (+d)
+udavat"sya
 bystryj
-krestyanin
+krest"yanin
 vyhod
-pytatsya/po- (+inf)
+pytat"sya
 stih
 period
-ubivat/ubit (+a)
+ubivat"
 druzhba
 edva
 neuzheli
-stepen (f)
+stepen" 
 boevoj
-vojska (n, pl)
+vojska 
 karta
 napravlenie
 chelovechestvo
-vrode (+g)
+vrode 
 gromadnyj
 lyogkij
-polzovatsya/vos- (+inst)
+pol"zovat"sya
 predlozhenie
-element
-yavlyatsya/yavitsya
+ehlement
+yavlyat"sya
 veroyatno
-pech/is- (+a)
-pech (f)
-kazatsya/po-
+pech"
+pech" 
+kazat"sya
 umnyj
 glava
-plakat/za-
-skvoz (+a)
+plakat"
+skvoz" 
 sposob
 sposobnyj
-tserkov (f)
-chasy (m, pl)
-chest (f)
+cerkov" 
+chasy 
+chest" 
 otkrytyj
-pamyat (f)
+pamyat" 
 ponyatno
 soveshanie
-zamechatelnyj
+zamechatel"nyj
 znamenityj
 predmet
 sleza
@@ -891,194 +891,194 @@ sozdanie
 staruha
 karman
 muzej
-padat/past
+padat"
 yasnyj
-poverhnost (f)
+poverhnost" 
 blizko
-zayavlyat/zayavit (o +pr)
+zayavlyat"
 zolotoj
 koleno
 ravnyj
-sleduushij
-snimat/snyat (+a)
+sleduyushij
+snimat"
 strah
 tyoplyj
 vysota
 muzyka
 ostrov
-otnositsya/otnestis (k +d)
-perestavat/perestat (+inf)
-stol
+otnosit"sya
+perestavat"
+stol"
 mirnyj
 trudnyj
 dolgij
 zheleznyj
 pryamoj
-sotsialnyj
+social"nyj
 volos
 vospitanie
-ditya (n)
-pokupat/kupit (+a)
+ditya 
+pokupat"
 luna
-puskat/pustit (+a)
-vmesto (+g)
-nesmotrya (na +a)
+puskat"
+vmesto 
+nesmotrya 
 kulak
 kuhnya
-lubov (f)
+lyubov" 
 risunok
 sloj
 tema
-tsena
-kon (m)
-materialnyj
+cena
+kon" 
+material"nyj
 teoriya
 baba
-teryat/po- (+a)
+teryat"
 prekrasnyj
 rod
 goluboj
-gospod (m)
+gospod" 
 guba
-posylat/poslat (+a)
-rukovoditel (m)
-spetsialnyj
+posylat"
+rukovoditel" 
+special"nyj
 tyotya
-tsentralnyj
+central"nyj
 vsego
 vyvod
-vypolnyat/vypolnit (+a)
+vypolnyat"
 zerno
-molodyozh (f)
-eh
+molodyozh" 
+ehh
 vozmozhno
 gluboko
-dobivatsya/dobitsya (+g)
+dobivat"sya
 mestnyj
 rastenie
 starik
 pohod
 spina
-sudit (i/p) (o +pr)
-umirat/umeret
-ekonomika
-bolnoj
+sudit" 
+umirat"
+ehkonomika
+bol"noj
 duh
 nizhe
 okean
 zapas
 zemnoj
 ministerstvo
-obyazatelno
-polza
-predlagat/predlozhit (+a +d)
-sozdavat/sozdat (+a)
-vnov
-zaviset (i) (ot +g)
+obyazatel"no
+pol"za
+predlagat"
+sozdavat"
+vnov"
+zaviset" 
 plod
-radio (n) (indecl)
+radio 
 raznoobraznyj
 sushestvovanie
 byvshij
-kasatsya/kosnutsya (+g)
+kasat"sya
 nikak
 osnovanie
-prikazyvat/prikazat (+d)
+prikazyvat"
 rodnoj
 solnechnyj
-stremitsya (i) (k +d)
+stremit"sya 
 gaz
 orudie
-radost (f)
+radost" 
 tom
 chestnyj
 issledovanie
-ladon (f)
+ladon" 
 opredelyonnyj
-pozitsiya
-radi (+g)
+poziciya
+radi 
 srok
-slyshat/u- (+a)
+slyshat"
 uho
 shum
 apparat
 gorazdo
 kapital
 plohoj
-ploshad (f)
+ploshad" 
 poezd
 professor
-seryozno
-sol (f)
+ser"yozno
+sol" 
 son
-ten (f)
+ten" 
 grazhdanin
-dostavat/dostat (+a)
+dostavat"
 durak
 ibo
-loshad (f)
-pshenitsa
-stolko (+g)
-epoha
-davaj(te)
+loshad" 
+pshenica
+stol"ko 
+ehpoha
+davaj
 beda
-dalnij
-zakryvat/zakryt (+a)
+dal"nij
+zakryvat"
 zvezda
 obychnyj
-provodit/provesti (+a)
-razgovarivat (i)
+provodit"
+razgovarivat" 
 razmer
-razreshat/razreshit (+d of person) 
+razreshat"
 nechego
 atmosfera
 lodka
 nazvanie
-pravilnyj
+pravil"nyj
 pustoj
 sapog
 skoree
-dalnejshij
+dal"nejshij
 zhurnal
 libo
 televizor
 raketa
-sposobnost (f)
+sposobnost" 
 akademiya
 vpechatlenie
 drevnij
-imetsya (i)
-ozhidat (i) (+a or +g)
+imet"sya 
+ozhidat" 
 parohod
 razoruzhenie
 sled
 udar
 vneshnij
 nozh
-grud (f)
+grud" 
 krajnij
 moryak
 naoborot
 peredovoj
-printsip
+princip
 tajna
 tihij
-ustanavlivat/ustanovit (+a)
-elektricheskij
+ustanavlivat"
+ehlektricheskij
 vernyj
-vorota (nom pl)
-dvorets
+vorota 
+dvorec
 zoloto
 otkrytie
-otsuda
-spetsialist
+otsyuda
+specialist
 dlina
-nabludat (i) (+a)
+nablyudat" 
 nemedlenno
-nemetskij
+nemeckij
 povyshenie
-poluchatsya/poluchitsya
-soglashatsya/soglasitsya
+poluchat"sya
+soglashat"sya
 uchastie
 veselo
 levyj
@@ -1089,24 +1089,24 @@ roman
 smeh
 tvyordyj
 ton
-absolutno
-detal (f)
-obyom
+absolyutno
+detal" 
+ob'yom
 interesno
 knizhka
 kurs
 pochva
 nizkij
 ochevidno
-pyl (f)
+pyl" 
 svetlyj
 seryj
 analiz
 vliyanie
-molchat/po-
+molchat"
 rukovodstvo
 atomnyj
-granitsa
+granica
 zashita
 kusok
 molchanie
@@ -1123,132 +1123,132 @@ tovar
 vershina
 vzryv
 vinovatyj
-vyrastat/vyrasti
+vyrastat"
 grazhdanskij
-deyatel (m)
-dozhd (m)
-nazyvatsya/nazvatsya
+deyatel" 
+dozhd" 
+nazyvat"sya
 nevozmozhno
-obeshat (i/p) (+d)
-pozvolyat/pozvolit (+d)
-rol (f)
+obeshat" 
+pozvolyat"
+rol" 
 sestra
-sledovatelno
-stolitsa
+sledovatel"no
+stolica
 figura
-tsar (m)
+car" 
 bednyj
 verhnij
-vsled (za +inst)
+vsled 
 izmenenie
-nosit (i) (+a)
-osobennost (f)
+nosit" 
+osobennost" 
 rad
 rezko
 zvonok
 ispytanie
-neobhodimost (f)
+neobhodimost" 
 obstanovka
-pechat (f)
+pechat" 
 povod
 postoyanno
-razumetsya (i)
+razumet"sya 
 stakan
 tochnyj
-uezzhat/uehat
+uezzhat"
 shiroko
 vozmozhnyj
 izuchenie
 komissiya
 gektar
-blagodarit/po- (+a; za +a)
+blagodarit"
 blestyashij
 ves
 vrach
 zhyoltyj
 krik
 nynche
-obespechivat/obespechit (+a +inst)
-poet
+obespechivat"
+poeht
 rot
 sobaka
 sosednij
 tuman
 kapitan
 filosofiya
-dokazyvat/dokazat (+a)
-zdorove
-izvinyat/izvinit (+a)
+dokazyvat"
+zdorov"e
+izvinyat"
 oshibka
 totchas
 vagon
-goret/za-
+goret"
 dalyokij
 kanal
 praktika
 sozhalenie
 ukreplenie
 byt
-delatsya/s- (+inst)
+delat"sya
 krysha
 nedostatok
-otrasl (f)
-podavat/podat (+a)
+otrasl" 
+podavat"
 poisk
 port
 svidanie
 trebovanie
 cherta
 shtat
-vzdyhat/vzdohnut
+vzdyhat"
 zapiska
 ozero
-organizovat (i/p) (+a)
+organizovat" 
 soznanie
 teplo
 prezhnij
 prostranstvo
-sostavlyat/sostavit (+a)
+sostavlyat"
 sputnik
-strelyat (i) (v +a or po +d)
-vdol (+g)
-vstrechatsya/vstretitsya (s +inst)
+strelyat" 
+vdol" 
+vstrechat"sya
 dokument
-mechtat (i) (o +pr)
+mechtat" 
 obychno
 produkt
 sekunda
-selskohozyajstvennyj
+sel"skohozyajstvennyj
 strannyj
 bratskij
-dohodit/dojti (do +g)
+dohodit"
 dostizhenie
-zahodit/zajti
+zahodit"
 myortvyj
 moguchij
 motor
-nezavisimost (f)
+nezavisimost" 
 predstavlenie
 primenenie
-trudnost (f)
-udovolstvie
+trudnost" 
+udovol"stvie
 uzkij
-boets
+boec
 zhalko
 massovyj
-menshe
+men"she
 mechta
 nochnoj
 obratno
-opasnost (f)
-otkazyvatsya/otkazatsya (+inf)
+opasnost" 
+otkazyvat"sya
 polk
-polnostu
+polnost"yu
 popytka
 proshloe
 ris
 spokojnyj
-ugol (m)
+ugol" 
 uchrezhdenie
 sheka
 vozrast
@@ -1256,14 +1256,14 @@ gromko
 dym
 zhelanie
 zabota
-ispolzovanie
+ispol"zovanie
 krasota
 moshnyj
 postepenno
 prezident
 ryba
-sledit (i) (za +inst)
-hvatat/shvatit (+a)
+sledit" 
+hvatat"
 temnota
 trava
 tyazhelo
@@ -1275,29 +1275,29 @@ zato
 lob
 nemalo
 pokolenie
-uchitel (m)
+uchitel" 
 vidimo
-voevat (i)
+voevat" 
 vystuplenie
-unosha
-znachitelno
-iz-pod (+g)
-lozhitsya/lech
-probovat/po-
+yunosha
+znachitel"no
+iz-pod 
+lozhit"sya
+probovat"
 promyshlennyj
 slabyj
 stul
 fotografiya
-tsep (f)
+cep" 
 vosstanie
 zadanie
 naverno
-obrashatsya/obratitsya (k +d)
-oktyabr (m)
-otlichatsya/otlichitsya
-povtoryat/povtorit (+a)
+obrashat"sya
+oktyabr" 
+otlichat"sya
+povtoryat"
 soderzhanie
-ustraivat/ustroit (+a)
+ustraivat"
 vazhno
 vera
 demokraticheskij
@@ -1306,139 +1306,139 @@ zima
 krepko
 molcha
 perehod
-znakomitsya/po- (s +inst)
+znakomit"sya
 portret
 chudo
 bok
-vvodit/vvesti (+a)
-derzhatsya (i) (za +a)
-zhalet/po- (+a)
+vvodit"
+derzhat"sya 
+zhalet"
 itak
-nadeyatsya (i)
+nadeyat"sya 
 nastroenie
 oblako
 odnovremenno
-othodit/otojti (ot +g)
+othodit"
 ponyatie
 potok
-rozhdatsya/roditsya
-stoimost (f)
+rozhdat"sya
+stoimost" 
 stremlenie
 territoriya
-viset (i)
+viset" 
 vniz
 gornyj
 gorodskoj
 divan
-zagovarivat/zagovorit
+zagovarivat"
 kstati
-obrazets
-prinadlezhat (i) (+d)
+obrazec
+prinadlezhat" 
 sud
-avtomobil (m)
+avtomobil" 
 adres
 vverh
 duhovnyj
 inostrannyj
 literaturnyj
-napominat/napomnit (+d o +pr)
+napominat"
 ostorozhno
-pobezhdat/pobedit (+a)
+pobezhdat"
 poleznyj
 raschyot
 uverennyj
-bolezn (f)
+bolezn" 
 vperedi
 vskore
 zhelezo
-navstrechu (+d)
-obladat (i) (+inst)
+navstrechu 
+obladat" 
 opasnyj
 poltora
-schitatsya (i)
+schitat"sya 
 trudovoj
-uchastvovat (i) (v +pr)
+uchastvovat" 
 sheya
-uzhnyj
-brosatsya/brositsya
+yuzhnyj
+brosat"sya
 vseobshij
 dogovor
 korotkij
-kulturnyj
+kul"turnyj
 myagkij
 oj
-razvivatsya/razvitsya
-tyanut/po- (+a)
+razvivat"sya
+tyanut"
 vechnyj
-yanvar (m)
-obnaruzhivat/obnaruzhit (+a)
+yanvar" 
+obnaruzhivat"
 osobennyj
-podgotovka (k +d)
-pridumyvat/pridumat (+a)
-redaktsiya
-sobstvennost (f)
+podgotovka 
+pridumyvat"
+redakciya
+sobstvennost" 
 strogo
-ubezhdatsya/ubeditsya (v +pr)
+ubezhdat"sya
 ugroza
-unichtozhat/unichtozhit (+a)
+unichtozhat"
 gruz
 zdorovyj
-koltso
-konchat/konchit (+a)
+kol"co
+konchat"
 meshok
 most
 smena
 snimok
 telega
 tip
-toropitsya/po-
+toropit"sya
 fizicheskij
-vest (f)
+vest" 
 vodka
-govoritsya (i)
-devyat
-zakanchivat/zakonchit (+a)
+govorit"sya 
+devyat"
+zakanchivat"
 kruglyj
-moral (f)
+moral" 
 nemnozhko
 obida
 obyknovennyj
-okonchatelno
-pogodit (r)
+okonchatel"no
+pogodit" 
 po-moemu
 pomoshnik
-pyanyj
+p"yanyj
 soedinenie
 tolpa
-udaryat/udarit (+a)
+udaryat"
 huzhe
 edinyj
 zloj
 naznachenie
-osen (f)
+osen" 
 par
 polevoj
-chitat/prochest (+a)
+chitat"
 sobstvenno
 starinnyj
-stolovaya (f) (adj)
+stolovaya 
 suhoj
-gotovit/pri- (+a)
+gotovit"
 derzhava
-zastavlyat/zastavit (+a +inf)
+zastavlyat"
 koleso
-letet/po-
+letet"
 nechto
-polagat (i)
-propast (f)
+polagat" 
+propast" 
 svezhij
 severnyj
-sobirat/sobrat (+a)
-udivitelnyj
+sobirat"
+udivitel"nyj
 uchastnik
 hozyajka
 chej
-bespokoitsya/o- (o +pr)
+bespokoit"sya
 vo-pervyh
 vyrazhenie
 gore
@@ -1448,165 +1448,165 @@ dolya
 itog
 koridor
 nyne
-priznavat/priznat
+priznavat"
 sreda
 uchilishe
 bomba
-buro (indecl)
+byuro 
 vysshij
-dedushka (m)
-dejstvitelnost (f)
+dedushka 
+dejstvitel"nost" 
 zasedanie
-kluch
+klyuch
 kreslo
-ostavlyat/ostavit (+a)
-ostanavlivat/ostanovit (+a)
-otmechat/otmetit (+a)
+ostavlyat"
+ostanavlivat"
+otmechat"
 pogoda
-postupat/postupit
+postupat"
 rezhim
-reshitelno
+reshitel"no
 sravnenie
 stranno
 strogij
 stydno
-tanets
-bolno
+tanec
+bol"no
 dobro
-zakluchat/zakluchit (+a)
+zaklyuchat"
 zanaves
 kogda-to
-konchatsya/konchitsya
+konchat"sya
 milliard
 nyneshnij
-obstoyatelstvo
+obstoyatel"stvo
 oh
-perehodit/perejti (+a or cherez +a)
-privykat/privyknut (k +d)
-prisylat/prislat (+a)
+perehodit"
+privykat"
+prisylat"
 protivnik
-realnyj
+real"nyj
 spichka
 tvorcheskij
 torgovlya
 ustanovka
 vozdushnyj
-vsudu
+vsyudu
 zhurnalist
-zahvatyvat/zahvatit (+a)
+zahvatyvat"
 zvanie
-zvonit/po- (+d)
+zvonit"
 konkretnyj
-krichat/kriknut
+krichat"
 mart
 mnozhestvo
-otpravlyat/otpravit (+a)
+otpravlyat"
 protivorechie
 rezkij
 somnenie
 temp
 truba
-turma
-vnimatelno
+tyur"ma
+vnimatel"no
 lishnij
-pogibat/pogibnut
+pogibat"
 porog
-pribyvat/pribyt
-prosba
-sostoyatsya (r)
+pribyvat"
+pros"ba
+sostoyat"sya 
 tvorchestvo
 universitet
 akademik
 bitva
 vzroslyj
 kaplya
-kontrol (m)
-mnogoe (n)
+kontrol" 
+mnogoe 
 neponyatnyj
 nizhnij
 osushestvlenie
 progress
 punkt
 redkij
-soderzhat (i)
+soderzhat" 
 uvazhenie
 uzhas
-tsvetnoj
+cvetnoj
 shar
-vrat/so-
+vrat"
 dama
 demokratiya
 derevyannyj
 istina
-ischezat/ischeznut
+ischezat"
 kamennyj
-lubimyj
+lyubimyj
 ottuda
 povedenie
-vesti/po- (+a)
-stoyat/po-
-potrebnost (f)
+vesti
+stoyat"
+potrebnost" 
 rukav
 soedinyonnyj
-truditsya/po-
+trudit"sya
 familiya
-shumet (i)
+shumet" 
 aktivnyj
 biblioteka
-ezdit/po-
-lezt/po-
-obrazovyvat/obrazovat (+a)
+ezdit"
+lezt"
+obrazovyvat"
 pechka
 planeta
 ponyatnyj
 pravilo
 prozrachnyj
 torgovyj
-shinel (f)
-shutit/po-
+shinel" 
+shutit"
 shutka
 yashik
 avtoritet
-bolet (i)
+bolet" 
 vechernij
 vidnyj
 vnezapno
-gulyat/po-
-dvenadtsat
-zver (m)
+gulyat"
+dvenadcat"
+zver" 
 zvuk
-zvuchat/pro-
-komandovat (i) (+inst)
-kurit/po-
+zvuchat"
+komandovat" 
+kurit"
 nepremenno
 nizko
-obrazovyvatsya/obrazovatsya
-oznachat (i)
+obrazovyvat"sya
+oznachat" 
 ostryj
 pitanie
 polosa
 svyatoj
 seredina
 sluchajno
-sutki (f) (pl)
-ubegat/ubezhat
+sutki 
+ubegat"
 shapka
 agressiya
-blagodarya (+d)
+blagodarya 
 zlo
 krugom
-kryltso
+kryl"co
 neredko
 obed
 podderzhka
-podyom
+pod'yom
 prichyom
 proekt
 soobshenie
 sosed
-sushnost (f)
+sushnost" 
 tvyordo
-tsifra
+cifra
 anglichanin
 vo-vtoryh
 vooruzhenie
@@ -1619,71 +1619,71 @@ korpus
 kraska
 maj
 peredacha
-hodit/po-
-pohodit (i) (na +a)
+hodit"
+pohodit" 
 poyas
-ukazyvat/ukazat (+a or na +a)
+ukazyvat"
 vryad li
 gorizont
-zhal
-zhitel (m)
-zadumyvatsya/zadumatsya (o +pr/nad +inst)
-izmenyat/izmenit (+a)
+zhal"
+zhitel" 
+zadumyvat"sya
+izmenyat"
 minutka
 nekogda
-otvetstvennost (f)
+otvetstvennost" 
 perednyaya
 post
 rasstoyanie
 svedenie
 sever
-serditsya/ras- (na +a)
-sovest (f)
-traditsiya
+serdit"sya
+sovest" 
+tradiciya
 fraza
 chemodan
 golyj
-zashishat/zashitit (+a)
+zashishat"
 kafedra
 kompaniya
 oborudovanie
 pokoj
 pochemu-to
 smelyj
-sporit/po-
+sporit"
 sport
 uspeshno
-film
-bezopasnost (f)
-vypuskat/vypustit (+a)
-distsiplina
-dyshat/po- (+inst)
+fil"m
+bezopasnost" 
+vypuskat"
+disciplina
+dyshat"
 zdorovo
 izobrazhenie
-klast/polozhit (+a)
-krepost (f)
+klast"
+krepost" 
 nesomnenno
-okruzhat/okruzhit (+a +inst)
-opuskat/opustit (+a)
+okruzhat"
+opuskat"
 otlichno
 primerno
-spustya (+a)
-stroitelnyj
+spustya 
+stroitel"nyj
 talant
-ustavat/ustat
-unost (f)
-bratsya/vzyatsya (za +a)
+ustavat"
+yunost" 
+brat"sya
 velichina
-vozvrashat/vernut (+a)
+vozvrashat"
 zerkalo
 krylo
-lestnitsa
-opredelyat/opredelit (+a)
+lestnica
+opredelyat"
 ocherednoj
-palto (n) (indecl)
+pal"to 
 papirosa
-plate
-razbiratsya/razobratsya (v +pr)
+plat"e
+razbirat"sya
 pushka
 poluchenie
 priyatno
@@ -1693,46 +1693,46 @@ pozhar
 serdito
 sluh
 snaryad
-soobshat/soobshit (+a +d)
+soobshat"
 tesnyj
-ekzamen
+ehkzamen
 blago
 boloto
-vnutri (+g)
-vyglyadet (i)
-gotovitsya (i) (k +d)
-dvigatel (m)
-dobavlyat/dobavit (+a k +d)
-drozhat/za-
+vnutri 
+vyglyadet" 
+gotovit"sya 
+dvigatel" 
+dobavlyat"
+drozhat"
 kapitalist
 krepkij
-muzykalnyj
+muzykal"nyj
 nehorosho
-obyavlyat/obyavit (+a or o +pr)
+ob'yavlyat"
 organizm
 ostatok
-podobno (+d)
-pokryvat/pokryt (+a +inst)
+podobno 
+pokryvat"
 pop
 po-prezhnemu
 privychka
 soglashenie
 spor
 stroka
-tyanutsya/po-
+tyanut"sya
 uvelichenie
 uzhasno
 urozhaj
-tsennyj
+cennyj
 chisto
-begat/po-
-begat/s-
+begat"
+begat"
 boroda
 deputat
 zayavlenie
 korotko
 naprasno
-nochu
+noch"yu
 ohota
 pisha
 pomeshenie
@@ -1742,129 +1742,129 @@ telegramma
 tolstyj
 transport
 byk
-vyderzhivat/vyderzhat (+a)
-dostigat/dostignut (+g)
-vynimat/vynut (+a)
+vyderzhivat"
+dostigat"
+vynimat"
 vypolnenie
 kozha
-menshij
+men"shij
 mol
-nastolko
+nastol"ko
 neozhidannyj
-ofitsialnyj
+oficial"nyj
 ohotnik
-plamya (n)
+plamya 
 ponimanie
-protyagivat/protyanut (+a)
+protyagivat"
 professiya
 sooruzhenie
-speshit/po-
+speshit"
 storozh
-stupat/stupit
+stupat"
 trevoga
-utverzhdat (i)
+utverzhdat" 
 belosnezhnyj
 butylka
-volnovatsya/vz-
+volnovat"sya
 davlenie
 zapad
 kolebanie
-krovat (f)
+krovat" 
 mehanicheskij
-moshnost (f)
-napravlyat/napravit (+a)
+moshnost" 
+napravlyat"
 podarok
 podlinnyj
-poskolku
+poskol"ku
 prevrashenie
-profsouz
-razbivat/razbit (+a)
-smet/po- (+inf)
+profsoyuz
+razbivat"
+smet"
 stvol
-uverennost (f)
-fonar (m)
+uverennost" 
+fonar" 
 verhovnyj
 vzaimnyj
 gradus
-dopuskat/dopustit (+a k +d)
+dopuskat"
 zakaz
-initsiativa
-lektsiya
+iniciativa
+lekciya
 mokryj
-moralnyj
+moral"nyj
 opytnyj
 otdel
 otdyh
 otsutstvie
 prizyv
-proizvoditelnost (f)
-pyatnadtsat
-reaktsiya
+proizvoditel"nost" 
+pyatnadcat"
+reakciya
 skazka
-shodit/sojti (s +g)
+shodit"
 starushka
 chudesnyj
 batareya
 burnyj
-velet (i/p) (+d +inf)
-glavnoe (n) (adj)
-gnat/po- (+a)
-dogadyvatsya/dogadatsya
-zavoyovyvat/zavoevat (+a)
+velet" 
+glavnoe 
+gnat"
+dogadyvat"sya
+zavoyovyvat"
 izba
 instrument
-kupets
+kupec
 lyod
 moroz
-novost (f)
+novost" 
 oborona
 osvobozhdenie
-pahnut (i) (+inst)
-povest (f)
+pahnut" 
+povest" 
 podvig
-proshatsya/po- (s +inst)
+proshat"sya
 svyshe
-torchat (i)
-vyrazhat/vyrazit (+a)
+torchat" 
+vyrazhat"
 zhiznennyj
 znak
 kran
-krestyanskij
-lichnost (f)
+krest"yanskij
+lichnost" 
 masshtab
 meropriyatie
 ohrana
-posvyashat/posvyatit (+a +d)
+posvyashat"
 prisutstvie
 pustyak
 pyatno
-raspolagat/raspolozhit (+a)
+raspolagat"
 rozhdenie
 soprotivlenie
 ugodno
 uzhasnyj
 flag
-tsarskij
-chastnost (f)
-aprel (m)
+carskij
+chastnost" 
+aprel" 
 ataka
 dvoe
 devchonka
 dostoinstvo
 evropejskij
 ezheli
-krestyanstvo
-medal (f)
-menyat/po- (+a)
-naschyot (+g)
+krest"yanstvo
+medal" 
+menyat"
+naschyot 
 nichtozhnyj
 norma
 nuzhda
 otdelenie
 otchego
 patriot
-pobyvat (r) (v +pr)
-podpisyvat/podpisat (+a)
+pobyvat" 
+podpisyvat"
 posuda
 prekrasno
 propaganda
@@ -1876,57 +1876,57 @@ uchastok
 brigada
 kollektiv
 komandir
-bitsya (i)
-gibel (f)
+bit"sya 
+gibel" 
 gustoj
 edinstvo
-zritel (m)
+zritel" 
 zrya
-ishodit (i) (iz +g)
-molodost (f)
+ishodit" 
+molodost" 
 nishij
-otpravlyatsya/otpravitsya
-chuvstvovat/po- (+a)
+otpravlyat"sya
+chuvstvovat"
 prezidium
 priznak
 dikij
 rasporyazhenie
-svetitsya (i)
-set (f)
-spasat/spasti (+a)
+svetit"sya 
+set" 
+spasat"
 summa
-sotsializm
-zakluchatsya (i) (v +pr)
-malchishka (m)
-dokladyvat/dolozhit (o +pr)
+socializm
+zaklyuchat"sya 
+mal"chishka 
+dokladyvat"
 ele
 zhenskij
-zanimatsya/zanyatsya (+inst)
-izmenyatsya/izmenitsya
+zanimat"sya
+izmenyat"sya
 iskusstvennyj
-konferentsiya
+konferenciya
 kust
 mozg
-natsiya
+naciya
 nepreryvnyj
-obnimat/obnyat (+a)
-prevrashatsya/prevratitsya (v +a)
+obnimat"
+prevrashat"sya
 samovar
 sverhu
 shyopot
-absolutnyj
-borets
+absolyutnyj
+borec
 vyigrysh
 goryacho
 zhestokij
-zamestitel (m)
+zamestitel" 
 kletka
 neizvestno
 neizvestnyj
-obyazannost (f)
+obyazannost" 
 pustynya
 puteshestvie
-rasschityvat/rasschitat (na +a/+inf)
+rasschityvat"
 remont
 sleva
 surovyj
@@ -1936,33 +1936,33 @@ fashistskij
 chastnyj
 chempion
 aga
-arestovyvat/arestovat (+a)
-berech (i) (+a)
+arestovyvat"
+berech" 
 bilet
 vezde
 velikolepnyj
 vozbuzhdenie
-vstupat/vstupit (v +a)
+vstupat"
 vypusk
 greh
 gryaznyj
 dochka
 izgotovlenie
-iskluchitelno
+isklyuchitel"no
 koe-chto
 kritika
-nadpis (f)
-obrashenie (k +d)
+nadpis" 
+obrashenie 
 ottogo
-plavat/po-
+plavat"
 poezdka
 pozhiloj
-politsiya
+policiya
 prochnyj
-ruzhyo
+ruzh"yo
 ryzhij
 sahar
-sluzhashij (m) (adj)
+sluzhashij 
 sprava
 tucha
 ustrojstvo
@@ -1970,175 +1970,175 @@ utrom
 blagorodnyj
 burya
 vino
-voznikat/vozniknut
-vytaskivat/vytashit (+a iz +g)
+voznikat"
+vytaskivat"
 gigantskij
-zhalovatsya/po- (na +a)
-zamenyat/zamenit (+a +inst)
+zhalovat"sya
+zamenyat"
 lichno
-molodets
+molodec
 navsegda
-nadevat/nadet (+a)
-obyasnyat/obyasnit (+a)
-povorachivat/povernut (+a)
-proizvodit/proizvesti (+a)
-stuchat/po- (v +a)
-ekspeditsiya
-batushka (m)
+nadevat"
+ob'yasnyat"
+povorachivat"
+proizvodit"
+stuchat"
+ehkspediciya
+batyushka 
 vooruzhyonnyj
 vystrel
-garantirovat (i/p) (+a)
+garantirovat" 
 zhertva
 zhivo
 zhivotnoe
-znamya (n)
-informatsiya
-kontsert
+znamya 
+informaciya
+koncert
 kostyor
 krajne
 mehanizm
 mnogochislennyj
-naskolko
-obektivnyj
-obyasnenie
+naskol"ko
+ob'ektivnyj
+ob'yasnenie
 perevorot
 pero
 povorot
 pozadi
-priobretat/priobresti (+a)
-prislushivatsya/prislushatsya (k +d)
+priobretat"
+prislushivat"sya
 raspredelenie
-roditel (m)
+roditel" 
 svecha
 svoeobraznyj
 sekret
 sklad
 skuchno
 soglasnyj
-somnevatsya/usomnitsya (v +pr)
+somnevat"sya
 sochinenie
 spisok
-sposobstvovat (i) (+d)
-spravlyatsya/spravitsya (s +inst)
+sposobstvovat" 
+spravlyat"sya
 sfera
-tantsevat/po-
-tashit/po- (+a)
-uspokaivatsya/uspokoitsya
-etap
+tancevat"
+tashit"
+uspokaivat"sya
+ehtap
 yavno
 aktyor
 arest
-besedovat/po- (s +inst)
+besedovat"
 bytie
 vesennij
 vkus
 vospominanie
-vydavat/vydat (+a)
-vydaushijsya
-gudet (i)
+vydavat"
+vydayushijsya
+gudet" 
 dobycha
 dorozhka
-dostavlyat/dostavit (+a)
+dostavlyat"
 dostatochnyj
 krest
-meditsinskij
+medicinskij
 mehanik
 múka
 muká
 napryazhenie
-normalnyj
-noyabr (m)
-pechalnyj
-privozit/privezti (+a)
+normal"nyj
+noyabr" 
+pechal"nyj
+privozit"
 priznanie
-pryatat/s- (+a)
+pryatat"
 rassvet
 segodnyashnij
 sushestvennyj
-uvazhat (i) (+a)
+uvazhat" 
 firma
 avtomat
 bukva
-glupost (f)
+glupost" 
 golod
 grecheskij
 delovoj
 doverie
-dragotsennyj
+dragocennyj
 dushevnyj
-zaglyadyvat/zaglyanut
+zaglyadyvat"
 koj
 match
-nabludenie
-otkryvatsya/otkrytsya
+nablyudenie
+otkryvat"sya
 otlichie
 perestrojka
 preimushestvo
 priyatnyj
-raskryvat/raskryt (+a)
+raskryvat"
 redko
-sootvetstvovat (i) (+d)
-sootvetstvuushij
-stal (f)
+sootvetstvovat" 
+sootvetstvuyushij
+stal" 
 hvost
 chrezvychajno
 agressivnyj
 vokzal
 gluhoj
-dovodit/dovesti (do +g)
+dovodit"
 estestvenno
-lubopytstvo
+lyubopytstvo
 neposredstvenno
 nigde
-obrashat/obratit (+a)
+obrashat"
 obshirnyj
 otvetstvennyj
 otlichnyj
 park
-platit/za- (+d za +a)
-sazhat/posadit (+a)
-predstoyat (i) (+d)
+platit"
+sazhat"
+predstoyat" 
 prostor
-profsouznyj
-reshitelnyj
-reshatsya/reshitsya (na +a or +inf)
+profsoyuznyj
+reshitel"nyj
+reshat"sya
 rynok
 sploshnoj
 stolb
-tochnost (f)
+tochnost" 
 troe
-udivitelno
-shestdesyat
+udivitel"no
+shest"desyat
 arena
 vzor
-vnosit/vnesti (+a v +a)
-vsledstvie (+g)
-grozit/pri- (+d)
+vnosit"
+vsledstvie 
+grozit"
 dalee
-dovolnyj (+inst)
-zavisimost (f)
-kto-nibud
+dovol"nyj 
+zavisimost" 
+kto-nibud"
 listok
-odetyj (v +a)
-okazyvat/okazat (+a)
+odetyj 
+okazyvat"
 podruga
 podushka
 pravlenie
-rashoditsya/razojtis
+rashodit"sya
 rubashka
 skala
 sperva
-spravedlivost (f)
-terpet/po- (+a)
-tma
-upravlyat (i) (+inst)
-fevral (m)
+spravedlivost" 
+terpet"
+t"ma
+upravlyat" 
+fevral" 
 harakternyj
-hm (or gm)
+hm 
 artist
 blagopriyatnyj
-vybirat/vybrat (+a)
-dekabr (m)
+vybirat"
+dekabr" 
 diviziya
 domashnij
 dyhanie
@@ -2146,69 +2146,69 @@ zarya
 kolokol
 krutoj
 mednyj
-menyatsya/ob-
+menyat"sya
 nevidimyj
-obyazatelstvo
-oglyadyvatsya/oglyadetsya
-oglyadyvatsya/oglyanutsya
+obyazatel"stvo
+oglyadyvat"sya
+oglyadyvat"sya
 orden
-otpuskat/otpustit (+a)
-ochki (pl)
-perevodit/perevesti (+a)
+otpuskat"
+ochki 
+perevodit"
 perspektiva
-primenyat/primenit (+a)
-prisazhivatsya/prisest
-proveryat/proverit (+a)
+primenyat"
+prisazhivat"sya
+proveryat"
 sbornik
 smeshnoj
-spektakl (m)
+spektakl" 
 spravedlivyj
-sravnitelno
+sravnitel"no
 teoreticheskij
-ubirat/ubrat (+a)
-tsennost (f)
+ubirat"
+cennost" 
 agronom
 vnedrenie
 vostochnyj
-goditsya (i) (na +a/dlya +g)
-gordost (f)
-zhenitsya (i/p) (na +pr)
+godit"sya 
+gordost" 
+zhenit"sya 
 zametno
-kino (indecl)
+kino 
 korennoj
 maslo
 masterskaya
 myaso
 nadyozhnyj
-naznachat/naznachit (+a +inst)
+naznachat"
 nastuplenie
 nevesta
 obratnyj
 odinakovyj
-otnositelno
+otnositel"no
 pamyatnik
-perebivat/perebit (+a)
-darit/po- (+a +d)
+perebivat"
+darit"
 podhod
 pomeshik
 poyavlenie
-pribyl (f)
+pribyl" 
 semejnyj
-slyhat (i) (o +pr)
-slyshatsya/po-
-sochinyat/sochinit (+a)
+slyhat" 
+slyshat"sya
+sochinyat"
 talantlivyj
 tehnologiya
-tihonko
-tkan (f)
+tihon"ko
+tkan" 
 tolk
 toska
 faktor
-hohotat/za-
+hohotat"
 agent
 bassejn
 variant
-vne (+g)
+vne 
 vybor
 gul
 zabor
@@ -2216,148 +2216,148 @@ zadnij
 kontinent
 kopejka
 lozung
-nevolno
+nevol"no
 nezhnyj
 nezametno
 neschastnyj
-neft (f)
-otnimat/otnyat (+a)
-otstupat/otstupit (ot +g)
+neft" 
+otnimat"
+otstupat"
 passazhir
 podvodnyj
 prekrashenie
-provozhat/provodit (+a)
+provozhat"
 rab
 roza
 ruchka
 signal
-skryvat/skryt (+a)
-sovershat/sovershit (+a)
+skryvat"
+sovershat"
 stolik
 stuk
-torgovat (i) (+inst)
+torgovat" 
 torzhestvennyj
 fantasticheskij
 yarko
 beskonechno
-bukvalno
+bukval"no
 vygodnyj
-generalnyj
+general"nyj
 grandioznyj
-gryaz (f)
-dobiratsya/dobratsya (do +g)
-dolzhnost (f)
-pugatsya/is- (+g)
-iul (m)
+gryaz" 
+dobirat"sya
+dolzhnost" 
+pugat"sya
+iyul" 
 kojka
-kostum
+kostyum
 laskovo
-lokot (m)
-lubopytnyj
-nadoedat/nadoest (+d)
-nachalstvo
-nuzhdatsya (i) (v +pr)
+lokot" 
+lyubopytnyj
+nadoedat"
+nachal"stvo
+nuzhdat"sya 
 odezhda
 okoshko
 osobo
-otezd
+ot'ezd
 prakticheski
-prekrashat/prekratit (+a)
+prekrashat"
 progressivnyj
-prodolzhatsya (i)
-proiznosit/proiznesti (+a)
-razrabatyvat/razrabotat (+a)
+prodolzhat"sya 
+proiznosit"
+razrabatyvat"
 razum
 rozovyj
 slavnyj
 smeshno
-foto (indecl)
+foto 
 shlyapa
 shtuka
 avtomaticheskij
 aktivno
-vbegat/vbezhat (v +a)
-vezti/po- (+a)
-vetv (f)
+vbegat"
+vezti
+vetv" 
 vrednyj
-vskakivat/vskochit
-vyvodit/vyvesti (iz +g)
+vskakivat"
+vyvodit"
 grohot
 desyatiletie
 dostojnyj
 durnoj
 zhest
 zanyatyj
-zapisyvat/zapisat (+a)
-iskluchenie
+zapisyvat"
+isklyuchenie
 ledyanoj
 lenta
-mahat/mahnut (+inst)
+mahat"
 muha
 negromko
 neposredstvennyj
-obizhatsya/obidetsya
+obizhat"sya
 obyazannyj
-oktyabrskij
-orat (i)
-otsenivat/otsenit (+a)
-plemya (n)
-pogloshat/poglotit (+a)
-podgotavlivat/podgotovit (+a)
+oktyabr"skij
+orat" 
+ocenivat"
+plemya 
+pogloshat"
+podgotavlivat"
 podrobno
 potolok
-provoditsya (i)
+provodit"sya 
 proklyatyj
 razryv
 rasprostranenie
-samostoyatelnyj
-skladyvatsya/slozhitsya
-souznik
-strast (f)
+samostoyatel"nyj
+skladyvat"sya
+soyuznik
+strast" 
 tank
 tarelka
 toplivo
 trista
-ubezhdat/ubedit (+a)
+ubezhdat"
 udivlenie
 udobnyj
 holm
-chetvert (f)
+chetvert" 
 bezuslovno
-bolnitsa
+bol"nica
 vostorg
-vynosit/vynesti (+a)
-vyskakivat/vyskochit (iz +g)
+vynosit"
+vyskakivat"
 gorlo
-dejstvitelnyj
+dejstvitel"nyj
 dohod
-dumatsya (i)
-zakluchenie
+dumat"sya 
+zaklyuchenie
 izdanie
-izuchat/izuchit (+a)
+izuchat"
 konechnyj
 korzina
-kormit/na- (+a)
-lishat/lishit (+a +g)
+kormit"
+lishat"
 muzhskoj
 nepreryvno
 obsuzhdenie
-odevat/odet (+a)
+odevat"
 palka
 peremena
 ploshadka
-pobeditel (m)
-podtverzhdat/podtverdit (+a)
-portfel (m)
-priyatel (m)
-proch
+pobeditel" 
+podtverzhdat"
+portfel" 
+priyatel" 
+proch"
 razreshenie
 svyashennik
-sentyabr (m)
+sentyabr" 
 sovershennyj
-sovat/sunut (+a)
+sovat"
 tyl
-uvelichivat/uvelichit (+a)
+uvelichivat"
 ura
 fantaziya
 chego
@@ -2365,49 +2365,49 @@ bumazhka
 val
 vina
 volnenie
-voskresene
+voskresen"e
 vposledstvii
-vyyasnyat/vyyasnit (+a)
-glyanut (r) (na +a)
-gostinitsa
-dvigatsya/dvinutsya
+vyyasnyat"
+glyanut" 
+gostinica
+dvigat"sya
 dolzhno
-dolzhno byt
-dratsya/po-
-zapominat/zapomnit (+a)
+dolzhno byt"
+drat"sya
+zapominat"
 zveno
-izdatelstvo
-intelligentsiya
+izdatel"stvo
+intelligenciya
 komandovanie
 krepostnoj
 logika
 nasilie
-nastupat/nastupit
+nastupat"
 nebesnyj
 nezavisimyj
-ogon(yo)k
-osvobozhdat/osvobodit (+a)
+ogon
+osvobozhdat"
 otpusk
-peregovory (m) (pl)
+peregovory 
 pidzhak
 plotnyj
-podderzhivat/podderzhat (+a)
+podderzhivat"
 polka
 postoronnij
-poeticheskij
+poehticheskij
 prestuplenie
-propadat/propast
+propadat"
 razmah
 rannij
 rashod
 rejs
-reshaushij
+reshayushij
 seriya
-stalnoj
+stal"noj
 truzhenik
-tselikom
+celikom
 avgust
-aerodrom
+aehrodrom
 bespoleznyj
 beschislennyj
 blednyj
@@ -2415,40 +2415,40 @@ vnachale
 vnizu
 zadumchivo
 motiv
-nalivat/nalit (+a)
+nalivat"
 napadenie
-napravlyatsya/napravitsya (k +d)
+napravlyat"sya
 napryazhyonnyj
 nepravda
 nikuda
-obmanyvat/obmanut (+a)
+obmanyvat"
 odinokij
 osennij
-osnovyvat/osnovat (+a)
-otkladyvat/otlozhit (+a)
+osnovyvat"
+otkladyvat"
 pozdnij
 poloska
 postupok
-pristan (f)
-razvorachivat/razvernut (+a)
-razbirat/razobrat (+a)
+pristan" 
+razvorachivat"
+razbirat"
 ranenyj
 skoryj
-sosredotochivat/sosredotochit (+a na +pr)
+sosredotochivat"
 sotrudnik
 stoletie
-stradat/po-
+stradat"
 temno
-udivlyatsya/udivitsya (+d)
-uchitelnitsa
+udivlyat"sya
+uchitel"nica
 finansovyj
 chajnik
-ekran
-bestsvetnyj
+ehkran
+bescvetnyj
 biografiya
 blesk
 bozhij
-bol (f)
+bol" 
 versta
 voobrazhenie
 vcherashnij
@@ -2459,149 +2459,149 @@ zametka
 kvartal
 kukla
 letnij
-lovit/pojmat (+a)
-model (f)
+lovit"
+model" 
 nazyvaemyj
 narochno
 okonchanie
-otnud
+otnyud"
 plastinka
-plyt/po-
-podbirat/podobrat (+a)
-pomimo (+g)
-posleduushij
-tselovat/po- (+a)
-prevrashat/prevratit (v +a)
+plyt"
+podbirat"
+pomimo 
+posleduyushij
+celovat"
+prevrashat"
 pulya
-pesa
+p"esa
 rubaha
-rukovodit (i) (+inst)
-sverkat (i)
+rukovodit" 
+sverkat" 
 serebryanyj
-slushatsya/po- (+g)
+slushat"sya
 sort
 spasenie
-stil (m)
+stil" 
 stimul
-stroitsya/po-
+stroit"sya
 sumasshedshij
 to-to
-ugrozhat (i) (+d)
+ugrozhat" 
 umenie
 fantastika
 chtenie
 verh
-vkluchat/vkluchit (+a)
+vklyuchat"
 vnezapnyj
 vsluh
 gordyj
-gorkij
+gor"kij
 gospodstvo
 delegat
 deshyovyj
-dlitelnyj
-dogonyat/dognat (+a)
+dlitel"nyj
+dogonyat"
 estestvennyj
-zayats
+zayac
 koli
 kora
-letat/po-
+letat"
 lyotchik
 lug
 mgnovenie
 naprotiv
 neznakomyj
 nerv
-publikovat/o- (+a)
-otdyhat/otdohnut
-otsenka
-poeziya
+publikovat"
+otdyhat"
+ocenka
+poehziya
 predydushij
-privetstvovat (i) (+a)
-primenyatsya/primenitsya
+privetstvovat" 
+primenyat"sya
 razrushenie
 resurs
-rugatsya (i)
-soznatelnyj
-sravnivat/sravnit (+a s +inst)
+rugat"sya 
+soznatel"nyj
+sravnivat"
 udovletvorenie
 unichtozhenie
-ej
+ehj
 agressor
 beshenyj
-bormotat/pro-
+bormotat"
 vdali
 vedro
 vsemirnyj
-vyryvatsya/vyrvatsya
-vyskazyvat/vyskazat (+a)
+vyryvat"sya
+vyskazyvat"
 vystavka
 dnevnoj
 dovod
-dozhidatsya/dozhdatsya (+g)
-dokazatelstvo
+dozhidat"sya
+dokazatel"stvo
 zheleznodorozhnyj
-vyhodit/vyjti zamuzh (za +a)
+vyhodit"
 zamysel
 zona
 igrok
-iskluchitelnyj
-iun (m)
-korol (m)
+isklyuchitel"nyj
+iyun" 
+korol" 
 lavka
-ludskoj
-nanosit/nanesti (+a +d)
+lyudskoj
+nanosit"
 nastojchivo
 nelovko
 obespechenie
 obmen
-obyasnyatsya/obyasnitsya
-okruzhaushij
-opravdyvat/opravdat (+a)
-osvobozhdatsya/osvoboditsya (ot +g)
+ob'yasnyat"sya
+okruzhayushij
+opravdyvat"
+osvobozhdat"sya
 otkaz
 otkrovenno
-otzyvatsya/otozvatsya (na +a)
-podrobnost (f)
-polagatsya/polozhitsya (na +a)
-postel (f)
-prevyshat/prevysit (+a)
+otzyvat"sya
+podrobnost" 
+polagat"sya
+postel" 
+prevyshat"
 privychnyj
-priglashat/priglasit (+a)
-provintsiya
-prohazhivatsya/projtis
+priglashat"
+provinciya
+prohazhivat"sya
 razlichie
-ranit (i/p) (+a)
+ranit" 
 sklon
 sohranenie
 tesno
-tetrad (f)
+tetrad" 
 topor
-trogat/tronut (+a)
-tshatelno
-ugrumo
+trogat"
+tshatel"no
+ugryumo
 upornyj
 shkaf
-shel (f)
-ug
+shel" 
+yug
 yaponskij
 balkon
 bokal
-brodit/po-
+brodit"
 vovremya
-volnovat/vz- (+a)
-vseryoz
+volnovat"
+vser"yoz
 vhod
 grob
 devka
-dejstvuushij
-delegatsiya
+dejstvuyushij
+delegaciya
 desyatyj
 zametnyj
 zaranee
 zashitnik
 zvon
-ispolnyat/ispolnit (+a)
+ispolnyat"
 kakoj-libo
 kandidat
 kirpich
@@ -2609,72 +2609,72 @@ kratkij
 kucha
 lider
 lozhka
-lubovatsya/po- (+inst or na +a)
+lyubovat"sya
 minuvshij
 napravo
 nevozmozhnyj
-nenavist (f)
+nenavist" 
 nitka
-obshestvennost (f)
-okonchatelnyj
-otrazhat/otrazit (+a)
+obshestvennost" 
+okonchatel"nyj
+otrazhat"
 otchayanie
 ohotno
 pasha
-pismennyj
+pis"mennyj
 po-vidimomu
-pokonchit (r) (s +inst)
+pokonchit" 
 pochta
 premiya
 prepyatstvie
-prizyvat/prizvat
+prizyvat"
 prirodnyj
 proishozhdenie
-pronikat/proniknut (v +a)
+pronikat"
 rovnyj
-samolubie
-svetit (i)
-svidetelstvo
-sovershatsya/sovershitsya
-sut (f)
+samolyubie
+svetit" 
+svidetel"stvo
+sovershat"sya
+sut" 
 ubezhdenie
-uderzhivat/uderzhat (+a)
-tsenit (i) (+a)
+uderzhivat"
+cenit" 
 blagodarnyj
-vospityvat/vospitat (+a)
-vspyhivat/vspyhnut
-v-tretih
-vygonyat/vygnat (+a)
-vytyagivat/vytyanut (+a)
+vospityvat"
+vspyhivat"
+v-tret"ih
+vygonyat"
+vytyagivat"
 genij
 geroicheskij
-zarabatyvat/zarabotat (+a)
-izvolit (+inf)
-interesovat/za- (+a)
-ish
+zarabatyvat"
+izvolit" 
+interesovat"
+ish"
 klassicheskij
 klimat
 marsh
-medved (m)
+medved" 
 mrachnyj
-napolnyat/napolnit (+a)
+napolnyat"
 nedavnij
 neizbezhno
 nepodvizhnyj
 osveshenie
 ottenok
 papka
-povyshat/povysit (+a)
-ponadobitsya (r)
-pristupat/pristupit (k +d)
+povyshat"
+ponadobit"sya 
+pristupat"
 prodolzhenie
 proyavlenie
 publika
-budit/raz- (+a)
-raznitsa
+budit"
+raznica
 reshyotka
-svinya
-svistet/svistnut
+svin"ya
+svistet"
 skromnyj
 slegka
 smertnyj
@@ -2682,46 +2682,46 @@ snizhenie
 sochetanie
 tryapka
 filosofskij
-tsarstvo
-etazh
+carstvo
+ehtazh
 bank
-blestet (i)
-bratets
+blestet" 
+bratec
 velichie
 golodnyj
 gromkij
 dvazhdy
 ezhegodno
-zapasnoj (or zapasnyj)
-zapis (f)
-zasypát (i) (+a +inst)
-znakomstvo (s +inst)
-izbirat/izbrat (+a)
+zapasnoj 
+zapis" 
+zasypát" 
+znakomstvo 
+izbirat"
 izredka
 imushestvo
-kost (f)
+kost" 
 manera
-neschaste
+neschast"e
 netrudno
 orkestr
 otdalyonnyj
 otkrovennyj
-oshibatsya/oshibitsya
+oshibat"sya
 pyostryj
-veshat/povesit (+a)
-pomeshat/pomestit (+a)
+veshat"
+pomeshat"
 predpolozhenie
-preduprezhdat/predupredit (+a o +pr)
-prozhivat/prozhit
-pyatsot
+preduprezhdat"
+prozhivat"
+pyat"sot
 ravenstvo
-rassuzhdat (i)
+rassuzhdat" 
 szadi
 sibirskij
-skatert (f)
+skatert" 
 smirno
 soobrazhenie
-spetsialno
+special"no
 strela
 struya
 uzel
@@ -2734,42 +2734,42 @@ bedstvie
 blizhnij
 bytovoj
 vvedenie
-vladet/o- (+inst)
-vozrastat/vozrasti
-gasnut/po-
-dannye (pl)
-devitsa
+vladet"
+vozrastat"
+gasnut"
+dannye 
+devica
 dnevnik
 druzhestvennyj
-zaveduushij (+inst)
-issledovatel (m)
+zaveduyushij 
+issledovatel" 
 istinnyj
 kartinka
-kogda-nibud
+kogda-nibud"
 kosa
 koshka
 krizis
 kusochek
-militsiya
+miliciya
 molniya
-mysh (f)
+mysh" 
 namerenie
 natura
-okanchivat/okonchit (+a)
+okanchivat"
 otchyot
-povorachivatsya/povernutsya
+povorachivat"sya
 povyshennyj
 politik
 pochyotnyj
-preodolevat/preodolet (+a)
-prodavat/prodat (+a)
-prohozhij (m) (adj)
-prygat/prygnut
-pugat/is- (+a)
-pylnyj
+preodolevat"
+prodavat"
+prohozhij 
+prygat"
+pugat"
+pyl"nyj
 rossijskij
-rugat/vz- (+a)
-svadba
+rugat"
+svad"ba
 sladkij
 stanok
 skuka
@@ -2778,124 +2778,124 @@ sokrashenie
 soldatskij
 subbota
 tainstvennyj
-tolkat/tolknut (+a)
+tolkat"
 usherb
 hitryj
 chestno
 chinovnik
-shtany (m) (pl)
+shtany 
 bufet
 bystrota
-vynuzhdat/vynudit (+a +inf)
+vynuzhdat"
 vyhodnoj
-zabotitsya/po- (o +pr)
-zavidovat/po- (+d)
-zakurivat/zakurit (+a)
+zabotit"sya
+zavidovat"
+zakurivat"
 zarubezhnyj
 imperiya
-ispytyvat/ispytat (+a)
+ispytyvat"
 kamera
 kategoriya
 kolhoznik
 kolhoznyj
-lozh (f)
-milost (f)
+lozh" 
+milost" 
 moneta
-mchatsya/po-
+mchat"sya
 myshlenie
-nebos
-opredelyatsya/opredelitsya
-past (f)
+nebos"
+opredelyat"sya
+past" 
 podhodyashij
-pozhimat/pozhat (+a)
-pozdravlyat/pozdravit (+a s +inst)
-poperyok (+g)
-poruchat/poruchit (+a +d)
-prizhimat/prizhat (+a k +d)
+pozhimat"
+pozdravlyat"
+poperyok 
+poruchat"
+prizhimat"
 protivno
-proyavlyat/proyavit (+a)
+proyavlyat"
 rabstvo
 radostno
-rezat/po- (+a)
+rezat"
 santimetr
-sverh (+g)
-svidetel (m)
+sverh 
+svidetel" 
 sedoj
 skot
-skryvatsya/skrytsya
+skryvat"sya
 syroj
 taktika
 telefonnyj
-tech/po-
-tech (f)
+tech"
+tech" 
 tupik
 uverenno
-usmehatsya/usmehnutsya
+usmehat"sya
 utverzhdenie
-hlopat/hlopnut (+inst)
+hlopat"
 holod
-sheptat/shepnut
-effekt
+sheptat"
+ehffekt
 aj
-belyo
+bel"yo
 beryoza
 borodatyj
 vedushij
 vizit
 vozmushenie
-vozrazhat/vozrazit (protiv +g)
-vosklitsat/voskliknut
-vydelyatsya/vydelitsya (iz +g)
-vypadat/vypast (iz +g)
-gde-nibud
+vozrazhat"
+vosklicat"
+vydelyat"sya
+vypadat"
+gde-nibud"
 gorshok
 groza
 grustnyj
-donositsya/donestis
-edinitsa
+donosit"sya
+edinica
 zhadnyj
-zabirat/zabrat (+a)
-zadavat/zadat (+a +d)
-zaderzhivatsya/zaderzhatsya
-zakladyvat/zalozhit (+a)
+zabirat"
+zadavat"
+zaderzhivat"sya
+zakladyvat"
 zanaveska
-zapirat/zaperet (+a)
-izdavat/izdat (+a)
+zapirat"
+izdavat"
 ispuganno
 kakov
-lubitel (m)
-mebel (f)
+lyubitel" 
+mebel" 
 medlennyj
 naryadnyj
 neizbezhnyj
-nenavidet/voz- (+a)
-obsuzhdat/obsudit (+a)
-opiratsya/operetsya (na +a)
-osveshat/osvetit (+a)
-otvorachivatsya/otvernutsya (ot +g)
-otritsat (i) (+a)
+nenavidet"
+obsuzhdat"
+opirat"sya
+osveshat"
+otvorachivat"sya
+otricat" 
 perevod
 plata
-podvergatsya/podvergnutsya (+d)
-podymat/podnyat (+a)
-polnó (+g)
+podvergat"sya
+podymat"
+polnó 
 pólno
-polozhitelnyj
-popadatsya/popastsya
-presledovat (i) (+a)
+polozhitel"nyj
+popadat"sya
+presledovat" 
 pressa
 prokuror
 prostornyj
-razdavatsya/razdatsya
+razdavat"sya
 razrabotka
 razumnyj
 ramka
 rasshirenie
-sverkaushij
-semnadtsat
+sverkayushij
+semnadcat"
 slovom
-skladyvat/slozhit (+a)
-sryvat/sorvat (+a s +g)
+skladyvat"
+sryvat"
 tabak
 tepereshnij
 ugolok
@@ -2904,139 +2904,139 @@ fon
 fond
 funt
 halat
-chetyrnadtsat
-elektrostantsiya
+chetyrnadcat"
+ehlektrostanciya
 afrikanskij
 barin
 baryshnya
-bolshij
+bol"shij
 vdvoe
 vetka
-vladyolets
+vladyolec
 volk
-vydumyvat/vydumat (+a)
-vyigryvat/vyigrat (+a)
-vyyasnyatsya/vyyasnitsya
+vydumyvat"
+vyigryvat"
+vyyasnyat"sya
 gnev
 davnij
 denezhnyj
-dobyvat/dobyt (+a)
+dobyvat"
 draka
 zhivot
-zakonomernost (f)
+zakonomernost" 
 zasluga
 izdali
-illuziya
-kachat/kachnut (+a or +inst)
+illyuziya
+kachat"
 kvadratnyj
-krasavitsa
+krasavica
 laskovyj
-mineralnyj
+mineral"nyj
 myagko
 nedaleko
 oblik
 oblomok
 odeyalo
-opuskatsya/opustitsya
+opuskat"sya
 oskolok
-osushestvlyat/osushestvit (+a)
-pomirat/pomeret
+osushestvlyat"
+pomirat"
 porazhenie
 prazdnichnyj
-predostavlyat/predostavit (+a +d)
-propuskat/propustit (+a)
+predostavlyat"
+propuskat"
 razvedka
-rasprostranyatsya/rasprostranitsya
+rasprostranyat"sya
 rubezh
 saraj
-siyat (i)
-sovetovat/po- (+d)
+siyat" 
+sovetovat"
 sovremennik
 sok
-soobrazhat/soobrazit
-soprovozhdat (i) (+a)
-sohranyatsya/sohranitsya
+soobrazhat"
+soprovozhdat" 
+sohranyat"sya
 struktura
-stupen (f)
+stupen" 
 styd
 tajnyj
 ugnetyonnyj
-usnut (p)
+usnut" 
 utrennij
 filosof
 holodno
 auditoriya
 bazar
 bronzovyj
-valyatsya/po-
+valyat"sya
 veryovka
 vzvolnovannyj
 vremennyj
-vybrasyvat/vybrosit (+a)
+vybrasyvat"
 glupo
 dolina
-dopolnitelnyj
-dut/po-
+dopolnitel"nyj
+dut"
 zhalkij
-zazhigat/zazhech (+a)
-zasypat/zasnut
-zastavat/zastat (+a)
-zdorovatsya/po- (c +inst)
+zazhigat"
+zasypat"
+zastavat"
+zdorovat"sya
 izvestie
 iskrennij
 kilogramm
 krysa
-meloch (f)
+meloch" 
 molodyozhnyj
-myt/po- (+a)
+myt"
 nedostatochno
-nemnogie (pl)
+nemnogie 
 nepriyatnyj
 ogorod
-opisyvat/opisat (+a)
-otrezát (i) (+a)
-ohvatyvat/ohvatit (+a)
+opisyvat"
+otrezát" 
+ohvatyvat"
 plyonka
 podzemnyj
-pokazyvatsya/pokazatsya
+pokazyvat"sya
 poroj
 poryadochnyj
-prikryvat/prikryt (+a +inst)
-prilagat/prilozhit (k +d)
-razvodit/razvesti (+a)
-razglyadyvat (i) (+a)
+prikryvat"
+prilagat"
+razvodit"
+razglyadyvat" 
 rosha
 sluchajnyj
 smelo
 smushyonno
-sozdavatsya/sozdatsya
-sohranyat/sohranit (+a)
-spuskatsya/spustitsya
-sumerki (pl)
-tyazhest (f)
-uvelichivatsya/uvelichitsya
+sozdavat"sya
+sohranyat"
+spuskat"sya
+sumerki 
+tyazhest" 
+uvelichivat"sya
 fashizm
 avtomashina
 besposhadnyj
 brak
-broshura
+broshyura
 bugor
 vechno
-vozit/po- (+a)
-vplot (do +g)
-vydelyat/vydelit (+a)
-vyezzhat/vyehat (iz +g)
-vytirat/vyteret (+a)
+vozit"
+vplot" 
+vydelyat"
+vyezzhat"
+vytirat"
 gazetnyj
-golosovat/pro- (za +a/protiv +g)
+golosovat"
 dub
-zhaloba (na +a)
-zabolevat/zabolet
-zavodit/zavesti (+a)
+zhaloba 
+zabolevat"
+zavodit"
 zakrytyj
-katitsya/po-
+katit"sya
 knizhnyj
-krutit/za- (+a)
+krutit"
 lovko
 lopata
 magnitofon
@@ -3044,78 +3044,78 @@ masterstvo
 muzhestvo
 naverhu
 nagrada
-naryadu (s +inst)
+naryadu 
 neobyknovennyj
-ovtsa
-otnosit/otnesti (+a)
+ovca
+otnosit"
 padenie
-podvodit/podvesti (+a)
-podozrevat (i) (+a)
+podvodit"
+podozrevat" 
 poistine
 pokojnyj
-poseshat/posetit (+a)
+poseshat"
 postanovlenie
 pot
 prebyvanie
-predvaritelnyj
-prigotavlivat/prigotovit (+a)
-pristalno
+predvaritel"nyj
+prigotavlivat"
+pristal"no
 protyazhenie
 raznoobrazie
-rassmatrivat/rassmotret (+a)
-rvat/po- (+a)
+rassmatrivat"
+rvat"
 religiya
 rodstvennik
-sbivat/sbit (+a)
-svorachivat/svernut (+a)
-svodit/svesti (+a)
+sbivat"
+svorachivat"
+svodit"
 skamejka
 sovershenstvovanie
 sokrovishe
-splosh
-sudya (m/f)
-sushestvuushij
+splosh"
+sud"ya 
+sushestvuyushij
 tolshina
-vidat/u- (+a)
+vidat"
 uzhin
-usadba
-hranit (i) (+a)
+usad"ba
+hranit" 
 chashka
 chepuha
 yavnyj
 brevno
-vidnetsya (i)
+vidnet"sya 
 vklad
-vosstanavlivat/vosstanovit (+a)
+vosstanavlivat"
 vremenno
 vyzov
-vylezat/vylezti (iz +g)
+vylezat"
 godovoj
-gotovnost (f)
+gotovnost" 
 dostupnyj
 zharko
-zadumyvat/zadumat (+a)
+zadumyvat"
 zapros
 izdaleka
-interesovatsya/za- (+inst)
+interesovat"sya
 kadr
 kadry
 kakovoj
-kivat/kivnut (+inst)
+kivat"
 kitajskij
 korm
 krasivo
 krovavyj
 kryshka
-kushat/s- (+a)
-napivatsya/napitsya (+g)
+kushat"
+napivat"sya
 narushenie
 nelegko
-nestis/po-
-nit (f)
-nochevat/pere-
+nestis"
+nit" 
+nochevat"
 nravstvennyj
-obedinyonnyj
+ob'edinyonnyj
 okraina
 opisanie
 ostanovka
@@ -3127,53 +3127,53 @@ plen
 ploskij
 plotno
 podval
-podchyorkivat/podcherknut (+a)
-podymatsya/podnyatsya
-est/po-
+podchyorkivat"
+podymat"sya
+est"
 polgoda
-nesti/po- (+a)
-prinimatsya/prinyatsya (za +a)
-prisushij (+d)
+nesti
+prinimat"sya
+prisushij 
 pritom
-proigryvat/proigrat (+a)
-professionalnyj
+proigryvat"
+professional"nyj
 rasteryanno
 reklama
 rukovodyashij
-szhigat/szhech (+a)
-skamya
+szhigat"
+skam"ya
 skuchnyj
 snizu
 sobesednik
 sobor
 spinka
-pryatatsya/s-
-stukat/stuknut (+a)
+pryatat"sya
+stukat"
 toroplivo
-trevozhit/vs- (+a)
+trevozhit"
 ubityj
 hudoj
 chrezvychajnyj
-shagat/shagnut
-effektivnost
+shagat"
+ehffektivnost"
 yakoby
-yarost (f)
+yarost" 
 alleya
 banya
 bespokojstvo
 besporyadok
-bliz (+g)
+bliz 
 buryj
-valit/s- (+a)
+valit"
 vedénie
 védenie
 velichestvennyj
-vzdumat (r) (+inf)
-vmeshatelstvo (v +a)
+vzdumat" 
+vmeshatel"stvo 
 vodnyj
 vozvrashenie
 grib
-gus (m)
+gus" 
 devyatyj
 eda
 zhestoko
@@ -3184,44 +3184,44 @@ zamók
 zatylok
 ideal
 kovyor
-kolossalnyj
+kolossal"nyj
 kuda-to
-mosh (f)
+mosh" 
 naivnyj
 nalevo
 nevedomyj
 neudobno
 obman
-obhoditsya/obojtis
-obyazyvat/obyazat (+a +inf)
-oderzhivat/oderzhat (+a)
+obhodit"sya
+obyazyvat"
+oderzhivat"
 osvoenie
 penie
-perezhivat/perezhit (+a)
-pechatat/na- (+a)
+perezhivat"
+pechatat"
 peshkom
 planirovanie
 povar
-podelat (r)
+podelat" 
 poznanie
 polyot
 posledstvie
-priblizitelno
-prigoditsya (r)
-progonyat/prognat (+a)
+priblizitel"no
+prigodit"sya 
+progonyat"
 prosveshenie
-prochnost (f)
-proyavlyatsya/proyavitsya
+prochnost" 
+proyavlyat"sya
 pustynnyj
 rana
-rassprashivat/rassprosit (+a)
-ryadovoj (m) (adj)
-svidetelstvovat (i) (o +pr)
+rassprashivat"
+ryadovoj 
+svidetel"stvovat" 
 slepoj
 traktor
 shtab
 bort
-tseh
+ceh
 poroda
 germanskij
 órgan
@@ -3232,120 +3232,120 @@ metall
 pribor
 obrabotka
 vidimyj
-ekspluatatsiya
+ehkspluataciya
 kolonna
 rybak
 proizvodstvennyj
-politsejskij
+policejskij
 zavoevanie
 brigadir
-pokazatel (m)
+pokazatel" 
 chasovoj
-slushatel (m)
+slushatel" 
 slyshnyj
 srochno
 ssora
 stadiya
 stolknovenie
-stupenka
+stupen"ka
 sudno
-teryatsya/po-/ras-
+teryat"sya
 uvlechenie
 udivlyonno
 umstvennyj
-uchityvat/uchest (+a)
+uchityvat"
 chej-to
 yama
 beg
-bespokoit/o-/po- (+a)
+bespokoit"
 bessmertnyj
-vesele
-vzryvat/vzorvat (+a)
+vesel"e
+vzryvat"
 vitrina
 vnuchka
-vnushat/vnushit (+a +d)
-vozbuzhdat/vozbudit (+a)
+vnushat"
+vozbuzhdat"
 voin
-gorditsya (i) (+inst)
-gorko
+gordit"sya 
+gor"ko
 grustno
 gusto
-dostavatsya/dostatsya (+d)
+dostavat"sya
 dura
 ezhednevno
-zakanchivatsya/zakonchitsya
+zakanchivat"sya
 izobretenie
 katastrofa
-kolebatsya/po-
+kolebat"sya
 lampochka
 legenda
 letuchij
 mgla
 mladshij
-myslit (i)
-nakryvat/nakryt (+a)
+myslit" 
+nakryvat"
 neploho
-nol (m)
+nol" 
 nota
 noty
-obilnyj
-oborachivatsya/obernutsya
+obil"nyj
+oborachivat"sya
 otechestvennyj
 otechestvo
-otstavat/otstat (ot +g)
+otstavat"
 oshushenie
 pamyatnyj
-papasha (m)
+papasha 
 patrioticheskij
 perednij
 pereryv
-povtoryatsya/povtoritsya
+povtoryat"sya
 podi
-podlets
-podhvatyvat/podhvatit (+a)
-krasnet/po-
-porazhat/porazit (+a)
-predpolagat/predpolozhit
-pridavat/pridat (+a +d)
+podlec
+podhvatyvat"
+krasnet"
+porazhat"
+predpolagat"
+pridavat"
 priezd
-probiratsya/probratsya
+probirat"sya
 protest
-radovatsya/ob- (+d)
+radovat"sya
 radostnyj
-raznotsvetnyj
-rasstrelivat/rasstrelyat (+a)
+raznocvetnyj
+rasstrelivat"
 redaktor
-rubit (i) (+a)
-sdavat/sdat (+a)
+rubit" 
+sdavat"
 sledstvie
-smushatsya/smutitsya
-spuskat/spustit (+a)
+smushat"sya
+spuskat"
 suho
 televidenie
 televizionnyj
 trevozhno
 tyazhkij
-uvlekat/uvlech (+a)
+uvlekat"
 udobno
 uhod
-tserkovnyj
+cerkovnyj
 chudak
-ekzemplyar
-unyj
+ehkzemplyar
+yunyj
 bespokojnyj
-binokl (m)
+binokl" 
 verhushka
 vzaimootnoshenie
-vosemdesyat
-vrezátsya (i) (v +a)
+vosem"desyat
+vrezát"sya 
 vygoda
-vyrabatyvat/vyrabotat (+a)
-gladit/po- (+a)
+vyrabatyvat"
+gladit"
 gorodok
 gudok
-dogovarivatsya/dogovoritsya (s +inst)
+dogovarivat"sya
 dosada
-dyavol
+d"yavol
 zharkij
 zabytyj
 zagadka
@@ -3353,67 +3353,67 @@ zagryaznenie
 iskra
 iskrenne
 ispolnenie
-kidat/kinut (+a)
-kollega (m/f)
-kuda-nibud
-miritsya/po-/pri- (s +inst)
+kidat"
+kollega 
+kuda-nibud"
+mirit"sya
 molitva
 molchalivyj
 monah
-nabludatsya (i)
+nablyudat"sya 
 naverh
-naklonyatsya/naklonitsya
-namechat/nametit (+a)
-nastaivat/nastoyat (na +pr)
-nastavat/nastat
+naklonyat"sya
+namechat"
+nastaivat"
+nastavat"
 obsluzhivanie
-obedinyat/obedinit (+a)
+ob'edinyat"
 odinakovo
-odinnadtsat
-opasatsya (i) (+g)
+odinnadcat"
+opasat"sya 
 organizator
-poglyadyvat (i) (na +a)
-polotentse
-rabotat/po-
-porazitelnyj
+poglyadyvat" 
+polotence
+rabotat"
+porazitel"nyj
 postrojka
 prestupnik
 privet
-prisutstvovat (i)
+prisutstvovat" 
 prodazha
-ravnodushnyj (k +d)
-rasstavatsya/rasstatsya (s +inst)
+ravnodushnyj 
+rasstavat"sya
 rastushij
-rvatsya/po-/razorvatsya
-seyat/po- (+a)
-slabost (f)
-soedinyatsya/soedinitsya
+rvat"sya
+seyat"
+slabost" 
+soedinyat"sya
 togdashnij
 uborka
-uveryat/uverit (+a)
-ugadyvat/ugadat (+a)
+uveryat"
+ugadyvat"
 udachnyj
-uluchshat/uluchshit (+a)
-utverzhdat/utverdit (+a)
+uluchshat"
+utverzhdat"
 uchyoba
-harakterizovat (i/p) (+a)
+harakterizovat" 
 hozyajskij
 shkura
 shuba
-avtomobilnyj
+avtomobil"nyj
 bashnya
 beglyj
-bezrabotitsa
-blizost (f)
+bezrabotica
+blizost" 
 vdvoyom
-vzamen (+g)
-vryvatsya/vorvatsya (v +a)
-vybiratsya/vybratsya (iz +g)
-vydvigat/vydvinut (+a)
-vyletat/vyletet
-vyryvat/vyrvat (+a)
-gvozd (m)
-glasnost (f)
+vzamen 
+vryvat"sya
+vybirat"sya
+vydvigat"
+vyletat"
+vyryvat"
+gvozd" 
+glasnost" 
 gnezdo
 gruzovik
 dezhurnyj
@@ -3421,63 +3421,63 @@ dorogo
 druzhno
 zhara
 zdeshnij
-izobrazhat/izobrazit (+a)
+izobrazhat"
 ispugannyj
 kazyonnyj
-kak-nibud
+kak-nibud"
 kartoshka
 krivoj
 kurtka
-lgat/so-
+lgat"
 marka
-mahat/po-/mahnut (+inst)
+mahat"
 miting
 nalyot
 nalichie
 nekij
 nepodalyoku
-nepriyatnost (f)
+nepriyatnost" 
 obvinenie
-obvinyat/obvinit (+a v +pr)
+obvinyat"
 oborot
-obsluzhivat/obsluzhit (+a)
+obsluzhivat"
 obychaj
-obyazatelnyj
+obyazatel"nyj
 ogo
 otrazhenie
-podpis (f)
-podschityvat/podschitat (+a)
-podchinyat/podchinit (+a +d)
-pokidat/pokinut (+a)
+podpis" 
+podschityvat"
+podchinyat"
+pokidat"
 polchasa
-popravlyat/popravit (+a)
-posetitel (m)
-predprinimat/predprinyat (+a)
-pribavlyat/pribavit (+a)
+popravlyat"
+posetitel" 
+predprinimat"
+pribavlyat"
 prigovor
-razdelyat/razdelit (+a)
-smeyatsya/ras-
+razdelyat"
+smeyat"sya
 rassuzhdenie
 restoran
-sbrasyvat/sbrosit (+a)
-svoloch (f)
+sbrasyvat"
+svoloch" 
 slyshno
 sovmestnyj
-soedinyat/soedinit (+a)
+soedinyat"
 sootvetstvie
-spetsialnost (f)
+special"nost" 
 srochnyj
-starost (f)
-stremitelno
+starost" 
+stremitel"no
 strojnyj
 shema
 schastlivo
-traditsionnyj
+tradicionnyj
 tysyacheletie
 uvazhaemyj
 ugolovnyj
-udovletvoryat/udovletvorit (+a)
-ustupat/ustupit (+a +d)
+udovletvoryat"
+ustupat"
 harakteristika
 shirota
 bezobrazie
@@ -3485,420 +3485,420 @@ besporyadochnyj
 blagopoluchie
 britanskij
 bumazhnyj
-vazhnost (f)
+vazhnost" 
 vblizi
-vglyadyvatsya/vglyadetsya (v +a)
+vglyadyvat"sya
 vekovoj
-videtsya/u- (c +inst)
+videt"sya
 vosstanovlenie
-vruchat/vruchit (+a)
+vruchat"
 vsestoronnij
 grom
 druzheskij
 duma
 zhazhda
-zabiratsya/zabratsya (v/na +a)
+zabirat"sya
 zavedenie
-zaderzhivat/zaderzhat (+a)
+zaderzhivat"
 zakonnyj
 zatrata
-izbegat/izbezhat (+g or inf)
-izvinyatsya/izvinitsya (pered +inst)
-kachatsya/kachnutsya
-kipet/vs-
+izbegat"
+izvinyat"sya
+kachat"sya
+kipet"
 kleveta
 korobka
 lekarstvo
 mig
-minovat (i/p)
+minovat" 
 morda
 mutnyj
-narushat/narushit (+a)
+narushat"
 nebyvalyj
 nekuda
 nemalyj
-nepravilno
-nepravilnyj
+nepravil"no
+nepravil"nyj
 nisheta
-obstoyat (i)
+obstoyat" 
 obshezhitie
 opredelenie
 orator
 ostorozhnyj
-otrazhatsya/otrazitsya
-ohranyat/ohranit (+a)
+otrazhat"sya
+ohranyat"
 ochag
-perenosit/perenesti (+a)
-povsudu
-podpolnyj
-polden (m)
-poryvat/porvat (+a)
+perenosit"
+povsyudu
+podpol"nyj
+polden" 
+poryvat"
 poruchenie
-posredi (+g)
-trebovatsya/po-
+posredi 
+trebovat"sya
 predstoyashij
-privlekat/privlech (+a)
-provalivatsya/provalitsya
+privlekat"
+provalivat"sya
 proisshestvie
 pusto
 pustota
-reshimost (f)
-rozhdat/rodit (+a)
+reshimost" 
+rozhdat"
 svobodno
 svyashennyj
-smelost (f)
+smelost" 
 tekst
 tovarnyj
 turist
 ubijstvo
 ubytok
-ukladyvat/ulozhit (+a)
+ukladyvat"
 uprazhnenie
-tsivilizatsiya
+civilizaciya
 chin
-shevelitsya/po-
+shevelit"sya
 avtobus
 bessporno
 besstrashnyj
-blagodarnost (f)
-bruki (pl)
-vozhd (m)
+blagodarnost" 
+bryuki 
+vozhd" 
 vspyshka
-vytekat/vytech
+vytekat"
 gladkij
 grubo
-davit (i) (na +a)
-dvadtsatyj
-delitsya/raz- (na +a)
-deskat
-dryan (f)
+davit" 
+dvadcatyj
+delit"sya
+deskat"
+dryan" 
 zavtrak
 zamechanie
-zelen (f)
+zelen" 
 naglyadnyj
 nagruzka
-nadobnost (f)
+nadobnost" 
 nedolgo
 nedostupnyj
 nezavisimo
 neyasnyj
-nul (m)
+nul" 
 ogranichennyj
-osmatrivat/osmotret (+a)
-otvergat/otvergnut (+a)
+osmatrivat"
+otvergat"
 pivo
-poberezhe
-podalshe
-polzti/po-
-pribegat/pribegnut (k +d)
+poberezh"e
+podal"she
+polzti
+pribegat"
 protivnyj
 pushistyj
 pyshnyj
 razbityj
 sboku
-valitsya/s-
-simpatiya (k +d)
+valit"sya
+simpatiya 
 skazochnyj
 slabo
 sladko
 spravedlivo
-stalkivatsya/stolknutsya (s +inst)
+stalkivat"sya
 storonnik
 tipichnyj
-tonut/po-/u-
+tonut"
 tramvaj
 trotuar
-uvlekatsya/uvlechsya (+inst)
-uvodit/uvesti (+a ot +g)
+uvlekat"sya
+uvodit"
 hor
 chetvero
 chistota
 bosoj
-vertet/po-
-vshodit/vzojti (na +a)
-vmeshivatsya/vmeshatsya (v +a)
-volnyj
+vertet"
+vshodit"
+vmeshivat"sya
+vol"nyj
 vorotnik
 vydumka
-vyslushivat/vyslushat (+a)
-vystavlyat/vystavit (+a)
-grust (f)
-davatsya/datsya (+d)
+vyslushivat"
+vystavlyat"
+grust" 
+davat"sya
 data
 diplomat
 edinstvenno
-zhat/s- (+a)
+zhat"
 zhulik
 zavtrashnij
-zvenet/za-
+zvenet"
 igrushka
-izlagat/izlozhit (+a)
-ispravlyat/ispravit (+a)
-kafe (n) (indecl)
+izlagat"
+ispravlyat"
+kafe 
 kasha
 kollektivnyj
 kontora
 marshrut
 mogushestvo
-nadelat (r) (+g)
+nadelat" 
 naruzhu
 nevidannyj
 nevysokij
 nedostatochnyj
-neznachitelnyj
+neznachitel"nyj
 neobychnyj
 nepodvizhno
 nervnyj
-nichut
+nichut"
 nozhka
-oblegchat/oblegchit (+a)
-obryvat/oborvat (+a)
-obrabatyvat/obrabotat (+a)
-obuv (f)
+oblegchat"
+obryvat"
+obrabatyvat"
+obuv" 
 ozhidanie
 opora
-otdelno
-otbirat/otobrat (+a)
-otryvatsya/otorvatsya (ot +g)
-otritsatelnyj
+otdel"no
+otbirat"
+otryvat"sya
+otricatel"nyj
 otchayannyj
-ochutitsya (r)
+ochutit"sya 
 pesenka
-pobolshe
-byt/po-
-podskazyvat/podskazat (+a)
-sovetovatsya/po- (s +inst)
+pobol"she
+byt"
+podskazyvat"
+sovetovat"sya
 pretenziya
-proezzhat/proehat
-razvivat/razvit (+a)
-razrushat/razrushit (+a)
+proezzhat"
+razvivat"
+razrushat"
 rassmotrenie
-revet/za-
-rekomendovat (i/p) (+a)
+revet"
+rekomendovat" 
 risk
-rukopis (f)
+rukopis" 
 ruchnoj
 rama
-sdavatsya/sdatsya
+sdavat"sya
 skrytyj
 soglasie
-shoditsya/sojtis
+shodit"sya
 solnyshko
 stradanie
 shodstvo
 sytyj
-ubeditelno
-ubijtsa (m/f)
-uderzhivatsya/uderzhatsya
-ukreplyat/ukrepit (+a)
-unosit/unesti (+a)
+ubeditel"no
+ubijca 
+uderzhivat"sya
+ukreplyat"
+unosit"
 upryamo
 usluga
 hram
 chastyj
-yajtso
-bludo
-veroyatnost (f)
+yajco
+blyudo
+veroyatnost" 
 veterok
 trudyashijsya
 melodiya
 posadka
 salo
-ustraivatsya/ustroitsya
+ustraivat"sya
 himiya
-vyt/za-
-samostoyatelnost (f)
+vyt"
+samostoyatel"nost" 
 starichok
-tendentsiya
+tendenciya
 zastoj
-ubilej
+yubilej
 administrativnyj
 perchatka
-razdume
-bolshevik
+razdum"e
+bol"shevik
 hozyajstvennyj
 himicheskij
-tablitsa
+tablica
 fashist
 lesnoj
 metallicheskij
 rezerv
 vintovka
 atom
-konstruktsiya
+konstrukciya
 sovhoz
 organicheskij
 materiya
 fundament
-chastitsa
+chastica
 chertyozh
 stroenie
-syryo
+syr"yo
 gvardiya
 paket
 pistolet
-sotsialisticheskij
+socialisticheskij
 otryad
 paluba
 artilleriya
-obedinenie
+ob'edinenie
 yadernyj
 burzhuaznyj
 partizan
 tehnologicheskij
 fizika
-nauchno-issledovatelskij
+nauchno-issledovatel"skij
 geolog
-drova (n) (pl)
-italyanskij
+drova 
+ital"yanskij
 diktatura
 mashinnyj
 razvedchik
 akademicheskij
-otkazyvat/otkazat (+d v +pr)
+otkazyvat"
 setka
-smenyatsya/smenitsya
-sovestno (+d)
+smenyat"sya
+sovestno 
 soloma
 sopernik
 takovoj
 telegraf
 formirovanie
-uridicheskij
+yuridicheskij
 banka
-aviatsiya
-aktualnyj
+aviaciya
+aktual"nyj
 aristokratiya
 barzha
-batalon
-bashka (very coll)
-bogatyr (m)
+batal"on
+bashka 
+bogatyr" 
 botinok
 vagonchik
 promezhutok
 beton
 goryashij
 diplom
-konstitutsiya
+konstituciya
 listva
-med (f)
-netu (+g)
+med" 
+netu 
 obyknovenno
 provoloka
 puteshestvennik
-funktsiya
+funkciya
 agentstvo
-bulvar
+bul"var
 gazovyj
-izdatel (m)
+izdatel" 
 kaby
 knopka
-kuritsa
+kurica
 vetochka
 vzaimodejstvie
 vzvolnovanno
 vzdoh
 vlazhnyj
-vozitsya (i) (s +inst)
-otvodit/otvesti (+a)
-vplotnuu (k)
-vsmatrivatsya/vsmotretsya (v +a)
+vozit"sya 
+otvodit"
+vplotnuyu 
+vsmatrivat"sya
 vsyacheski
 glazok
 golovka
 gramm
-gran (f)
+gran" 
 dar
 diplomaticheskij
-distantsiya
-doveryat/doverit (+d)
+distanciya
+doveryat"
 donskoj
 drama
 zhenih
 zhiloj
-zavorachivat/zavernut (+a)
-zakluchyonnyj
-zasluzhivat/zasluzhit
-zatyagivat/zatyanut
+zavorachivat"
+zaklyuchyonnyj
+zasluzhivat"
+zatyagivat"
 zvyozdochka
 ideologicheskij
 industriya
-instruktsiya
-karera
-knyaz (m)
+instrukciya
+kar"era
+knyaz" 
 kovsh
 komandirskij
 konkurs
 kot
-likvidirovat (i/p)
-metro (indecl)
+likvidirovat" 
+metro 
 mramor
 muzhestvennyj
 navernyaka
 nadolgo
 nasmeshlivo
-nasyp (f)
-nachalnyj
-nedra (pl)
+nasyp" 
+nachal"nyj
+nedra 
 nepriyatno
 nyanya
-obuchenie (+d)
-obhodit/obojti (+a)
-opazdyvat/opozdat (na +a)
-orositelnyj
-otlichat/otlichit (+a)
+obuchenie 
+obhodit"
+opazdyvat"
+orositel"nyj
+otlichat"
 pasport
 pachka
 pashnya
 pyos
 planovyj
-ploskost (f)
+ploskost" 
 po-vashemu
 podborodok
 podvoda
-klanyatsya/poklonitsya
+klanyat"sya
 poperechnyj
 populyarnyj
-posledovatelno
-posmeivatsya (i)
-predusmatrivat/predusmotret
+posledovatel"no
+posmeivat"sya 
+predusmatrivat"
 preobrazovanie
-protestovat/za- (protiv +g)
+protestovat"
 protivopolozhnyj
-radiostantsiya
+radiostanciya
 razdelenie
-razmyshlyat/razmyslit (o +pr)
+razmyshlyat"
 raj
-rasshiryat/rasshirit (+a)
-redkost (f)
+rasshiryat"
+redkost" 
 rodnya
 ruchej
-svoditsya/svestis (k +d)
+svodit"sya
 serebro
-skazyvatsya/skazatsya
-slesar (m)
-smenyat/smenit (+a)
-snitsya/pri-
+skazyvat"sya
+slesar" 
+smenyat"
+snit"sya
 ssylka
 sosedstvo
 sosna
-stesnyatsya/po-
+stesnyat"sya
 sudebnyj
 torzhestvo
 ugnetenie
-ugovarivat/ugovorit (+a)
+ugovarivat"
 uzor
 ukrainskij
-unikalnyj
-ustavlyatsya/ustavitsya (v +a)
+unikal"nyj
+ustavlyat"sya
 ustojchivyj
-chislennost (f)
+chislennost" 
 sharik
-eksperiment
-energeticheskij
-etakij
-yaponets
-vesit (i)
+ehksperiment
+ehnergeticheskij
+ehtakij
+yaponec
+vesit" 
 zhidkij
 matushka
 paradnyj
@@ -3908,17 +3908,17 @@ rebyatishki
 statuya
 traktornyj
 aziatskij
-ansambl (m)
-bliznets
+ansambl" 
+bliznec
 vladenie
-zemledelets
-brov (f)
+zemledelec
+brov" 
 pravyashij
 raspolozhenie
-rels
+rel"s
 reforma
 rechnoj
-rul (m)
+rul" 
 stepnoj
 synok
 teplota
@@ -3926,59 +3926,59 @@ trenie
 tundra
 ustanovlenie
 yazykovoj
-yarkost (f)
+yarkost" 
 ambar
 aspirant
 babij
 besplodnyj
-vorchat (i)
+vorchat" 
 diametr
-dorevolutsionnyj
+dorevolyucionnyj
 katorga
 kompas
 lechenie
-merzavets
-naberezhnaya (f) (adj)
+merzavec
+naberezhnaya 
 nakoplenie
-oglyadyvat/oglyanut (+a)
+oglyadyvat"
 paradoks
-vidat/po- (+a)
-pripodnimat/pripodnyat (+a)
+vidat"
+pripodnimat"
 razorenie
 ispolkom
 balans
 steklyannyj
-starshina (m)
+starshina 
 polkovnik
 glina
-proizvoditelnyj
+proizvoditel"nyj
 gimnaziya
-pugovitsa
+pugovica
 kombinat
 sunduk
-melnitsa
+mel"nica
 traktorist
 buket
 okop
 sezon
 parovoz
-ubilejnyj
-os (f)
+yubilejnyj
+os" 
 arestovannyj
 valenok
 zhivotnovodstvo
-strelba
+strel"ba
 vyrabotka
 gonka
 zavodskoj
 prisluga
 razryad
 vdova
-posledovatelnyj
+posledovatel"nyj
 psihologicheskij
 pud
-tsilindr
-frantsuz
+cilindr
+francuz
 lejtenant
 agregat
 kalitka
@@ -3993,33 +3993,33 @@ blagosostoyanie
 kompleks
 rota
 oblastnoj
-ofitserskij
+oficerskij
 novogodnij
 vedomstvo
 kompozitor
 konstruktor
-pianino (indecl)
+pianino 
 vorobej
 plakat
 probka
-proizvoditsya/proizvestis
+proizvodit"sya
 blagopoluchno
 kachestvennyj
 kosmicheskij
 puchok
-sebestoimost (f)
+sebestoimost" 
 razlozhenie
-revolver
+revol"ver
 tok
 ferma
 shahta
 naruzhnyj
 bratstvo
 delenie
-likvidatsiya
-izgotovlyat/izgotovit (+a)
+likvidaciya
+izgotovlyat"
 plavanie
-seni (pl)
+seni 
 senator
 pervichnyj
 shashka
@@ -4027,9 +4027,9 @@ obolochka
 pogon
 posev
 snabzhenie
-gospodstvuushij
-komanduushij (+inst)
-polskij
+gospodstvuyushij
+komanduyushij 
+pol"skij
 grusha
 zhila
 stado
@@ -4038,27 +4038,27 @@ vodyanoj
 idiot
 intelligent
 kladbishe
-nagibatsya/nagnutsya
-gruzit/po- (+a)
-pogruzhat/pogruzit
-smes (f)
+nagibat"sya
+gruzit"
+pogruzhat"
+smes" 
 ulichnyj
-vpred
+vpred"
 svyortok
-soderzhatsya (i)
+soderzhat"sya 
 ravnovesie
 hata
-ekipazh
+ehkipazh
 ovrag
 furazhka
 buhta
 kozyol
-yakor (m)
+yakor" 
 kombajn
-sani (pl)
+sani 
 imperator
 polyarnyj
-royal (m)
+royal" 
 zemledelie
 dolzhnyj
 peschanyj
@@ -4067,151 +4067,151 @@ zaliv
 putyovka
 splochenie
 vypusknik
-mehanizatsiya
+mehanizaciya
 mehanizator
-gospital (m)
+gospital" 
 kongress
 rubka
-ogurets
+ogurec
 posol
 veteran
 voinskij
 poroshok
 udobrenie
 apparatura
-batka (m)
+bat"ka 
 parenyok
 dekret
 plotina
-progovorit (r)
+progovorit" 
 rang
 bezumie
 bessmertie
-tsentner
+centner
 ideologiya
 yadro
-pitatelnyj
+pitatel"nyj
 korma
 okraska
 arhitektura
-zritelnyj
+zritel"nyj
 turnir
 prichal
-tratit/po- (+a)
+tratit"
 shtorm
 koreshok
 mina
-rumka
-kruchok
+ryumka
+kryuchok
 himik
 vaza
 zarodysh
 sotrudnichestvo
-zhidkost (f)
+zhidkost" 
 fizik
 sportsmen
 arhitekturnyj
 pokrov
-kollektsiya
-mirolubivyj
-plennyj (m) (adj)
+kollekciya
+mirolyubivyj
+plennyj 
 teplohod
 almaznyj
 kosmos
 skorostnoj
-avtomatizatsiya
+avtomatizaciya
 vulkan
 vyshe
-starets
+starec
 admiral
 ohlazhdenie
-sotsialist
+socialist
 minus
 videnie
-lyzhi (pl)
+lyzhi 
 sbornyj
 kislorod
 peshera
 obshechelovecheskij
-kauta
+kayuta
 puzyryok
 ravnina
-devchata (pl)
-prodolzhitelnyj
+devchata 
+prodolzhitel"nyj
 vodohranilishe
 vozdejstvie
 zapovednik
 chempionat
 serdityj
 tulup
-aktivnost (f)
-analizirovat/pro- (+a)
-aplodirovat/za- (+d)
+aktivnost" 
+analizirovat"
+aplodirovat"
 assortiment
 baraban
 bokovoj
-boltat/po-
-varit/za- (+a)
-vliyat/po- (na +a)
-vlublyonnyj (v +a)
-vnimatelnyj (k)
-voditel (m)
-vodit/po- (+a)
-vozvrashatsya/vozvratitsya
-vozrastaushij
+boltat"
+varit"
+vliyat"
+vlyublyonnyj 
+vnimatel"nyj 
+voditel" 
+vodit"
+vozvrashat"sya
+vozrastayushij
 vpolgolosa
-vyrazhatsya/vyrazitsya
+vyrazhat"sya
 greshnyj
 dacha
 dvojnoj
 disk
 dnyom
-dobrovolets
+dobrovolec
 dogadka
 dopros
 drevesnyj
-zhivopis (f)
-zavershat/zavershit (+a)
+zhivopis" 
+zavershat"
 zamanchivyj
-zarosl (f)
+zarosl" 
 zaryad
 zdravoohranenie
-kazn (f)
-kapitalnyj
-kartofel (m)
+kazn" 
+kapital"nyj
+kartofel" 
 kirpichnyj
 klad
-komputer
+komp"yuter
 konnyj
 korichnevyj
 kupol
 lavochka
 lad
-lechit/vy- (+a)
+lechit"
 millimetr
-mladenets
+mladenec
 namyok
-napevat/napet
-naskvoz
+napevat"
+naskvoz"
 nebrezhno
-neizbezhnost (f)
+neizbezhnost" 
 nelyogkij
 nelepyj
 neobychajnyj
-neozhidannost (f)
+neozhidannost" 
 neplohoj
 neterpelivo
 neftyanoj
-obizhat/obidet (+a)
-obnaruzhivatsya/obnaruzhitsya
+obizhat"
+obnaruzhivat"sya
 obryv
 odinochestvo
-odobryat/odobrit (+a)
+odobryat"
 opasno
 opera
-oprokidyvat/oprokinut (+a)
+oprokidyvat"
 oroshenie
-otbrasyvat/otbrosit (+a)
+otbrasyvat"
 otkos
 ohotnichij
 palata
@@ -4221,188 +4221,188 @@ parizhskij
 pejzazh
 peregruzka
 pereplyot
-podvergat/podvergnut (+a +d)
+podvergat"
 podryad
 pozhelanie
 pokojnik
 po-raznomu
 po-svoemu
-potrebitel (m)
+potrebitel" 
 pochin
-priblizhatsya/priblizitsya (k +d)
-priznavatsya/priznatsya (v +pr)
-printsipialnyj
+priblizhat"sya
+priznavat"sya
+principial"nyj
 provod
 prozhektor
 prostota
 prochno
 proshedshij
-puzyr (m)
+puzyr" 
 razgrom
-razoblachat/razoblachit (+a)
+razoblachat"
 razom
-razryvat/razorvat (+a)
-rasprostranyat/rasprostranit (+a)
+razryvat"
+rasprostranyat"
 rasseyannyj
-remen (m)
+remen" 
 robko
 svist
-svojstvennyj (+d)
-sderzhivat/sderzhat (+a)
+svojstvennyj 
+sderzhivat"
 sev
 skandal
-slomit (r) (+a)
-sluchajnost (f)
+slomit" 
+sluchajnost" 
 sobachij
 sovetnik
-soglasno (+d)
-sokrashat/sokratit (+a)
+soglasno 
+sokrashat"
 solidnyj
 spokojstvie
 srazhenie
 stadion
 stan
-stojkost (f)
-stremitelnyj
-tait (i) (+a)
-taskat/po- (+a)
+stojkost" 
+stremitel"nyj
+tait" 
+taskat"
 tatarin
-uzhinat/po-
-upotreblyat/upotrebit (+a)
+uzhinat"
+upotreblyat"
 usilenie
-ustranyat/ustranit (+a)
+ustranyat"
 fu
 chudovishnyj
 chuzhdyj
-shosse (n) (indecl)
+shosse 
 shumnyj
-era
-effektivnyj
-yasnost (f)
+ehra
+ehffektivnyj
+yasnost" 
 advokat
 aktivist
 arhitektor
 bal
 bednota
 bloknot
-valitsya/po-/s-
-vvidu (+g)
+valit"sya
+vvidu 
 veko
 vesnoj
 veshalka
-vzdragivat/vzdrognut
+vzdragivat"
 vnuk
-vopreki (+d)
+vopreki 
 vor
 vorot
 vot-vot
-byt vprave (+inf)
-vspominatsya (i)
+byt" vprave 
+vspominat"sya 
 vstrechnyj
-vyrashivat/vyrastit (+a)
+vyrashivat"
 gluho
-gospodstvovat (i) (nad +inst)
-greben (m)
-dal (f)
+gospodstvovat" 
+greben" 
+dal" 
 dvornik
 derevenskij
-dlitsya (i)
-zhalost (f)
+dlit"sya 
+zhalost" 
 zhyostkij
 zabluzhdenie
 zagadochnyj
 zagovor
-zagoratsya/zagoretsya
+zagorat"sya
 zadumchivyj
-zalezat/zalezt (v/na +a)
+zalezat"
 zaodno
-zapolnyat/zapolnit (+a)
+zapolnyat"
 zarabotok
 zasluzhennyj
 zimoj
 zloba
-izvlekat/izvlech (+a)
+izvlekat"
 izlishnij
 izobilie
 ikona
-individualnyj
-industrialnyj
-iskluchat/iskluchit (+a)
-kanikuly (f) (pl)
-kapelka
-kidatsya/kinutsya
+individual"nyj
+industrial"nyj
+isklyuchat"
+kanikuly 
+kapel"ka
+kidat"sya
 koe-gde
 kolichestvennyj
 komendant
 konflikt
 kontakt
 korka
-korrespondentsiya
+korrespondenciya
 letom
-maksimalnyj
+maksimal"nyj
 mashinostroenie
-mestnost (f)
+mestnost" 
 mundir
-nabirat/nabrat (+a)
-nakaplivat/nakopit (+a)
-naletat/naletet (na +a)
+nabirat"
+nakaplivat"
+naletat"
 naryad
 nastojchivyj
 nahodka
 neodnokratno
-nervnichat (i)
-niskolko
+nervnichat" 
+niskol"ko
 obidno
-ovladenie (+inst)
-ogranichivatsya/ogranichitsya (+inst)
+ovladenie 
+ogranichivat"sya
 oreh
-otdelyat/otdelit (+a)
-otpirat/otperet (+a)
+otdelyat"
+otpirat"
 otpravlenie
-oshushat/oshutit (+a)
+oshushat"
 panika
-pahat (i) (+a)
+pahat" 
 pervenstvo
 plast
-pleten (m)
+pleten" 
 plotnik
 poblizhe
 podchinenie
 pozharnyj
 poklon
 polyana
-porozhdat/porodit (+a)
+porozhdat"
 poskoree
-posmatrivat (i) (na +a)
-pochitat (i/p) (+a)
-poema
+posmatrivat" 
+pochitat" 
+poehma
 prezrenie
 preimushestvenno
 prisposoblenie
 prihod
 proverka
-proletat/proletet
-prosypatsya/prosnutsya
-rassypatsya
-rastvoryatsya/rastvoritsya
-teryatsya/ras-
-realnost (f)
+proletat"
+prosypat"sya
+rassypat"sya
+rastvoryat"sya
+teryat"sya
+real"nost" 
 rekord
 rechka
-rukovodstvovatsya (i) (+inst)
+rukovodstvovat"sya 
 sbor
 svodka
 sdacha
-semdesyat
+sem"desyat
 seno
 serdechnyj
-situatsiya
+situaciya
 siyanie
 skvazhina
-lomat/s- (+a)
+lomat"
 sostavnoj
-ssylatsya/soslatsya (na +a)
-tvyordost (f)
+ssylat"sya
+tvyordost" 
 tetradka
 tirazh
 torzhestvenno
@@ -4410,24 +4410,24 @@ toshij
 tresk
 treshina
 trup
-ukrashat/ukrasit (+a)
+ukrashat"
 uporno
 fokus
 formula
-futbolnyj
+futbol"nyj
 hlebnyj
 hlópok
 hlopók
-tsikl
-eksperimentalnyj
+cikl
+ehksperimental"nyj
 anarhiya
 banda
 betonnyj
-bremya (n)
-vertetsya (i)
+bremya 
+vertet"sya 
 vinovat
-volno
-vosemnadtsat
+vol"no
+vosemnadcat"
 vredno
 vyderzhka
 vynuzhdennyj
@@ -4436,95 +4436,95 @@ geograficheskij
 gitara
 glinyanyj
 gorka
-dvertsa
+dverca
 devyanosto
-demonstratsiya
+demonstraciya
 dostoyanie
-dragotsennost (f)
-drognut (r)
-drognut/pro-
+dragocennost" 
+drognut" 
+drognut"
 druzhok
 yolka
 erunda
-zhech/s- (+a)
+zhech"
 zavershenie
-zavist (f)
-zavyazyvat/zavyazat (+a)
-zadyhatsya/zadohnutsya
-zaezzhat/zaehat
-zakluchitelnyj
-zakonodatelstvo
-zalivat/zalit (+a +inst)
-zanosit/zanesti (+a)
-zapreshat/zapretit
+zavist" 
+zavyazyvat"
+zadyhat"sya
+zaezzhat"
+zaklyuchitel"nyj
+zakonodatel"stvo
+zalivat"
+zanosit"
+zapreshat"
 zrelishe
 igolka
-izbavlyatsya/izbavitsya (ot +g)
+izbavlyat"sya
 izlozhenie
-issledovat (i/p) (+a)
+issledovat" 
 istorik
 kassa
 klin
 kogda-libo
-kontrolnyj
+kontrol"nyj
 krohotnyj
 kupecheskij
 manyovr
 matematika
-meditsina
-mobilizovat (i/p) (+a)
+medicina
+mobilizovat" 
 nabor
 naglyadno
-nalazhivat/naladit (+a)
-hmuritsya/na-
-natsionalnost (f)
+nalazhivat"
+hmurit"sya
+nacional"nost" 
 nedoumenie
 nelovkij
 neprimirimyj
-ovoshi (m) (pl)
+ovoshi 
 ograda
 opredelyonno
-originalnyj
-osushestvlyatsya/osushestvitsya
-otstaivat/otstoyat (+a)
-ottsovskij
-peremenyat/peremenit (+a)
-perila (pl)
-pechalno
-vredit/po- (+d)
+original"nyj
+osushestvlyat"sya
+otstaivat"
+otcovskij
+peremenyat"
+perila 
+pechal"no
+vredit"
 pozor
 polezno
 polyak
 poryv
-prednaznachat/prednaznachit (na +a/dlya +g)
-predpochitat (i) (+a +d)
-prekrashatsya/prekratitsya
+prednaznachat"
+predpochitat" 
+prekrashat"sya
 preodolenie
-prepodavatel (m)
+prepodavatel" 
 priglashenie
 prikosnovenie
-prisoedinyatsya/prisoedinitsya (k +d)
-prodelyvat/prodelat (+a)
-profil (m)
+prisoedinyat"sya
+prodelyvat"
+profil" 
 pryzhok
-ravnyatsya/s-
-razvyortyvatsya/razvernutsya
+ravnyat"sya
+razvyortyvat"sya
 razrez
-razyasnyat/razyasnit (+a)
-raspolagatsya/raspolozhitsya
-rasshiryatsya/rasshiritsya
+raz'yasnyat"
+raspolagat"sya
+rasshiryat"sya
 rezhissyor
 religioznyj
 robkij
-ruhnut (r)
-samostoyatelno
+ruhnut" 
+samostoyatel"no
 svyazannyj
 sdelka
-skuchat (i)
-sobludat/soblusti (+a)
-sovpadat/sovpast (s +inst)
-soznavat/soznat (+a)
-soskakivat/soskochit (s +g)
+skuchat" 
+soblyudat"
+sovpadat"
+soznavat"
+soskakivat"
 sostyazanie
 stojka
 strelka
@@ -4534,96 +4534,96 @@ shodnyj
 trevozhnyj
 tugo
 ubezhdyonnyj
-ugrumyj
-uprekat/upreknut (+a v +pr)
+ugryumyj
+uprekat"
 userdno
 ustalo
 uh
 filial
-holodilnik
+holodil"nik
 hudo
-tseplyatsya/za- (za +a)
+ceplyat"sya
 chastota
 cherdak
 chyotko
-shvyryat/shvyrnut (+a or +inst)
-shevelit/po- (+a or +inst)
+shvyryat"
+shevelit"
 shyolkovyj
-sherst (f)
-ekskursiya
-ubka
+sherst" 
+ehkskursiya
+yubka
 yastreb
 avangard
 arhiv
-ahat/ahnut
+ahat"
 besspornyj
 besheno
 byloj
-vvoditsya/vvestis
+vvodit"sya
 velikolepno
 vzvod
-vidimost (f)
+vidimost" 
 visok
-vkladyvat/vlozhit (+a)
+vkladyvat"
 vkusnyj
-vybegat/vybezhat (iz +g)
+vybegat"
 vymysel
 gad
-goruchee (n) (adj)
+goryuchee 
 gramotnyj
 granata
-gremet/za-
-gret/po- (+a)
+gremet"
+gret"
 diskussiya
-dich (f)
+dich" 
 drozhashij
 ej-bogu
 zheludok
-zabivat/zabit (+a)
-zadevat/zadet (+a)
-zamechatelno
+zabivat"
+zadevat"
+zamechatel"no
 zapisnoj
 zasuha
 zatrudnenie
 znachok
 izbytok
-izobretat/izobresti (+a)
-izumitelnyj
+izobretat"
+izumitel"nyj
 izyashnyj
 ishod
-kalendar (m)
+kalendar" 
 kartochka
-klyastsya/po-
-koalitsiya
+klyast"sya
+koaliciya
 kommentarij
 kotelok
 kruto
 latinskij
-litsya/po-
+lit"sya
 lihoj
 maska
 mel
 mirovozzrenie
-muchit/za-/iz- (+a)
+muchit"
 myach
 naedine
-naibolshij
-namechatsya/nametitsya
+naibol"shij
+namechat"sya
 nasmeshka
-nedovolnyj (+inst)
+nedovol"nyj 
 neizmenno
 nemedlennyj
 neobyknovenno
 neponyatno
 neterpenie
 neudacha
-oboznachat/oboznachit (+a)
-oglyadyvat/oglyadet (+a)
-ogranichivat/ogranichit (+a)
+oboznachat"
+oglyadyvat"
+ogranichivat"
 odobrenie
-oznakomlyatsya/oznakomitsya (s +inst)
-osuzhdat/osudit (+a)
-otbivat/otbit (+a)
+oznakomlyat"sya
+osuzhdat"
+otbivat"
 otvazhnyj
 palatka
 pena
@@ -4632,93 +4632,93 @@ perezhivanie
 petlya
 platforma
 plodorodnyj
-poverh (+g)
+poverh 
 povsednevnyj
-podvyortyvatsya/podvernutsya
-delitsya/po- (+inst c +inst)
+podvyortyvat"sya
+delit"sya
 podlyj
-podpole
-podrazhat (i) (+d)
-pokachivatsya (i)
-pokoitsya (i) (na +pr)
+podpol"e
+podrazhat" 
+pokachivat"sya 
+pokoit"sya 
 pokupka
-polnoch
-pomeshatsya/pomestitsya
+polnoch"
+pomeshat"sya
 porok
-portit/is-
-poseshenie (+g)
-posredstvom (+g)
+portit"
+poseshenie 
+posredstvom 
 posylka
 predlog
-predstavlyatsya/predstavitsya
-preryvat/prervat (+a)
-privyazyvat/privyazat (+a k +d)
+predstavlyat"sya
+preryvat"
+privyazyvat"
 priyomnik
 proza
-prokladyvat/prolozhit (+a)
-proshalnyj
+prokladyvat"
+proshal"nyj
 psihologiya
-puteshestvovat/po-
-pyatnitsa
-razglyadet (r) (+a)
+puteshestvovat"
+pyatnica
+razglyadet" 
 razdel
-razyskivat/razyskat (+a)
+razyskivat"
 raskalyonnyj
 rasprostranyonnyj
-rasseivat/rasseyat (+a)
-tayat/ras-
+rasseivat"
+tayat"
 rasteryannyj
-revnovat (i)
-reputatsiya
-risovat/na- (+a)
+revnovat" 
+reputaciya
+risovat"
 selenie
-siluet
+silueht
 sineva
-skidyvat/skinut (+a)
+skidyvat"
 skladka
-sklonnyj (k +d or +inf)
-slezat/slezt (s +g)
+sklonnyj 
+slezat"
 sovmestno
 sodruzhestvo
 stihiya
 studencheskij
-styditsya/po- (+g)
+stydit"sya
 sumka
 surovo
 shvatka
-temnet/po-
+temnet"
 tyotka
 tehnik
-tonenkij
-topit/po- (+a)
+tonen"kij
+topit"
 trizhdy
 trubochka
 trus
-tryasti/po- (+a)
-udalyatsya/udalitsya
-udelyat/udelit (+a +d)
+tryasti
+udalyat"sya
+udelyat"
 uzelok
 ukazannyj
 ukrashenie
-umenshatsya/umenshitsya
-umnitsa (m/f) 
+umen"shat"sya
+umnica 
 unylyj
 upryok
-usilivat/usilit (+a)
+usilivat"
 ustalyj
 utka
-fakultet
-tselovatsya/po-
+fakul"tet
+celovat"sya
 shutlivo
-elektrichestvo
+ehlektrichestvo
 yablonya
 abstraktnyj
-agitatsiya
-administratsiya
+agitaciya
+administraciya
 akkuratnyj
 armyanskij
 berezhno
-brodyaga (m)
+brodyaga 
 velikan
 vengerskij
 vlozhenie
@@ -4726,8 +4726,8 @@ vozniknovenie
 volshebnyj
 vrazhdebnyj
 vred
-vybory (m pl)
-gadost (f)
+vybory 
+gadost" 
 geologicheskij
 gimnastyorka
 gnyot
@@ -4745,34 +4745,34 @@ zavetnyj
 zamena
 zanovo
 zapadnoevropejskij
-zapevat/zapet
-zatrachivat/zatratit (+a)
+zapevat"
+zatrachivat"
 zvonkij
 znatok
 ironiya
-ispoved (f)
+ispoved" 
 kozhanyj
 koloniya
 konskij
 konfeta
-kruzhitsya/za-
+kruzhit"sya
 kto-libo
-kupatsya/is-
+kupat"sya
 kuchka
 lapa
 lipa
 lovushka
-lopatsya/lopnut
-lubopytno
+lopat"sya
+lyubopytno
 materik
 mgnovenno
-metel (f)
-mostovaya (f)
+metel" 
+mostovaya 
 myshka
-navodit/navesti (+a)
+navodit"
 nalog
-napryazhyonnost (f)
-natsionalizm
+napryazhyonnost" 
+nacionalizm
 neverno
 negodyaj
 nedarom
@@ -4781,93 +4781,93 @@ nekto
 nenuzhnyj
 neprerekaemyj
 novinka
-obedat/po-
-obryvatsya/oborvatsya
+obedat"
+obryvat"sya
 obrazovannyj
 ozhivlenie
-otnositelnyj
+otnositel"nyj
 otnyne
-otodvigat/otodvinut (+a)
+otodvigat"
 otchayanno
-ofitsiant
+oficiant
 oformlenie
-palma
+pal"ma
 patriotizm
 pedagogicheskij
-perebirat/perebrat (+a)
+perebirat"
 perepiska
-pererezat (i) (+a)
-pechal (f)
-plus
-plyasat/s-
+pererezat" 
+pechal" 
+plyus
+plyasat"
 pogreb
-podmigivat/podmignut (+d)
+podmigivat"
 podschyot
-podezd
+pod'ezd
 pokorno
 polveka
 popravka
 poprostu
-posledovatelnost (f)
-smeyatsya/po-
-posredine (+g)
-poyasnyat/poyasnit (+a)
-pravilnost (f)
+posledovatel"nost" 
+smeyat"sya
+posredine 
+poyasnyat"
+pravil"nost" 
 prevoshodstvo
-predyavlyat/predyavit (+a +d)
-priderzhivatsya (i) (+g)
-priletat/priletet
-primes (f)
-provokatsiya
-propoved (f)
+pred'yavlyat"
+priderzhivat"sya 
+priletat"
+primes" 
+provokaciya
+propoved" 
 prorok
-protivorechit (i) (+d)
-protsvetanie
+protivorechit" 
+procvetanie
 ptichij
-pyanstvo
+p"yanstvo
 raduga
-gromit/raz- (+a)
-raskryvatsya/raskrytsya
+gromit"
+raskryvat"sya
 rasprava
-rassmatrivatsya (i)
-resnitsa
+rassmatrivat"sya 
+resnica
 ritm
 rybnyj
-sbivatsya/sbitsya
+sbivat"sya
 svoevremennyj
 sderzhannyj
-sklonyatsya/sklonitsya
+sklonyat"sya
 skotina
 snoha
-soobshatsya/soobshitsya
+soobshat"sya
 prognoz
-spiral (f)
+spiral" 
 spravka
 spros
-srazhatsya/srazitsya (s +inst)
-topat/topnut
+srazhat"sya
+topat"
 tribuna
-tryastis (i)
+tryastis" 
 tusklyj
-tfu
-ubeditelnyj
+t"fu
+ubeditel"nyj
 udacha
 uskorenie
-uspokaivat/uspokoit (+a)
+uspokaivat"
 ustupka
 fakticheski
-tseremoniya
-tsirk
+ceremoniya
+cirk
 chetverg
-chuvstvovatsya/po-
+chuvstvovat"sya
 chudesno
-sheptatsya (i)
+sheptat"sya 
 shumno
-elektroenergiya
-elementarnyj
-energichnyj
-entuziazm
-etak
+ehlektroehnergiya
+ehlementarnyj
+ehnergichnyj
+ehntuziazm
+ehtak
 bezuprechnyj
 bezuslovnyj
 beryozka
@@ -4875,190 +4875,190 @@ bespolezno
 biologicheskij
 bor
 borsh
-borushijsya
+boryushijsya
 bochka
-vyyavlyat/vyyavit (+a)
-budzhet
-valyat (i)
-vernost (f)
-vertikalnyj
-vzbiratsya/vzobratsya
+vyyavlyat"
+byudzhet
+valyat" 
+vernost" 
+vertikal"nyj
+vzbirat"sya
 vzdor
-vitsya/s-
+vit"sya
 vishnyovyj
 vlaga
-vlublyatsya/vlubitsya (v +a)
-vozglavlyat/vozglavit (+a)
+vlyublyat"sya
+vozglavlyat"
 vozmushyonno
 volevoj
-voobrazhat/voobrazit
+voobrazhat"
 voronka
-vosprinimat/vosprinyat (+a)
-vskidyvat/vskinut (+a na +a)
+vosprinimat"
+vskidyvat"
 vtornik
 vuz
-vylezat/vylezt
-vyruchat/vyruchit (+a)
+vylezat"
+vyruchat"
 vysadka
-vysylat/vyslat (+a)
+vysylat"
 golovnoj
-gorech (f)
+gorech" 
 goroh
 gruzovoj
-dvenadtsatyj
+dvenadcatyj
 devichij
-delit/raz- (+a)
-devatsya/detsya
+delit"
+devat"sya
 dosrochno
 dostignutyj
 zhar
-zakonodatelnyj
+zakonodatel"nyj
 izbrannyj
 izmerenie
 indijskij
 inspektor
-intervu (n indecl)
+interv"yu 
 iskosa
 iskusstvenno
 istyokshij
 kanadskij
 kerosin
-kolokolnya
-kopatsya (i)
+kolokol"nya
+kopat"sya 
 kritik
 laureat
-lubeznyj
-lubimets
-melkat/melknut
+lyubeznyj
+lyubimec
+mel"kat"
 missiya
 mnogoletnij
 mogushestvennyj
 moda
-molitsya/po-
-mudrost (f)
+molit"sya
+mudrost" 
 napolovinu
 nastoyashee
-nedovolno
+nedovol"no
 neobychajno
 niva
-nogot (m)
+nogot" 
 nozdrya
 nosok
-nyanka
-obsuzhdatsya/obsuditsya
+nyan"ka
+obsuzhdat"sya
 ognennyj
-ozhidatsya (i)
+ozhidat"sya 
 oko
 operativnyj
 opisannyj
 oplata
 organizovannyj
-osvaivat/osvoit (+a)
+osvaivat"
 ostro
-otvratitelnyj
+otvratitel"nyj
 otdelka
 otkrytka
-otryvat/otorvat (+a ot +g)
+otryvat"
 otstuplenie
 otchasti
 ochertanie
 pepel
-peredavatsya/peredatsya
-perelistyvat/perelistat (+a)
+peredavat"sya
+perelistyvat"
 petuh
-planirovat/za- (+a)
-podavlyaushij
-podbegat/podbezhat (k +d)
+planirovat"
+podavlyayushij
+podbegat"
 podnos
 podnyatyj
-podozritelno
+podozritel"no
 pokazanie
-polivat/polit (+inst +a)
-pomilovat (r) (+a)
+polivat"
+pomilovat" 
 po-novomu
 postavka
-tushit/po- (+a)
+tushit"
 pocherk
 pochtyonnyj
 poshada
-predlagatsya/predlozhitsya
-predpolagatsya/predpolozhitsya
-predstavat/predstat (pered +inst)
-prelest (f)
-press-konferentsiya
-prizhimatsya/prizhatsya (k +d)
+predlagat"sya
+predpolagat"sya
+predstavat"
+prelest" 
+press-konferenciya
+prizhimat"sya
 primanka
-printsipialno
+principial"no
 priobretenie
-priotkryvat/priotkryt (+a)
+priotkryvat"
 prihozhaya
 proizvol
 protivorechivyj
-putyom (+g)
-razlichat/razlichit (+a)
-razlagat/razlozhit
-raskladyvat/razlozhit
+putyom 
+razlichat"
+razlagat"
+raskladyvat"
 razluka
 ranee
-ratsionalnyj
-rezolutsiya
+racional"nyj
+rezolyuciya
 remontnyj
 rimskij
-riskovat/risknut (+inst)
+riskovat"
 rostok
 rulevoj
-svinets
+svinec
 semiletnij
-skolzit (i)
-skolko-nibud (+g)
+skol"zit" 
+skol"ko-nibud" 
 skoplenie
-smertelnyj
-snabzhat/snabdit (+a +inst)
+smertel"nyj
+snabzhat"
 sobstvennik
-sovokupnost (f)
+sovokupnost" 
 sozdannyj
 solomennyj
-sochuvstvovat (i) (+d)
-spetsificheskij
+sochuvstvovat" 
+specificheskij
 stavka
 stihotvorenie
 stolichnyj
 stolovyj
 sueta
 sukin
-tantsevalnyj
-teatralnyj
+tanceval"nyj
+teatral"nyj
 tipografiya
-tykat/tknut (+inst v +a or +a v +a)
+tykat"
 tovarisheskij
 tragediya
-trepat/po-
+trepat"
 tropinka
 tupoj
 upor
 upotreblenie
-utrachivat/utratit (+a)
+utrachivat"
 uchashijsya
-feleton
+fel"eton
 haos
 hishnik
 hohot
 hranenie
-hranitsya/so-
+hranit"sya
 hrebet
 hrupkij
-tselina
-tseloe
-tsepochka
+celina
+celoe
+cepochka
 chereschur
-chernila (n pl)
+chernila 
 chyotkij
-chistit/po- (+a)
-shestnadtsat
-shi (pl)
-ekonomist
-ekspluatirovat (i)
-avos
+chistit"
+shestnadcat"
+shi 
+ehkonomist
+ehkspluatirovat" 
+avos"
 avtorskij
 aktrisa
 alyj
@@ -5068,48 +5068,48 @@ antichnyj
 arbuz
 bankir
 begstvo
-bednost (f)
+bednost" 
 benzin
 besplatnyj
 bespokojno
-blistatelnyj
+blistatel"nyj
 boleznennyj
-bryzgi (f) (pl)
-vdobavok (k +d)
+bryzgi 
+vdobavok 
 velenie
 veroyatnyj
-vladyka (m)
+vladyka 
 vozbuzhdyonnyj
 vospriyatie
 vrazheskij
 vsevozmozhnyj
-vytesnyat/vytesnit (+a)
+vytesnyat"
 gniloj
-gonyat/po- (+a)
-gosudar (m)
-grabit/o- (+a)
-dvigat/dvinut (+a or +inst)
+gonyat"
+gosudar" 
+grabit"
+dvigat"
 dvoryanin
-deyatelnyj
-dobrovolnyj
-donosit/donesti (+a do +g) 
+deyatel"nyj
+dobrovol"nyj
+donosit"
 druzhina
 dymok
-zhevat/pro- (+a)
+zhevat"
 zhitejskij
-zagonyat/zagnat (+a)
+zagonyat"
 zagolovok
-dushit/za- (+a)
-zazhimat/zazhat (+a)
-zaigrat (r) (+a)
-zakazyvat/zakazat (+a)
-zakusyvat/zakusit
+dushit"
+zazhimat"
+zaigrat" 
+zakazyvat"
+zakusyvat"
 zapreshenie
 zemlyanoj
-znakomit/po- (+a s +inst)
-izvestnost (f)
-izdevatsya (i) (nad +inst)
-ispolnitelnyj
+znakomit"
+izvestnost" 
+izdevat"sya 
+ispolnitel"nyj
 kabina
 kamin
 kampaniya
@@ -5117,30 +5117,30 @@ katok
 kolbasa
 kolos
 komandirovka
-kostyl (m)
-krepnut/o-
+kostyl" 
+krepnut"
 kruzhka
 krupinka
-krytsya/po- (v +pr)
+kryt"sya
 kubok
-lishatsya/lishitsya (+g)
+lishat"sya
 luzha
-malchisheskij
+mal"chisheskij
 myod
-migat/mignut
+migat"
 molotok
 molochnyj
 mrachno
 myslenno
-navalivatsya/navalitsya (na +a)
-nadzor (za +inst)
+navalivat"sya
+nadzor 
 nadlezhashij
-nakazyvat/nakazat (+a)
-nakidyvat/nakinut (+a)
-napadat/napast (na +a)
+nakazyvat"
+nakidyvat"
+napadat"
 napravlennyj
-pugat/na- (+a)
-narastat/narasti
+pugat"
+narastat"
 nasushnyj
 nachisto
 nezametnyj
@@ -5149,93 +5149,93 @@ neogranichennyj
 nervno
 neustanno
 obzor
-okrashivat/okrasit (+a)
-okrestnost (f)
-otritsatelno
+okrashivat"
+okrestnost" 
+otricatel"no
 otstalyj
-ofitsialno
-pen (m)
-pereezzhat/pereehat
-peresekat/peresech (+a)
-pisatsya (i)
-plevat/plunut
+oficial"no
+pen" 
+pereezzhat"
+peresekat"
+pisat"sya 
+plevat"
 pogovorka
-gubit/po- (+a)
+gubit"
 podavlennyj
-podnosit/podnesti (+a)
-podezzhat/podehat (k +d)
-pokupatel (m)
+podnosit"
+pod'ezzhat"
+pokupatel" 
 polnota
-pominat/pomyanut (+a)
+pominat"
 po-nastoyashemu
-populyarnost (f)
-pouchitelnyj
-pochtitelno
+populyarnost" 
+pouchitel"nyj
+pochtitel"no
 prevoshodnyj
-predvidet (i) (+a)
+predvidet" 
 prestol
 privychno
 prigotovlenie
 priezzhij
-prikluchenie
+priklyuchenie
 prospekt
-pyatitsya/po-
+pyatit"sya
 ravnodushno
-radovat/ob- (+a)
+radovat"
 razgar
-razdrazhat/razdrazhit (+a)
+razdrazhat"
 razocharovanie
-raskidyvatsya/raskinutsya
+raskidyvat"sya
 raspad
 ryov
-revolutsioner
+revolyucioner
 rodstvennyj
-rychat/za-
-samodeyatelnost (f)
+rychat"
+samodeyatel"nost" 
 sbyt
-varit/svarit (+a)
-svarivat/svarit
-svintsovyj
-sgovarivatsya/sgovoritsya (s +inst)
+varit"
+svarivat"
+svincovyj
+sgovarivat"sya
 sdvig
 sedlo
-szhimat/szhat (+a)
+szhimat"
 skupoj
 sovershenstvo
-sozrevat/sozret
+sozrevat"
 solyonyj
-solidarnost (f)
-soprovozhdatsya (i) (+inst)
-soprotivlyatsya (i) (+d)
-sryvatsya/sorvatsya
-ssoritsya/po- (s +inst)
+solidarnost" 
+soprovozhdat"sya 
+soprotivlyat"sya 
+sryvat"sya
+ssorit"sya
 stihijnyj
 strastno
 strastnyj
 strochka
-styagivat/styanut (+a)
+styagivat"
 taburetka
 tajkom
 tvorenie
 tekushij
 terpenie
-topol (m)
+topol" 
 tost
-uvozit/uvezti (+a)
-uvlekatelnyj
+uvozit"
+uvlekatel"nyj
 uvy
-udivlyat/udivit (+a)
+udivlyat"
 ustav
 ustanovlennyj
-ustoyat (r)
+ustoyat" 
 uchebnik
-hlopoty (pl)
-tsement
+hlopoty 
+cement
 chajnyj
-chinit/po- (+a)
-chuyat/po- (+a)
+chinit"
+chuyat"
 shirina
-epizod
+ehpizod
 yarostnyj
 avariya
 avtoritetnyj
@@ -5250,294 +5250,294 @@ bezzvuchno
 bezogovorochnyj
 belokuryj
 beryozovyj
-beskonechnost (f)
-bessilnyj
+beskonechnost" 
+bessil"nyj
 bessovestnyj
 bityj
 borodka
 byvalo
 vanna
 vezhlivyj
-verblud
-vertikalno
+verblyud
+vertikal"no
 vinovnik
-vnutr (+g)
+vnutr" 
 vozglas
 vozrozhdenie
 vostorzhennyj
 voshishenie
 vpadina
-vykladyvat/vylozhit (+a)
-vyrezat (+a)
-gasit/po- (+a)
-gibnut/po-
+vykladyvat"
+vyrezat" 
+gasit"
+gibnut"
 globus
 glubinnyj
 gnevnyj
 gromada
-grubost (f)
-gryzt (i) (+a)
+grubost" 
+gryzt" 
 dialog
 delovito
-demonstrirovat (i/p)
+demonstrirovat" 
 dyoshevo
 diapazon
 diplomatiya
-dovoditsya/dovestis (+d +inf)
-dozhivat/dozhit (do +g)
-dostoprimechatelnost (f)
-drevnost (f)
+dovodit"sya
+dozhivat"
+dostoprimechatel"nost" 
+drevnost" 
 zhelannyj
 zhenatyj
-zhestokost (f)
+zhestokost" 
 zabavnyj
-zakreplyat/zakrepit (+a)
+zakreplyat"
 zapreshyonnyj
-zapuskat/zapustit (+a)
-zastyvat/zastyt
-zatevat/zateyat (+a)
-zatihat/zatihnut
+zapuskat"
+zastyvat"
+zatevat"
+zatihat"
 zahvat
 zahvatchik
 zloveshij
 zrachok
 igla
-izobretatel (m)
+izobretatel" 
 kalosha or galosha
 kameshek
 karaul
 kaska
-kist (f)
+kist" 
 klyatva
 koe-kto
 komediya
 konchik
-kritikovat (i) (+a)
-krutitsya (i)
-kryt/po- (+a)
+kritikovat" 
+krutit"sya 
+kryt"
 kubicheskij
 kurnosyj
-lapot (m)
+lapot" 
 laska
 lev
 lenivyj
-lit (i) (+a)
+lit" 
 luk
 mestechko
-metatsya (i)
+metat"sya 
 mehovoj
 mikroskop
-molodenkij
+moloden"kij
 montazh
 mudryj
 muzykant
-nabivat/nabit (+a +inst)
-nagovarivat/nagovorit (na +a) 
-nazhimat/nazhat (+a or na +a)
-nameren (+inf)
+nabivat"
+nagovarivat"
+nazhimat"
+nameren 
 naslazhdenie
 nasledie
 nasledstvo
-nastojchivost (f)
-nastraivat/nastroit (+a)
+nastojchivost" 
+nastraivat"
 neveroyatnyj
 negde
 nedalyokij
 nedobryj
-nejtralnyj
-neobyatnyj
+nejtral"nyj
+neob'yatnyj
 nitochka
 oblegchenie
-obozrevatel (m)
-obretat/obresti (+a)
-obshenie (s +inst)
-okanchivatsya/okonchitsya
+obozrevatel" 
+obretat"
+obshenie 
+okanchivat"sya
 opravdanie
 opushka
 osoba
 otzyv
-otlivat/otlit (+a)
-otmechatsya/otmetitsya
-otyskivat/otyskat (+a)
+otlivat"
+otmechat"sya
+otyskivat"
 passazhirskij
-pervonachalnyj
+pervonachal"nyj
 pervostepennyj
-pereglyadyvatsya/pereglyanutsya (s +inst)
+pereglyadyvat"sya
 perspektivnyj
 pirog
-pitat/na- (+a)
-povidat (r) (+a)
-podavatsya/podatsya
-podgotovitelnyj
-pozabyvat/pozabyt (+a or o +pr)
-kositsya/po-
+pitat"
+povidat" 
+podavat"sya
+podgotovitel"nyj
+pozabyvat"
+kosit"sya
 poliklinika
-polkovodets
+polkovodec
 polushubok
-posolstvo
+posol"stvo
 predanie
-predpochitat/predpochest (+a +d)
+predpochitat"
 predrassudok
 pribytie
 prizvanie
 primitivnyj
-prinadlezhnost (f)
-prints
-prismatrivatsya/prismotretsya (k +d)
-prisposoblyat/prisposobit (+a)
-probegat/probezhat
-prodavatsya/prodatsya
-produmyvat/produmat
+prinadlezhnost" 
+princ
+prismatrivat"sya
+prisposoblyat"
+probegat"
+prodavat"sya
+produmyvat"
 prohladnyj
 proshanie
-pyatnadtsatyj
-razvivaushijsya
-razvyazyvat/razvyazat (+a)
-razdavlivat/razdavit (+a)
-razmahivat (i) (+inst)
+pyatnadcatyj
+razvivayushijsya
+razvyazyvat"
+razdavlivat"
+razmahivat" 
 razmyshlenie
 ranenie
-raspadatsya/raspastsya
-raspahivat/raspahnut (+a)
-raspuskat/raspustit (+a)
-rasstavlyat/rasstavit (+a)
-rekomendatsiya
+raspadat"sya
+raspahivat"
+raspuskat"
+rasstavlyat"
+rekomendaciya
 rog
 rybka
-rytsar (m)
+rycar" 
 salfetka
-sbegat/sbezhat
-sdvigat/sdvinut (+a)
+sbegat"
+sdvigat"
 serebristyj
 sigara
 sistematicheski
-skakat/po-
-skripet/pro-
-skulptura
-slozhnost (f)
+skakat"
+skripet"
+skul"ptura
+slozhnost" 
 snaryazhenie
-snizhat/snizit (+a)
-sovershenstvovat/u- (+a)
-sozdatel (m)
-soznatelno
+snizhat"
+sovershenstvovat"
+sozdatel" 
+soznatel"no
 sokol
-sokrashatsya/sokratitsya
+sokrashat"sya
 sotyj
 sous
 sochuvstvie
-stonat (i)
+stonat" 
 strannik
 sugrob
-sulit/po- (+a)
+sulit"
 termin
 terpelivo
 terror
-tomitsya (i)
-toskovat (i)
-tochit (i) (+a)
+tomit"sya 
+toskovat" 
+tochit" 
 trojka
 tuflya
 ubezhdyonno
-ubornaya (f)
-ugoshat/ugostit (+a +inst)
+ubornaya 
+ugoshat"
 udarnyj
 upadok
-ronyat/uronit (+a)
-usvaivat/usvoit (+a)
+ronyat"
+usvaivat"
 ustoj
-ushele
+ushel"e
 fizionomiya
-hvastatsya/po- (+inst)
-hozyajnichat (i)
-horonit/po- (+a)
-tsarit (i)
-shit/s- (+a)
-ekij
-esteticheskij
+hvastat"sya
+hozyajnichat" 
+horonit"
+carit" 
+shit"
+ehkij
+ehsteticheskij
 yadovityj
 agrarnyj
 apteka
-assotsiatsiya
-atakovat ((i/p)) (+a)
+associaciya
+atakovat" 
 balet
 barhat
 basnya
 bezumnyj
 bessonnyj
 besshumno
-bodrost (f)
+bodrost" 
 bombardirovka
-boyazn (f)
-britsya/po-
+boyazn" 
+brit"sya
 bunt
 velosiped
-verenitsa
+verenica
 veslo
 vzaimoponimanie
-vihr (m)
-vkluchenie
-vooruzhat/vooruzhit (+a)
+vihr" 
+vklyuchenie
+vooruzhat"
 voskresnyj
-vrashatsya (i)
-vspomogatelnyj
+vrashat"sya 
+vspomogatel"nyj
 vtorzhenie
-vybivat/vybit (+a)
-vyglyadyvat/vyglyanut
+vybivat"
+vyglyadyvat"
 vygodno
-vyzyvatsya/vyzvatsya
-vypivat/vypit
-vysovyvatsya/vysunutsya
+vyzyvat"sya
+vypivat"
+vysovyvat"sya
 vytyanutyj
-gadat (i)
+gadat" 
 galereya
 godovshina
-golub (m)
-gorst (f)
-gostinaya (f) adj
+golub" 
+gorst" 
+gostinaya 
 gruda
-dalnevostochnyj
+dal"nevostochnyj
 dezhurstvo
 dejstvennyj
-diktovat/pro- (+a)
-dissertatsiya
-dobrovolno
+diktovat"
+dissertaciya
+dobrovol"no
 dosrochnyj
 zhivopisnyj
 zhilishnyj
 zhirnyj
-zhrat/so- (very coll)
-zabegat/zabezhat
-zabegat (r)
-zabyvatsya/zabytsya
+zhrat"
+zabegat"
+zabegat" 
+zabyvat"sya
 zagorelyj
-zarastat/zarasti
+zarastat"
 zarplata
-zatyagivatsya/zatyanutsya (+inst)
+zatyagivat"sya
 zayavka
 zemlyak
-izbiratel (m)
+izbiratel" 
 inzhenernyj
 ihnij
 kazna
-kapat/kapnut
+kapat"
 kareta
-kvalifitsirovannyj
+kvalificirovannyj
 kepka
 klient
 kovarnyj
-kombinatsiya
+kombinaciya
 konyok
 konkurent
-kontrolirovat/pro- (+a)
+kontrolirovat"
 kopyto
-kofe (m) (indecl)
+kofe 
 koshelyok
 kriticheskij
 listochek
 lovkij
-lovkost (f)
-lomatsya/s-
-malost (f)
+lovkost" 
+lomat"sya
+malost" 
 malysh 
 massiv
 materinskij
@@ -5546,15 +5546,15 @@ milya
 minimum
 mirno
 moroznyj
-muchatsya/za-
+muchat"sya
 mylo
-nabludatel (m)
+nablyudatel" 
 navyk
-nadlezhat (i) (+d of person +inf)
-nakladyvat/nalozhit (+a na +a)
+nadlezhat" 
+nakladyvat"
 nasmeshlivyj
 natisk
-natykatsya/natknutsya (na +a)
+natykat"sya
 nachinanie
 nevazhno
 nevezhestvo
@@ -5562,121 +5562,121 @@ nevernyj
 negodovanie
 nedorazumenie
 nekrasivyj
-nelovkost (f)
+nelovkost" 
 nesposobnyj
 nesterpimo
 neudachnyj
 niz
 novichok
-normalno
-nositsya (i)
-obezyana
+normal"no
+nosit"sya 
+obez"yana
 ovyos
-ogorchatsya/ogorchitsya
-odinochka (m/f)
+ogorchat"sya
+odinochka 
 ozhestochyonnyj
-ozhivat/ozhit
+ozhivat"
 oranzhevyj
-organizatsionnyj
+organizacionnyj
 osyol
-osmelivatsya/osmelitsya (+inf)
-osmatrivatsya/osmotretsya
-ostorozhnost (f)
+osmelivat"sya
+osmatrivat"sya
+ostorozhnost" 
 ostriyo
 otpor
 otchestvo
 parlament
 parus
-perechislyat/perechislit (+a)
-pitatsya (i) (+inst)
+perechislyat"
+pitat"sya 
 plemyannik
-povyshatsya/povysitsya
-podavlyat/podavit (+a)
+povyshat"sya
+podavlyat"
 podobie
 podrostok
 podchinyonnyj
-podchinyatsya/podchinitsya (+d)
-pozhenitsya (r)
+podchinyat"sya
+pozhenit"sya 
 pozdravlenie
-polzat/po-
+polzat"
 polozhennyj
-pomenshe
+pomen"she
 ponemnogu
-porazitelno
+porazitel"no
 po-russki
 postavshik
-pohozhe (na +a)
-potseluj
-pravitelstvennyj
-predotvrashat/predotvratit (+a)
-predskazyvat/predskazat (+a)
-prezirat (i) (+a)
-pretendent (na +a)
-privlekatelnyj
-prigovarivat/prigovorit (+a k +d)
+pohozhe 
+poceluj
+pravitel"stvennyj
+predotvrashat"
+predskazyvat"
+prezirat" 
+pretendent 
+privlekatel"nyj
+prigovarivat"
 prizrak
 proryv
-prosizhivat/prosidet
-proslezhivat/prosledit (+a)
-proshatsya/prostitsya (s +inst)
-puskatsya/pustitsya (v +a or +inf)
-putat/s- (+a)
-rabotnitsa
-razvyortyvat/razvernut (+a)
-razdevatsya/razdetsya
-razmeshat/razmestit (+a)
+prosizhivat"
+proslezhivat"
+proshat"sya
+puskat"sya
+putat"
+rabotnica
+razvyortyvat"
+razdevat"sya
+razmeshat"
 raznoglasie
 rasstrel
 rvanyj
-revnost (f)
+revnost" 
 rybachij
 rychag
 sanatorij
 sblizhenie
-sgorat/sgoret
+sgorat"
 sistematicheskij
 skripka
-slovar (m)
+slovar" 
 sluzhebnyj
 smirnyj
 snaruzhi
-sovremennost (f)
-soglasovyvat/soglasovat (+a)
+sovremennost" 
+soglasovyvat"
 sosedka
-soskuchitsya (r)
-spohvatyvatsya/spohvatitsya
-sprashivatsya (i)
+soskuchit"sya 
+spohvatyvat"sya
+sprashivat"sya 
 sram
-stiskivat/stisnut (+a)
+stiskivat"
 sugubo
-hvatatsya/shvatitsya (za +a)
-tvorit/so- (+a)
-tvoritsya (i)
+hvatat"sya
+tvorit"
+tvorit"sya 
 tezis
-tolkovat/is- (+a)
+tolkovat"
 tragicheskij
-trepetat (i)
+trepetat" 
 tropa
 tumannyj
-turetskij
-turemnyj
-uvolnyat/uvolit (+a)
-uvolnenie
-krast/u- (+a)
-ukryvatsya/ukrytsya (ot +g)
+tureckij
+tyuremnyj
+uvol"nyat"
+uvol"nenie
+krast"
+ukryvat"sya
 umelo
-umolyat/umolit (+a)
-usilivatsya/usilitsya
-uskoryat/uskorit (+a)
-ustanavlivatsya/ustanovitsya
-ustremlyatsya/ustremitsya
-uteshat/uteshit (+a)
+umolyat"
+usilivat"sya
+uskoryat"
+ustanavlivat"sya
+ustremlyat"sya
+uteshat"
 fontan
-formalno
+formal"no
 frukt
-hvalit/po- (+a)
-hitrost (f)
-hlynut (r)
+hvalit"
+hitrost" 
+hlynut" 
 homut
 huligan
 chayok
@@ -5689,44 +5689,44 @@ arifmetika
 arsenal
 ateist
 bandit
-bditelnost (f)
+bditel"nost" 
 bezzavetnyj
 beznadyozhno
 bezrabotnyj
-belet/po-
+belet"
 belizna
 beskorystnyj
 bespomoshnyj
 besposhadno
 bolvan
 bombardirovshik
-bran (f)
-bresti/po-
+bran" 
+bresti
 brilliant
 broshennyj
-budni (pl)
+budni 
 byvalyj
 vata
 vdohnovennyj
-vedat (i) (+inst) 
+vedat" 
 vezhlivo
-veyat (i)
-veshat/vzvesit (+a)
+veyat" 
+veshat"
 vizg
 vinovnyj
-vnikat/vniknut (v +a)
-vozlagat/vozlozhit (+a na +a)
+vnikat"
+vozlagat"
 voploshenie
 voshodyashij
 vsenarodnyj
-vskrikivat/vskriknut
+vskrikivat"
 vtroe
 vyveska
-vyvozit/vyvezti (+a)
+vyvozit"
 vygovor
-vynoslivost (f)
-vytyagivatsya/vytyanutsya
-vyshibat/vyshibit (+a)
+vynoslivost" 
+vytyagivat"sya
+vyshibat"
 garnizon
 glyba
 gordo
@@ -5735,151 +5735,151 @@ grek
 griva
 grozno
 dvojka
-delnyj
-demokratizatsiya
-detishki (pl)
+del"nyj
+demokratizaciya
+detishki 
 dovoennyj
-dovolstvovatsya (i) (+inst)
-dostigatsya/dostichsya
+dovol"stvovat"sya 
+dostigat"sya
 dosug
 zhestyanoj
 zhutko
 zavoyovannyj
-zamirat/zameret
-orat/za-
-zasovyvat/zasunut (+a v +a)
-shumet/za-
+zamirat"
+orat"
+zasovyvat"
+shumet"
 zelenovatyj
 zemletryasenie
-zlitsya/obo- (na +a)
-zlost (f)
-znaushij
+zlit"sya
+zlost" 
+znayushij
 zolochyonyj
-intonatsiya
+intonaciya
 iskusno
 iskusnyj
 ispolinskij
-kaznit (i/p)
+kaznit" 
 kapusta
-karabkatsya/vs-
-katatsya/po-
-kvalifikatsiya
+karabkat"sya
+katat"sya
+kvalifikaciya
 klyon
 kol
 kollegiya
-kolot/za- (+a)
+kolot"
 konvert
 kooperativ
 kopiya
 korobochka
 kremlyovskij
 kriticheski
-layat/za-
-liven (m)
-len (f)
+layat"
+liven" 
+len" 
 loshadinyj
 lukavyj
-lustra
-lutyj
+lyustra
+lyutyj
 malinovyj
-manit/po- (+a)
+manit"
 matovyj
 machta
 morozhenoe
 musor
 myslyashij
-nazhivat/nazhit (+a)
+nazhivat"
 nakazanie
 nakal
 namnogo
-plevat/na- (na +a)
-nedostavat/nedostat (+g)
-nezhnost (f)
-nezadolgo (do +g)
+plevat"
+nedostavat"
+nezhnost" 
+nezadolgo 
 nenavistnyj
 neopredelyonnyj
-nereshitelno
-nespravedlivost (f)
+nereshitel"no
+nespravedlivost" 
 neudachnik
 obednya
 obeshanie
-obnazhat/obnazhit (+a)
+obnazhat"
 obozrenie
 obochina
 obhod
-obedinyatsya/obedinitsya (s +inst)
-obektivno
+ob'edinyat"sya
+ob'ektivno
 okeanskij
 okoshechko
 okruzhenie
 opasenie
-opomnitsya (r)
-opravdyvatsya/opravdatsya
+opomnit"sya 
+opravdyvat"sya
 osveshyonnyj
 otblesk
 otpechatok
-ohotitsya (i) (na +a)
-ochnutsya (r)
+ohotit"sya 
+ochnut"sya 
 pazuha
 partnyor
 peregorodka
 perezhitok
-krestitsya/pere-
-perekreshivatsya
-peremenyatsya/peremenitsya
+krestit"sya
+perekreshivat"sya
+peremenyat"sya
 pereulok
 pila
 piramida
 plamennyj
 plach
 plita
-povedyvat/povedat (+a)
+povedyvat"
 podavlenie
-podvesti (p) (k +d)
-podlost (f)
+podvesti 
+podlost" 
 podozrenie
 podruzhka
 poza
 poroh
 postanovka
-staret/po-
+staret"
 postuplenie
 potryasenie
 prah
-prevoshodit/prevzojti (+a)
-predannost (f)
-predvaritelno
+prevoshodit"
+predannost" 
+predvaritel"no
 predostavlenie
 predshestvennik
-premer-ministr
-preobrazovyvat/preobrazovat (+a)
+prem"er-ministr
+preobrazovyvat"
 presledovanie
 preslovutyj
-preuvelichivat/preuvelichit (+a)
-pribivat/pribit (k +d)
+preuvelichivat"
+pribivat"
 privetstvie
 prikrytie
 prilichnyj
 prinyatie
 prinyatyj
-prislonyatsya/prislonitsya (k +d)
+prislonyat"sya
 progulka
 proslavlennyj
-prostupat/prostupit
-protekat/protech
-protivopolozhnost (f)
+prostupat"
+protekat"
+protivopolozhnost" 
 proshlogodnij
 proshenie
 publichnyj
-putatsya/s-
-pyanitsa (m/f)
+putat"sya
+p"yanica 
 radiopriyomnik
-razbivatsya/razbitsya
-razbrasyvat/razbrosat (+a)
-razdumyvat/razdumat
-razrushatsya/razrushitsya
+razbivat"sya
+razbrasyvat"
+razdumyvat"
+razrushat"sya
 rasistskij
-rasstraivat/rasstroit (+a)
+rasstraivat"
 rebro
 rozha
 rosa
@@ -5890,67 +5890,67 @@ svistok
 svod
 semejstvo
 sirena
-myshtsa
-slivatsya/slitsya
-smiryatsya/smiritsya (s +inst)
+myshca
+slivat"sya
+smiryat"sya
 smuglyj
-snizhatsya/snizitsya
-sobludenie
+snizhat"sya
+soblyudenie
 sodejstvie
-sozyvat/sozvat (+a)
-soznavatsya/soznatsya (v +pr)
+sozyvat"
+soznavat"sya
 sootvetstvenno
-spetsializatsiya
-stavitsya/po-
+specializaciya
+stavit"sya
 stimulirovanie
-stirat/vy- (+a)
+stirat"
 stoyashij
 strategicheskij
 suverenitet
 suk
 sumatoha
-sypatsya (i)
-taitsya (i)
+sypat"sya 
+tait"sya 
 taksi
-tolkatsya (i)
+tolkat"sya 
 tolsha
 topot
 traktir
 tribunal
 trudoyomkij
-ugozhdat/ugodit (+d) 
+ugozhdat"
 udobstvo
 mogila
 uklad
 ukol
 umno
-upominat/upomyanut (+a or o +pr)
+upominat"
 upryamyj
-usazhivatsya/usestsya
-ustojchivost (f)
-uhvatitsya (za +a)
-utselet (r)
-festival (m)
-finansy (m pl)
+usazhivat"sya
+ustojchivost" 
+uhvatit"sya 
+ucelet" 
+festival" 
+finansy 
 hitro
-hlestat/hlestnut (+a)
-hmel (m)
+hlestat"
+hmel" 
 hokkej
 holostoj
 chelovechek
 chugun
-shipet (i)
+shipet" 
 shpion
-eshelon
+ehshelon
 yablochko
-yasli (pl)
-aktsiya
+yasli 
+akciya
 anekdot
 aristokraticheskij
 assambleya
 bagrovyj
 barometr
-barer
+bar"er
 beznadyozhnyj
 bezymyannyj
 belorusskij
@@ -5961,96 +5961,96 @@ besstrashie
 bich
 blagoj
 bred
-brit/po- (+a)
-bruho
+brit"
+bryuho
 burno
-buryan
-bushevat (i)
+bur"yan
+bushevat" 
 verhovoj
-vestibul (m)
-vesy (m pl)
+vestibyul" 
+vesy 
 vethij
 vecherinka
-vzveshivat/vzvesit (+a)
-vlezat/vlezt
-vnedryat/vnedrit (+a v +a)
-vospitatelnyj
+vzveshivat"
+vlezat"
+vnedryat"
+vospitatel"nyj
 vrashenie
-vspominatsya/vspomnitsya
+vspominat"sya
 vtorichno
 vtorichnyj
-vtseplyatsya/vtsepitsya (v +a)
-vymyvat/vymyt (+a)
+vceplyat"sya
+vymyvat"
 vyhodka
 garantiya
 garazh
-glasit (i)
-glush (f)
+glasit" 
+glush" 
 gryadushij
 desant
-defitsitnyj
+deficitnyj
 direktiva
 dnishe
-doezzhat/doehat (do +g)
-doloj (+a)
-doprashivat/doprosit (+a)
-dorozhit (+inst)
-draznit (i) (+a)
-dremat (i)
+doezzhat"
+doloj 
+doprashivat"
+dorozhit" 
+draznit" 
+dremat" 
 druzhnyj
-duel (f)
+duehl" 
 dymka
 dyra
-zhilyo
+zhil"yo
 zabavno
-zabluditsya (r)
-zavalivat/zavalit (+a +inst)
-zainteresovyvatsya/zainteresovatsya (+inst)
-zapominatsya/zapomnitsya
+zabludit"sya 
+zavalivat"
+zainteresovyvat"sya
+zapominat"sya
 zarevo
-zatoplyat/zatopit (+a)
+zatoplyat"
 zashitnyj
 zvonko
-zerkalnyj
-znamenatelnyj
-znachitsya (i)
+zerkal"nyj
+znamenatel"nyj
+znachit"sya 
 zolotistyj
-izbavlyat/izbavit (+a ot +g)
+izbavlyat"
 izverzhenie
 izvne
 izmennik
-izmeryat/izmerit (+a)
+izmeryat"
 iznutri
-izolyatsiya
+izolyaciya
 izumlenie
-ispolnyatsya/ispolnitsya
+ispolnyat"sya
 kak-nikak
 kislyj
 klop
 klochok
 knut
-kolyhatsya (i)
+kolyhat"sya 
 komandnyj
 kosvennyj
 kotyol
 krestik
 krovnyj
-kuznets
+kuznec
 kukushka
 legkomyslennyj
-lyogkost (f)
+lyogkost" 
 lzhivyj
 logicheskij
 manifest
 millionnyj
 mnimyj
-nabiratsya/nabratsya (+g)
-nagonyat/nagnat (+a)
+nabirat"sya
+nagonyat"
 nakanune
 napitok
 napor
-narastaushij
-nasilstvennyj
+narastayushij
+nasil"stvennyj
 nasos
 nashestvie
 neveroyatno
@@ -6067,151 +6067,151 @@ neftyanik
 nehoroshij
 nechistyj
 neyasno
-oborudovat ((i/p)) (+a)
+oborudovat" 
 obryad
-obyavlenie
-obyatie
-ovladevat (i) (+inst)
-odalzhivat/odolzhit (+a +d)
-ozhivlyatsya/ozhivitsya
+ob'yavlenie
+ob'yatie
+ovladevat" 
+odalzhivat"
+ozhivlyat"sya
 osobnyak
 ostrota
 osuzhdenie
-otvozit/otvezti (+a)
-otvlekat/otvlech (+a)
+otvozit"
+otvlekat"
 otvrashenie
 otdacha
-otdelnost
+otdel"nost"
 otkuda-to
-otmenyat/otmenit (+a)
-otsutstvovat (i)
-ochishat/ochistit (+a)
+otmenyat"
+otsutstvovat" 
+ochishat"
 parad
 parikmaherskaya
-perekidyvat/perekinut (+a cherez +a)
+perekidyvat"
 plash
-plesti (i) (+a)
+plesti 
 povrezhdenie
 poganyj
 pogibshij
 polozheno
-pogruzhatsya/pogruzitsya (v +a)
+pogruzhat"sya
 podnyatie
 podrobnyj
-podchyorkivatsya/podcherknutsya
+podchyorkivat"sya
 pozornyj
-pokachivat/pokachat (+a or +inst)
+pokachivat"
 pokornyj
 pokryshka
 pologij
 poluchshe
-miritsya/po- (s +inst)
+mirit"sya
 ponizhenie
 poslevoennyj
 pospeshno
 potomok
 pohodka
-pravitel (m)
-predavat/predat (+a +d)
+pravitel" 
+predavat"
 predchuvstvie
 prelestnyj
 prestizh
 prigodnyj
-prigotovlyatsya/prigotovitsya (+inf or k +d)
+prigotovlyat"sya
 prilichno
-pripisyvat/pripisat (+a +d)
-prisposablivatsya/prisposobitsya (k +d)
-pritvoryatsya/pritvoritsya (+inst)
-pritihat/pritihnut
-probivatsya/probitsya
+pripisyvat"
+prisposablivat"sya
+pritvoryat"sya
+pritihat"
+probivat"sya
 proval
 provodnik
-prodovolstvie
+prodovol"stvie
 promyshlennik
-pronositsya/pronestis
-propityvat/propitat (+a)
-sheptat/pro-
-pryad (f)
+pronosit"sya
+propityvat"
+sheptat"
+pryad" 
 pryanik
 pulemyotnyj
-putanitsa
-pylaushij
+putanica
+pylayushij
 ravnomerno
 razvalina
-razdavat/razdat (+a)
-razdvigat/razdvinut (+a)
+razdavat"
+razdvigat"
 razdrazhenie
-razlagatsya/razlozhitsya
+razlagat"sya
 razumno
 rasseyanno
-rastsvet
-rastsenivat/rastsenit (+a)
-realizatsiya
+rascvet
+rascenivat"
+realizaciya
 rezinovyj
 remeslo
 replika
 rodstvo
-rozh (f)
-roskosh (f)
+rozh" 
+roskosh" 
 rusyj
-ruchatsya/poruchitsya (za +a)
+ruchat"sya
 ryvok
-svalivat/svalit (+a)
+svalivat"
 svetlo
-setovat/po- (o +pr/na +a)
+setovat"
 szhatyj
-skatyvatsya/skatitsya
+skatyvat"sya
 skvernyj
-skol
+skol"
 slon
-smeshivat/smeshat (+a)
-smushat/smutit (+a)
+smeshivat"
+smushat"
 smushenie
 snezhinka
-sogrevat/sogret (+a)
-sozidatelnyj
+sogrevat"
+sozidatel"nyj
 sootnoshenie
 sopka
 soprovozhdenie
 sosnovyj
-spotykatsya/spotknutsya (o +a)
+spotykat"sya
 spusk
 starina
 staromodnyj
-staskivat/stashit (+a)
+staskivat"
 stojkij
 stolbik
 storozhevoj
 stoyanka
-trusit/s- (pered or +g)
-ezdit/s-
+trusit"
+ezdit"
 tabletka
 tajno
 tamozhennyj
-tverdit (i) (+a)
-teplitsa
-travit (i) (+a)
+tverdit" 
+teplica
+travit" 
 transportnyj
 tropicheskij
 trofej
 tur
 turistskij
 tyaga
-udalyat/udalit (+a)
+udalyat"
 udivlyonnyj
 ukaz
-umyvatsya/umytsya
+umyvat"sya
 unizhenie
 upomyanutyj
 uragan
-formalnyj
+formal"nyj
 harakterno
 hmuryj
 hrabryj
-tsementnyj
+cementnyj
 chasha
-cherpat/cherpnut (+a iz +g)
-chestnost (f)
+cherpat"
+chestnost" 
 chetvyorka
 chugunnyj
 shans
@@ -6220,24 +6220,24 @@ shyolk
 shibko
 shut
 shedro
-shyolkat/shyolknut (+a) 
-egoizm
-energichno
-entuziast
-umor
-unosheskij
+shyolkat"
+ehgoizm
+ehnergichno
+ehntuziast
+yumor
+yunosheskij
 yanvarskij
 amnistiya
-asfalt
-aeroport
-balovat/iz- (+a)
+asfal"t
+aehroport
+balovat"
 barrikada
 barskij
-bezludnyj
+bezlyudnyj
 bezrazlichno
 bespovorotno
-bespredelnyj
-bestseremonno
+bespredel"nyj
+besceremonno
 blagorodstvo
 blazhennyj
 boltovnya
@@ -6247,87 +6247,87 @@ bronza
 butylochka
 valun
 varezhka
-veselitsya/po-
+veselit"sya
 vetchina
 vzaimno
 vinovato
 vneshne
-vneshnost (f)
+vneshnost" 
 vozrazhenie
 volzhskij
-vorovat/s- (+a)
-vorochat (+a)
-vorochatsya (i)
-vpadat/vpast (v +a)
+vorovat"
+vorochat" 
+vorochat"sya 
+vpadat"
 vraz
-vruchnuu
-vstavlyat/vstavit (v +a)
+vruchnuyu
+vstavlyat"
 vstuplenie
 vtroyom
 vynoslivyj
-vysazhivatsya/vysaditsya
-vyskazyvatsya/vyskazatsya
-vychislyat/vychislit (+a)
+vysazhivat"sya
+vyskazyvat"sya
+vychislyat"
 garmonicheskij
 gladko
 golubovatyj
 gumannyj
 davnym-davno 
 dvoryanskij
-dyorgat/dyornut (+a)
+dyorgat"
 detektiv
 diko
 dobavka
-dokatyvatsya/dokatitsya (do +g)
-domishko (m)
-dopolnitelno
+dokatyvat"sya
+domishko 
+dopolnitel"no
 dostavka
 dostojno
-duratskij
+durackij
 dushno
-dymit (i)
-zhazhdat (i) (+g)
+dymit" 
+zhazhdat" 
 zabava
 zavesa
 zadannyj
 zazhitochnyj
-zakryvatsya/zakrytsya
+zakryvat"sya
 zakupka
-zanimatelnyj
-zapugivat/zapugat (+a)
+zanimatel"nyj
+zapugivat"
 zaputannyj
-zasedat (i)
-zastrevat/zastryat
+zasedat" 
+zastrevat"
 zahod
-zachastuu
+zachastuyu
 zvukovoj
 zmeya
 igo
 igrushechnyj
-idealnyj
-izobrazitelnyj
+ideal"nyj
+izobrazitel"nyj
 ironicheski
 iskrenno
-istrebitel (m)
+istrebitel" 
 ishodnyj
 kabluk
 kanava
 kandidatura
 kapriznyj
 kara
-karaulit (i) (+a)
+karaulit" 
 kategoricheski
 klok
 konkretno
 kosynka
 kofta
-krajnost (f)
-krasavets
+krajnost" 
+krasavec
 kroshechnyj
 krylatyj
 kuvshin
 kurinyj
-lazit/po-
+lazit"
 lentochka
 lilovyj
 liho
@@ -6339,149 +6339,149 @@ lyzhnyj
 majskij
 mamochka
 matematik
-menshinstvo
+men"shinstvo
 metla
 millioner
 milostynya
-miniaturnyj
+miniatyurnyj
 modnyj
-monastyr (m)
+monastyr" 
 muskul
-muchitelno
+muchitel"no
 nazlo
 naimenovanie
 napryazhyonno
-narushatsya/narushitsya
+narushat"sya
 naslednik
-naschityvat (i) (+a)
+naschityvat" 
 nevynosimyj
 neizmerimo
 nenadolgo
 neohota
-nepriyatel (m)
+nepriyatel" 
 netoroplivo
 netoroplivyj
 neulovimyj
 nehvatka
 nechayanno
-novenkij
-nosilki (f pl)
+noven"kij
+nosilki 
 nosovoj
 obilie
-obobshat/obobshit (+a)
-obgonyat/obognat (+a)
-obozhat (i) (+a)
+obobshat"
+obgonyat"
+obozhat" 
 obrez
-obhvatyvat/obhvatit (+a)
+obhvatyvat"
 ogranichenie
-ogranichennost (f)
+ogranichennost" 
 odnorodnyj
-odolevat/odolet (+a)
-ozherele
-ozaryat/ozarit (+a)
+odolevat"
+ozherel"e
+ozaryat"
 ozorstvo
-okkupatsiya
+okkupaciya
 okrug
 okurok
-oprovergat/oprovergnut (+a)
-pustet/o-
+oprovergat"
+pustet"
 oryol
-osnovatelno
-otkidyvatsya/otkinutsya
-otmahivatsya/otmahnutsya (ot +g)
+osnovatel"no
+otkidyvat"sya
+otmahivat"sya
 otmena
 otmetka
-otrabatyvat/otrabotat (+a)
+otrabatyvat"
 otstavka
 othod
 otchyotlivyj
-parashut
-parnishka (m) 
+parashyut
+parnishka 
 pedagog
-perevorachivat/perevernut (+a)
+perevorachivat"
 peredvizhenie
-peredraznivat/peredraznit (+a)
-peremeshatsya/peremestitsya
+peredraznivat"
+peremeshat"sya
 peremeshenie
-pereputyvat/pereputat (+a)
-peresmatrivat/peresmotret (+a)
+pereputyvat"
+peresmatrivat"
 personazh
-personalnyj
+personal"nyj
 pobezhdyonnyj
-poblyoskivat (i)
+poblyoskivat" 
 povestka
 povtornyj
 povyazka
 pogonya
-podvigatsya/podvinutsya
-podzhigat/podzhech (+a)
+podvigat"sya
+podzhigat"
 podol
-podryvat/podorvat (+a)
+podryvat"
 podtverzhdenie
-podtyagivat/podtyanut (+a)
+podtyagivat"
 pozavchera
 pola
 poleno
-lomat/po- (+a)
+lomat"
 polotno
 poluostrov
 poraboshenie
-posvistyvat/posvistet
-poselyatsya/poselitsya
+posvistyvat"
+poselyat"sya
 posobie
 postepennyj
-potryasat/potryasti (+a)
-potryasaushij
+potryasat"
+potryasayushij
 pohvala
 pochtovyj
-pravit (i) (+inst)
-prazdnovat (i) (+a)
-prednaznachatsya/prednaznachitsya (dlya +g or na +a)
-prekrashat (i) (+a)
-pribegat/pribezhat
+pravit" 
+prazdnovat" 
+prednaznachat"sya
+prekrashat" 
+pribegat"
 priblizhenie
-pribirat/pribrat (+a)
-privyazyvatsya/privyazatsya (k +d)
+pribirat"
+privyazyvat"sya
 prilavok
-primechatelnyj
-primiryatsya/primiritsya (s +inst) 
-pripominat/pripomnit (+a)
-pristavlyat/pristavit (+a k +d)
-pristavat/pristat (k +d)
-provozglashat/provozglasit (+a)
-proglatyvat/proglotit (+a)
-prodavets
-prodolzhit (p) (+a)
-prolivat/prolit (+a)
-molchat/pro-
-proskakivat/proskochit
-proslavlyatsya/proslavitsya
-prosmatrivat/prosmotret (+a)
+primechatel"nyj
+primiryat"sya
+pripominat"
+pristavlyat"
+pristavat"
+provozglashat"
+proglatyvat"
+prodavec
+prodolzhit" 
+prolivat"
+molchat"
+proskakivat"
+proslavlyat"sya
+prosmatrivat"
 proschyot
-protivostoyat (i) (+d)
+protivostoyat" 
 prohod
 ravnomernyj
 ravnopravie
-razvalivatsya/razvalitsya
+razvalivat"sya
 razvyortyvanie
 razvlechenie
-razdrazhatsya/razdrazhitsya
+razdrazhat"sya
 raskol
 raspiska
-rasplachivatsya/rasplatitsya
+rasplachivat"sya
 rasporyadok
-raspredelyatsya/raspredelitsya
-rasseivatsya/rasseyatsya
-rasstyogivat/rasstegnut (+a)
-rastit/vy- (+a)
-rvanutsya (r)
-redaktsionnyj
+raspredelyat"sya
+rasseivat"sya
+rasstyogivat"
+rastit"
+rvanut"sya 
+redakcionnyj
 reportazh
-restavratsiya
+restavraciya
 rodimyj
-rumyanets
-ryt (i) (+a)
-svezhest (f)
+rumyanec
+ryt" 
+svezhest" 
 sverzhenie
 svoevremenno
 sderzhanno
@@ -6489,91 +6489,91 @@ sestryonka
 sigareta
 skachok
 skverno
-sklonnost (f) (k +d)
+sklonnost" 
 skrip
 slovesnyj
 slovechko 
 slozhivshijsya
 smutnyj
-sgibatsya/sognutsya
-sokrovishnitsa
+sgibat"sya
+sokrovishnica
 sonnyj
 sorokovoj
-sosat (i) (+a)
-sochetatsya (i) (s +inst)
-spalnya
-spasatsya/spastis
-spisyvat/spisat (+a)
+sosat" 
+sochetat"sya 
+spal"nya
+spasat"sya
+spisyvat"
 spichechnyj
 spyashij
 sredneaziatskij
 srednevekovyj
-statsya
-stihat/stihnut
-strogost (f)
+stat"sya
+stihat"
+strogost" 
 sumrak
 sup
 sushyonyj
-sformulirovat (r) (+a)
-syomka
-sezzhat/sehat
-surpriz
+sformulirovat" 
+s'yomka
+s'ezzhat"
+syurpriz
 tainstvenno
 takt
 teleskop
-tolpitsya (i)
-tormozit/za- (+a)
+tolpit"sya 
+tormozit"
 trezvyj
 tron
 tros
 tsheslavie
 ubogij
 uglublenie
-uglublyatsya/uglubitsya
+uglublyat"sya
 udachno
-uletat/uletet
-umenshat/umenshit (+a)
-usta (pl)
+uletat"
+umen"shat"
+usta 
 uslovnyj
-ustalost (f)
-utknutsya (r) (v +a)
+ustalost" 
+utknut"sya 
 figurka
 fortochka
-fyrkat/fyrknut
+fyrkat"
 hlam
-horoshenkij
+horoshen"kij
 hudoshavyj
-tsvesti/ras-
-tsvetochnyj
-tselnyj
-tsyplyonok
-tsypochki (pl)
+cvesti
+cvetochnyj
+cel"nyj
+cyplyonok
+cypochki 
 chek
 cherep
-chuditsya/po- (+d)
+chudit"sya
 chulok
-chut-chut
-sharit/po- (v +pr)
+chut"-chut"
+sharit"
 shelest
 shtamp
 shtraf
 shturm
 shtuchka 
 shedryj
-ekonomicheski
-estradnyj
-eho
+ehkonomicheski
+ehstradnyj
+ehho
 yad
 yarostno
 avtomatika
-adresovat ((i/p)) (+a +d)
+adresovat" 
 arka
 arheolog
 aforizm
 ball
-bednyaga (m)
+bednyaga 
 bezgranichnyj
-bezdele
+bezdel"e
 bezzhalostnyj
 bezopasnyj
 barak
@@ -6582,122 +6582,122 @@ blin
 bessmyslennyj
 bibliya
 biologiya
-blagoslovlyat/blagoslovit (+a)
-blesnut (r)
+blagoslovlyat"
+blesnut" 
 blestyashe
 bodryj
 bojkij
 budnichnyj
 bulka
 vdohnovenie
-vdumyvatsya/vdumatsya (v +a)
-vedomost (f)
+vdumyvat"sya
+vedomost" 
 veer
 vertolyot
-veruushij
-verhove
+veruyushij
+verhov"e
 veshestvennyj
-vzaimopomosh (f)
-vzletat/vzletet
-vizzhat (i)
+vzaimopomosh" 
+vzletat"
+vizzhat" 
 vinograd
 vodoyom
-vozvodit/vozvesti (+a)
-vozvrashat/vozvratit (+a)
-vozvyshatsya/vozvysitsya
+vozvodit"
+vozvrashat"
+vozvyshat"sya
 vozmezdie
 voj
 volosatyj
 vostorzhenno
 voshod
-vpryam
+vpryam"
 vsemerno
 vsestoronne
-vskryvat/vskryt (+a)
+vskryvat"
 vsplesk
 vtorostepennyj
 v-chetvyortyh
-vykluchat/vykluchit (+a)
-vypisyvat/vypisat (+a)
-vypryamlyatsya/vypryamitsya
-vypuskatsya/vypustitsya
-vyrazitelnyj
+vyklyuchat"
+vypisyvat"
+vypryamlyat"sya
+vypuskat"sya
+vyrazitel"nyj
 vyskazyvanie
-strelyat/vystrelit (v +a)
-vyhvatyvat/vyhvatit (+a)
-vuga
-genialnyj
-gidrostantsiya
-glub (f)
-gorevat (i)
-gorizontalnyj
+strelyat"
+vyhvatyvat"
+v"yuga
+genial"nyj
+gidrostanciya
+glub" 
+gorevat" 
+gorizontal"nyj
 gorozhanin
 gostepriimstvo
 gripp
 gruzinskij
-dvourodnyj
-deklaratsiya
+dvoyurodnyj
+deklaraciya
 derzkij
-detalno
-doblest (f)
+detal"no
+doblest" 
 dobrodushnyj
 dobrotnyj
 durno
-dushit (i) (+a)
+dushit" 
 ezhednevnyj
-zhadnost (f)
+zhadnost" 
 zhatva
-zhiznennost (f)
+zhiznennost" 
 zhuk
 zhurnalistika
 zabotlivyj
-zavarivat/zavarit (+a)
-zavoditsya/zavestis
+zavarivat"
+zavodit"sya
 zavisimyj
-glushit/za- (+a)
+glushit"
 zagranichnyj
-gudet/za-
-zadirat/zadrat (+a)
-zaimstvovat/po- (+a)
-zainteresovannost (f) (v +pr)
-zakidyvat/zakinut (+a)
-zakonnost (f)
+gudet"
+zadirat"
+zaimstvovat"
+zainteresovannost" 
+zakidyvat"
+zakonnost" 
 zakonomernyj
 zakuska
-zamerzat/zamyorznut
+zamerzat"
 zapasnyj 
 zapozdalyj
-zaryazhat/zaryadit (+a)
-zastrelivat/zastrelit (+a)
+zaryazhat"
+zastrelivat"
 zastyvshij
 zateya
-zatykat/zatknut (+a)
+zatykat"
 zvyozdnyj
 zvuchanie
-zemelnyj
-zrelost (f)
+zemel"nyj
+zrelost" 
 izmena
 invalid
 inej
-instantsiya
-ispolnitel (m)
+instanciya
+ispolnitel" 
 ispug
-istreblyat/istrebit (+a)
+istreblyat"
 kanun
-kashlyat/kashlyanut
+kashlyat"
 kvadrat
 koleya
 kolpak
 kolyaska
 kom
-konkurentsiya
+konkurenciya
 kontrolyor
 koryto
-kosit/s-
+kosit"
 koshmar
 kratko
 kulisy
-kusat (i) (+a)
+kusat" 
 labirint
 legendarnyj
 lechebnyj
@@ -6707,224 +6707,224 @@ massivnyj
 matros
 mashinka
 medikament
-mel (f)
+mel" 
 mech
 meshanin
 milostivyj
 mnogoobrazie
-moralno
-morgat/morgnut
+moral"no
+morgat"
 moskvich
 mohnatyj
 mrak
-mstit/oto- (+d za +a)
-muchitelnyj
-myslitel (m)
+mstit"
+muchitel"nyj
+myslitel" 
 nabok
-navisat/navisnut
-navyazyvat/navyazat (+a +d)
-nagrazhdat/nagradit (+a)
+navisat"
+navyazyvat"
+nagrazhdat"
 nazhim
 naivno
 nailuchshij
-nakoplyatsya/nakopitsya
-nalitso
-namekat/nameknut (na +a)
-namerevatsya (i) (+inf)
+nakoplyat"sya
+nalico
+namekat"
+namerevat"sya 
 nasekomoe
-naslazhdatsya/nasladitsya (+inst)
+naslazhdat"sya
 naspeh
-naschityvatsya (i)
+naschityvat"sya 
 negr
 negrityanskij
-nedovolstvo (+inst)
-nezachem (+i inf)
+nedovol"stvo 
+nezachem 
 neinteresno
 nejtralitet
 nemoj
 neotlozhnyj
-nereshitelnost (f)
+nereshitel"nost" 
 neslyhannyj
 nesmetnyj
 neuzhto
 novorozhdyonnyj
-obzhigat/obzhech (+a)
+obzhigat"
 obizhenno
-obmenivatsya/obmenyatsya (+inst)
+obmenivat"sya
 oboronnyj
 ogovorka
-odevatsya/odetsya
+odevat"sya
 odnoobraznyj
 odnostoronnij
 ozhivlyonno
 ozornoj 
-ozyabnut (r)
+ozyabnut" 
 okayannyj
-oklikat/okliknut (+a)
-oskorblyat/oskorbit (+a)
+oklikat"
+oskorblyat"
 osmotr
-ostyvat/ostyt
+ostyvat"
 otvlechyonnyj
-otvoryat/otvorit (+a)
-otkidyvat/otkinut (+a)
-otkrovennost (f)
+otvoryat"
+otkidyvat"
+otkrovennost" 
 otliv
-otryv (ot +g)
-ottalkivat/ottolknut (+a)
-oformlyat/oformit (+a)
-palit/s- (+a)
+otryv 
+ottalkivat"
+oformlyat"
+palit"
 parovoj
-pasti (i) (+a)
+pasti 
 pensioner
 payok
-perevozit/perevezti (+a)
-perevyazyvat/perevyazat (+a)
-perehvatyvat/perehvatat (+a)
-perechityvat/perechitat (+a)
-pechatatsya (i)
+perevozit"
+perevyazyvat"
+perehvatyvat"
+perechityvat"
+pechatat"sya 
 pishevoj
-blednet/po-
-boyatsya/po-
+blednet"
+boyat"sya
 poverhnostnyj
-povisat/povisnut
+povisat"
 pogrom
-poddavatsya/poddatsya (+d)
+poddavat"sya
 podlinno
-podkladyvat/podlozhit (+a)
+podkladyvat"
 podryvnoj
-pokryvatsya/pokrytsya (+inst)
-kushat/po-
+pokryvat"sya
+kushat"
 polusharie
-polus
-pomnitsya (i) (+d)
-poodal
-popravlyatsya/popravitsya
-poravnyatsya (r) (s +inst)
-portsiya
-postanovlyat/postanovit
+polyus
+pomnit"sya 
+poodal"
+popravlyat"sya
+poravnyat"sya 
+porciya
+postanovlyat"
 po-staromu
-potihonku 
-potruditsya (p) (+inf)
-hlopat/po-
+potihon"ku 
+potrudit"sya 
+hlopat"
 pochyot
 prazdnovanie
 predannyj
 predvidenie
-predelno
-predelnyj
+predel"no
+predel"nyj
 predposylka
 prezidentskij
 prenebrezhenie
-prepodavat (i) (+a)
-pretendovat (i) (na +a)
+prepodavat" 
+pretendovat" 
 privlechenie
 priliv
-pripodnimatsya/pripodnyatsya
+pripodnimat"sya
 prisvoenie
-pristrastie (k +d)
+pristrastie 
 pritok
-prishivat/prishit (+a k +d)
+prishivat"
 proba
 prodvizhenie
-proklinat/proklyast (+a)
-pronizyvat/pronizat (+a)
+proklinat"
+pronizyvat"
 proniknovenie
 pruzhina
-pult
+pul"t
 pshenichnyj
 pytka
 ravnodushie
-razgoratsya/razgoretsya
+razgorat"sya
 razoblachenie
 raskrytyj
 rasovyj
 raspolozhennyj
-raspredelyat/raspredelit (+a)
-rasslyshat (r)
-rassuzhdat/rassudit (+a)
-rasteryannost (f)
-rashodovat/iz- (+a)
-retsept
+raspredelyat"
+rasslyshat" 
+rassuzhdat"
+rasteryannost" 
+rashodovat"
+recept
 rumyanyj
-rushitsya/ob-
+rushit"sya
 ryhlyj
 svechka
 svirepyj
 svoeobrazie
-svyazyvatsya/svyazatsya (s +inst)
+svyazyvat"sya
 svyatynya
-szhimatsya/szhatsya
+szhimat"sya
 simvol
 simvolicheskij
-sirota (m/f)
+sirota 
 skorbnyj
 skudnyj
 skulastyj
-sledovatel (m)
-sledom (za +inst)
-sluzhenie (+d)
+sledovatel" 
+sledom 
+sluzhenie 
 smotr
-soznatelnost (f)
+soznatel"nost" 
 sozyv
-sopet (i)
-sorevnovatsya (s +inst)
-splochyonnost (f)
-srabatyvat/srabotat
+sopet" 
+sorevnovat"sya 
+splochyonnost" 
+srabatyvat"
 suzhdenie
 suprug
 sushestvenno
-sypat/po- (+a or +inst)
+sypat"
 tabachnyj
-tvorets
-teret/po- (+a)
+tvorec
+teret"
 tolkovanie
-tonkost (f)
-toropit/po- (+a)
+tonkost" 
+toropit"
 trakt
-treshat (i)
-tridtsatyj
-trost (f)
-tunnel (m)
-ugrozhaushij
-ukladyvatsya/ulozhitsya
-ukladyvatsya/ulechsya
+treshat" 
+tridcatyj
+trost" 
+tunnel" 
+ugrozhayushij
+ukladyvat"sya
+ukladyvat"sya
 uklon
 ukradkoj
-ulavlivat/ulovit (+a)
-upuskat/upustit (+a)
+ulavlivat"
+upuskat"
 usik
-uskolzat/uskolznut
-uste
-utochnyat/utochnit (+a)
+uskol"zat"
+ust"e
+utochnyat"
 utrata
-uhazhivat (i) (za +inst)
-uchast (f)
-uutnyj
+uhazhivat" 
+uchast" 
+uyutnyj
 fabrichnyj
 faza
-federatsiya
+federaciya
 hvojnyj
 hmuro
-hudenkij 
-tsentralizovannyj
-tsitata
+huden"kij 
+centralizovannyj
+citata
 chastichnyj
-cheredovatsya (i) (c +inst)
-chertit/na- (+a)
-chislitsya (i)
-chuvstvitelnyj
+cheredovat"sya 
+chertit"
+chislit"sya 
+chuvstvitel"nyj
 chulan
 chuma
 chutochku 
 shvedskij
-shestsot
+shest"sot
 shkatulka
-shlyopat/shlyopnut (+a)
+shlyopat"
 shoroh
 shyotka
-ekonomit/s- (+a)
-etiketka
-urist
+ehkonomit"
+ehtiketka
+yurist
 yavstvenno
 yagoda
 analogiya
@@ -6934,56 +6934,56 @@ bas
 bezgranichno
 bezdomnyj
 bezmerno
-bessonnitsa
+bessonnica
 biblejskij
 blagoslovenie
-vezhlivost (f)
+vezhlivost" 
 bogatyrskij
 bozhestvennyj
 bratishka 
 brevenchatyj
 vena
-burokrat
-varene
-vglub
+byurokrat
+varen"e
+vglub"
 vdaleke
-vdovol
-vdohnovlyat/vdohnovit (+a)
-vedma
+vdovol"
+vdohnovlyat"
+ved"ma
 velikolepie
 venik
 venok
 verhom
-vechnost (f)
-vzyvat/vozzvat (k +d)
+vechnost" 
+vzyvat"
 vishnya
-vkluchatsya/vkluchitsya
-vletat/vletet
-vliyatelnyj
-voditsya (i)
-vozobnovlyat/vozobnovit (+a)
+vklyuchat"sya
+vletat"
+vliyatel"nyj
+vodit"sya 
+vozobnovlyat"
 voinstvennyj
-vopl (m)
+vopl" 
 vorotnichok
-vosproizvodit/vosproizvesti (+a)
-voshishatsya/voshititsya (+inst)
-vspylit (r)
-vshlipyvat/vshlipnut
+vosproizvodit"
+voshishat"sya
+vspylit" 
+vshlipyvat"
 vsyacheskij 
-vtyagivat/vtyanut (+a)
-vyzhimat/vyzhat (+a)
-vysazhivat/vysadit (+a)
-vysypatsya/vyspatsya
+vtyagivat"
+vyzhimat"
+vysazhivat"
+vysypat"sya
 vyyasnenie
-vyazat/s- (+a)
+vyazat"
 garmoniya
 geroizm
 gibkij
 gimn
 gipoteza
-glotat (i) (+a)
+glotat" 
 golenishe
-golodat (i)
+golodat" 
 golosovanie
 grafin
 gromozdkij
@@ -6991,359 +6991,359 @@ gumanitarnyj
 gusha
 darom
 denyok
-detalnyj
-defitsit
-dzhinsy (pl)
+detal"nyj
+deficit
+dzhinsy 
 dobrosovestno
-dokumentatsiya
+dokumentaciya
 dostatok
 dramaticheskij
-druzhit (i) (s +inst)
+druzhit" 
 durachok
 dushnyj
-dymitsya (i)
+dymit"sya 
 dyrka
-zhelaushij
+zhelayushij
 zheltovatyj
 zakonchennyj
-zapechatlevat/zapechatlet (+a)
-zatragivat/zatronut (+a)
-shagat/za-
+zapechatlevat"
+zatragivat"
+shagat"
 zyornyshko
-znachimost (f)
-izgonyat/izgnat (+a)
-izlublennyj
-izmeryatsya/izmeritsya
-rashodovat/izrashodovat (+a)
-illuminator
-illustrirovat (i/p) (+a)
-imenovat/na- (+a)
-inventar (m)
-intellektualnyj
+znachimost" 
+izgonyat"
+izlyublennyj
+izmeryat"sya
+rashodovat"
+illyuminator
+illyustrirovat" 
+imenovat"
+inventar" 
+intellektual"nyj
 iskopaemye
-ispolnennyj (+g)
+ispolnennyj 
 ispravlenie
 isterika
-ischerpyvaushij
-italyanets
+ischerpyvayushij
+ital"yanec
 kanat
 kapitalovlozhenie
-katit/po- (+a)
+katit"
 kievskij
 kipyatok
 klassnyj
 klinika
 koza
-kozyr (m)
+kozyr" 
 kolenka 
-koluchij
+kolyuchij
 komar
 kombinezon
 komod
 konvejer
-konfiskovat (i/p) (+a)
-kontsertnyj
-kontslager (m)
+konfiskovat" 
+koncertnyj
+konclager" 
 konchina
 kooperativnyj
-kopat/kopnut (+a)
+kopat"
 koso
 kostochka
 kotyonok
-krasit/o-
+krasit"
 krasnovatyj
 krah
 kroshka
-kryahtet (i)
+kryahtet" 
 kuzov
-kult
+kul"t
 lajner
 lyogkoe
 lenivo
-lechitsya (i) (ot +g)
+lechit"sya 
 linejka
 londonskij
 loskut
-lubezno
+lyubezno
 makushka
-manevrirovat/s-
-mashinalno
-mashinostroitelnyj
+manevrirovat"
+mashinal"no
+mashinostroitel"nyj
 melko
-melkom
-metit (i)
+mel"kom
+metit" 
 meshanka
 mnogoobraznyj
 molva
 monument
 morshinka
 mramornyj
-muzhitskij
-navalivat/navalit (+a)
+muzhickij
+navalivat"
 navechno
 navoz
 nagluho
-nagrevat/nagret (+a)
-nadvigatsya/nadvinutsya
+nagrevat"
+nadvigat"sya
 nadobno 
-nanimat/nanyat (+a)
-poit/na- (+a)
+nanimat"
+poit"
 naposledok 
-naravne (s +inst)
+naravne 
 naskoro 
-nastezh
+nastezh"
 nauchno
 nedoverchivo
 nezabyvaemyj
 nemyslimyj
-nenormalnyj
+nenormal"nyj
 nepobedimyj
 nepolnyj
 nepreklonnyj
 nepreodolimyj
 neslyshno
 neutomimyj
-nyryat/nyrnut
-obdumyvat/obdumat (+a)
-oberegat/oberech (+a ot +g)
+nyryat"
+obdumyvat"
+oberegat"
 obihod
 oblachnyj
-oblivat/oblit (+a +inst)
+oblivat"
 oblozhka
 obnazhyonnyj
 obobshenie
-obraztsovyj
-obrushivatsya/obrushitsya
+obrazcovyj
+obrushivat"sya
 odnovremennyj
 ozhivlyonnyj
 okrestnyj
 opaska 
 oproverzhenie
 opushennyj
-osvoboditelnyj
+osvoboditel"nyj
 oslozhnenie
-osmyslivat/osmyslit (+a)
+osmyslivat"
 ostavshijsya
 ostroumnyj
 otbor
-otdelyatsya/otdelitsya (ot +g)
-otklikatsya/otkliknutsya (na +a)
-otovsudu
-otritsanie
+otdelyat"sya
+otklikat"sya
+otovsyudu
+otricanie
 oshutimyj
-oshushatsya (i)
+oshushat"sya 
 panorama
 parlamentskij
 parta
 pautina
-pevitsa
-pervonachalno
+pevica
+pervonachal"no
 pereval
 peredelka
 perekryostok
 pereliv
-perenimat/perenyat (+a)
+perenimat"
 peresadka
-peresprashivat/peresprosit (+a)
+peresprashivat"
 periodicheskij
 pirozhok
 plavno
 plavuchij
 plodotvornyj
 povestvovanie
-povinovatsya (i/p) (+d)
-povodit/povesti (+inst)
+povinovat"sya 
+povodit"
 pogranichnyj
-podveshivat/podvesit (+a)
+podveshivat"
 podderzhanie
-podlezhat (i) (+d)
-podozritelnyj
+podlezhat" 
+podozritel"nyj
 podolgu
 po-drugomu
-podruzhitsya (r) (s +inst)
-podskakivat/podskochit
-podstup (k +d)
-podtverzhdatsya/podtverditsya
+podruzhit"sya 
+podskakivat"
+podstup 
+podtverzhdat"sya
 podchas
 poedinok
-pointeresovatsya (r) (+inst)
+pointeresovat"sya 
 polirovannyj
-politburo
+politbyuro
 politicheski
-polozhitelno
+polozhitel"no
 pomeha
-ponedelnik
-pit/po-
+ponedel"nik
+pit"
 porochnyj
-pospevat/pospet (k +d/na +a)
+pospevat"
 posredstvo
-posypatsya (i/p)
+posypat"sya 
 po-tvoemu
-potirat/poteret (+a)
-trevozhit/po- (+a)
-pouchat (i) (+a)
-shadit/po- (+a)
+potirat"
+trevozhit"
+pouchat" 
+shadit"
 pregrada
 predislovie
 predotvrashenie
-predshestvovat (i) (+d)
-prenebregat/prenebrech (+inst)
-preniya (n pl)
+predshestvovat" 
+prenebregat"
+preniya 
 pribrezhnyj
-privivat/privit (+a)
+privivat"
 priz
-prikreplyat/prikrepit (+a k +d)
+prikreplyat"
 primeta
-prisvaivat/prisvoit (+a)
-prismatrivat/prismotret (za +inst)
-pristalnyj
-prisutstvuushij
-priuchat/priuchit (+inf or k +d)
+prisvaivat"
+prismatrivat"
+pristal"nyj
+prisutstvuyushij
+priuchat"
 prichyoska
 prichudlivyj
-propovedovat (i) (+a)
-proryvatsya/prorvatsya
-prorezyvat/prorezat (+a)
-prosvechivat (i)
-proslavlyat/proslavit (+a)
-prostaivat/prostoyat
+propovedovat" 
+proryvat"sya
+prorezyvat"
+prosvechivat" 
+proslavlyat"
+prostaivat"
 prostynya
 protokol
-protsedura
+procedura
 ptichka
-puls
+pul"s
 puskaj
-pustyr (m)
-pylat (i)
-radikalnyj
+pustyr" 
+pylat" 
+radikal"nyj
 raduzhnyj
 razbeg
 razboj
 razbojnichij
-razvoditsya/razvestis
+razvodit"sya
 razdrazhyonno
-razletatsya/razletetsya
-razmeshatsya/razmestitsya
-raznovidnost (f)
-razryvatsya/razorvatsya
-razoryatsya/razoritsya
-razreshatsya (i)
+razletat"sya
+razmeshat"sya
+raznovidnost" 
+razryvat"sya
+razoryat"sya
+razreshat"sya 
 rasa
-raskaivatsya/raskayatsya (v +pr)
-raskidyvat/raskinut (+a)
-raspravlyatsya/raspravitsya (s +inst)
-rastsvetat/rastsvesti
+raskaivat"sya
+raskidyvat"
+raspravlyat"sya
+rascvetat"
 realizm
 regulyarno
 regulyarnyj
-remontirovat (i/p) (+a)
+remontirovat" 
 rzhavyj
-robet/o-
+robet"
 rozygrysh
 rokovoj
 roskoshnyj
 roslyj
-rytsya/po- (v +pr)
+ryt"sya
 samootverzhennyj
 sanitarnyj
 sedina
 sekretnyj
-sektsiya
-semsot
+sekciya
+sem"sot
 sessiya
-sklonyat/sklonit (+a)
+sklonyat"
 sliyanie
 slozhno
-meshat/s- (+a)
-smeshivatsya/smeshatsya
+meshat"
+smeshivat"sya
 smola
 smushyonnyj
 sobrannyj
 sovpadenie
-somnitelnyj
-sosredotochivatsya/sosredotochitsya (na +pr)
-spasitelnyj
+somnitel"nyj
+sosredotochivat"sya
+spasitel"nyj
 spirt
 splochyonnyj
-staven (m)
-temnet/s-
-stirat/steret (+a)
-stalkivat/stolknut (+a)
+staven" 
+temnet"
+stirat"
+stalkivat"
 ston
 stop
-suetitsya/za-
+suetit"sya
 sukonnyj
-schastlivets
-schyoty (pl)
+schastlivec
+schyoty 
 tarakan
 tahta
 telegrafnyj
 terpelivyj
 testo
 tolchok
-toptatsya (i)
-torgovets
+toptat"sya 
+torgovec
 tosklivo
 tosklivyj
-trebovatelnyj
+trebovatel"nyj
 trenirovka
-tret (f)
-trogatsya/tronutsya
+tret" 
+trogat"sya
 truslivyj
-tryapyo
-tryahnut (p)
+tryap"yo
+tryahnut" 
 tss
 tumba
 tuchka
-ugnetat (i) (+a)
+ugnetat" 
 udochka
 ukoriznenno
 umestno
 umysel
-unizhat/unizit (+a)
-unichtozhatsya/unichtozhitsya
+unizhat"
+unichtozhat"sya
 upravlyaemyj
-upravlyatsya (i)
+upravlyat"sya 
 usilenno
 usilennyj
-uhitryatsya/uhitritsya (+inf)
-uut
-uutno
-uyasnyat/uyasnit (+a)
-falshivyj
+uhitryat"sya
+uyut
+uyutno
+uyasnyat"
+fal"shivyj
 farfor
 fasad
-harakterizovatsya (i) (+inst)
-hlebnut (r) 
-hlopotat/po-
+harakterizovat"sya 
+hlebnut" 
+hlopotat"
 holodok 
-horoshenko 
-hripet (i)
+horoshen"ko 
+hripet" 
 hristianskij
-hromat (i)
+hromat" 
 hromoj
 hudshij
-tsvetushij
-tselesoobraznost (f)
-chelovechnost (f)
-chernet/po-
+cvetushij
+celesoobraznost" 
+chelovechnost" 
+chernet"
 chyortov
 chudovishe
 chuzhbina
 shahtyor
 sherenga
-shestnadtsatyj
+shestnadcatyj
 shtora
-shurshat (i)
-avanturist
-aviatsionnyj
-agitirovat (i)
+shurshat" 
+avantyurist
+aviacionnyj
+agitirovat" 
 akt
 ali 
 argument
 astronomiya
 bazis
-balovatsya (i)
+balovat"sya 
 bar
 barhatnyj
 spirtnoj
@@ -7352,9 +7352,9 @@ bedno
 bezvestnyj
 bezgramotnyj
 bezdelushka
-bezdelnik
+bezdel"nik
 bezdonnyj
-berezhlivost (f)
+berezhlivost" 
 beryot
 besplatno
 besprepyatstvennyj
@@ -7362,129 +7362,129 @@ besstrashno
 beshenstvo
 biolog
 birzha
-snosit/snesti (+a)
+snosit"
 blank
-blizitsya/pri-
+blizit"sya
 blizorukij
-bluzhdat (i)
+bluzhdat" 
 bogato
-boepripasy (pl)
+boepripasy 
 bojnya
-boyazno  (+d) (+inf)
-bresh (f)
+boyazno  
+bresh" 
 bulyzhnik
-burkat/burknut
-valuta
+burkat"
+valyuta
 vatnyj
-vvys
+vvys"
 vdogonku 
 venskij
-veritsya (i) (+d)
+verit"sya 
 versiya
 vestnik
-ustarevat/ustaret
-vzryvatsya/vzorvatsya
+ustarevat"
+vzryvat"sya
 vzyatie
 vzyatka
-vinit/ob- (+a v +pr)
+vinit"
 vkusno
-tonut/u-
+tonut"
 vlastno
 vlastnyj
-vlech (r) (+a)
-vodorosl (f)
-vozbuzhdaushij
+vlech" 
+vodorosl" 
+vozbuzhdayushij
 vozbuzhdyonno
-vozdvigat/vozdvignut (+a)
-vozdejstvovat (i/p) (na +a)
-vozmushat/vozmutit (+a)
-vooruzhatsya/vooruzhitsya
-vosemnadtsatyj
-voskresat/voskresnut
-vospityvatsya/vospitatsya
+vozdvigat"
+vozdejstvovat" 
+vozmushat"
+vooruzhat"sya
+vosemnadcatyj
+voskresat"
+vospityvat"sya
 vrazhda
 vrazhdebno
 predvybornyj
-vroz
+vroz"
 vsenoshnaya
 vserossijskij
 vybornyj
-vybyvat/vybyt (iz +g)
-vygovarivat/vygovorit (+a)
-vyzhivat/vyzhit
-vykidyvat/vykinut (+a)
-vymetat/vymesti (+a)
+vybyvat"
+vygovarivat"
+vyzhivat"
+vykidyvat"
+vymetat"
 vyplata
-vypolnyatsya (i)
+vypolnyat"sya 
 vypuklyj
-vyshvyrivat/vyshvyrnut (+a)
-gavan (f)
+vyshvyrivat"
+gavan" 
 gerb
 gerojstvo
 gimnastika
 golubchik 
 gonorar
-gonyatsya (i) (za +inst)
-goryachitsya/raz-
+gonyat"sya 
+goryachit"sya
 grazhdanka
-gretsya/po-
+gret"sya
 gulko
-gulyane
-devyatnadtsatyj
-delets
-derzost (f)
+gulyan"e
+devyatnadcatyj
+delec
+derzost" 
 dobrota
 doistoricheskij
-dokumentalnyj
+dokumental"nyj
 domna
 dosadno
-dostovernost (f)
-drat/so- (+a)
+dostovernost" 
+drat"
 dubovyj
-durit (i) 
+durit" 
 dymnyj
 dymchatyj
-dyakon
-dyadka (m) 
-el (f)
-yomkost (f)
+d"yakon
+dyad"ka 
+el" 
+yomkost" 
 zhguchij
-zhelatelno
+zhelatel"no
 zherlo
 zhyornov
 zhizneradostnyj
 zabvenie
 zabotlivo
-zabresti (r)
+zabresti 
 zagar
-zagibat/zagnut (+a)
-zagorazhivat/zagorodit (+a)
+zagibat"
+zagorazhivat"
 zagruzka
 zaderzhka
-zazvenet (r)
-zaladit (r) (+a)
-zaletat/zaletet (v +a) 
-zalivatsya/zalitsya
-maskirovat/za- (+a)
+zazvenet" 
+zaladit" 
+zaletat"
+zalivat"sya
+maskirovat"
 zapadnya
 zaraza
-zarazhat/zarazit (+a +inst)
-rezat/za- (+a)
-zaslonyat/zaslonit (+a)
-obnadyozhivat/obnadyozhit (+a)
-zatvoryat/zatvorit (+a)
-zaterivatsya/zateryatsya
-zahlopyvat/zahlopnut (+a)
-zashishatsya/zashititsya
-zevat/zevnut
-zemledelcheskij
+zarazhat"
+rezat"
+zaslonyat"
+obnadyozhivat"
+zatvoryat"
+zaterivat"sya
+zahlopyvat"
+zashishat"sya
+zevat"
+zemledel"cheskij
 zlodej
 zorko
-zyat (m)
+zyat" 
 idealizm
-izdavatsya/izdatsya
+izdavat"sya
 izdavna
-izdatelskij
+izdatel"skij
 izumlyonno
 burzhuaziya
 klassovyj
@@ -7495,57 +7495,57 @@ pyatiletka
 chajka
 kislota
 konsul
-avstrjets
+avstrjec
 avstrijskij
 okorok
 major
-vsesouznyj
+vsesoyuznyj
 uglerod
-upravlyaushij (+inst)
-kolonialnyj
-krasnoarmyoets
+upravlyayushij 
+kolonial"nyj
+krasnoarmyoec
 sharf
 volosok
-spetsializirovannyj
-ekspert
+specializirovannyj
+ehkspert
 arab
-bezhenets
+bezhenec
 vahta
 trest
 hokkeist
 vsadnik
-vychislitelnyj
+vychislitel"nyj
 gips
-obshatsya (i) (s +inst)
+obshat"sya 
 zagotovka
 monarhiya
-nravstvennost (f)
-dlitelnost (f)
-mishen (f)
-zarplata (zarabotnaya plata)
+nravstvennost" 
+dlitel"nost" 
+mishen" 
+zarplata 
 trassa
 kazachij
 kuharka
-obligatsiya
-vals
+obligaciya
+val"s
 kormovoj
 astronom
 vozzrenie
 kodeks
-efir
+ehfir
 zola
-kitel (m)
-kontsentratsiya
-obozhdat (r) (+a)
-prevoshoditelstvo
+kitel" 
+koncentraciya
+obozhdat" 
+prevoshoditel"stvo
 burzhuj 
 idejnyj
-elektronnyj
+ehlektronnyj
 buksir
 lakej
 propusk
 osadok
-rastitelnyj
+rastitel"nyj
 yachejka
 artillerist
 sosushestvovanie
@@ -7554,20 +7554,20 @@ poruchik
 gornichnaya
 terrasa
 vselyonnaya
-luk
+lyuk
 skeptik
 svetyashijsya
-hrustal (m)
+hrustal" 
 plug
 chastushka
 shirma
-souznyj
+soyuznyj
 spekulyant
 trener
 brusok
 granit
 krolik
-monumentalnyj
+monumental"nyj
 vodorod
 ochko
 rudnik
@@ -7578,13 +7578,13 @@ respublikanskij
 krater
 atmosfernyj
 svetovoj
-stanitsa
+stanica
 ruda
 babka 
-kanadets
+kanadec
 kukuruza
 liricheskij
-nary (pl)
+nary 
 nauchno-tehnicheskij
 sernyj
 flang
@@ -7592,9 +7592,9 @@ shestyorka
 shef
 brus
 egipetskij
-izluchat/izluchit (+a)
+izluchat"
 kommunisticheskij
-kontrrevolutsiya
+kontrrevolyuciya
 kotlovan
 linza
 oboz
@@ -7611,15 +7611,15 @@ pokuda
 sochnyj
 susha
 agitator
-alpijskij
-batya (m) 
-bolshevistskij
-stabilnost (f)
+al"pijskij
+batya 
+bol"shevistskij
+stabil"nost" 
 gimnazist
 izumrud
 proektirovanie
-urozhajnost (f)
-fizkultura
+urozhajnost" 
+fizkul"tura
 ustnyj
 vyemka
 garmoshka 
@@ -7629,27 +7629,27 @@ karavan
 krona
 mehanika
 nakidka
-otstavlyat/otstavit (+a)
-pavilon
-patrul (m)
+otstavlyat"
+pavil"on
+patrul" 
 portovyj
-prositsya/po- (+inf or v/na +a)
-skulptor
-upiratsya/uperetsya (v +a)
+prosit"sya
+skul"ptor
+upirat"sya
 upolnomochennyj
 shajba
 shtatskij
 shtyk
-albom
-Бogoroditsa
+al"bom
+Бogorodica
 valovoj
 gol
 gruzchik
 dvustoronnij
-devalvatsiya
+deval"vaciya
 desyatina
 kozyryok
-subektivnyj
+sub'ektivnyj
 vozhzha
 gamma
 karniz
@@ -7665,68 +7665,68 @@ rakovina
 semechko
 sera
 smetana
-suzhdeno (+d +inf)
+suzhdeno 
 vvod
 vneshnepoliticheskij
-vreditel (m)
-dotatsiya
+vreditel" 
+dotaciya
 zhiletka
 zabolevanie
 zakalka
-zalezh (f)
+zalezh" 
 zernovoj
-izgotovlyatsya/izgotovitsya
-inspektsiya
-kollektivizatsiya
+izgotovlyat"sya
+inspekciya
+kollektivizaciya
 konstruktorskij
-kooperatsiya
+kooperaciya
 lesnichij
 lishenie
-proizvoditel (m)
+proizvoditel" 
 fenomen
 radist
 uprochenie
 uran
 ham 
-hrustalnyj
+hrustal"nyj
 alkogolik
-chrevatyj (+inst)
+chrevatyj 
 geografiya
 dushevno
-izvest (f)
-konushnya
+izvest" 
+konyushnya
 krupa
 lyagushka
 metallurgiya
 mys
-obsledovat (i/p) (+a)
+obsledovat" 
 otrez
 peremirie
 plot
-predusmatrivatsya (i)
+predusmatrivat"sya 
 prinuzhdenie
 prirost
-razgadyvat/razgadat (+a)
-rastvoryat/rastvorit (+a)
+razgadyvat"
+rastvoryat"
 reaktivnyj
-rys (f)
-rukzak
+rys" 
+ryukzak
 svyazist
 sinteticheskij
 sostradanie
 start
-sushit/vy- (+a)
+sushit"
 dekada
-zavoevatel (m)
+zavoevatel" 
 katushka
-kitaets
+kitaec
 komendatura
 kotleta
 matematicheskij
 mikrofon
 obostrenie
 pirat
-plavki (pl)
+plavki 
 povarennyj
 prestarelyj
 purga
@@ -7734,13 +7734,13 @@ reportyor
 svinstvo 
 sekretarsha 
 tayozhnyj
-ubezhdyonnost (f)
+ubezhdyonnost" 
 shotlandskij
 shpaga
 shtabnoj
 shepa
-evolutsiya
-ekvator
+ehvolyuciya
+ehkvator
 yagnyonok
 avstralijskij
 antisemitizm
@@ -7749,59 +7749,59 @@ bulavka
 vataga
 vozzvanie
 vsemernyj
-debut
+debyut
 estestvoznanie
 miloserdie
-karusel (f)
-konditsioner
+karusel" 
+kondicioner
 hozraschyot
-chutyo
+chut"yo
 nakalyonnyj
 novator
-optimalnyj
+optimal"nyj
 ostov
 otsek
-prishurivatsya/prishuritsya
+prishurivat"sya
 probeg
-proslezitsya (r)
+proslezit"sya 
 skula
 raketnyj
-rezba
+rez"ba
 rodovoj
-sotsial-demokraticheskij
+social-demokraticheskij
 tualet
 futbolist
 chemodanchik
 shovinizm
-shory (pl)
+shory 
 avans
 ateisticheskij
 babushkin
 gipsovyj
-eres (f)
+eres" 
 zastenok
 kefir
-izveshat/izvestit (+a)
+izveshat"
 kalach
 klichka
-kolokolchik
-kompozitsiya
+kolokol"chik
+kompoziciya
 kontur
-koordinatsiya
+koordinaciya
 kochka
 kubik
 kura 
 kustarnik
 lednikovyj
-lepit/vy- (+a)
+lepit"
 lirika
-medlit (i)
-milenkij
+medlit" 
+milen"kij
 mozaika
-nagrevatsya/nagretsya
+nagrevat"sya
 obnovlenie
-poznavat/poznat (+a)
-priostanavlivatsya/priostanovitsya
+poznavat"
+priostanavlivat"sya
 raspisanie
 sazha
 svetilo
@@ -7812,13 +7812,13 @@ tusha
 upryazhka
 utopicheskij
 hodovoj
-chuvstvitelnost (f)
+chuvstvitel"nost" 
 chudnyj
 fara
-shluz
+shlyuz
 shov
 shram
-emigrant
+ehmigrant
 azot
 aristokrat
 bes
@@ -7826,28 +7826,28 @@ besedka
 blagoustrojstvo
 bolotnyj
 broshka
-varirovat (i) (+a)
-vetvitsya/raz-
-vish
+var"irovat" 
+vetvit"sya
+vish"
 vodoprovod
-vozbuzhdatsya/vozbuditsya
+vozbuzhdat"sya
 voskovoj
-vostorgatsya (i) (+inst)
+vostorgat"sya 
 kinoteatr
-dostup (k +d)
-obekt
+dostup 
+ob'ekt
 gubernator
 dvoryanstvo
-divitsya/po- (+d)
+divit"sya
 diktator
 zhyolob
 voenno-morskoj
 zhilka
-izmelchyonnyj
+izmel"chyonnyj
 isparenie
 kater
-tekstilnyj
-tuk
+tekstil"nyj
+tyuk
 otval
 istechenie
 kerosinovyj
@@ -7860,22 +7860,22 @@ maksimum
 mashinistka
 obshenarodnyj
 original
-orientatsiya
-osypat (i/p) (+a +inst)
+orientaciya
+osypat" 
 pyoryshko 
 peshij
 piterskij 
 pobedonosnyj
-karat/po- (+a)
+karat"
 polkovoj
 pripiska
-promezh (+g or +inst)
-rezets
-reproduktsiya
-risovatsya (i)
+promezh 
+rezec
+reprodukciya
+risovat"sya 
 rukoyatka
 serp
-siren (f)
+siren" 
 sobachonka 
 soprikosnovenie
 splav
@@ -7885,63 +7885,63 @@ strujka
 syr
 termometr
 transportirovka
-trum
-ugode
-utselevshij
-uchastnitsa
+tryum
+ugod"e
+ucelevshij
+uchastnica
 imenie
 instinkt
 intensivnyj
 ispanskij
 izvozchik
-issledovatelskij
+issledovatel"skij
 kavkazskij
 kazarma
 kapkan
-karerist
-kastrulya
-kashel (m)
+kar"erist
+kastryulya
+kashel" 
 kinzhal
 kishka
 klinok
 kloun
 klubok
-kobel (m)
+kobel" 
 koe-kakoj
 kommercheskij
-kollektsioner
-kolodets
-kolotit/po- (+a)
-koluchka
+kollekcioner
+kolodec
+kolotit"
+kolyuchka
 komplekt
 konvoj
-konki (m pl)
-konyak
-koordinirovat (i/p) (+a)
-koposhitsya (i)
+kon"ki 
+kon"yak
+koordinirovat" 
+koposhit"sya 
 kopchyonyj
-kopyo
+kop"yo
 korolyovskij
-kommunalnyj
+kommunal"nyj
 kosmonavt
 krab
-krastsya (i)
+krast"sya 
 krotkij
 krugozor
-kruzhit (i) (+a)
+kruzhit" 
 krymskij
 kudryavyj
-kursy (m pl)
+kursy 
 lavina
 lampada
 landshaft
 legkomyslie
-letopis (f)
+letopis" 
 lovlya
 lozhnyj
 lupa
-lulka
-magistral (f)
+lyul"ka
+magistral" 
 magnit
 mamin
 martovskij
@@ -7950,21 +7950,21 @@ mah
 mayatnik
 mgnovennyj
 medik
-medlitelnyj
-mest (f)
-metat/metnut (+a)
+medlitel"nyj
+mest" 
+metat"
 metko
-mehanizirovat (i/p) (+a)
+mehanizirovat" 
 mirazh
 mif
 mnogovekovoj
-mobilizatsiya
+mobilizaciya
 morshina
 moh
 muravej
-mut (f)
+mut" 
 myslennyj
-mychat (i)
+mychat" 
 nabat
 naveki
 naglyj
@@ -7972,26 +7972,26 @@ nadstrojka
 nayomnik
 nalichnyj
 napryamik 
-nasazhivat/nasadit (+a na +a)
+nasazhivat"
 naselyonnyj
-nasilno
-nasmert
-nastorazhivatsya/nastorozhitsya
-nasyshat/nasytit (+a +inst)
+nasil"no
+nasmert"
+nastorazhivat"sya
+nasyshat"
 nasyshennyj
 nate 
-natyagivat/natyanut (+a)
+natyagivat"
 neblagopriyatnyj
 nevesyolyj
-nevest 
+nevest" 
 nevzrachnyj
-negramotnost (f)
+negramotnost" 
 nezamenimyj
 neminuemo
 neobozrimyj
 neobychno
 neostorozhnyj
-neotemlemyj
+neot'emlemyj
 nepopravimyj
 nepremennyj
 neprilichno
@@ -8005,42 +8005,42 @@ nepriemlemyj
 notka
 nudnyj
 obizhennyj
-obitat (i)
-obkladyvat/oblozhit (+a)
-oblagat/oblozhit (+a)
-obnimatsya/obnyatsya
-obogashatsya/obogatitsya
-obogashat/obogatit (+a)
-oboi (pl)
-oboronyatsya/oboronitsya (ot +g)
+obitat" 
+obkladyvat"
+oblagat"
+obnimat"sya
+obogashat"sya
+obogashat"
+oboi 
+oboronyat"sya
 obrechyonnyj
-obronit (r) (+a)
-obstoyatelnyj
+obronit" 
+obstoyatel"nyj
 obstrel
-obuchat/obuchit (+a +d)
+obuchat"
 obydennyj
-okidyvat/okinut (vzglyadom)
-okkupatsionnyj
-okovy (pl)
-operezhat/operedit (+a)
-opravlyatsya/opravitsya
-organizovannost (f)
-organizovyvat/organizovat (+a)
+okidyvat"
+okkupacionnyj
+okovy 
+operezhat"
+opravlyat"sya
+organizovannost" 
+organizovyvat"
 orudijnyj
 osvobozhdyonnyj
-osenu
-oskorbitelnyj
-slabet/o-
-oslepitelnyj
-osnashat/osnastit (+a +inst)
-osoznavat/osoznat (+a)
-ostalnoe
-strich/o- (+a)
+osen"yu
+oskorbitel"nyj
+slabet"
+oslepitel"nyj
+osnashat"
+osoznavat"
+ostal"noe
+strich"
 ostrovok
 otboj
-otbyvat/otbyt (+a)
+otbyvat"
 otvaga
-otvalivat/otvalit (+a)
+otvalivat"
 otvesnyj
 otklik
 otryvok
@@ -8048,115 +8048,115 @@ oshibochnyj
 panihida
 parom
 passivnyj
-pevets
-pepelnitsa
-perebrasyvat/perebrosit (+a cherez +a)
-peredumyvat/peredumat
-perekryvat/perekryt (+a)
+pevec
+pepel"nica
+perebrasyvat"
+peredumyvat"
+perekryvat"
 perelyot
-perenositsya/perenestis
-pereodevatsya/pereodetsya
-perepletatsya/pereplestis
+perenosit"sya
+pereodevat"sya
+perepletat"sya
 pererabotka
-perestupat/perestupit (+a or cherez +a)
+perestupat"
 persidskij
 personal
-pilit (i) (+a)
+pilit" 
 plasticheskij
-plenitelnyj
-plotnost (f)
-pobaivatsya (i) (+g)
-gruzitsya/po-
+plenitel"nyj
+plotnost" 
+pobaivat"sya 
+gruzit"sya
 pogruzka
-podavlyat (i) (+a)
-podpirat/podperet (+a)
-podstavlyat/podstavit (+a pod +a)
-podtalkivat/podtolknut (+a)
+podavlyat" 
+podpirat"
+podstavlyat"
+podtalkivat"
 podtyanutyj
-zhertvovat/po- (+a) 
+zhertvovat"
 pokryvalo
-polovitsa
+polovica
 poluchka 
 polyj
-mahat/po- (+inst)
-medlit/po-
-mereshitsya/po-
+mahat"
+medlit"
+mereshit"sya
 pomyot
 pometka
 poprishe
 poputno
 poputnyj
-radovat/po- (+a)
-radovatsya/po- (+d)
+radovat"
+radovat"sya
 porazhyonnyj
 poryvisto
-postigat/postich (+a)
+postigat"
 potemnevshij
-tolkovat/po- (o +pr s +inst)
+tolkovat"
 potomstvennyj
 potryasyonnyj
-pohorony (pl)
+pohorony 
 po-chelovecheski
 pochyom 
-pochtalon
+pochtal"on
 pochtenie
 predok
 predskazanie
-premera
-prepyatstvovat (i) (+d)
-priglyadyvatsya/priglyadetsya (k +d)
+prem"era
+prepyatstvovat" 
+priglyadyvat"sya
 prigorod
 priyomnyj
 prizemistyj
-prikryvatsya/prikrytsya (+inst)
-primenitelno (k +d)
-primykat (i) (k +d)
+prikryvat"sya
+primenitel"no 
+primykat" 
 pripodnyatyj
-prihvatyvat/prihvatit (+a)
-prichinyat/prichinit (+a)
-budit/pro- (+a)
-probyt (r)
-progolodatsya (r)
-prodvigatsya/prodvinutsya
-prodovolstvennyj
-produktivnost (f)
+prihvatyvat"
+prichinyat"
+budit"
+probyt" 
+progolodat"sya 
+prodvigat"sya
+prodovol"stvennyj
+produktivnost" 
 proezd
 prozvishe
-prestupnost (f)
+prestupnost" 
 prokat
 proklyatie
-prolezat/prolezt (v +a)
-promenivat/promenyat (+a na +a)
+prolezat"
+promenivat"
 promysel
-pronzitelnyj
-polnotsennyj
+pronzitel"nyj
+polnocennyj
 prosvet
-prostitelno
-protivopostavlyat/protivopostavit (+a +d)
+prostitel"no
+protivopostavlyat"
 protyazhno
-publikatsiya
+publikaciya
 pusk
 pyatyorka
 razvitoj
-razgovoritsya (p)
-razevat/razinut (+a)
-razogrevat/razogret (+a)
-razrastatsya/razrastis
-razrezat (i/p) (+a)
-razuznavat/razuznat (+a)
-razezd
-razyasnenie
-rasproshatsya (p) (s +inst)
+razgovorit"sya 
+razevat"
+razogrevat"
+razrastat"sya
+razrezat" 
+razuznavat"
+raz'ezd
+raz'yasnenie
+rasproshat"sya 
 rasstroennyj
-rashazhivat (i)
-rvanut (r) (+a)
-rekonstruirovat (i/p) (+a)
-relef
+rashazhivat" 
+rvanut" 
+rekonstruirovat" 
+rel"ef
 repressiya
-roditelskij
+roditel"skij
 rodnik
 romantika
-reagirovat/ot- (na +a)
+reagirovat"
 rubinovyj
 rubrika
 rukopozhatie
@@ -8167,49 +8167,49 @@ samogon
 samoubijstvo
 saharnyj
 svyokla
-svergat/svergnut (+a)
-svetat (i)
+svergat"
+svetat" 
 svetskij
-svojstvenno (+d)
+svojstvenno 
 sgoranie
 sgoryacha
 sdvinutyj
-sderzhivatsya/sderzhatsya
+sderzhivat"sya
 sviter
 sektor
-seryoznost (f)
+ser"yoznost" 
 sibiryak
 sito
 skvoznoj
 sklyanka
 skovorodka
-skoplyatsya/skopitsya
+skoplyat"sya
 skorogovorka
-slavitsya (i) (+inst)
+slavit"sya 
 slavyanskij
 slozhenie
-smyvat/smyt (+a)
-snimatsya/snyatsya
+smyvat"
+snimat"sya
 sobachka
-sobludatsya (i)
-soprikasatsya (i) (s +inst)
+soblyudat"sya 
+soprikasat"sya 
 sornyak
-sotsial-demokrat
-sochetat (i/p) (+a s +inst)
+social-demokrat
+sochetat" 
 spad
-spekulyatsiya
+spekulyaciya
 speshno
 speshnyj
-staratelno
+staratel"no
 staya
-sterzhen (m)
+sterzhen" 
 stirka
 strategiya
 stropilo
 suevernyj
 suhoputnyj
 sushij 
-surtuk
+syurtuk
 tablichka
 takticheskij
 tankovyj
@@ -8219,56 +8219,56 @@ tvorcheski
 telyonok
 tolkom 
 teoreticheski
-terzat (i) (+a)
+terzat" 
 tesnota
 tehnikum
 tigr
-tomitelnyj
+tomitel"nyj
 tonko
 tort
 tramplin
-trevozhitsya/vs-
-treugolnik
-trinadtsat
-tshatelnyj
-ubiratsya/ubratsya
+trevozhit"sya
+treugol"nik
+trinadcat"
+tshatel"nyj
+ubirat"sya
 ugovor
 ukazanie
 udalenie
-udirat/udrat
-ukazyvatsya/ukazatsya
+udirat"
+ukazyvat"sya
 uklonchivo
 ukor
-ukutyvat/ukutat (+a)
-uluchshatsya/uluchshitsya
+ukutyvat"
+uluchshat"sya
 umelyj
-umnozhat/umnozhit (+a)
+umnozhat"
 unynie
 uporstvo
-upravlyatsya/upravitsya (s +inst)
+upravlyat"sya
 uregulirovanie
 usatyj
-uslovlivatsya/uslovitsya (c +inst o +pr/inf)
+uslovlivat"sya
 uslovno
-uslyhat (r) (+a)
-usmatrivat/usmotret (+a v +pr)
-uhvatyvat/uhvatit (+a)
+uslyhat" 
+usmatrivat"
+uhvatyvat"
 fakel
 fakticheskij
 fermer
 fizicheski
 flejta
-formirovat/s- (+a)
+formirovat"
 hizhina
-hihikat/hihiknut
+hihikat"
 hladnokrovnyj
-hrabrost (f)
+hrabrost" 
 hriplo
 hriplyj
-tsaritsa
-chastenko 
+carica
+chasten"ko 
 chastichno
-cherv (m)
+cherv" 
 chernomorskij
 chudno
 chutkij
@@ -8279,24 +8279,24 @@ shkafchik
 shossejnyj
 shyolka
 shit
-ekonomno
-energetika
-estrada
-etika
+ehkonomno
+ehnergetika
+ehstrada
+ehtika
 yantarnyj
-yantar (m)
+yantar" 
 ad
 akkord
-aktivizatsiya
-altar (m)
+aktivizaciya
+altar" 
 antenna
-apelsin
+apel"sin
 apostol
 armejskij
 assignovanie
 baran
 bayan
-bezgramotnost (f)
+bezgramotnost" 
 bezdna
 bezdushnyj
 bezzavetno
@@ -8304,8 +8304,8 @@ bezmolvno
 beznakazanno
 bezoshibochno
 bezuspeshno
-belila (pl)
-berechsya (i)
+belila 
+berech"sya 
 bessledno
 besstydno
 biznesmen
@@ -8313,264 +8313,264 @@ blagopoluchnyj
 blazhenstvo
 dopustimyj
 blindazh
-bludechko
+blyudechko
 bogach
 bodro
 bojko
-bombit/raz- (+a)
+bombit"
 braslet
 brozhenie
-bronya (bron)
+bronya 
 bronya
 brosok
 budka
-bukvalnyj
+bukval"nyj
 buterbrod
 buhgalter
-burokraticheskij
-burokratiya
+byurokraticheskij
+byurokratiya
 vdrebezgi
-venets
-veselit/raz- (+a)
+venec
+veselit"
 vesomyj
-veshitsa
+veshica
 vzaimovygodnyj
 vzyskanie
 vinogradnik
 vint
 dolgosrochnyj
-vitse-prezident
+vice-prezident
 vlevo
-vnushitelno
-vovlekat/vovlech (+a v +a)
+vnushitel"no
+vovlekat"
 vodopad
 voedino
 voenshina
 vozhak
 vozvyshennyj
 vol
-vopiushij
+vopiyushij
 vorovstvo
 vorona
 vorchlivo
-vosemsot
-vseobemlushij
-vulgarnyj
+vosem"sot
+vseob'emlyushij
+vul"garnyj
 vhodnoj
-vygruzhat/vygruzit (+a)
-vydavatsya/vydatsya
+vygruzhat"
+vydavat"sya
 vydacha
-vydvigatsya/vydvinutsya
-vyzhidatelno
-vyzhidatelnyj
-vyzhidat/vyzhdat (+a)
-vyzdoravlivat/vyzdorovet
-vynyrivat/vynyrnut
-vysovyvat/vysunut (+a)
+vydvigat"sya
+vyzhidatel"no
+vyzhidatel"nyj
+vyzhidat"
+vyzdoravlivat"
+vynyrivat"
+vysovyvat"
 vysokokachestvennyj
 gerojskij
 glinistyj
 glotok
-gnut/so- (+a)
+gnut"
 godnyj
 gollandskij
 gololyod
 gorlyshko
-gorchitsa
-grozitsya/po- (+inf)
-grohotat/za-
+gorchica
+grozit"sya
+grohotat"
 gryada
 gryadka
-gubitelnyj
+gubitel"nyj
 devstvennyj
-dezhurit (i)
+dezhurit" 
 detvora 
 deyanie 
 dobrodushno
-dobyvatsya/dobytsya
-doveritelno
-doveritsya (p) (+d)
+dobyvat"sya
+doveritel"no
+doverit"sya 
 doverchivyj
 dozhdik
 dokladchik
 doktrina
 donesenie
 dostovernyj
-dohnut/po-
-dyshat/dohnut
+dohnut"
+dyshat"
 doshechka
 doyarka
-drozh (f)
+drozh" 
 dubina
 duga
 dudka
 dymovoj
 dyryavyj
-dyavolski
+d"yavol"ski
 edinodushno
 zhalobnyj
 zhivuchij
-zhivyom 
+zhiv"yom 
 zhitie
-bormotat/za- (+a)
-zabrasyvat/zabrosit (+a)
-zavershatsya/zavershitsya
-zaveshat (i/p) (+a +d)
+bormotat"
+zabrasyvat"
+zavershat"sya
+zaveshat" 
 zagadochno
-glohnut/za-
-zagonyat (r) (+a)
+glohnut"
+zagonyat" 
 zagrobnyj
 zad
 zadolgo
-zazhigatsya/zazhechsya
-zhmuritsya/za-
-zainteresovannyj (v +pr)
-kipet/za-
+zazhigat"sya
+zhmurit"sya
+zainteresovannyj 
+kipet"
 zakladka
-zamatyvat/zamotat (+a)
-nochevat/za-
+zamatyvat"
+nochevat"
 zaokeanskij
-zapasatsya/zapastis
-zapodazrivat/zapodozrit (+a v +pr)
-zapazdyvat/zapozdat (s +inst)
+zapasat"sya
+zapodazrivat"
+zapazdyvat"
 zapret
-zapryagat/zapryach (+a)
-zaputyvatsya/zaputatsya
+zapryagat"
+zaputyvat"sya
 zarosshij
-zasazhivatsya/zasest
+zasazhivat"sya
 zastenchivyj
-zataivat/zatait (+a)
-zatrudnyat/zatrudnit (+a)
+zataivat"
+zatrudnyat"
 zatyazhka
-zaulybatsya (r)
+zaulybat"sya 
 zauryadnyj
-zelenet/po-
-konstatirovat (i/p)
-znamenitost (f)
+zelenet"
+konstatirovat" 
+znamenitost" 
 znoj
 zrelyj
-zret/so-
+zret"
 importnyj
 idilliya
 idol
-izbivat/izbit (+a)
+izbivat"
 izlishne
-illustratsiya
-imeniny (pl)
-inertsiya
-inostranets
+illyustraciya
+imeniny 
+inerciya
+inostranec
 ironicheskij
 iskanie
 ispytannyj
-istekat/istech
+istekat"
 isteriya
 istok
 istreblenie
-ischerpyvat/ischerpat (+a)
+ischerpyvat"
 kabala
 kamorka 
 kapriz
 katorzhnyj
 kauchuk
-kayatsya/ras- (v +pr)
+kayat"sya
 kverhu
 kipa
 kit
 kladka
 kletchatyj
 klimaticheskij
-klukva
+klyukva
 klyacha
 kobyla
 kolesiko
 kolechko
-kolybel (f)
+kolybel" 
 konservatoriya
 konservnyj
-kontrrevolutsioner
-kormitsya (i) (+inst)
+kontrrevolyucioner
+kormit"sya 
 koroleva
 korona
 korystnyj
 kostyanoj
 kratkovremennyj
 krashenyj
-krivlyatsya (i) 
+krivlyat"sya 
 krivo
 kruzhevo
 krupno
-kudri (pl)
-kupane or kupanie
+kudri 
+kupan"e or kupanie
 kupe
-ladit/po- (s +inst)
-lebed (m/f)
-legalnyj
+ladit"
+lebed" 
+legal"nyj
 lednik
 lesenka 
 lesorub
-lizat/liznut (+a)
+lizat"
 limon
 lisa
-listat (i) (+a)
+listat" 
 lift
-lgota
-ldina
-lubovnyj
+l"gota
+l"dina
+lyubovnyj
 medvezhij
-mezh (+inst or +g)
-myorznut/za-
-merit/iz- (+a)
-mertsat (i)
+mezh 
+myorznut"
+merit"
+mercat" 
 meh
 mehanizirovannyj
 mehanicheski
 meshanskij
 meshanstvo
 mikrob
-mindal (m)
-minimalnyj
-mnogoznachitelno
+mindal" 
+minimal"nyj
+mnogoznachitel"no
 molot
-molba
+mol"ba
 monarhicheskij
-monopolnyj
-motatsya (i) 
+monopol"nyj
+motat"sya 
 motornyj
-mototsikl
+motocikl
 moshennik
-mudrets
+mudrec
 muzejnyj
 musornyj
-mchat (i) (+a)
+mchat" 
 naves
-naveshat/navestit (+a)
+naveshat"
 myasnoj
-nagryanut (r)
+nagryanut" 
 nadbavka
 nayomnyj
-nakaplivatsya/nakopitsya
+nakaplivat"sya
 naklon
-napodobie (+g)
-napolnyatsya/napolnitsya (+inst)
+napodobie 
+napolnyat"sya
 narastanie
-naselyat/naselit (+a)
+naselyat"
 nasledstvennyj
 nasovsem 
 nastavnik
-natvorit (r) (+g)
-natalkivatsya/natolknutsya (na +a)
-nahalstvo
+natvorit" 
+natalkivat"sya
+nahal"stvo
 nayavu
 nebosklon
-nevmeshatelstvo (v +a)
-nevozmozhnost (f)
+nevmeshatel"stvo 
+nevozmozhnost" 
 naugad
-nevolnyj
+nevol"nyj
 nedostojnyj
 nezheli
 nezakonno
 nezdorovyj
-nekogo (+inf)
+nekogo 
 nelepo
 nepovtorimyj
 nepostizhimyj
@@ -8587,180 +8587,180 @@ nehotya
 nichtozhestvo
 novizna
 nozhik
-nozhnitsy (pl)
+nozhnicy 
 nora
 nosik
 nochleg
 nosha
-obvodit/obvesti (+a)
-obitatel (m)
+obvodit"
+obitatel" 
 oblezlyj 
 obnaruzhenie
 obosnovanie
-obosnovyvat/obosnovat (+a)
-obostryat/obostrit (+a)
+obosnovyvat"
+obostryat"
 obraznyj
-obuvat/obut (+a)
-obhoditelnyj
+obuvat"
+obhoditel"nyj
 obsheizvestnyj
 obshina
-obektivnost (f)
-obyvatel (m)
+ob'ektivnost" 
+obyvatel" 
 obysk
-ovatsiya
+ovaciya
 ogolyonnyj
 ogorchenie
-ogorchat/ogorchit (+a)
-odyorgivat/odyornut (+a)
-odinnadtsatyj
+ogorchat"
+odyorgivat"
+odinnadcatyj
 odinochnyj
-oziratsya (i)
-zlitsya/o-
+ozirat"sya 
+zlit"sya
 ozloblennyj
-oznakomlenie (s +inst)
+oznakomlenie 
 okazanie
-okkupirovat (i/p) (+a)
+okkupirovat" 
 opernyj
 opozdanie
-orientirovatsya (i/p)
-osvedomlyatsya/osvedomitsya (o +pr)
-osveshatsya/osvetitsya
+orientirovat"sya 
+osvedomlyat"sya
+osveshat"sya
 osnashenie
-osnovatelnyj
-otbivatsya/otbitsya (ot +g)
+osnovatel"nyj
+otbivat"sya
 otoplenie
-pechatat/ot- (+a)
+pechatat"
 otpravka
-otrekatsya/otrechsya (ot +g)
-otrubat/otrubit (+a)
+otrekat"sya
+otrubat"
 otstavanie
-otstranyat/otstranit (+a)
-ohlazhdat/ohladit (+a)
-pakost (f)
-palchik
+otstranyat"
+ohlazhdat"
+pakost" 
+pal"chik
 parshivyj
-peregonyat/peregnat (+a)
-peredvigat/peredvinut (+a)
-peredelyvat/peredelat (+a)
+peregonyat"
+peredvigat"
+peredelyvat"
 perednik
 pereezd
-pereigryvat/pereigrat (+a)
-perelivatsya/perelitsya
+pereigryvat"
+perelivat"sya
 perelom
 perenos
 perenosnyj
-perepisyvat/perepisat (+a)
+perepisyvat"
 pereprava
-pereselyatsya/pereselitsya
-perestavlyat/perestavit (+a)
-peret (i) 
-perehvatyvat/perehvatit (+a)
-perets
+pereselyat"sya
+perestavlyat"
+peret" 
+perehvatyvat"
+perec
 persona
-pisatelskij
+pisatel"skij
 plavnyj
 planomernyj
 plachushij
 plemennoj
-plot (f)
+plot" 
 plyaska
 poblizosti
-pobornik (+g)
+pobornik 
 pobuzhdenie
 povadka 
 povozka
 podacha
-podbrasyvat/podbrosit (+a)
-podvigat/podvinut (+a)
-polzovanie (+inst)
+podbrasyvat"
+podvigat"
+pol"zovanie 
 ponachalu 
-podnozhie/podnozhe
+podnozhie
 podokonnik
-podslushivat/podslushat (+a)
-podyomnyj
-zhevat/po- (+a)
-zhech/po- (+a)
+podslushivat"
+pod'yomnyj
+zhevat"
+zhech"
 pozorno
 polosatyj
-polyhat (i)
-pomalkivat (i) 
+polyhat" 
+pomalkivat" 
 pomeshichij
 pomost
-ponizhat/ponizit (+a)
-obeshat/po- (+a +d)
+ponizhat"
+obeshat"
 popolnenie
 poputchik
 porovnu
 porozhnij 
-rugatsya/po-
+rugat"sya
 poslezavtra
 postnyj
-postukivat (i)
+postukivat" 
 potomstvo
-potreblyat/potrebit (+a)
-prebyvat (i)
+potreblyat"
+prebyvat" 
 prevoshodno
 predpisanie
-predprinimatel (m)
-preobladat (i)
+predprinimatel" 
+preobladat" 
 prestupnyj
 privetlivyj
 prigorodnyj
-pridvigatsya/pridvinutsya (k +d)
-priderzhivat/priderzhat (+a)
+pridvigat"sya
+priderzhivat"
 priyomnaya
 priznannyj
-primechatelno
+primechatel"no
 primirenie
 pripadok
-pripasy (m pl)
-prisyagat/prisyagnut (v +pr +d)
+pripasy 
+prisyagat"
 probel
-probivat/probit (+a)
+probivat"
 provokator
-gremet/pro-
-progulivatsya/progulyatsya
-demonstrirovat/pro- (+a)
-prozyvat/prozvat (+a +inst)
+gremet"
+progulivat"sya
+demonstrirovat"
+prozyvat"
 promah
 promezhutochnyj
-pronzitelno
-propagandirovat (i) (+a)
-proportsionalnyj
-prosypat/prospat
-prostiratsya/prosteretsya
+pronzitel"no
+propagandirovat" 
+proporcional"nyj
+prosypat"
+prostirat"sya
 prostorno
-prostuzhatsya/prostuditsya
-protirat/proteret (+a)
-protyagivatsya/protyanutsya
+prostuzhat"sya
+protirat"
+protyagivat"sya
 prohvost 
 prohozhdenie
-protsvetat (i)
+procvetat" 
 proyasnenie
 prutik
 pchela
 psheno
-pyanka 
+p"yanka 
 pyata
-razbegatsya/razbezhatsya
-razvedyvatelnyj
-razveshivat/razvesit (+a)
+razbegat"sya
+razvedyvatel"nyj
+razveshivat"
 razdroblennyj
-razlivatsya/razlitsya
-razlichatsya (i) (+inst)
+razlivat"sya
+razlichat"sya 
 razmeshenie
 raznorodnyj
-razgonyat/razognat (+a)
-razoryat/razorit (+a)
+razgonyat"
+razoryat"
 razocharovannyj
-razygryvatsya/razygratsya
+razygryvat"sya
 rasizm
-raskusyvat/raskusit (+a)
-rasporyazhatsya/rasporyaditsya
-rasstilatsya/razostlatsya
+raskusyvat"
+rasporyazhat"sya
+rasstilat"sya
 rasstrojstvo
-rassypat (i/p) (+a)
-rastitelnost (f)
+rassypat" 
+rastitel"nost" 
 realisticheskij
 rebyachij
 revnivyj
@@ -8770,203 +8770,203 @@ rogozha
 rozhok
 romans
 rynochnyj
-salut
+salyut
 samokritika
 samosoznanie
-sberegat/sberech (+a)
-sveshivat/svesit (+a)
-sensatsiya
-sentyabrskij
+sberegat"
+sveshivat"
+sensaciya
+sentyabr"skij
 serviz
 serijnyj
 sidenie
 sinyak
 skalistyj
-skandalnyj
-skorb (f)
+skandal"nyj
+skorb" 
 skromno
-skromnost (f)
-slat/po- (+a)
-slovtso 
-sluga (m)
-smeshit (i) (+a)
+skromnost" 
+slat"
+slovco 
+sluga 
+smeshit" 
 smeshok
 smutno
-snaryazhat/snaryadit (+a)
-snishoditelno
-snishoditelnyj
-sovershenstvovatsya/u- (v +pr)
-soderzhatelnyj
+snaryazhat"
+snishoditel"no
+snishoditel"nyj
+sovershenstvovat"sya
+soderzhatel"nyj
 soldatik
 solidno
-sooruzhat/soorudit (+a)
+sooruzhat"
 sootechestvennik
-sopostavlyat/sopostavit (+a)
-soputstvovat (i) (+d)
+sopostavlyat"
+soputstvovat" 
 soroka
 sosedskij
 sosredotochenno
 sostavlenie
-sosulka
+sosul"ka
 speshka
-sprygivat/sprygnut (s +g)
-srezat (i/p) (+a)
+sprygivat"
+srezat" 
 stakanchik
 stachka
-stekolshik
+stekol"shik
 stennoj
 stojko
-stranstvovat (i)
+stranstvovat" 
 strelkovyj
 struzhka
-struitsya (i)
+struit"sya 
 stychka
 sudorozhno
 suka
 sukno
 sumrachnyj
-suhar (m)
-suzhet
+suhar" 
+syuzhet
 tajnik
 tankist
-territorialnyj
-tesnitsya (i)
+territorial"nyj
+tesnit"sya 
 tyotushka
 titul
 tif
-tokar (m)
+tokar" 
 tolkovyj
-torzhestvovat (i) (nad +inst)
+torzhestvovat" 
 trezvo
 triumf
-trogatelnyj
-truk
+trogatel"nyj
+tryuk
 tugoj
 turizm
 turok
 tysyacheletnij
-tyagost (f)
+tyagost" 
 uvesistyj
-udostaivat/udostoit (+a +g)
-uklonyatsya/uklonitsya (ot +g)
-ukorenyatsya/ukorenitsya
-ukreplyatsya/ukrepitsya
-universalnyj
-unimatsya/unyatsya
-upominatsya/upomyanutsya
+udostaivat"
+uklonyat"sya
+ukorenyat"sya
+ukreplyat"sya
+universal"nyj
+unimat"sya
+upominat"sya
 uporyadochenie
 uprava
 uproshyonnyj
 upryamstvo
-useivat/useyat (+a +inst)
+useivat"
 ustranenie
-utverzhdatsya/utverditsya
+utverzhdat"sya
 uteshenie
-utug
+utyug
 uha
 final
 finish
 finskij
-formatsiya
+formaciya
 hilyj
 hirurg
 hristianstvo
 hronika
-tsarapat/tsarapnut (+a)
-tselesoobraznyj
-tseleustremlyonnyj
-tsivilizovannyj
-tsygan
-chelust (f)
+carapat"
+celesoobraznyj
+celeustremlyonnyj
+civilizovannyj
+cygan
+chelyust" 
 cheredovanie
 chetyresta
 cheshskij
 chistka
-chitatelskij
-chihat/chihnut
+chitatel"skij
+chihat"
 chrezmerno
-shatatsya (i)
+shatat"sya 
 shatkij
-shahmaty (pl)
+shahmaty 
 shvejnyj
-shevelitsya/shevelnutsya
+shevelit"sya
 sheluha
 shershavyj
-shiritsya (i)
+shirit"sya 
 shishka
-shlyatsya (i) 
+shlyat"sya 
 shpora
 shtab-kvartira
 shtormovoj
-shedrost (f)
+shedrost" 
 shenok
-elektronika
-effektnyj
-yaichnitsa
+ehlektronika
+ehffektnyj
+yaichnica
 yarmarka
-avianosets
+avianosec
 avtonomnyj
 azart
 azbuka
 akula
-alkogol (m)
+alkogol" 
 arenda
 babochka
 bagazh
 bak
 barahlo 
-bditelnyj
+bditel"nyj
 bedro
-bezdejstvovat (i)
+bezdejstvovat" 
 bezotvetstvennyj
 bezropotno
 bespechnyj
 bestolkovyj
 bint
 bloha
-boltatsya (i) 
+boltat"sya 
 britva
 bujnyj
-byl (f)
-bulleten (m)
-vdyhat/vdohnut (+a)
+byl" 
+byulleten" 
+vdyhat"
 velichavyj
 veha
 vznos
 vilka
-viselitsa
+viselica
 vnyatno
-vodruzhat/vodruzit (+a)
-vozderzhivatsya/vozderzhatsya (ot +g)
-vonyat (i) (+inst)
+vodruzhat"
+vozderzhivat"sya
+vonyat" 
 voodushevlenie
-voochiu
+voochiyu
 voroh
 vosk
-vtorgatsya/vtorgnutsya (v +a)
+vtorgat"sya
 vyruchka
 vystup
 vyshka
 vyalyj
-dogovoryonnost (f)
-gnit/s-
+dogovoryonnost" 
+gnit"
 gnusnyj
 gorb
 grad
-gusenitsa
-dan (f)
-devat/det (+a)
-dobrodetel (f)
+gusenica
+dan" 
+devat"
+dobrodetel" 
 domysel
 doshatyj
-duhi (m pl)
+duhi 
 dushistyj
 evangelie
 evrej
 edinoglasno
 yozh
 zhanr
-zharit/za- (+a)
+zharit"
 zhemchuzhina
 zhir
 zhutkij
@@ -8977,38 +8977,38 @@ zador
 zayom
 zakoulok
 zalog
-zameshatelstvo
+zameshatel"stvo
 zamknutyj
 zaochno
-zapinatsya/zapnutsya
-zapchast (f)
-zastyogivat/zastegnut (+a)
+zapinat"sya
+zapchast" 
+zastyogivat"
 izryadnyj
-zahlyobyvatsya/zahlebnutsya
-zloupotreblyat/zloupotrebit (+inst)
+zahlyobyvat"sya
+zloupotreblyat"
 znatnyj
 zontik
 zybkij
 iva
 ikra
-iskazhat/iskazit (+a)
+iskazhat"
 iskushenie
-ispodvol 
-kaleka (m/f)
+ispodvol" 
+kaleka 
 kamysh
 karij
-kvitantsiya
-klevat/klunut
+kvitanciya
+klevat"
 klej
 klumba
 kovrik
-kogot (m)
+kogot" 
 koe-kak
 korenastyj
 kosoj
 krasnorechie
 krushenie
-kuvyrkatsya/kuvyrknutsya
+kuvyrkat"sya
 kumir
 kutyozh
 lazejka
@@ -9016,20 +9016,20 @@ lak
 lastochka
 lezvie
 lestnyj
-likovat (i)
-litsemerie
-lstit/po- (+d)
-mazat (i) (+a)
+likovat" 
+licemerie
+l"stit"
+mazat" 
 mayak
-merzost (f)
-mesti (i) (+a)
-mizinets
+merzost" 
+mesti 
+mizinec
 miska
-mozol (f)
+mozol" 
 myatezh
 nabrosok
-naizust
-naperekor (+d)
+naizust"
+naperekor 
 narekanie
 nasazhdenie
 nasmork
@@ -9043,155 +9043,155 @@ neprinuzhdyonnyj
 nerazberiha 
 nesovmestimyj
 nesprosta 
-neuryaditsa 
+neuryadica 
 nichej
 nrav
-nyt (i)
-nuhat/po- (+a)
+nyt" 
+nyuhat"
 obayanie
-obuzdyvat/obuzdat (+a)
+obuzdyvat"
 ozabochennyj
-olen (m)
-omerzitelnyj
+olen" 
+omerzitel"nyj
 omut
 opeka
-opilki (pl)
-oploshnost (f)
+opilki 
+oploshnost" 
 oprava
 opryatnyj
-osparivat/osporit (+a)
+osparivat"
 otbornyj
-otdelyvatsya/otdelatsya (ot +g)
+otdelyvat"sya
 otmennyj
-otravlyat/otravit (+a)
-oshelomlyat/oshelomit (+a)
+otravlyat"
+oshelomlyat"
 paketik
 palisadnik
-panel (f)
+panel" 
 pasmurnyj
 pasynok
 peklo 
 pelyonka
 peredyshka
-perechen (m)
+perechen" 
 perina
 perron
 pir
 pirozhnoe
-pishat/pisknut
+pishat"
 plastmassa
-plesen (f)
-pleskat/plesnut
-pechen (f)
+plesen" 
+pleskat"
+pechen" 
 plyazh
-pobuzhdat/pobudit (+a +inf or k +d)
+pobuzhdat"
 poddannyj
 podoshva
 podsobnyj
 pozitivnyj
 poklonnik
-pokoryat/pokorit (+a)
+pokoryat"
 polovoj
 poltorasta
-pomeste
+pomest"e
 pomidor
-pooshryat/pooshrit (+a)
+pooshryat"
 popolam
 porosyonok
 portnoj
-poslovitsa
+poslovica
 poslushnyj
-postavlyat/postavit (+a)
+postavlyat"
 poteha
-pohmele
-pochest (f)
+pohmel"e
+pochest" 
 poshlyj
 pravoslavnyj
 praded
-prazdnost (f)
-predosuditelnyj
+prazdnost" 
+predosuditel"nyj
 presnyj
-pridiratsya/pridratsya (k +d)
+pridirat"sya
 priemlemyj
-priznatelnyj
-prikidyvatsya/prikinutsya (+inst)
-priut
+priznatel"nyj
+prikidyvat"sya
+priyut
 provornyj
 proliv
-pronitsatelnyj
+pronicatel"nyj
 proso
 prud
-ptenets
+ptenec
 puh
 pyl
 pylesos
 razvod
-razdole
-razitelnyj
+razdol"e
+razitel"nyj
 razlad
 razroznennyj
-razygryvat/razygrat (+a)
+razygryvat"
 raskat
 raskayanie
 rassudok
 rastryopannyj
-rinutsya (r)
-rozn (f)
+rinut"sya 
+rozn" 
 rokot
-rukavitsa
-rydat (i)
+rukavica
+rydat" 
 sverstnik
 selyodka
 skver
 skvoznyak
-skitatsya (i)
+skitat"sya 
 skorlupa
 skrezhet
-slyt/pro- (+inst or za +a)
-sluna
+slyt"
+slyuna
 smezhnyj
 smeta
 smyatenie
-myat/s- (+a)
-snovat (i)
+myat"
+snovat" 
 snorovka
-soblaznyat/soblaznit (+a)
+soblaznyat"
 solovej
-spletni (f pl)
+spletni 
 spravochnik
 stazh
 stuzha 
 sutulyj
-sshibat/sshibit (+a)
+sshibat"
 taz
 talon
 tyosha
-tlet (i)
+tlet" 
 tshetno
-ujma (+g)
+ujma 
 umerennyj
 uprugij
 urod
 usmotrenie
 utechka
-utomitelnyj
-uhmylyatsya/uhmylnutsya
+utomitel"nyj
+uhmylyat"sya
 feya
-hlopya (pl)
+hlop"ya 
 chayanie
-chesat/po- (+a)
-chtit/po- (+a)
+chesat"
+chtit"
 shablon
-sharkat/sharknut (+inst)
+sharkat"
 shestvie
 shnur
-shtabel (m)
+shtabel" 
 shustryj 
-shekotat/po- (+a)
+shekotat"
 shetina
 shuka
-shupat/po- (+a)
-shuritsya/so-
-elektrichka 
-etazherka
+shupat"
+shurit"sya
+ehlektrichka 
+ehtazherka
 yaryj
