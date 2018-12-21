@@ -7,10 +7,10 @@ my $list="
     txt/expect.txt  -token vowel
     txt/inferno.txt  -token digram --no-guten -minline 15 -minword 5
     txt/federalist.txt  -token vowel
-    txt/grimm.txt  -token digram
+    txt/grimm.txt  -token digram -minline 20 -minword 6
     txt/iliad.txt  -token digram
     txt/warandpeace.txt  -token digram
-    txt/mobydick.txt  -token vowel
+    txt/mobydick.txt  -token digram  -minline 20 -minword 6
     txt/sherlock.txt  -token vowel
     txt/donquijote.txt  -token digram
     txt/purereason.txt  -token digram
