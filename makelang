@@ -81,7 +81,7 @@ sub analyze_line($$$) {
 	if ($token eq "vowel") {
 	    # vowel method encodes key bits nicely
 	    # but can sound weird
-	    if ($line =~ s/^([aeiouy]+)//i) { # vowels
+ 	    if ($line =~ s/^([aeiouy]+)//i) { # vowels
 		# y is always treated as a vowel
 		# even when it starts a word (yam, yellow)
 		$syllable = transition($lang,$syllable,$1);

@@ -5,22 +5,25 @@ my $list="
     txt/alice.txt  -token vowel
     txt/beowulf.txt  -token vowel
     txt/expect.txt  -token vowel
+    txt/inferno.txt  -token digram --no-guten -minline 15 -minword 5
     txt/federalist.txt  -token vowel
-    txt/grimm.txt  -token trigram
-    txt/iliad.txt  -token trigram
-    txt/warandpeace.txt  -token trigram
+    txt/grimm.txt  -token digram
+    txt/iliad.txt  -token digram
+    txt/warandpeace.txt  -token digram
     txt/mobydick.txt  -token vowel
     txt/sherlock.txt  -token vowel
     txt/donquijote.txt  -token digram
     txt/purereason.txt  -token digram
-    txt/shakespeare.txt  -token digram
-    txt/russianwords.txt --no-guten -apos -minline 1 -token trigram
+    txt/shakespeare.txt  -token digram -minline 15 -minword 6 
+    txt/russianwords.txt --no-guten -apos -minline 4 -token digram
     ";
 # prepare russian words...
 # todo: process russian directly...
 system("cat words/russian.utf8 | sed 's/[(\\/].*//' | ./volapiuk > txt/russianwords.txt");
 # create lang files out of txt files
 foreach my $line (split(/\n/,$list)) {
+    $line =~ s/^\s+//;
+    $line =~ s/\s+$//;
     my @words=split(/\s+/,$line);
     my $langfile=$words[0];
     if (-f $langfile) {

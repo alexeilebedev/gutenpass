@@ -1,1829 +1,373 @@
--: a:1368 aba:1 abi:2 abl:14 abo:134 abs:1 acc:17 acq:2 acr:9 act:1 add:1 adm:1 ado:1 adr:2 adv:9 afa:3 aff:2 afr:12 aft:96 aga:195 age:2 ago:4 agr:21 ahe:1 aid:1 ail:2 aim:3 air:17 ala:12 ale:7 ali:15 all:411 alm:5 alo:41 alr:19 als:27 alt:5 alw:33 am:51 ama:1 amb:1 ame:1 ami:4 amo:19 amu:4 an:99 and:3789 ang:21 ani:10 ann:6 ano:46 ans:53 ant:8 anv:2 anx:4 any:94 api:2 app:44 apr:8 are:109 ari:1 arm:18 aro:13 arr:10 art:10 as:524 asc:4 ash:22 asi:4 ask:83 asl:35 ass:19 ast:8 at:390 ate:28 att:7 ava:3 awa:206 awh:2 awk:1 awo:21 axe:16 bab:2 bac:115 bad:17 bag:5 bak:9 bal:16 ban:6 bar:35 bas:5 bat:7 baw:2 be:295 bea:183 bec:53 bed:53 bee:115 bef:121 beg:125 beh:64 bei:16 bel:38 ben:24 ber:2 bes:37 bet:58 bew:8 bey:1 bid:5 bie:1 big:26 bil:2 bin:4 bir:110 bit:14 bla:33 ble:9 bli:4 blo:44 blu:8 boa:29 bob:1 bod:9 boi:8 bol:7 bon:17 boo:15 bor:15 bos:2 bot:43 bou:23 bow:12 box:6 boy:41 bra:21 bre:51 bri:112 bro:174 bru:7 buc:5 bud:1 buf:1 bui:10 bun:4 bur:30 bus:25 but:518 buy:4 buz:1 by:210 cab:8 cag:14 cak:17 cal:57 cam:353 can:108 cap:20 car:146 cas:67 cat:47 cau:27 cav:4 cea:4 cel:21 cer:18 cha:82 che:29 chi:119 cho:9 chr:2 chu:12 cin:5 cir:6 cis:1 cit:6 civ:1 cla:15 cle:23 cli:19 clo:95 clu:7 coa:26 cob:1 coc:10 cof:5 coi:3 col:18 com:181 con:53 coo:51 cop:1 cor:23 cos:8 cot:10 cou:262 cov:10 cow:31 cra:16 cre:33 cri:70 cro:22 cru:7 cry:9 cud:2 cuf:1 cul:1 cun:2 cup:13 cur:23 cus:6 cut:65 d:7 dai:5 dal:5 dam:1 dan:50 dar:43 das:2 dau:73 daw:7 day:153 daz:2 dea:88 dec:11 dee:28 def:1 deg:1 del:18 dem:1 den:5 dep:3 der:1 des:23 det:4 dev:7 dew:2 dia:4 dic:1 did:136 die:21 dif:5 dig:3 dil:1 dim:3 din:14 dip:1 dir:16 dis:52 div:3 do:132 doc:9 doe:17 dog:40 doi:11 don:71 doo:108 dos:2 dou:7 dov:27 dow:230 dra:78 dre:82 dri:55 dro:33 dru:4 dry:4 duc:21 dug:2 duk:2 dul:1 dum:2 dun:1 dur:5 dus:1 dut:1 dwa:50 dwe:7 dyi:1 eac:56 eag:6 ear:45 eas:24 eat:76 ebo:1 ecc:1 edg:5 eff:1 egg:15 eig:8 eit:7 elb:1 eld:30 ele:7 elf:1 ell:1 els:15 elv:1 emb:3 emp:11 enc:25 end:34 ene:7 eng:2 enj:9 eno:33 enr:1 ent:33 env:5 equ:5 er:5 err:1 esc:9 esp:3 ess:1 est:1 eve:176 evi:10 exa:5 exc:10 exe:1 exp:6 eye:44 fac:28 fai:53 fal:54 fam:5 fan:5 far:48 fas:47 fat:115 fav:6 fea:54 fed:1 fee:33 fei:1 fel:138 fes:2 fet:28 few:11 fid:13 fie:25 fif:11 fig:11 fil:11 fin:143 fir:125 fis:47 fit:4 fiv:6 fix:4 fla:11 fle:51 fli:9 flo:49 flu:5 fly:16 foa:2 fol:37 fon:9 foo:44 for:663 fou:119 fow:9 fox:35 fra:1 fre:24 fri:57 fro:171 fru:4 fry:1 fue:1 ful:48 fun:2 fur:21 fut:1 gai:3 gal:9 gam:6 gan:4 gap:2 gar:53 gas:1 gat:33 gav:71 gay:3 gaz:12 gee:9 gen:11 get:69 gho:1 gia:29 gif:9 gil:1 gir:55 giv:121 gla:44 gli:10 glo:4 gna:2 go:158 goa:5 gob:1 god:6 goe:5 goi:47 gol:123 gon:40 goo:127 gor:1 gos:2 got:75 gow:1 gra:55 gre:190 gri:24 gro:49 gua:10 gud:2 gue:12 gui:1 gul:1 ha:1 hab:1 had:638 hai:40 hal:28 ham:2 han:119 hap:68 har:47 has:102 hat:22 hau:5 hav:301 hay:10 haz:11 he:1404 hea:305 hed:4 hee:5 hei:4 hel:53 hen:5 her:910 hew:3 hid:27 hig:29 hil:22 him:697 hin:3 hir:1 his:728 hit:11 hoa:1 hob:4 hoe:2 hol:42 hom:124 hon:12 hoo:3 hop:14 hor:93 hos:2 hot:5 hou:101 hov:1 how:168 hug:5 hum:4 hun:97 hur:16 hus:30 hut:4 ide:4 idl:6 if:160 ill:16 ima:2 imm:8 imp:5 in:782 ind:18 inf:3 ing:2 inj:2 inn:14 inq:3 ins:29 int:368 inv:6 iro:13 is:252 it:784 its:48 jac:2 jai:1 jam:2 jee:2 jew:5 jib:2 jin:2 job:3 jog:3 joi:3 jok:4 jol:2 jou:19 joy:27 jud:9 jug:5 jum:23 jun:15 jus:47 kee:31 kep:16 ker:8 ket:2 key:8 kic:3 kid:8 kil:38 kin:294 kis:8 kit:23 kna:1 kne:54 kni:18 kno:91 lab:2 lac:3 lad:34 lai:61 lak:7 lam:11 lan:29 lap:3 lar:35 las:98 lat:15 lau:18 law:2 lay:67 laz:7 lea:80 led:34 lef:51 leg:24 lei:2 len:21 les:4 let:100 lib:2 lic:1 lid:5 lie:30 lif:39 lig:43 lik:114 lim:7 lin:7 lio:18 lip:9 liq:1 lis:13 lit:274 liv:71 ll:17 loa:11 loc:18 lod:2 lof:4 log:2 loi:1 lon:136 loo:173 lor:11 los:29 lot:2 lou:10 lov:35 low:3 luc:25 lum:4 lyi:19 m:1 mad:99 mag:8 mai:46 maj:2 mak:61 mal:1 man:213 map:3 mar:52 mas:24 mat:21 may:45 me:209 mea:54 med:1 mee:10 mel:1 men:21 mer:39 mes:5 met:29 mew:1 mia:1 mic:6 mid:32 mig:65 mil:45 min:21 mis:42 mit:1 mix:1 moa:2 moc:3 moi:1 mom:16 mon:40 moo:13 mop:1 mor:164 mos:24 mot:82 mou:70 mov:18 muc:60 mud:1 mum:1 mur:11 mus:102 mut:3 my:171 mys:17 nag:1 nai:3 nak:3 nam:14 nar:4 nas:2 nat:1 nau:1 nea:42 nec:16 nee:24 neg:1 nei:14 nes:9 net:1 nev:59 new:12 nex:49 nib:2 nic:7 nig:76 nim:3 nin:6 no:174 nob:17 nod:1 noi:12 non:14 noo:4 nor:9 nos:5 not:536 now:75 nud:1 num:4 nur:3 nut:15 o:11 oak:2 obe:1 obj:2 obl:12 obs:6 occ:5 odd:5 odi:1 of:946 off:138 oft:7 oh:1 old:146 on:438 onc:84 one:264 onl:78 onw:1 ope:51 opi:1 opp:7 or:74 ora:1 ord:38 oth:110 oug:9 oun:1 our:36 out:342 ove:144 owl:4 own:40 oxe:5 pac:5 pag:1 pai:28 pal:30 pan:7 par:38 pas:58 pat:13 pau:1 paw:4 pay:5 pea:74 peb:4 pec:6 ped:3 pee:10 pel:1 pen:2 peo:29 per:36 pic:47 pie:37 pig:17 pil:8 pin:16 pip:4 pit:25 pla:96 ple:49 pli:1 plo:3 plu:12 ply:1 poc:23 poi:9 pok:2 pol:2 pom:3 pon:3 poo:56 pop:5 pos:8 pot:11 pou:4 pov:1 pow:10 pra:12 pre:49 pri:156 pro:44 pru:1 pry:3 pub:3 pud:2 puf:1 pul:24 pun:5 pur:16 pus:13 put:103 qua:10 que:55 qui:102 rac:1 rag:15 rai:10 rak:1 ram:4 ran:96 rap:4 rar:1 ras:5 rat:11 rav:19 ray:5 re:1 rea:75 rec:18 red:34 ree:3 ref:5 reg:1 rei:7 rej:12 rel:1 rem:31 ren:4 rep:21 req:6 res:44 ret:25 rev:6 rew:7 rib:1 ric:27 rid:19 rig:28 rim:1 rin:31 rip:5 ris:6 riv:10 roa:35 rob:21 roc:9 rod:31 roe:1 rog:7 rol:22 roo:53 rop:10 ros:26 rou:63 rov:2 row:6 roy:14 rub:1 rud:1 rue:5 rul:1 rum:1 run:53 rus:9 s:251 sac:9 sad:25 saf:20 sai:380 sak:2 sal:14 sam:27 san:12 sas:1 sat:113 sau:11 sav:19 saw:145 say:38 sca:19 sce:4 sch:4 sci:6 sco:9 scr:22 sea:49 sec:33 see:185 sei:19 sel:7 sen:45 sep:2 ser:50 set:99 sev:40 sew:7 sex:7 sha:126 she:855 shi:24 sho:255 shr:4 shu:30 sic:8 sid:51 sif:1 sig:17 sil:41 sim:7 sin:44 sir:3 sis:30 sit:73 six:12 siz:4 ske:1 ski:27 sku:1 sky:5 sla:3 sle:57 sli:25 slo:2 slu:1 sly:3 sma:25 sme:5 smi:4 smo:9 sna:13 sne:2 sni:4 sno:21 snu:3 so:406 sob:1 soc:1 sof:8 sol:47 som:137 son:101 soo:105 sor:36 sou:33 spa:34 spe:35 spi:41 spl:9 spo:36 spr:59 spu:5 squ:5 sta:129 ste:41 sti:113 sto:171 str:151 stu:23 sub:1 suc:58 sud:16 suf:8 sug:3 sui:14 sul:2 sum:11 sun:36 sup:15 sur:20 sus:4 swa:12 swe:18 swi:7 swo:7 swu:3 syr:1 t:28 tab:36 tac:1 tai:70 tak:141 tal:24 tan:4 tap:12 tar:2 tas:21 tau:1 tea:11 tee:4 tel:42 tem:4 ten:5 ter:17 tes:1 tex:1 tha:868 the:6077 thi:407 tho:161 thr:231 thu:28 thy:23 tid:2 tie:12 tig:1 til:95 tim:163 tir:17 tis:1 to:1758 toa:2 tob:1 tod:4 toe:3 tog:68 tok:4 tol:79 tom:9 ton:10 too:270 top:18 tor:15 tos:5 tou:18 tow:45 tra:44 tre:126 tri:27 tro:32 tru:48 try:29 tug:2 tum:3 tun:5 tur:63 tus:1 twa:1 twe:34 twi:13 two:109 tyi:1 ugl:8 una:11 unb:5 unc:2 und:70 une:11 unf:1 unh:5 uni:4 unk:4 unl:9 unp:1 unr:1 uns:1 unt:46 unw:5 up:287 upo:138 upp:3 upr:4 ups:16 urc:2 urg:2 us:38 use:20 usu:6 vag:4 vai:14 val:8 van:3 ve:1 veg:2 vei:1 vel:1 ven:7 ver:159 vex:5 vic:2 vil:13 vin:3 vio:4 vir:1 vis:5 voi:14 vow:2 voy:2 wad:3 wag:5 wai:44 wak:5 wal:64 wan:85 war:28 was:1020 wat:86 wav:8 way:101 we:118 wea:24 wed:15 wee:5 wei:5 wel:85 wen:345 wep:17 wer:272 wes:1 wet:2 wha:193 whe:475 whi:247 who:292 why:13 wic:18 wid:13 wif:78 wig:1 wil:352 win:113 wip:3 wis:68 wit:567 woe:2 wol:42 wom:71 won:24 woo:77 wor:138 wou:193 wra:3 wre:25 wri:1 wro:5 yar:7 ye:4 yea:37 yel:7 yes:8 yet:28 yie:3 yok:1 yon:1 you:826
-a: -:1372
-aba: she:1
-abi: de:2
-abl: e:15 y:1
-abo: de:1 nd:1 nds:3 ure:1 ut:120 ve:13
-abs: enc:1
-acc: ide:2 o:1 ord:6 oun:5 urs:1 use:3
-ace: -:27
-ach: ero:1
-ack: -:2
-acq: uai:2
-acr: oss:9
-act: ual:1
-ad: -:42
-adc: rum:1
-add: -:1
-ade: d:1
-adf: ul:2 ull:3
-adi: ng:1
-adm: itt:1
-ado: pt:1 r:1
-adr: ift:2
-adv: anc:1 ent:1 ice:7
-ady: -:1
-afa: r:3
-aff: air:1 ect:1
-afo: re:1
-afr: aid:12
-aft: er:76 ern:1 erw:19
-aga: in:176 ins:19
-age: -:5 d:8 ly:1
-agi: ng:2
-ago: -:4
-agr: eed:21
-ahe: ad:1
-aid: -:14
-aig: ht:20
-ail: -:2 ed:3 s:1
-aim: -:1 ed:2
-ain: -:6 ed:16 ing:1 t:1
-air: -:18 s:2
-ait: ene:1
-ak: -:57
-ake: -:4 d:1
-aki: ng:7
-al: -:29
-ala: rm:1 rme:2 s:9
-ale: -:7 r:1
-ali: ght:6 ke:2 ve:7
-all: -:401 en:3 ow:3 owe:7 y:1
-alm: ost:4 s:1
-alo: ne:18 ng:22 ud:1
-alr: ead:19
-als: o:27
-alt: ar:1 hou:3 oge:1
-alw: ays:33
-am: -:57
-ama: zed:1
-amb: ass:1 led:2
-ame: -:33 d:2 nds:1
-ami: cab:1 d:1 dst:1 ng:1 ss:1
-amo: ng:15 ngs:4
-ams: -:1
-amt: -:2
-amu: se:2 sed:1 sem:1
-an: -:293
-anc: e:2 ed:1 hol:1
-and: -:3791 ed:1
-ane: d:2 r:1
-ang: -:33 e:14 el:2 els:2 er:4 ers:2 led:1 ril:1 ry:13
-ani: mal:10
-ank: -:1
-ann: oun:6
-ano: int:1 the:45
-ans: -:1 wer:53
-ant: -:4 e:3 s:6
-anv: il:2
-anx: iet:2 iou:2
-any: -:52 bod:1 one:15 thi:25 whe:1
-ape: -:5 d:4
-api: ece:1 sh:1
-app: ear:11 eas:2 eti:2 ine:1 le:14 les:13 oin:1 ren:1 roa:5 y:3
-apr: on:8
-ar: -:10
-ara: te:1 ted:1
-ard: -:14 ed:1 ly:1 ous:1 s:38
-are: -:110 d:2
-ari: se:1
-ark: ed:2 s:1
-arl: oaf:2
-arm: -:4 ed:1 our:4 s:8 y:2
-aro: se:4 und:9
-arr: ive:7 oga:1 ow:2
-art: -:9 s:1 ure:1
-as: -:524
-asa: nt:3 ntl:1
-asc: end:4
-ase: -:14 d:24 s:1
-ash: -:2 ame:2 ed:1 es:18 ore:1
-asi: de:4 nes:1 on:2
-ask: -:20 ed:62 ing:1
-asl: eep:35
-ass: -:12 ado:1 emb:1 es:2 ies:1 ist:2 ure:2
-ast: -:2 ene:1 oni:8
-asu: re:6 res:5
-asy: -:9
-at: -:513
-ata: gem:1
-atc: hed:4
-ate: -:30 d:10 ly:8 r:1 st:3
-ath: -:4 er:3 s:1
-ati: ate:1 ent:1 on:2 ons:1
-atl: y:7
-ats: -:1
-att: emp:3 end:4
-atu: re:8 res:2
-aus: e:10
-ava: il:2 ric:1
-ave: d:4
-avi: our:2
-aw: -:10
-awa: it:1 iti:1 ke:6 ken:7 re:3 y:188
-awh: ile:2
-awk: war:1
-awo: ke:21
-axe: -:16
-ay: -:8
-aye: d:1
-ays: -:33
-b: -:11
-bab: y:2
-bac: k:105 ked:1 ks:1 kwa:6 on:2
-bad: -:8 e:10
-bag: -:5 e:1 es:1
-bak: e:3 ed:3 er:2 ing:1
-bal: e:1 l:14 ls:1
-ban: d:30 k:5
-bar: -:3 e:1 gai:15 k:2 ked:2 n:2 ons:1 rel:6 row:1 s:2
-bas: ed:1 ket:3 ted:1
-bat: h:1 hin:1 tle:5
-baw: l:1 led:1
-bbe: d:1
-bby: -:6
-be: -:295
-bea: k:2 m:3 ms:1 n:2 ns:2 r:28 rd:12 rde:1 rer:2 rsk:1 st:11 sts:9 t:5 ten:3 ute:1 uti:94 uty:7
-bec: ame:33 aus:10 kon:1 ome:9
-bed: -:54 cha:1 roo:2 s:2 tim:1
-bee: f:1 n:101 r:9 s:4
-bef: all:3 ell:1 ore:116 rie:1
-beg: -:11 an:88 gar:1 ged:15 gin:1 in:6 inn:2 un:1
-beh: ave:4 avi:2 eld:1 ind:56 old:1
-bei: ng:15 ngs:1
-bel: abo:1 iev:9 l:2 low:1 ls:3 ly:1 ong:9 ove:3 ow:9
-ben: ch:3 che:3 d:1 eat:12 t:5
-ber: -:6 rie:2 s:12 y:1
-bes: ide:10 mea:1 oug:2 pok:1 t:22 tow:1
-bet: hou:3 ime:2 ook:1 ray:2 rot:9 ter:34 wee:7
-bew: ail:4 are:1 itc:3
-bey: ond:1
-bid: -:4 den:1 din:2
-bie: r:1
-big: -:22 ger:2 ges:2
-bil: ls:2
-bin: d:3 ds:1 g:4 s:1
-bir: d:88 ds:17 th:5
-bit: -:4 e:2 es:1 ter:7
-bla: ck:28 cke:2 med:1 zed:1 zin:1
-ble: -:28 ate:2 d:2 r:1 s:10 ssi:1 t:1 ty:2 w:5
-bli: nd:2 nde:2 ng:3
-blo: ckh:1 od:20 om:1 omi:1 w:15 wes:1 win:1 wn:1 ws:3
-blu: e:8
-bly: -:5
-boa: r:8 rd:7 st:2 stf:1 t:13 ts:1
-bob: bin:1
-bod: ies:1 y:9
-boi: l:2 led:2 lin:4
-bol: der:1 dly:2 t:3 ted:1
-bon: d:2 e:1 es:12 net:1 y:1
-boo: k:3 n:6 ts:5 ty:1
-bor: e:4 n:9 ne:1 row:1
-bos: om:2
-bot: h:25 tle:5 tom:13
-bou: gh:2 ghs:1 ght:10 nd:9 nde:1
-bow: -:8 l:4
-box: -:5 es:1
-boy: -:40 s:1
-bra: ide:1 ids:2 ins:1 nch:13 vel:1 yed:1 yin:2
-bre: ad:25 adc:1 ak:18 aki:1 ast:2 ath:2 d:1 eze:3 thr:2 w:1
-bri: ar:1 de:38 deg:7 dge:2 ght:10 lli:2 ng:43 ngi:2 nk:3 ske:2 skl:2
-bro: ad:4 ke:13 ken:8 och:1 od:1 ok:7 om:1 oms:1 th:5 the:56 ugh:70 wn:7
-bru: sh:1 she:3 shw:2 te:1
-bs: -:6
-bt: -:6
-buc: ket:5
-bud: ded:1
-buf: fet:1
-bui: ld:2 lt:8
-bun: dle:2 g:2
-bur: den:1 ied:3 n:3 nin:8 nis:1 ns:1 nt:6 st:4 y:3
-bus: h:8 hes:3 ine:9 tle:2 y:2 ybo:1
-but: -:501 che:3 ler:3 ter:9 ton:2
-buy: -:3 ers:1
-buz: zed:1
-by: -:210
-cab: bag:2 in:6 ly:1
-cag: e:11 es:3
-cak: e:11 es:6
-cal: -:3 f:9 l:2 led:42 lin:2 ly:1 m:1 s:1 ves:1
-cam: e:353
-can: -:81 dle:2 not:25 t:1
-cap: -:14 ere:1 eri:2 ita:2 tai:1
-car: d:1 ds:1 e:38 ed:1 efu:6 ele:2 ing:1 pen:2 ria:7 rie:34 ry:27 ryi:2 t:14 ter:9 ts:1
-cas: e:4 k:8 ket:2 ks:1 t:1 tle:51
-cat: -:39 ch:3 che:2 chi:1 s:2
-cau: ght:14 ldr:2 se:3 sed:8
-cav: e:2 ern:1 es:1
-ce: -:116
-cea: bly:1 se:2 sed:1 sin:1
-ced: -:69
-cee: d:1 ded:1
-cef: ort:2 ull:1
-cei: ted:1 ve:1 ved:3 vin:1
-cel: ebr:6 lar:15
-cen: d:2
-cer: emo:1 n:2 ned:1 s:1 t:1 tai:17
-ces: -:15 siv:1
-ch: -:233
-cha: fed:1 ffi:3 in:8 ins:2 ir:7 irs:3 lk:1 mbe:23 nce:7 nde:2 nge:16 nt:8 pel:1 rm:3 rmi:1 se:1 t:2 tte:3 tti:1
-che: ate:2 d:68 ek:1 eks:2 er:1 erf:4 ese:11 n:23 r:4 rry:1 rs:1 s:8 st:4 stn:2 sts:1 t:5
-chi: cke:4 ef:13 ld:56 ldl:1 ldr:55 n:1 ng:8 rpi:2
-chm: an:2
-cho: ked:2 ose:4 se:1 sen:2
-chr: ist:2
-chu: ckl:2 rch:10
-cia: l:1
-cie: d:2 s:1
-cil: ess:1
-cin: der:5 g:14
-cio: us:5 usl:1
-cip: ice:1
-cir: cle:6
-cis: ter:1
-cit: y:6
-civ: il:1
-ck: -:97
-cke: d:28 n:3 ned:1 ns:2 r:2 st:1 t:5
-ckh: ead:1
-cki: ng:4 ngs:2
-ckl: e:1 ed:1 y:24
-cks: -:7
-cla: ck:2 im:1 ime:1 mbe:2 p:1 ppe:2 ppi:1 ss:1 tte:2 w:4
-cle: -:5 an:5 ane:3 ar:5 are:1 d:1 ft:1 rks:1 s:1 ver:7
-cli: ck:2 mb:3 mbe:12 mbi:2
-clo: ak:20 ck:14 d:1 gs:1 se:18 sed:4 set:1 th:6 the:25 thi:2 ud:1 uds:2
-clu: b:1 msi:2 msy:1 ng:1 tch:2
-coa: ch:5 chm:2 l:3 ls:4 st:1 t:11
-cob: ble:1
-coc: k:10
-cof: fin:5
-coi: led:1 n:1 ned:1
-col: d:6 lap:1 lar:4 lec:4 our:3
-com: b:4 bed:2 bin:2 bs:1 e:105 ed:6 ely:1 es:12 est:1 for:8 ica:1 ing:17 man:4 mon:2 pan:11 par:1 pas:2 pel:2 pla:3 ple:1 rad:2
-con: cei:2 cer:3 dem:2 dit:2 fes:1 fin:1 que:1 sci:2 sec:1 sen:7 sid:2 sta:2 str:1 sul:1 sum:1 tai:1 tem:1 ten:4 tin:11 tra:1 tri:3 tro:1 ver:2
-coo: k:38 ked:5 kin:3 ks:1 l:4
-cop: se:1
-cor: d:3 n:7 ner:16
-cos: t:5 tly:3
-cot: tag:10
-cou: ch:3 ghi:1 ld:167 nse:7 nt:2 nte:4 ntl:1 ntr:26 nts:2 ple:3 rag:1 rse:3 rt:29 rte:1 rti:3 rty:6 sin:3
-cov: er:2 ere:11 eri:1
-cow: -:24 ard:2 s:5
-cra: ck:2 cke:2 ft:2 fts:1 fty:2 sh:2 wl:1 wle:4
-cre: atu:10 den:1 epi:2 pt:18 vic:1 w:1
-cri: bin:1 ed:69 es:1
-cro: ake:1 aki:2 ss:3 sse:4 ssi:1 uch:1 wd:4 wed:2 wn:2 wns:2
-cru: elt:2 mbs:3 she:2
-cry: -:4 ing:4 sta:1
-ct: -:1
-cta: cle:1
-cte: d:1
-ctl: y:5
-cud: gel:2
-cuf: fin:1
-cul: tur:1
-cun: nin:2
-cup: -:9 boa:3 s:1
-cur: -:1 e:4 ios:2 iou:1 l:4 led:2 lin:3 sed:1 sin:1 tai:3 tsi:2
-cus: hio:2 tom:4
-cut: -:60 ter:1 tin:4
-cy: -:7
-d: -:2150
-dai: ly:2 nty:3
-dal: e:2 es:3
-dam: e:1
-dan: ce:14 ced:18 cin:14 ger:4
-dar: e:5 ed:6 k:21 ker:1 kne:2 lin:5 ted:1 tin:2
-das: h:1 hed:1
-dau: ght:73
-daw: dle:1 n:2 ned:4
-day: -:129 bre:5 lig:5 s:18
-daz: zli:2
-dby: e:4
-dde: r:5 rin:3
-de: -:62
-dea: d:27 dly:1 l:8 r:27 rer:1 res:5 rly:3 rth:2 th:14
-dec: eiv:1 ent:1 ide:2 isi:1 k:1 ked:1 lar:3 ree:1
-ded: -:16
-dee: d:1 ds:2 p:14 per:4 pes:1 ply:1 r:5
-def: end:1
-deg: ree:1 roo:7
-del: ay:2 aye:1 ica:1 ici:1 igh:10 ive:3
-dem: and:1 ned:2
-den: -:141 er:12 ial:1 ly:10 oun:1 s:5 t:6 tia:1 tly:1 y:1
-dep: art:1 end:1 th:1
-der: -:19 ed:11 er:1 ers:6 ful:8 ing:2 ly:1 ous:1 ry:1 s:2
-des: cen:2 cri:1 ert:1 erv:6 ign:1 ire:9 pai:1 pis:1 tro:1
-det: erm:4
-dev: il:2 our:5
-dew: -:1 dro:1
-dfu: l:5
-dge: -:3
-dia: mon:4
-dic: tio:1
-did: -:136
-die: -:7 d:14 nt:1 r:36 rs:5
-dif: fer:3 fic:2
-dig: -:3
-dil: ige:1
-dim: -:3
-din: g:32 ing:1 ner:13
-dip: ped:1
-dir: ect:3 t:2 tie:1 ty:10
-dis: app:5 cer:1 cov:4 enc:1 fig:1 gui:1 gus:1 h:13 hea:1 hes:5 hfu:1 lik:1 mal:1 may:1 mis:3 mou:1 pat:1 pos:2 put:2 tan:3 tre:2 tri:1
-dit: ion:2
-div: ed:2 ide:1
-dke: rch:8
-dle: -:42 d:1 r:7 s:1
-dli: ng:2
-dlo: rd:4
-dly: -:19
-dma: n:6 rk:1
-dne: ss:8
-do: -:132
-doc: tor:9
-doe: s:17
-dog: -:29 s:11
-doi: ng:11
-dom: -:4
-don: -:19 e:53 key:1
-doo: m:2 r:100 rs:6
-dos: t:2
-dou: ble:1 bt:6 s:1
-dov: e:14 es:13
-dow: -:44 n:228 nst:1 ry:1 s:7
-dra: g:3 gge:7 ggi:2 gon:11 gs:1 in:2 nk:15 ugh:10 w:17 wer:3 win:4 wn:3
-dre: ad:3 ade:1 adf:5 am:6 ami:1 ams:1 amt:2 d:18 ss:16 sse:17 ssi:1 w:29
-dri: nk:34 nki:4 ppi:1 ve:6 ven:4 vin:6
-dro: ll:2 p:6 ppe:8 ps:1 us:1 ve:14 wne:3
-dru: nk:3 nke:1
-dry: -:4
-ds: -:93
-dsm: ith:3
-dso: me:10 mel:1 mes:1
-dst: -:1 ool:1
-dua: lly:1
-duc: at:1 ats:1 e:1 k:16 ks:3
-due: -:1
-dug: -:2
-duk: es:2
-dul: l:1
-dum: b:1 pli:1
-dun: ghi:1
-dur: ing:5
-dus: ky:1
-dut: y:1
-dwa: rf:40 rfs:10
-dwe: ll:1 lli:3 lt:3
-dy: -:33
-dyi: ng:1
-e: -:3437
-eac: h:56
-ead: -:9 y:19
-eag: er:2 erl:1 ern:1 le:2
-eak: -:2
-eal: ed:3
-eam: -:10 ed:7 ing:6 s:1
-ear: -:9 ed:8 lie:1 ls:2 ly:9 n:7 nes:1 nin:1 s:8 t:4 ted:2 th:7 the:3
-eas: e:6 ed:3 ily:7 t:1 y:10
-eat: -:52 en:20 ene:3 h:14 ing:6 s:1
-ebo: dy:4 ny:1
-ebr: ate:6
-ecc: les:1
-ece: -:2
-eci: ded:1
-ect: ed:3 ing:1 ion:3 ly:2 s:1
-ecy: -:1
-ed: -:677
-edg: e:5
-edi: ate:7 ent:1 nes:2
-edl: y:2
-edy: -:2
-ee: -:70
-eed: -:35
-eem: ed:1
-een: -:1
-eep: -:35 enc:1
-eet: -:7 s:2
-eez: ed:3
-ef: -:25
-efe: et:1
-eff: ort:1
-efu: l:2 lly:4
-ega: r:3 y:1
-egg: -:7 s:7 she:1
-eig: ht:8 n:1
-eit: her:7
-eiv: e:2 ed:8 es:1
-ek: -:2
-eks: -:2
-el: -:21
-elb: ows:1
-eld: -:1 er:6 est:24
-ele: ss:1 ssl:1 ssn:1 ven:7
-elf: -:26
-eli: er:2 hoo:2
-ell: -:1 enc:1 ent:2 s:1
-elm: ed:2
-els: -:14 e:15
-elt: y:2
-elv: es:1
-ely: -:22
-ema: ker:9
-emb: ark:1 ass:1 er:2 ere:3 led:2 rac:1
-eme: nts:1
-emo: ny:1
-emp: ero:2 t:2 ted:1 tie:3 ty:5 tyi:1
-en: -:278
-enc: e:7 han:26
-end: -:54 anc:1 ant:3 ed:7 id:4 les:1 ly:5 our:1 s:4 shi:1
-ene: d:31 mie:1 my:6
-eng: age:2 e:3 th:10 the:1
-eni: ng:1
-enj: oy:7 oye:2
-eno: rmo:1 ugh:32
-enr: age:1
-ens: -:9 e:1
-ent: -:35 ang:1 ed:1 er:3 ere:9 eri:1 ert:1 h:4 ial:1 ice:3 ing:2 ion:3 ire:6 ran:2 rea:7 s:1 ure:1
-env: ied:1 iou:1 y:3
-enw: ood:5
-eon: -:4 e:10 s:2
-eou: s:1
-eov: er:1
-ep: -:30
-epe: r:2 rs:2
-epi: ng:16
-epl: ace:3
-ept: ion:1
-equ: al:2 all:1 ipp:2
-er: -:648
-era: ble:1 bly:2 l:4 ry:1
-ere: d:56
-erf: ul:4 ull:1
-erg: rou:1
-eri: al:1 enc:1 ng:6 or:1
-erl: y:1
-erm: ine:4
-ern: -:1 eat:2 ess:1 oon:1
-ero: r:2 us:1
-err: and:1 upt:1
-ers: -:53 tan:9
-ert: -:1 ain:1 ake:4 hel:3 ook:1 y:3
-erv: e:4 ed:3 es:2 ing:2
-erw: ard:19 ise:6 ood:1
-ery: -:1
-es: -:230
-esc: ape:9
-ese: -:10 s:1
-esh: old:3
-esi: de:1
-eso: me:4
-esp: ied:2 yin:1
-ess: -:20 ent:1 ly:1
-est: -:92 eem:1 er:5 y:2
-et: -:12
-eta: ble:2
-etc: h:3 hed:16
-ete: d:2 ll:1
-eth: ear:4 er:68 ing:36
-eti: mes:1 te:2
-etl: y:12
-eto: ld:2
-etu: ous:1
-ety: -:2
-eve: -:1 d:7 n:21 nin:38 nt:1 nti:1 r:102 ry:54 ryb:5 ryo:10 ryt:25 ryw:4 s:11
-evi: l:10 ng:1
-ew: -:33
-ewa: rds:3 y:1
-ewd: -:1
-ewe: d:4
-ewi: se:12
-ewn: -:2
-exa: ctl:5
-exc: ell:3 ept:1 han:1 ite:1 lai:1 use:3
-exe: rte:1
-exp: ati:1 ect:2 edi:1 eri:1 lai:1
-ey: -:37
-eye: -:1 s:43
-eze: -:1 s:3
-f: -:267
-fac: e:26 ed:1 es:1
-fai: r:9 rer:1 res:7 rie:6 ry:18 thf:12
-fal: l:28 len:12 lin:3 ls:2 se:9
-fam: ed:1 ili:2 ine:1 ous:1
-fan: cie:3 cy:1 ned:1
-far: -:21 e:4 ed:2 ing:1 mer:5 mya:1 the:14
-fas: t:41 ten:4 ter:2
-fat: -:13 e:4 ed:1 her:94 igu:1 ten:2
-fav: our:6
-fe: -:8
-fea: r:18 st:23 sti:2 the:11
-fec: tly:1
-fed: -:3
-fee: ble:1 d:4 l:15 lin:2 ls:1 t:10
-fei: gni:1 ted:1
-fel: l:90 led:3 low:18 t:27
-fer: -:6 ed:1 ent:3
-fes: sed:1 tiv:2
-fet: ch:16 che:11 chi:1 ing:1
-few: -:10 er:1
-ff: -:2
-ffe: d:2
-ffi: n:4 nch:3
-fic: ien:1 ult:2
-fid: dle:13
-fie: ld:11 lds:8 rce:3 ry:4
-fif: tee:2 th:6 ty:3
-fig: -:1 ht:2 hti:5 ure:4
-fil: l:3 led:16
-fin: -:5 d:47 din:5 e:41 ed:1 ely:1 er:2 est:3 ger:34 gs:1 ish:10
-fir: -:2 e:49 epl:3 es:1 esi:1 m:2 mly:2 st:65
-fis: h:23 her:18 hes:3 hin:3
-fit: -:3 ted:2
-fiv: e:6
-fix: -:1 ed:3
-fla: kes:1 me:1 mes:5 ppi:1 she:1 shi:1 sk:1
-fle: d:1 e:2 ecy:1 sh:4 w:43
-fli: es:5 ght:2 ng:1 ngs:1
-flo: at:1 ck:8 cks:1 or:8 rin:2 w:1 wed:1 wer:24 wn:3
-flu: rry:1 tte:4
-fly: -:10 ing:6
-foa: m:1 min:1
-fol: k:1 ks:1 low:33 ly:2
-fon: d:9
-foo: d:20 l:3 lis:3 t:15 ted:2 tin:1
-for: -:476 bad:1 bid:2 ce:1 ced:28 efe:1 eig:1 est:60 ete:1 eto:2 fei:1 ge:1 get:6 giv:3 got:15 k:1 ks:1 lor:1 m:13 med:2 mer:2 sak:2 t:2 tab:1 ted:5 th:24 thw:1 tre:1 tun:15 war:11
-fou: l:1 nd:88 nta:3 r:25 rth:2
-fow: l:3 ler:1 ls:5
-fox: -:35
-fra: me:1
-fre: e:16 ed:1 eze:1 sh:5 tte:1
-fri: end:29 ght:28
-fro: ck:3 g:12 gs:2 lic:1 m:142 nt:8 nti:1 zen:2
-fru: it:3 its:1
-fry: -:1
-fs: -:2
-ft: -:4
-ftl: y:1
-fts: men:1
-fty: -:2
-fue: l:1
-ful: -:113 fil:8 l:37 ly:15
-fun: -:1 ny:1
-fur: -:10 iou:2 nis:1 nit:1 row:1 s:1 the:4 y:1
-fut: ure:1
-fwa: y:1
-g: -:1104
-gai: n:14 ned:1 ns:3
-gal: lop:5 low:4
-gam: e:6
-gan: g:1 ges:3
-gap: ing:2
-gar: -:1 den:50 lan:2 ret:1
-gas: pin:1
-gat: e:18 es:2 ewa:1 her:12
-gav: e:71
-gay: -:3
-gaz: e:2 ed:6 er:2 ing:2
-gdo: m:22 ms:1
-ge: -:62
-gea: nce:1
-ged: -:34
-gee: se:9
-gel: -:2
-gem: -:1
-gen: tle:8 tly:3
-geo: ns:2
-ger: -:76 ing:1 ous:1 s:7
-ges: -:2 t:8
-get: -:61 s:4 tin:10
-gga: rds:1
-gge: d:7
-ggi: ng:2
-gh: -:17
-ghb: our:2
-ghe: d:12
-ghi: ll:1 ng:1
-ghl: y:2
-gho: st:1
-ghs: -:1
-ght: -:60 ed:5 ene:23 er:67 ers:7 ful:1 ily:2 ly:2 nes:1 s:2 y:2
-gia: nt:18 nts:11
-gif: t:6 ts:3
-gil: ded:1
-gin: e:1 g:30
-gir: dle:1 l:44 ls:10
-giv: e:87 en:31 es:1 ing:5
-gla: d:12 dne:3 ss:25 sse:4
-gle: -:5 d:1
-gli: mme:1 ng:2 tte:9
-glo: om:1 omy:3
-gly: -:9
-gma: n:1
-gna: t:1 w:1
-gne: d:7
-gni: ng:1
-go: -:158
-goa: t:4 ts:1
-gob: let:1 lin:2
-god: chi:1 les:2 mot:3
-goe: s:5
-goi: ng:47
-gol: d:57 den:63 dsm:3
-gon: -:11 e:40 er:1
-goo: d:102 dby:4 dne:1 ds:4 se:16
-gor: e:1
-gos: sip:2
-got: -:84 ten:6
-gow: n:1
-gra: ce:1 cio:1 dua:1 in:3 nd:2 ndf:3 ndm:20 nds:1 nit:2 nt:4 nte:4 spe:1 ss:2 ssh:1 tef:1 ve:6 vel:1 zed:1
-gre: -:1 ase:3 at:120 ate:4 atl:7 edi:2 edy:2 en:10 ens:1 enw:5 ete:1 w:23 y:12
-gri: ef:7 eve:7 ffi:4 nde:5 nne:1
-gro: om:3 ped:2 und:20 ve:3 w:4 win:4 wle:1 wli:1 wn:8 ws:3
-gry: -:11
-gs: -:23
-gth: -:18
-gua: ge:2 rd:3 rde:1 rds:6
-gud: geo:2
-gue: -:12 d:1 s:1 ss:2 st:7 sts:3
-gui: de:1 ses:1
-gul: p:1
-gus: ted:1
-h: -:920
-ha: -:1
-hab: it:1
-had: -:636 st:2
-hai: r:39 red:1
-hal: f:21 fwa:1 l:5 ted:1
-ham: -:1 per:1
-han: d:54 ded:3 dfu:4 dke:8 ds:20 dso:12 g:3 ged:2 ges:3 gin:9 gma:1 gs:1 ted:6 tme:5 tre:15
-hap: -:1 pen:41 pil:9 pin:3 py:15 s:10
-har: d:23 dly:8 e:2 es:1 m:6 nes:6 shl:1
-has: -:78 t:3 te:10 ten:8 til:2 ty:1
-hat: -:7 che:6 chi:1 ed:2 h:6
-hau: ght:3 nte:2
-hav: e:284 ing:16 oc:1
-hay: -:10
-haz: ard:1 el:10
-he: -:1406
-hea: d:73 ds:7 lin:1 lth:3 p:6 ped:1 r:15 rd:86 rin:5 rs:1 rse:3 rt:49 rte:2 rth:8 rti:3 rts:1 rty:2 t:4 ted:2 th:2 ven:11 vie:1 vil:1 vy:19
-hed: -:86 ge:4
-hee: d:1 l:1 ls:3
-hei: ght:1 r:3
-hel: d:25 ess:3 met:1 p:22 ped:5
-hen: -:2 ce:1 cef:2
-her: -:990 bs:1 d:2 e:59 ed:13 man:18 o:3 sel:65 to:1
-hes: -:19 t:2
-hew: -:2 ed:1
-hfu: l:1
-hid: -:10 den:8 e:6 ing:3
-hig: h:18 her:8 hes:2 hwa:1
-hil: l:11 loc:1 ls:10
-him: -:585 sel:112
-hin: -:10 d:2 der:1 g:118
-hio: n:2
-hir: ed:1
-his: -:726 sed:1 tor:1
-hit: -:5 her:6
-hly: -:4
-hoa: rse:1
-hob: ble:2 gob:2
-hoe: -:1 s:1
-hol: d:22 din:3 e:12 es:1 ida:1 low:3 y:1
-hom: e:121 ewa:3
-hon: est:4 ey:5 our:3
-hoo: d:3 fs:1 k:1 ks:1
-hop: -:2 e:4 ed:3 ped:4 pin:1
-hor: n:2 net:2 rib:1 rid:1 ror:2 se:62 seb:1 sem:5 ses:17
-hos: t:1 tes:1
-hot: -:5
-hou: gh:3 ght:3 r:16 rs:4 se:79 ses:1 sew:1 t:42
-hov: eri:1
-how: -:87 eve:78 l:1 lin:1 soe:1
-hst: and:1
-ht: -:250
-hte: d:7 n:1
-hth: ear:2
-hti: ly:1 ng:5 nga:4
-htn: ing:4
-hts: -:6
-hty: -:4
-hug: -:1 e:2 ged:2
-hum: an:2 min:1 p:1
-hun: dre:18 g:10 ger:6 gry:11 t:2 ter:2 tin:7 tsm:41
-hur: rie:3 ry:4 ryi:2 t:6 tin:1
-hus: ban:29 h:1
-hut: -:4
-hwa: y:1
-ial: -:2
-ian: t:1
-ias: tic:1
-ibl: e:2
-ic: -:6
-ica: l:1 te:1
-ice: -:14 d:4 nce:1 nt:1 ntl:2 rs:1
-ici: an:3 ans:1 ous:1
-id: -:5
-ida: y:1
-ide: -:22 a:4 d:3 nt:1 nta:1 s:1
-idi: ng:2 ty:1
-idl: e:6
-ids: -:2
-ied: -:24
-ief: -:8
-ien: ce:1 t:2 tly:1
-ies: -:6
-iet: y:2
-iev: e:5 ed:4
-if: -:160
-ifi: can:1
-ift: -:2
-ige: d:12 nt:1
-igh: t:5 ted:6 tfu:3
-ign: -:1 ifi:1
-igu: e:1
-ike: -:4 s:2
-iki: n:8
-il: -:52
-ile: -:3 d:2 ss:1
-ili: ar:2
-ill: -:14 ing:4 umi:1 ust:1
-ilt: -:1
-ily: -:11
-im: -:1
-ima: ge:1 gin:1
-ime: d:1 s:2
-imm: edi:7 ens:1
-imp: -:1 ati:1 etu:1 oss:2
-in: -:1004
-ind: -:58 eed:14 oor:1 ust:3
-ine: -:1 d:10 ss:10
-inf: orm:3
-ing: -:256 rat:1 red:1 s:6
-inj: ury:2
-ink: led:4
-inn: -:7 ing:2 oce:4 s:3
-inq: uir:3
-ins: -:12 ect:1 ide:11 ign:1 ist:1 ole:1 pec:2 t:19 tan:4 tea:8
-int: -:1 ed:1 end:3 ent:4 err:1 o:360
-inv: isi:4 ite:2
-ion: -:17 les:1 s:3
-ios: ity:2
-iou: s:6
-ip: -:1
-ipe: r:15 s:3
-ipp: ed:3
-ir: -:179
-irc: ase:3
-ire: -:12 d:3 ly:3
-iro: n:13
-irs: -:13
-is: -:252
-ise: -:6
-isf: ied:8
-ish: -:5 ed:12 men:2
-isi: ble:4 on:1
-ist: -:3 anc:1 ed:1 ene:1 eni:1 urb:1
-it: -:796
-ita: l:3
-itc: hed:3
-ite: -:1 d:2 ly:1 s:1
-ith: -:5
-iti: mat:1 ng:1 on:2
-its: -:41 elf:8
-itt: ed:1
-itu: de:2
-ity: -:2
-ive: d:7 lle:1 n:1 red:1 rer:2
-ivi: ng:1
-ize: d:3
-jac: k:2
-jai: ler:1
-jam: -:2
-jee: red:2
-jew: els:5
-jib: -:2
-jin: gli:2
-job: -:3
-jog: ged:3
-joi: ned:2 nt:1
-jok: e:4
-jol: lil:2
-jou: rne:19
-joy: -:20 ful:5 ous:2
-jud: ge:9
-jug: -:5
-jum: p:1 ped:17 pin:5
-jun: ipe:15
-jus: t:45 tic:2
-k: -:661
-ke: -:72
-ked: -:186
-kee: n:1 p:26 pin:2 ps:2
-ken: -:20 ed:3
-kep: t:16
-ker: -:10 chi:8
-kes: -:2
-ket: -:30 ful:2 s:3 sfu:1 tle:2
-key: -:7 s:2
-kic: k:1 ked:1 ks:1
-kid: -:3 s:5
-kil: l:14 led:24 y:3
-kin: d:13 dly:7 dne:4 ds:4 g:299 gdo:23 gly:1 gs:5
-kis: s:3 sed:5
-kit: che:23
-kla: ce:2
-kle: -:2
-kma: nsh:1
-kme: n:1
-kna: ve:1
-kne: e:1 es:5 lt:1 ss:4 w:47
-kni: fe:8 ght:8 t:1 ves:1
-kno: ck:2 cke:14 cki:1 cks:2 w:51 win:9 wle:1 wn:7 ws:4
-kon: ed:2 ing:1
-ks: -:37
-ksh: op:1
-kwa: rd:1 rds:5
-ky: -:9
-l: -:918
-lab: our:2
-lac: e:1 es:1 kin:1
-lad: -:2 der:2 en:1 ies:3 s:1 y:25
-lag: e:12
-lai: d:56 med:1 n:3 ns:1 r:3
-lak: e:7
-lam: b:3 bs:1 e:1 ent:4 p:1 ps:1
-lan: d:23 dlo:4 dma:1 ds:1 gua:2
-lap: -:3 sed:1
-lar: -:20 e:1 ed:2 ge:31 ger:4 s:2
-las: s:1 t:96 ted:1
-lat: ch:1 e:8 er:2 he:2 ter:2
-lau: gh:7 ghe:10 nch:1
-law: -:1 s:1
-lay: -:65 ing:2
-laz: ily:1 y:6
-ld: -:455
-lde: d:8
-ldl: ess:1
-ldr: en:55 on:2
-lds: -:8 t:1
-le: -:156
-lea: d:1 din:2 ds:1 f:2 gue:4 ned:1 p:3 ped:1 pt:2 rn:7 rne:2 rni:3 rnt:5 st:4 the:5 ve:29 ves:7 vin:1
-lec: ted:4 tio:2
-led: -:182
-lef: t:51
-leg: -:7 ged:4 iti:1 s:12
-lei: sur:2
-len: -:16 gth:18 t:4 til:1 tly:2
-ler: -:32 s:3
-les: -:15 ias:1 s:6 t:3
-let: -:95 s:2 ter:3 tin:4
-ley: -:5
-lf: -:22
-lft: h:2
-lfu: l:3
-lib: ert:2
-lic: -:3 ked:1
-lid: -:5
-lie: -:23 d:14 r:2 s:6 st:1
-lif: e:20 ele:1 t:3 ted:15
-lig: ht:32 hte:8 hth:2 htn:4 hts:3
-lik: e:84 ed:12 ely:5 es:3 ewi:12
-lil: y:2
-lim: b:1 bs:2 e:1 ped:3
-lin: -:2 e:4 g:51 ger:1 gly:8 net:2
-lio: n:14 ns:4
-lip: s:9
-liq: uor:1
-lis: h:2 hed:1 hly:1 ten:13
-lit: era:1 tle:273 y:2
-liv: e:24 ed:35 eli:2 es:6 ing:4
-lk: -:1
-ll: -:235
-llb: oun:1
-lle: d:2 r:3
-lli: ant:2 ng:5
-lln: ess:1
-llo: w:1 wed:6
-lls: -:4
-lly: -:16
-loa: d:2 ded:1 f:5 ves:3
-loc: k:8 ked:5 ks:6
-lod: gin:2
-lof: t:3 ty:1
-log: -:2
-loi: ns:1
-lon: ely:1 g:101 ged:3 ger:29 gin:2
-loo: k:42 ked:88 kin:36 ks:5 se:1 sen:1
-lop: -:2 ed:3
-lor: -:51 d:11 ing:2 n:1 s:1
-los: e:5 s:5 t:19
-lot: -:1 s:1
-lou: d:9 dly:1 r:5
-lov: e:11 ed:17 eli:2 ely:2 er:2 es:1
-low: -:48 ed:17 er:2 ers:1 ing:7 s:9
-ls: -:58
-lst: -:4 one:5
-lt: -:16
-lth: -:6
-ltr: y:1
-lts: -:2
-luc: k:16 kil:2 ky:7
-lum: ber:1 p:3
-lut: ed:1
-lve: -:29 s:34
-ly: -:149
-lyi: ng:19
-m: -:539
-mac: h:5
-mad: -:1 e:97 man:1
-mag: ic:4 nif:4
-mai: d:22 den:22 ds:1 n:1
-maj: est:2
-mak: e:46 es:5 ing:10
-mal: -:4 ice:1 s:7
-man: -:171 age:6 agi:1 d:1 ded:2 ds:1 iki:8 kin:1 ner:4 tle:4 y:41
-map: -:2 s:1
-mar: ble:4 che:2 k:3 ked:2 ket:3 ria:6 rie:19 ry:10 ryi:1 sh:1 sha:1
-mas: ons:1 s:1 ter:22
-mat: -:1 ch:3 e:2 eri:1 ter:15
-may: -:44 or:2
-mb: -:3
-mbe: d:12 r:18 red:2 rla:3 rs:2
-mbi: ng:2
-mbl: e:1 ed:3 es:1 ing:3
-mbs: -:3
-me: -:245
-mea: dow:13 gre:1 l:6 n:3 nin:6 ns:2 nt:3 nti:7 nwh:1 red:1 sur:1 t:9 ts:2
-med: -:28 dle:1
-mee: k:2 t:6 tin:1 ts:1
-mel: anc:1 y:1
-men: -:22 dou:1 t:4
-mer: -:10 cha:8 cil:1 cy:4 ely:2 ril:5 rim:1 ry:17 rym:1
-mes: -:7 sen:5 t:1
-met: -:30
-mew: ed:1
-mia: u:1
-mic: e:6
-mid: -:1 day:1 dle:15 ges:1 nig:9 st:5
-mie: s:1
-mig: ht:60 hti:1 hty:4
-mil: e:1 es:2 k:7 kin:2 l:3 ler:24 let:1 lst:5
-min: d:11 ds:2 e:5 g:4 ute:3
-mis: cha:2 chi:4 e:6 ed:9 er:10 era:3 ery:1 for:6 hap:1 ing:1 s:1 sal:1 sed:8 sin:1 t:2 tak:1 too:1 tre:3
-mit: e:1
-mix: ed:1
-mly: -:2
-mme: r:1
-mmi: ng:4
-moa: ned:1 nin:1
-moc: ked:2 kin:1
-moi: st:1
-mom: ent:16
-mon: -:2 ds:4 ed:6 ey:32 s:1 ste:3 th:3 ths:2
-moo: d:1 n:12
-mop: -:1
-mor: e:90 eov:1 nin:69 row:3 sel:1
-mos: s:4 t:21
-mot: her:82 ion:3
-mou: nt:1 nta:19 nte:4 rn:1 rne:4 rnf:1 rni:1 se:27 th:11 thf:1 ths:1
-mov: e:14 ed:2 eme:1 ing:1
-mp: -:2
-mpe: red:1
-mpl: e:1 ing:1
-mps: -:1
-ms: -:13
-mse: lve:32
-msi: ly:2
-msy: -:1
-muc: h:60
-mud: dy:1
-mum: ble:1
-mur: der:11
-mus: ic:2 ici:4 ing:1 sel:1 t:94
-mut: ter:3
-my: -:177
-mya: rd:1
-mys: elf:17
-n: -:1511
-nag: -:1
-nai: l:1 led:1 ls:1
-nak: ed:3
-nal: -:1
-nam: e:9 es:5
-nar: row:4 y:1
-nas: ty:2
-nat: e:2 ed:1 ura:1
-nau: ght:1
-nce: -:57 d:2 s:9 ss:71 sse:16
-nch: -:10 ed:1 es:8
-nci: pal:2
-nd: -:193
-nde: d:12 lie:2 r:5 rs:1 rst:1
-ndf: ath:3
-ndi: ng:34
-ndl: e:9 es:1 y:3
-ndm: oth:20
-nds: -:14 on:1
-ne: -:66
-nea: r:29 rer:7 rly:1 t:4 tly:1
-nec: k:13 kla:2 ks:1
-ned: -:69
-nee: d:11 ded:2 dfu:1 dle:10
-neg: lec:1
-nei: gh:1 ghb:2 the:11
-ner: -:35 s:1
-nes: -:13 s:8 sed:4 t:10 tle:1 tly:1
-net: -:3 s:3
-nev: er:60 ert:3
-new: -:7 ly:1 s:4
-nex: t:49
-nfu: l:1
-ng: -:489
-nga: le:3 les:1
-nge: -:6 d:11 r:4 st:23
-ngi: ng:2
-ngl: ed:1
-ngs: -:28 t:4
-nib: ble:1 bli:1
-nic: e:5 ely:2
-nif: ice:4
-nig: h:1 ht:78 hti:4 hts:2
-nim: ble:1 bly:2 ous:1
-nin: e:5 g:150 gs:1 th:1
-nio: n:1
-nip: -:4 s:2
-nis: hed:2
-nit: e:2 ure:1
-nk: -:89
-nke: d:5 n:1 ts:2
-nkf: ul:3
-nki: ng:26
-nkl: ing:1
-nks: -:2
-nly: -:11
-nne: d:1
-nni: ng:3
-no: -:174
-nob: le:5 ody:12
-nod: ded:1
-noi: se:12
-non: e:12 sen:2
-noo: n:4
-nor: -:9
-nos: e:3 ega:1 tri:1
-not: -:475 e:2 es:1 hin:79 ice:4
-nou: nce:1
-now: -:72 her:3 n:4
-ns: -:35
-nse: l:6 lle:1
-nsf: orm:1
-nsh: ip:1
-nsl: ati:2
-nst: air:1
-nt: -:81
-nta: in:14 ins:8 lly:1 nce:2
-nte: d:20 r:1 rac:1
-nth: -:1
-nti: de:1 me:7 spi:1
-ntl: ess:1 y:4
-ntr: ies:1 y:19 yma:6
-nts: -:14
-nty: -:17
-nud: ged:1
-num: ber:4
-nur: se:3
-nut: -:7 s:6 she:2
-nwa: re:3
-nwh: ile:1
-ny: -:4
-o: -:403
-oaf: -:2
-oak: -:2
-oar: -:2
-oat: -:2 s:1
-obe: die:1
-obj: ect:2
-obl: ige:12
-obs: erv:5 tac:1
-oc: -:1
-occ: asi:2 urr:3
-oce: nce:2 nt:2
-och: -:1
-ock: -:1
-od: -:81
-odd: -:5
-odi: ous:1
-ody: -:17
-oev: er:1
-of: -:947
-off: -:128 er:3 ere:5 ice:2
-oft: en:7
-oga: nce:1
-oge: the:1
-ogn: ize:3
+-: a:1368 ab:152 ac:29 ad:14 af:113 ag:222 ah:1 ai:23 al:575 am:81 an:4132 ap:54 ar:161 as:699 at:425 av:3 aw:230 ax:16 ba:219 be:1193 bi:162 bl:98 bo:228 br:365 bu:599 by:210 ca:868 ce:43 ch:253 ci:19 cl:159 co:693 cr:157 cu:113 d:7 da:341 de:193 di:260 do:654 dr:256 du:36 dw:57 dy:1 ea:207 eb:1 ec:1 ed:5 ef:1 eg:15 ei:15 el:56 em:14 en:149 eq:5 er:6 es:14 ev:186 ex:22 ey:44 fa:361 fe:268 fi:400 fl:141 fo:918 fr:258 fu:73 ga:197 ge:89 gh:1 gi:215 gl:58 gn:2 go:591 gr:318 gu:26 ha:1395 he:2693 hi:1518 ho:572 hu:156 id:10 if:160 il:16 im:15 in:1227 ir:13 is:252 it:832 ja:5 je:7 ji:4 jo:61 ju:99 ke:65 ki:374 kn:164 la:392 le:316 li:634 ll:17 lo:437 lu:29 ly:19 m:1 ma:575 me:370 mi:214 mo:434 mu:178 my:188 na:29 ne:227 ni:94 no:847 nu:23 o:11 oa:2 ob:21 oc:5 od:6 of:1091 oh:1 ol:146 on:865 op:59 or:113 ot:110 ou:388 ov:144 ow:44 ox:5 pa:190 pe:165 pi:154 pl:162 po:137 pr:265 pu:167 qu:167 ra:172 re:301 ri:128 ro:300 ru:71 s:251 sa:816 sc:64 se:543 sh:1294 si:291 sk:34 sl:91 sm:43 sn:43 so:875 sp:219 sq:5 st:628 su:188 sw:47 sy:1 t:28 ta:312 te:85 th:7795 ti:291 to:2309 tr:306 tu:74 tw:157 ty:1 ug:8 un:176 up:448 ur:4 us:64 va:29 ve:176 vi:28 vo:18 wa:1449 we:889 wh:1220 wi:1213 wo:547 wr:34 ya:7 ye:84 yi:3 yo:828
+a: -:1390
+ab: -:1 as:1 be:1 by:6 id:2 le:35 ly:2 od:1 ou:120 ov:13 se:1
+ac: ci:2 co:11 cu:4 e:38 ea:1 ed:16 ef:1 es:1 h:18 he:16 hm:2 io:1 k:37 ke:4 le:1 qu:2 ro:9 tl:5 tu:1
+ad: -:146 d:1 e:12 ed:1 es:1 in:3 ly:1 mi:1 ne:3 op:1 or:1 ow:13 ri:2 s:9 st:1 ua:1 va:1 ve:1 vi:7 y:45
+af: -:7 ar:3 ed:1 fa:1 fe:1 fi:3 ra:12 t:2 te:96 ts:1 ty:2
+ag: -:5 ai:195 e:37 ed:1 es:3 ge:7 gi:2 in:1 o:4 on:11 re:22 s:1 ue:6
+ah: ea:1
+ai: d:1 de:1 ds:2 l:3 le:1 ls:1 m:1 me:3 n:215 ne:3 ni:1 nl:11 ns:29 nt:3 r:26 rc:3 rs:27 t:1 ti:1
+ak: -:13 e:20 en:9 es:2 in:2
+al: -:35 ar:3 as:9 de:1 e:10 ed:4 es:1 ig:6 ik:2 in:1 it:2 iv:7 k:1 l:507 le:3 lo:17 ly:12 mo:4 ms:1 on:40 oo:1 ou:1 re:19 s:13 so:27 ta:1 th:9 to:1 wa:33
+am: -:70 az:1 ba:1 be:24 e:8 ed:9 en:1 es:5 ic:1 id:2 in:9 is:1 on:23 pe:1 pl:2 s:2 us:4
+an: -:205 ce:15 ch:13 d:3833 de:4 df:3 di:31 dm:20 ds:8 e:1 ed:3 ge:24 gl:1 gr:14 im:11 in:7 io:3 it:2 k:19 ke:5 kf:3 ks:2 no:6 oi:1 ot:45 s:6 sf:1 sl:2 sw:53 t:93 te:16 ti:7 tl:2 tm:5 tr:15 ts:33 ty:1 vi:2 wh:1 xi:4 y:60 yb:1 yo:15 yt:25 yw:1
+ap: -:14 e:3 ed:2 el:1 es:1 ie:1 is:1 pe:18 pi:3 pl:27 po:1 pr:6 ro:8 s:10 se:1 t:2
+ar: -:179 ce:11 ch:13 d:119 de:2 ds:29 e:125 ed:9 er:11 es:9 f:40 fs:10 ic:1 in:11 is:1 kl:7 l:1 le:3 ls:12 ly:4 m:8 me:2 mi:2 mo:4 ms:8 my:2 n:7 ne:2 ni:3 nt:5 os:4 ou:9 p:5 pe:1 pl:1 re:3 ri:7 ro:22 ry:1 s:46 se:4 sk:1 t:63 te:13 th:10 ti:3 ts:2 ty:2 vi:1 y:3
+as: -:550 an:35 ce:4 e:6 ed:4 h:7 ha:2 he:20 hi:1 ho:4 id:4 in:1 k:21 ke:62 ki:1 le:35 on:7 pe:1 s:40 se:7 sh:1 si:4 su:2 t:47 te:3 tf:1 ti:2 to:8 ts:10 ur:1
+at: -:1428 ch:4 e:38 ed:12 ef:1 el:9 en:8 es:3 ev:8 h:28 he:23 io:2 it:1 ly:1 s:5 so:2 te:14 ti:1
+au: -:1 gh:11 te:1 ti:94 ty:7
+av: ai:2 ar:1 e:40 ed:1 el:28 en:11 es:10 ie:1 il:1 in:1 y:19
+aw: -:22 ai:2 ak:13 ar:6 ay:188 ed:1 er:3 hi:2 in:4 kw:1 l:1 le:4 n:3 ok:21
+ax: e:16
+ay: -:221 ed:23 er:1 in:11 th:1
+az: ed:3 in:1
+b: -:10
+ba: by:2 cc:1 ck:113 co:2 d:8 de:9 g:5 ke:8 ki:1 le:1 ll:15 nd:1 nk:5 r:3 re:1 rg:15 rk:5 rn:2 ro:1 rr:7 rs:2 se:1 sk:3 ss:2 st:1 th:2 tt:5 wl:2
+bb: ag:2 ed:5 er:14 in:2 le:8 li:1
+bd: ue:1
+be: -:295 ak:2 am:3 an:4 ar:44 as:20 at:9 au:102 ca:43 ck:1 co:9 d:61 dc:1 dr:2 ds:2 dt:1 ef:1 en:101 er:9 es:4 fa:3 fe:1 fo:116 fr:1 g:11 ga:88 gg:17 gi:8 gu:1 ha:6 he:1 hi:56 ho:1 in:16 la:1 li:9 ll:7 lo:21 nc:6 nd:1 ne:12 nt:5 r:17 re:2 rl:3 rr:2 rs:2 rt:2 s:2 si:10 sm:1 so:2 sp:1 st:23 th:3 ti:2 to:1 tr:11 tt:34 tw:7 wa:5 wi:3 yo:1
+bg: ob:2
+bi: d:3 dd:2 er:1 g:22 gg:4 ll:2 n:6 nd:4 ng:3 rd:105 rt:5 t:5 te:3 tt:7
+bl: ac:30 am:1 az:2 e:61 ea:2 ed:6 es:11 et:3 ew:5 ic:2 in:8 is:1 oc:1 oo:22 ow:21 ue:8 y:4
+bo: ar:12 as:3 at:14 bb:1 di:1 dy:25 il:8 ld:3 lt:6 nd:6 ne:13 nn:1 ny:1 ok:3 on:6 ot:6 re:4 rn:10 rr:1 so:2 th:25 tt:18 ug:13 un:11 ur:3 w:8 wl:4 ws:1 x:5 xe:1 y:40 ys:1
+br: ac:1 ai:4 an:13 at:6 av:1 ay:3 ea:44 ed:1 ee:3 et:2 ew:1 ia:1 id:47 ig:10 il:2 in:48 is:4 oa:4 ok:21 oo:11 ot:61 ou:70 ow:7 us:6 ut:1
+bs: -:4
+bu: ck:5 dd:1 ff:1 il:10 nd:2 ng:2 rd:1 ri:3 rn:19 rs:4 ry:3 sh:11 si:9 st:2 sy:3 t:501 tc:3 tl:3 tt:12 y:3 ye:1 zz:1
+by: -:218 e:4
+c: -:7
+ca: bb:2 bi:6 ge:14 ke:17 l:1 lf:9 ll:46 lm:1 lv:1 me:386 n:81 nd:2 nn:25 p:14 pe:12 pi:2 pt:1 rd:2 re:47 ri:1 rp:2 rr:70 rt:24 se:4 si:2 sk:11 st:52 t:40 tc:6 te:1 ts:3 ug:14 ul:2 us:21 ve:4
+cc: ee:2 es:1 o:1
+ce: -:229 as:4 d:17 iv:11 le:6 ll:18 ly:14 nc:2 nd:4 nt:3 pt:1 re:1 rs:1 rt:17 s:15 ss:87
+ch: -:225 af:4 ai:20 al:1 am:22 an:49 ap:1 ar:4 as:1 at:6 ea:2 ed:19 ee:19 er:5 es:19 ic:4 ie:1 il:111 in:6 ir:2 ly:3 ok:2 oo:4 os:3 ri:2 uc:2 ur:10 ya:1
+ci: an:4 de:5 en:1 nd:5 ou:2 pa:2 rc:6 si:1 st:1 ta:1 te:1 ty:6 vi:1
+ck: -:241 ed:51 et:28 il:3 in:6 la:2 le:2 ne:2 on:3 s:20 wa:6 y:7
+cl: ac:2 ai:1 am:2 ap:4 ar:3 as:1 at:2 aw:4 e:1 ea:14 ef:1 er:1 es:2 ev:7 ic:2 im:17 oa:20 oc:14 od:1 og:1 os:23 ot:33 ou:3 ub:1 um:3 un:1 ut:2
+co: ac:7 al:7 as:1 at:11 bb:1 ck:10 ff:5 gn:3 il:1 in:2 ld:6 ll:9 lo:3 mb:9 me:134 mf:8 mi:18 mm:7 mp:20 mr:2 n:2 nc:5 nd:32 nf:2 nq:1 ns:17 nt:22 nv:2 ok:47 ol:4 ps:1 rd:9 rn:20 st:8 tt:10 uc:3 ug:1 ul:167 un:47 up:3 ur:43 us:3 ve:12 w:24 wa:2 ws:5
+cr: ac:4 af:5 as:2 aw:5 ea:10 ed:1 ee:3 ep:18 et:5 ev:1 ew:1 ie:70 oa:3 os:8 ou:1 ow:10 ue:2 um:3 us:2 y:4 yi:4 ys:1
+ct: -:2 ed:4 in:1 io:4 ly:2 or:11 s:1
+cu: dg:2 ff:1 lt:1 nn:2 p:9 pb:3 ps:1 r:1 re:3 ri:3 rl:9 rr:3 rs:3 rt:5 se:6 sh:2 st:4 t:60 tt:5
+cy: -:3
+d: -:7016
+da: il:2 in:3 le:5 me:1 nc:46 ng:4 re:11 rk:24 rl:5 rt:3 sh:2 ug:76 wd:1 wn:6 y:133 yb:5 yl:5 ys:18 zz:2
+dc: ha:1 hi:1 ru:1
+dd: ay:1 ed:2 en:25 er:2 in:17 le:33 li:2 y:1
+de: -:230 ad:28 al:8 ar:38 at:14 ce:2 ci:4 ck:2 cl:3 cr:1 d:32 ed:17 ep:20 er:5 fe:1 gr:1 la:3 li:17 ma:1 n:4 ni:1 no:1 nt:2 ny:1 pa:1 pe:1 pt:1 r:77 re:23 rg:1 ri:4 rn:2 rr:1 rs:12 rt:5 rw:1 s:7 sc:3 se:7 si:10 sp:2 st:25 te:4 vi:2 vo:5 w:1 wd:1
+df: at:3 ul:5
+dg: e:15 ed:1 el:2 eo:2 es:2 in:2
+di: am:4 at:7 ct:1 d:136 e:7 ed:14 en:1 es:4 ff:5 g:3 li:1 m:3 ne:2 ng:48 ni:1 nn:13 pp:1 re:3 rt:13 sa:5 sc:5 se:1 sf:1 sg:2 sh:20 sl:1 sm:6 sp:5 st:7 ty:1 ve:2 vi:1
+dl: ar:3 e:9 es:5 y:19
+dm: an:1 ot:23
+dn: es:1 ig:9
+do: -:132 ct:9 es:17 g:29 gs:11 in:11 m:22 ms:1 n:17 ne:56 nk:1 om:2 or:107 st:2 ub:8 us:1 ve:27 w:2 wn:229 wr:1
+dr: ag:24 ai:2 an:15 au:10 aw:27 ea:19 en:54 es:35 ew:29 in:38 ip:1 iv:16 ol:2 on:2 oo:2 op:14 ov:14 ow:3 un:4 y:4
+ds: -:64 on:1 t:8
+dt: im:1
+du: ca:2 ck:19 g:2 ke:2 ll:1 mb:1 mp:1 ng:1 ri:5 sk:1 st:3 ty:1
+dw: ar:50 el:7
+dy: -:53 in:1
+e: -:7675
+ea: -:4 bl:1 ch:57 d:38 dc:1 de:1 df:5 di:1 dy:1 ge:4 gl:2 k:32 ki:4 l:2 le:1 m:6 mi:1 ms:2 mt:2 n:5 nc:1 ne:3 r:11 re:7 rl:12 rn:9 rs:8 rt:17 sa:4 se:42 si:8 st:3 su:11 sy:19 t:173 te:30 th:7 ti:8 tl:7 ts:1 tu:10 ty:1
+eb: ac:1 le:1 on:1
+ec: cl:1 e:24 es:12 ia:1 io:5 ip:1 ra:1 t:2 ta:3 te:7 ti:3 tl:1
+ed: -:1384 ed:2 en:1 fu:1 ge:5 ie:2 le:10 ly:2 s:3
+ee: -:132 cy:1 d:3 de:1 di:2 dy:2 k:2 ks:2 l:7 ls:7 n:70 ns:1 nt:1 nw:5 p:30 pe:3 pi:16 r:2 re:2 rf:4 s:21 se:11 t:6 te:1 th:4 tl:1 ve:2 ze:4
+ef: -:21 fo:1 or:20 t:1 ul:7
+eg: g:7 gs:8 ro:7
+ei: gh:8 n:6 ng:17 r:171 te:2 th:7 ve:4 vi:1
+ek: -:10 in:1 s:4
+el: -:35 bo:1 d:11 de:33 ds:8 ev:7 f:181 ft:2 in:3 l:13 lb:1 le:15 li:13 ls:3 me:2 s:6 se:15 t:6 ve:35 y:12
+em: -:267 an:1 ba:2 bl:7 br:1 ed:21 en:6 ie:1 ne:2 pe:2 pt:10 s:6 se:32 y:6
+en: -:979 ce:12 ch:27 d:36 de:4 di:2 dl:1 do:1 ds:2 ed:105 em:7 er:12 ev:4 fu:1 ga:2 ge:5 in:44 jo:9 ly:10 or:1 ou:32 ra:1 s:16 se:2 t:44 ta:1 te:26 th:3 ti:12 tl:9 tr:9 ty:13 vi:2 vy:3
+eo: n:1 ns:2
+ep: -:90 ar:3 da:3 ed:4 en:1 er:5 es:1 he:16 in:2 ly:1 mo:3 pe:4 s:10 t:37
+eq: ua:3 ui:2
+er: -:932 ce:5 co:7 da:3 e:334 ed:83 ef:18 ei:5 en:3 eo:1 er:7 es:1 eu:3 ev:3 ew:1 fu:8 hu:1 in:7 jo:7 ks:1 lo:1 ly:11 ma:18 n:3 ne:2 ni:1 ou:3 pi:1 ra:1 ry:1 s:72 sa:3 se:1 sp:1 t:1 ta:2 te:1 to:5 ty:1 ve:1 wh:2 y:68 yb:5 yo:10 yt:25 yw:4
+es: -:280 ca:9 e:38 en:11 er:1 h:11 ia:1 oe:1 om:2 pi:2 py:1 s:51 se:28 si:5 sl:1 t:40 te:1 tl:1 tn:2 ts:4
+et: -:69 ch:14 en:5 fu:2 h:4 he:17 hr:2 in:2 ly:2 s:11 sf:1 te:2 ti:5 ty:15 y:2
+eu: po:3
+ev: e:5 ed:4 en:69 er:139 ic:1 il:10 io:1
+ew: -:150 ed:1 it:1 or:1
+ex: ac:5 ce:4 ch:1 ci:1 cl:1 cu:3 er:1 pa:1 pe:5 pl:1
+ey: -:613 e:1 es:43
+ez: ed:3
+f: -:367
+fa: ce:28 ir:42 it:12 ll:48 ls:9 me:1 mi:3 mo:1 nc:4 nn:1 r:21 re:6 ri:1 rm:6 rt:14 st:48 t:13 te:5 th:94 ti:1 tt:2 vo:6
+fe: -:111 ar:18 as:25 at:11 ct:1 d:3 eb:1 ed:4 el:18 et:11 ig:1 le:1 ll:112 lt:27 ly:4 nd:1 r:4 re:5 st:2 tc:28 ty:2 w:10 we:1
+ff: ed:1 er:10 et:1 ic:3 in:6
+fi: ce:2 dd:13 el:19 er:7 ft:11 g:1 gh:7 gu:3 ll:11 n:4 nc:3 nd:52 ne:47 ng:34 ni:10 r:2 re:54 rm:4 rs:65 sh:47 t:2 tt:2 ve:6 x:1 xe:3
+fl: ak:1 am:6 ap:1 as:3 ec:1 ed:1 ee:3 es:4 ew:43 ie:5 ig:2 in:2 oa:1 oc:9 oo:8 or:2 ow:29 ur:1 ut:4 y:10 yi:6
+fo: am:2 lk:2 ll:35 nd:9 od:20 ol:6 ot:18 r:476 rb:3 rc:29 re:182 rf:1 rg:25 rk:2 rl:1 rm:16 rs:2 rt:36 rw:11 ul:1 un:91 ur:27 wl:9 x:35
+fr: am:1 ee:18 es:7 et:1 ie:30 ig:28 oc:3 og:14 ol:1 om:142 on:9 oz:2 ui:4 y:1
+fs: -:10
+ft: -:71 ed:15 ee:2 en:1 h:8 ly:2 s:3 y:4
+fu: el:1 l:122 lf:8 ll:52 n:1 nn:1 r:10 ri:2 rn:2 rr:1 rs:1 rt:4 ry:1 se:2 tu:1
+g: -:1081
+ga: bo:4 ge:2 in:3 ll:9 me:6 n:88 nc:1 ng:4 pi:2 r:4 rd:52 rl:4 rr:1 sp:1 te:21 th:12 ve:71 y:4 ze:10 zi:2
+ge: -:56 d:39 es:9 l:2 ls:2 ly:1 m:1 nt:13 on:6 r:13 rl:1 rn:1 rs:2 s:6 st:23 t:58 ta:2 th:69 ts:3 tt:8
+gg: ar:1 ed:26 er:2 es:2 in:2 on:1
+gh: -:69 ed:2 er:8 es:2 in:2 ly:2 os:1 t:393 te:15 tf:4 th:2 ti:10 tn:4 ts:9 ty:4 wa:1
+gi: an:29 c:4 ft:9 ld:1 n:6 ng:8 nn:2 rd:1 rl:54 ti:1 ve:116 vi:5
+gl: ad:15 as:29 e:2 ec:1 ed:1 im:1 it:9 oo:4 y:9
+gn: -:2 al:1 at:1 aw:1 ed:1 if:5 iz:3 s:1
+go: -:158 at:5 bl:1 dc:1 dl:2 dm:3 es:5 in:47 ld:123 ne:40 od:111 os:16 re:1 ss:2 t:75 wn:1
+gr: ac:2 ad:1 ai:3 an:36 as:4 at:2 av:7 az:1 ea:134 ed:1 ee:22 ew:23 ey:12 ie:14 if:4 il:1 in:6 oo:3 op:2 ou:20 ov:3 ow:21 y:13
+gs: -:61 he:1 t:4 ty:5
+gu: ar:10 dg:2 e:2 er:4 es:14 id:1 lp:1 n:1 re:3
+h: -:500
+ha: -:1 bi:1 d:636 ds:2 ir:40 l:1 lf:22 ll:5 lt:1 m:1 mb:1 me:2 mp:1 nc:2 nd:101 ng:18 nt:9 pp:72 rd:31 re:3 rm:7 rn:6 rs:1 s:78 st:24 t:7 tc:7 te:2 th:6 ug:3 un:2 ve:288 vi:18 vo:1 y:10 za:1 ze:10
+hb: ou:2
+he: -:1406 ad:80 al:4 ap:7 ar:174 at:8 av:32 cy:2 d:119 dg:4 ed:1 el:4 ig:1 ir:3 ld:26 le:3 ll:3 lm:1 lp:27 n:25 nc:3 nw:3 r:1047 rb:1 rd:18 re:57 rn:2 ro:3 rs:115 rw:6 s:51 t:5 w:2 we:1
+hf: ul:13
+hi: d:10 dd:8 de:6 di:3 ef:20 gh:29 ld:1 le:2 ll:23 m:585 ms:112 nd:59 ne:1 ng:61 p:1 re:1 s:726 ss:1 st:1 t:5 th:6
+hl: y:2
+hm: an:2
+ho: ar:1 bb:2 bg:2 e:1 es:1 la:1 ld:26 le:13 li:1 ll:3 ly:1 me:124 ne:9 no:3 od:2 of:1 ok:2 ol:3 p:2 pe:7 pp:5 re:4 rn:4 rr:4 rs:85 st:2 t:5 ur:20 us:81 ut:3 ve:1 w:87 we:78 wl:2 ws:1
+hr: en:2
+hs: -:4
+ht: -:93 ed:5 en:23 er:77 fu:1 il:2 ly:2 ne:1 s:2 y:2
+hu: g:1 ge:2 gg:2 ma:2 mm:1 mp:1 nd:18 ng:28 nt:52 rr:9 rt:7 sb:29 sh:1 t:4
+hw: it:1 oo:2
+hy: -:1
+ia: ge:13 l:3 r:1 st:1
+ib: le:10 ly:6
+ic: -:3 ab:1 an:1 e:32 ed:8 en:4 es:2 h:141 ie:1 in:3 io:2 k:17 ke:17 ki:2 kl:24 ks:4 or:3 s:1 ul:3
+id: -:485 de:1 e:60 ea:4 ed:1 eg:7 en:22 er:2 ge:2 le:6 s:1 st:1
+ie: ce:2 d:176 f:13 nd:30 nt:3 r:37 rs:5 s:23 st:4 t:3 te:1 tl:11 ve:17 vi:1
+if: -:160 e:8 f:1 fe:1 fi:4 ic:5 ie:7 t:1 tl:1
+ig: -:2 h:2 hb:2 he:2 ht:93 n:1 ne:7 ni:1 s:1 ur:1
+ik: e:4
+il: -:30 d:58 dl:1 dr:54 e:38 ed:11 er:1 es:1 fu:3 ig:1 in:5 l:107 le:8 li:2 ln:1 lu:2 or:54 s:7 st:4 t:10 ts:2 y:28
+im: -:3 ag:2 al:10 b:3 be:12 bi:2 e:1 ed:1 en:1 me:9 mi:4 ou:1 p:1 pa:1 pe:1 po:2
+in: -:871 ce:135 ci:2 d:5 de:21 dl:10 do:1 du:3 e:3 ed:28 es:8 fo:3 g:879 gi:2 gl:9 gr:2 gs:28 in:8 io:1 ju:2 k:63 ke:2 ki:26 kl:1 n:7 ne:1 ni:3 no:4 ns:3 qu:3 s:20 se:1 si:13 so:1 sp:2 st:12 t:5 te:13 to:360 ty:3 ua:4 ue:7 vi:6
+io: n:28 na:1 ns:3 r:1 rs:1 us:8
+ip: -:22 ic:1 pe:23 pi:2 s:7
+ir: -:67 d:37 e:3 ed:6 er:1 es:7 ie:6 it:7 lw:2 on:13 pi:2 re:2 ri:2 s:2 st:12 t:2 te:2 y:18
+is: -:467 e:28 ed:15 h:3 he:3 hl:1 in:1 io:1 ke:2 kl:2 on:9 pe:1 s:1 sa:1 se:2 so:6 t:1 tc:1 te:1 tl:8 ur:2
+it: -:812 ab:1 ch:3 e:110 ed:20 ef:2 en:1 h:6 he:21 hf:12 ie:1 in:15 io:4 or:5 s:43 se:8 te:11 ud:1 ur:1 y:6
+iv: al:2 e:17 ed:8 en:5 er:3 es:2 in:6
+iz: e:3 ed:21 in:1
+ja: ck:2 il:1 m:2
+je: ct:2 er:2 st:2 we:5
+ji: b:2 ng:2
+jo: b:3 gg:3 ic:12 in:3 ke:4 ll:2 ur:19 y:27 ye:9 yf:5 yo:2
+ju: dg:9 g:5 mp:23 ni:15 ry:2 st:47
+k: -:284
+ke: -:276 d:116 en:1 ep:31 ly:5 n:30 ne:3 ns:2 pt:16 r:15 rc:16 s:23 st:1 t:5 ts:2 tt:2 wi:12 y:6 ys:2
+kf: ul:3
+kh: ea:1
+ki: ck:3 d:3 ds:5 ll:38 n:8 nd:27 ng:325 rt:1 ss:8 tc:23
+kl: e:1 ed:5 in:4 y:26
+kn: av:1 ee:6 el:1 ew:47 if:8 ig:8 it:1 iv:1 oc:19 ow:76
+ks: -:12
+kw: ar:1
+l: -:882
+la: bo:3 ce:28 ck:1 d:11 dd:2 de:1 di:3 ds:1 dy:25 id:56 im:2 in:5 ir:3 ke:7 mb:4 me:5 mp:2 nc:1 nd:27 ng:2 p:3 rg:35 rl:1 sh:2 ss:1 st:97 tc:1 te:10 th:2 tt:2 ug:17 un:1 w:1 ws:1 y:67 ye:1 yi:2 zi:1 zy:6
+lb: ou:1
+lc: om:7
+ld: -:336 ed:1 en:63 er:13 ie:41 in:3 ly:2 re:1 sm:3
+le: -:527 ad:4 af:2 ag:4 an:1 ap:6 ar:17 as:5 at:5 av:37 br:6 ct:1 d:85 dg:1 ep:35 fi:1 ft:51 g:7 gg:4 gi:1 gs:12 is:2 ma:4 nc:3 nd:5 ng:18 nt:5 r:15 rs:6 s:20 ss:17 st:2 t:96 te:1 to:3 ts:1 tt:7 ty:2
+lf: -:117 il:8 wa:1
+li: an:3 ar:2 be:2 ca:1 ce:1 ci:1 ck:1 d:6 da:1 e:23 ed:1 er:4 es:6 ev:9 fe:21 ft:18 ge:13 gh:53 ho:2 ke:114 mb:3 me:1 mp:3 n:2 ne:4 ng:27 nn:2 on:18 ps:9 qu:1 st:13 t:2 te:2 tt:273 tu:1 ve:70 vi:4
+lk: -:36 ed:28 en:3 il:1 in:8 s:2 y:1
+ll: -:765 ag:12 ai:1 ap:1 ar:19 ec:4 ed:110 en:18 er:25 es:1 et:1 ey:4 il:2 in:37 oc:1 op:5 ow:81 s:26 st:5 ut:1 y:35
+lm: -:1 et:1
+ln: es:1
+lo: ad:3 af:5 av:3 ck:19 dg:2 ft:4 g:2 in:1 ne:1 ng:144 ok:172 os:2 rd:15 se:5 ss:5 st:19 t:1 ts:1 ud:10 ur:3 ve:38 w:14 we:15
+lp: -:23 ed:5
+ls: -:32 e:9
+lt: -:38 ed:5 in:1 ry:1 ur:1 y:2
+lu: ab:2 ck:26 e:1 mb:1 mi:1 mp:3 st:1
+lv: ed:2 er:21 es:35 et:1
+lw: in:2
+ly: -:265 in:19
+m: -:650
+ma: d:1 de:97 dm:1 gi:4 gn:4 id:45 in:23 je:2 ke:60 ki:10 li:1 n:250 na:7 nd:1 ni:8 nk:1 nn:4 ns:1 nt:4 ny:41 p:2 ps:1 rb:4 rc:2 rk:11 rr:36 rs:2 so:1 ss:1 st:22 t:1 tc:3 te:3 ti:1 tt:15 y:43 yo:2
+mb: -:9 ed:2 er:11 in:2 le:8 li:2 ly:2 s:5
+me: -:1137 ad:13 ag:1 al:6 an:22 as:1 at:11 bo:4 d:12 dd:1 di:7 ek:2 et:8 la:1 ly:2 mb:5 n:23 ns:1 nt:26 on:10 r:1 rc:13 re:2 rr:24 s:32 ss:5 st:2 t:29 th:36 ti:1 wa:3 we:1
+mf: or:8
+mi: au:1 ca:1 ce:6 d:1 dd:16 dg:1 dn:9 ds:5 gh:65 le:3 li:2 lk:9 ll:33 na:1 nd:13 ne:6 ng:25 nu:3 sc:6 se:14 sf:6 sh:1 ss:8 st:7 te:1 tt:1 xe:1
+mm: an:4 er:3 in:1 on:10
+mo: an:2 ck:3 is:1 me:16 ne:32 ns:3 nt:5 ny:1 od:1 on:12 p:1 re:91 rn:69 rr:12 rs:2 ss:4 st:24 th:82 ti:3 un:23 ur:11 us:29 ut:13 ve:18 vi:1
+mp: -:9 an:11 ar:1 as:2 ed:20 el:2 er:1 in:5 io:4 la:3 le:8 li:1 s:1 t:2 ta:2 te:2 ti:1
+mr: ad:2
+ms: -:12 el:112 ti:1
+mt: -:2
+mu: ch:60 dd:1 mb:1 rd:11 si:7 ss:1 st:94 tt:3
+my: -:177 se:17
+n: -:1359
+na: fo:1 g:1 ge:6 gi:1 il:3 ke:3 me:14 rr:4 ry:1 st:2 te:1 tu:1 ug:1
+nb: ea:1
+nc: e:31 ed:19 ef:2 ei:2 er:4 es:1 h:7 ha:1 he:6 ho:1 ie:3 in:14 y:1
+nd: -:356 an:4 ed:12 em:2 er:37 fu:4 id:4 in:8 it:2 ke:8 le:4 lo:4 ly:13 ma:1 ne:4 ou:1 ow:38 re:19 ro:1 s:41 sh:1 so:12
+ne: -:235 ar:37 at:17 ck:16 d:30 ed:24 ga:3 gl:1 ig:3 it:11 ly:2 r:6 rs:1 s:15 ss:27 st:16 t:1 ve:59 w:7 we:1 wl:1 ws:4 xt:49 y:49 ye:6 yi:1
+nf: es:1 in:1 ul:3
+ng: -:887 al:4 do:23 e:17 ea:1 ed:13 er:80 es:6 hi:1 in:27 le:7 li:2 ma:1 ry:11 s:24 th:29 ua:2 ue:8
+ni: al:1 bb:2 ce:7 gh:79 ki:8 mb:3 ne:5 ng:11 nt:1 pe:15 sh:26
+nk: -:12 ey:1 in:2 le:4
+nl: y:11
+nn: ed:1 er:17 et:3 in:16 ot:25 y:2
+no: -:174 bl:5 bo:12 ce:4 dd:1 is:12 ne:12 ns:2 on:4 r:9 se:4 st:1 t:450 te:3 th:79 ti:4 un:7 ur:3 w:72 wh:3 wn:1
+nq: ue:1
+nr: is:1
+ns: -:57 ci:2 e:1 ec:1 en:9 hi:2 ib:1 id:2 om:1 t:19 ta:2 te:3 tr:1 ul:1 um:1
+nt: -:468 ai:1 al:2 an:2 ed:45 em:1 en:7 er:8 h:8 hs:2 ia:1 il:1 in:21 io:3 le:12 ly:6 ra:1 ri:3 ro:1 ry:1 s:8 sm:41 ur:6
+nu: dg:1 mb:4 rs:3 t:7 te:3 ts:8
+nv: er:2
+nw: ar:3 oo:5
+ny: -:44
+nz: el:1
+o: -:416
+oa: ch:5 d:4 f:2 k:22 ke:1 ki:2 rd:3 t:2
+ob: ed:1 je:2 li:14 se:5 st:1
+oc: ca:2 cu:3 k:33 ke:15 kh:1 ki:3 ks:3 la:2 ur:1
+od: -:187 by:4 d:5 e:1 en:4 io:1 le:2 ma:6 ne:1 s:8 uc:1 y:6
+oe: -:11 ma:8 r:2 s:17 ve:10
+of: -:955 f:128 fe:8 fi:2 it:1 s:2 te:7
+og: -:12 s:3
 oh: -:1
-oic: e:1 ed:8 ing:3
-oin: ted:1
-ok: -:19
-oke: -:3 s:1
-oki: ng:1
-ol: -:2
-ola: rly:1
-old: -:147 er:2 s:1
-ole: nce:1
-olt: ed:2
-olv: ed:2
-om: -:8
-ome: -:9
-omi: ng:1
-omm: on:1
-oms: tic:1
-omy: -:3
-on: -:460
-onc: e:84
-ond: -:28 ly:1
-one: -:288 d:1 s:3
-onf: ul:1
-ong: -:5 ed:7 er:3 ing:1 s:1
-oni: she:5 shm:3
-onl: y:78
-ons: -:3
-onw: ard:1
-ood: -:8
-ook: -:2
-ool: -:4
-oon: -:1 s:1
-oor: s:1
-op: -:5
-ope: d:5 n:29 ned:21 nin:1
-opi: nio:1
-opp: er:1 ort:3 osi:4
-or: -:85
-ora: l:1
-ord: -:2 er:13 ere:23 eri:1 ers:1 ing:4
-ore: -:135
-ork: -:1
-orm: -:1 ati:1 ed:3
-orr: ow:9
-ors: e:1
-ort: h:2 s:1 uni:3
-ose: -:5
-osi: te:3 tio:1
-oss: -:9 ibl:2
-ost: -:4
-ot: -:3
-oth: -:2 er:106 ers:18 erw:6
-oti: ng:1
-oub: ted:1
-oug: h:70 hou:3 ht:11
-oun: ce:1 ced:6 ces:1 d:2 t:5
-our: -:46 abl:2 ed:5 ers:1 hoo:1 ing:1 ite:1 s:2 sel:5
-ous: -:9 ly:5
-out: -:328 ed:1 sid:12 ski:1 wit:1
-ove: d:4 n:3 nfu:1 r:114 rco:7 red:1 rhu:1 rjo:7 rlo:1 rni:1 rse:1 rsp:1 rta:2 rto:4 rwh:2
-ow: -:37
-owe: d:7
-owi: ng:3
-owl: -:4
-own: -:51 ed:1 er:1
-ows: -:1
-oxe: n:5
-oy: -:7
-oye: d:2
-p: -:134
-pac: es:3 ked:2
-pag: es:1
-pai: d:10 l:1 ls:1 n:2 ns:3 nt:1 nte:2 r:8 rs:1
-pal: -:1 ace:24 e:5 ly:1 try:1
-pan: -:2 e:2 ion:3 t:1 tal:1 try:1 y:8
-par: che:1 don:2 e:2 ed:2 ent:1 k:1 ley:1 lou:5 son:10 t:9 ted:3 tic:1 tne:2 ty:2
-pas: s:15 sag:2 sed:26 ses:1 sin:7 sio:7 swo:1 tur:1
-pat: che:1 h:11 ien:2
-pau: sed:1
-paw: -:1 s:3
-pay: -:4 men:1
-pda: ugh:3
-pe: -:3
-pea: ce:8 cea:1 cef:1 r:1 rl:1 rls:12 s:15 san:35
-peb: ble:4
-pec: k:1 ked:5 t:2 tab:2 ted:3 tin:1
-ped: -:42 lar:3
-pee: l:1 lin:1 p:2 ped:4 rin:1 rs:1
-pel: -:1 led:2 tin:1
-pen: -:4 ce:1 ed:33 ing:1 ny:1 s:3 ter:2
-peo: ple:29
-per: -:10 cei:4 ch:1 che:7 chi:1 ed:1 fec:1 for:4 hap:10 il:1 ish:1 ly:4 s:1 sis:1 son:3 sua:1 tai:1 ty:1
-pes: -:1 t:1
-phe: cy:2 rd:16
-pic: ion:2 k:29 ked:14 kin:4
-pid: -:3
-pie: ce:24 ces:12 rce:2
-pig: -:6 eon:6 sty:5
-pil: e:1 low:7 y:9
-pin: -:7 afo:1 cer:1 ch:1 che:3 ed:1 ess:3 g:12 k:1 s:1
-pio: n:4
-pip: e:4
-pis: ed:1
-pit: ch:3 che:2 eou:1 ied:3 ile:1 y:15
-pke: epe:1
-pla: ce:24 ced:15 ces:1 gue:2 in:1 ine:3 n:4 ne:1 ned:1 nk:3 nks:2 nt:2 nte:4 sh:4 te:5 tes:3 y:8 yed:8 yin:7 yth:1
-ple: -:37 asa:4 ase:33 asu:2 nty:10 s:1 ted:1 ton:3
-pli: ght:1 ngs:1
-plo: t:2 ugh:1
-plu: ck:2 cke:6 cki:1 mes:1 mp:1 nge:1
-ply: -:2
-pmo: the:3
-poc: ket:23
-poi: nt:3 nte:2 son:4
-pok: e:2 ed:1
-pol: ite:1 lut:1
-pom: p:3
-pon: -:3 d:2 der:1
-poo: dle:2 l:1 r:53
-pop: e:4 ped:1
-por: t:1
-pos: e:7 ed:2 iti:2 ses:4 sib:4
-pot: -:9 s:2
-pou: ltr:1 nce:1 nd:1 red:1
-pov: ert:1
-pow: er:9 erf:1
-ppe: d:46 r:5 rs:2 ry:1
-ppi: ng:6
-pra: y:8 yed:3 yer:1
-pre: cio:5 cip:1 par:3 sen:11 ser:1 sse:1 ten:5 tti:3 tty:15 ven:1 vio:1 y:2
-pri: ce:2 ck:1 cke:4 de:2 est:2 nce:135 nci:2 sed:2 son:5 ze:3
-pro: cla:2 cur:1 duc:1 fit:1 mis:16 nou:1 of:1 per:5 phe:2 pos:1 spe:1 ud:6 ve:2 ved:1 vid:2 vis:1
-pru: den:1
-pry: -:1 ing:2
-ps: -:18
-pt: -:40
-pta: tio:2
-pte: d:1
-pti: ng:1
-ptu: ous:1
-pub: lic:2 lis:1
-pud: din:1 dle:1
-puf: fed:1
-pul: l:6 led:14 lin:4
-pun: ish:5
-pur: e:2 est:1 ple:2 pos:2 se:4 sue:5
-pus: h:3 hed:9 s:1
-put: -:99 e:1 ed:1 s:2 tin:2
-py: -:15
-qua: rre:3 rte:7
-que: en:52 er:1 nch:2 red:1
-qui: ck:5 cke:1 ckl:23 et:3 ete:1 etl:11 lts:2 te:56
-r: -:1057
-rac: ed:1 k:1 t:1
-rad: e:1 es:1
-rag: e:12 ing:2 s:2
-rai: n:3 se:2 sed:5
-rak: e:1
-ram: pio:4
-ran: -:89 ce:2 g:4 ged:1 k:1 som:1
-rap: -:1 idi:1 ped:1 pin:1 unz:1
-rar: e:1
-ras: cal:5
-rat: e:7 ed:1 her:4 ion:1 itu:1
-rav: agi:1 en:10 ens:8
-ray: -:3 ed:1 s:3
-rce: -:2 d:2 ly:12
-rch: -:15 ed:6 er:1 ief:8 ing:1 yar:1
-rco: me:7
-rd: -:174
-rde: d:2
-rds: -:15
-re: -:379
-rea: ch:7 che:16 d:5 din:1 dy:25 l:4 lit:2 lly:9 son:7 t:1 ted:3 tie:2 ty:1
-rec: eiv:10 ita:1 kon:2 ogn:3 ove:2
-red: -:59 ien:1
-ree: -:1 ds:1 l:2 s:1
-ref: lec:1 ore:18 res:2 use:2
-reg: ard:1
-rei: gne:7 n:5
-rej: oic:12
-rel: -:6 eas:1 s:1
-rem: ain:22 ark:2 emb:5 ors:1 ove:1
-ren: der:2 ewe:1 own:1 tic:1
-reo: n:1
-rep: aid:1 air:1 ay:1 eat:1 ent:1 lie:13 ly:2 ose:1
-req: ues:1 uir:5
-rer: -:14
-res: -:8 emb:1 h:2 ist:2 oev:1 olv:2 pec:4 sed:1 t:38 ted:3 tin:2 tor:1 tra:2 ume:1
-ret: -:4 ire:2 ly:2 urn:23
-reu: pon:3
-rev: eal:3 eng:3 er:3
-rew: ard:7 ith:1
-rf: -:40
-rfs: -:10
-rhu: ng:1
-ria: ge:13
-rib: -:1 le:3 ly:6
-ric: e:1 h:19 her:2 hes:3 hly:3
-rid: -:4 den:1 e:8 er:1 ges:1 ing:5
-rie: d:55 nde:1 s:11
-rif: ied:7
-rig: ht:28
-ril: y:6
-rim: -:1 ent:1
-rin: ess:2 g:54 gin:1 gs:2 s:2
-rio: r:1 rs:1 us:2
-rip: -:1 e:3 est:1
-ris: e:3 en:2 es:1 ing:1
-rit: -:4 ed:1 s:2
-riv: er:10
-rjo: yed:7
-rk: -:1
-rkl: ed:4 ing:3
-rks: -:1
-rl: -:1
-rla: in:2 ins:1
-rle: t:3
-rlo: oki:1
-rls: -:12
-rlw: ind:2
-rly: -:5
-rm: -:9
-rme: d:2
-rmi: ng:2
-rmo: us:1
-rmy: -:1
-rn: -:11
-rne: d:7 rs:1 y:12 yed:6 yin:1
-rnf: ull:2
-rni: ght:1 ng:4
-rns: -:6
-rnt: -:5
-roa: ch:2 che:2 chi:1 d:18 ds:1 med:1 min:2 ms:1 r:1 rin:2 st:6 ste:2 sts:1
-rob: -:1 bed:3 ber:14 bin:1 es:2
-roc: k:3 ks:6
-rod: -:2 e:28 s:1
-roe: -:1
-rog: ue:1 uer:4 ues:2
-rol: l:2 led:16 lin:2 ls:2
-roo: f:9 fs:1 m:46 ms:4 ts:2
-rop: e:9 ema:1
-ror: -:4
-ros: e:19 es:4 y:3
-rot: hed:9
-rou: gh:3 ghl:2 nd:60 nde:2 sed:1
-rov: ed:1 ing:1
-row: -:11 ed:2 er:2 ful:13 ing:2 s:4
-roy: al:14
-rp: -:5
-rpe: nin:1
-rpi: ng:2
-rpl: y:1
-rre: d:2 l:2 lli:1
-rri: ng:2
-rro: w:18 ws:1
-rry: -:3
-rs: -:129
-rse: -:7 lf:19 lve:2 t:1
-rsk: in:1
-rsp: rea:1
-rst: -:3 orm:1 y:9
-rt: -:101
-rta: ke:2
-rte: d:8 en:1 ent:1 ned:1 ous:1 r:2 rs:5
-rth: -:12
-rti: ers:3 ly:3
-rto: ok:4
-rts: -:2
-rty: -:2 ard:6
-rub: bed:1
-rud: e:1
-rue: -:6
-rul: ed:1
-rum: ble:1 bs:1
-run: -:38 nin:12 s:3
-rus: hed:3 hes:2 hin:1 tli:2 ty:1
-rvi: ng:1
-rwh: elm:2
-ry: -:170
-ryb: ody:5
-ryi: ng:5
-rym: aki:1
-ryo: ne:10
-ryt: hin:25
-ryw: her:4
-s: -:1193
-sac: k:7 ks:2
-sad: -:9 dle:2 ly:13 nes:1
-saf: e:13 ely:4 er:1 ety:2
-sag: e:11 es:2
-sai: d:374 l:2 led:3 lin:1
-sak: e:3 en:1
-sal: -:1 ad:9 e:1 ly:1 t:3 ted:1
-sam: e:27
-san: ds:1 g:9 k:2 t:30 ts:5
-sas: hes:1
-sat: -:105 ion:2 isf:8
-sau: sag:11
-sav: age:1 e:7 ed:9 ing:2
-saw: -:145
-say: -:23 ing:8 s:7
-sca: lde:1 mpe:1 nty:1 rce:11 rle:3 tte:2
-sce: nt:4
-sch: ola:1 ool:3
-sci: enc:1 ous:1 sso:6
-sco: lde:4 rch:1 rne:2 rnf:1 und:1
-scr: amb:2 atc:4 eam:15 ew:1
-se: -:324
-sea: -:22 led:1 m:2 rch:13 s:1 sho:3 t:3 ted:4
-seb: ack:1
-sec: ond:28 rat:1 ret:5
-sed: -:75
-see: -:91 d:2 ing:17 k:8 kin:1 ks:3 m:5 med:20 ms:5 n:32 s:1
-sei: zed:18 zin:1
-sel: -:2 ect:1 f:178 l:5 ves:5
-sem: an:1 en:4 ent:1
-sen: -:2 ce:1 d:3 ed:1 ger:5 se:2 sib:1 t:44 ted:7 ten:3 tly:4
-sep: ara:2
-ser: van:39 ve:4 ved:6 vic:2
-ses: -:20 s:1 sed:1 sio:2
-set: -:88 tin:3 tle:9
-sev: en:33 ent:3 era:4
-sew: -:2 ed:3 n:2 ork:1
-sex: ton:7
-sfu: l:1
-sh: -:18
-sha: bby:6 de:5 dy:1 ke:5 kes:1 kin:1 l:1 ll:84 me:6 pe:3 pes:1 re:4 rin:1 rp:5 rpe:1 rpl:1 ved:1
-she: -:825 d:11 ep:7 lf:3 ll:4 lls:2 phe:16 s:1 wed:1
-shi: ft:1 ne:1 nes:2 ng:1 nin:7 p:9 ps:2 rt:2 ver:2
-shl: y:1
-shm: ent:3
-sho: cke:1 e:11 ema:8 es:17 ne:7 ok:8 ot:3 oti:1 p:2 pke:1 re:15 rt:15 t:7 uld:131 uti:2 vel:1 w:8 wed:16 wer:2 wn:2
-shr: ank:1 ewd:1 ive:1 ubs:1
-shu: dde:8 t:21 tti:1
-shw: ood:2
-sib: le:5
-sic: k:5 kle:1 kne:2
-sid: e:57 ere:2 es:6
-sif: t:1
-sig: hed:1 hin:2 ht:10 n:1 nal:1 ned:1 ns:1
-sil: enc:2 ent:2 k:4 ken:3 ly:9 ver:21
-sim: ple:7
-sin: -:5 ce:4 g:28 gin:14 gle:5 k:1 kin:1
-sio: n:7 nat:2
-sip: -:2
-sir: -:3
-sis: ten:1 ter:30
-sit: -:19 s:7 tin:46 uat:1
-siv: e:1
-six: -:9 th:1 ty:2
-siz: e:3 es:1
-sk: -:1
-ske: in:1 r:2
-ski: lfu:3 ll:3 n:17 ns:2 ppe:1 ppi:1 rts:1
-skl: y:2
-sku: lls:1
-sky: -:5
-sla: ugh:1 ve:1 y:1
-sle: ek:1 ep:20 epe:3 epi:13 eve:2 pt:17 w:1
-sli: ce:2 p:2 ppe:21
-slo: wly:2
-slu: gga:1
-sly: ly:3
-sma: ck:1 ll:18 lle:3 rt:3
-sme: ll:2 lls:1 lt:2
-smi: led:2 te:1 th:1
-smo: ke:5 kin:1 oth:2 te:1
-sna: il:1 ke:4 p:1 ppe:2 ppi:1 res:1 tch:3
-sne: ere:2
-sni: ffe:1 p:1 ps:2
-sno: re:1 red:2 rin:4 rte:1 w:13
-snu: ff:1 g:2
-so: -:406
-sob: bed:1
-soc: k:1
-soe: ver:4
-sof: t:5 ten:1 tly:2
-sol: d:2 die:41 e:2 id:1 itu:1
-som: -:1 e:86 ebo:4 eon:10 eth:36 eti:1
-son: -:99 ed:3 er:5 g:10 s:13
-soo: n:97 ner:3 t:3 the:2
-sor: e:2 ely:2 row:18 ry:7 t:4 ts:3
-sou: ght:8 l:2 nd:9 nde:1 ndi:2 ndl:3 p:5 r:3
-spa: ce:2 ngl:1 re:3 red:1 rkl:7 rro:19 t:1
-spe: ak:12 aki:3 cia:1 cta:1 d:1 ed:1 ll:8 llb:1 nd:2 ndi:1 nt:5 red:1 rin:1
-spi: ce:1 ece:1 ed:1 es:1 ll:1 lt:2 n:5 ndl:10 nni:3 rit:7 t:5 te:3 tef:2
-spl: ash:2 end:5 it:2
-spo: ile:2 ilt:1 ke:14 ken:5 on:1 onf:1 rt:1 t:11
-spr: ang:33 ay:1 ead:5 ing:14 ink:4 int:1 out:1
-spu: n:3 rs:2
-squ: are:1 eez:3 ire:1
-ss: -:166
-sse: d:16 s:28
-ssh: opp:1
-ssi: ng:3
-ssl: y:1
-ssn: ess:1
-sso: r:1 rs:5
-st: -:170
-sta: b:1 bbe:1 ble:11 g:2 ine:1 ir:1 irc:3 irs:10 l:1 ll:4 nd:9 ndi:31 nds:6 ntl:1 r:4 red:1 rin:1 rry:1 rs:8 rt:2 rte:5 rvi:1 te:1 tel:1 y:13 yed:10 yin:2
-stc: oat:1
-ste: ady:1 ak:7 al:2 ale:1 d:4 el:1 ep:1 ms:1 p:9 pda:3 pmo:3 ppe:4 ps:8 r:3
-stf: ull:1
-sti: ck:5 cki:2 cks:3 ff:1 ll:89 lln:1 ng:3 r:5 rre:2 rri:1 tch:3
-stl: ed:6 ing:2
-stn: ut:2
-sto: ck:5 cki:2 ked:1 le:7 len:4 mac:5 ne:26 nes:13 od:60 ol:2 op:1 ope:5 p:5 ppe:12 ppi:1 ps:1 re:1 red:2 rie:2 rm:5 rmy:1 ry:5 ut:1 ve:4
-str: aig:20 ain:1 ait:1 ang:17 ata:1 aw:10 eak:2 eam:9 eet:9 eng:11 etc:19 ew:1 ewe:3 ewn:2 idi:2 ike:6 ing:3 ipe:3 ipp:1 oke:4 ong:8 uck:19
-sts: -:14
-stu: ck:10 den:6 dy:1 ffe:1 mbl:1 mp:1 pid:3
-sty: -:7
-sua: ded:1
-sub: due:1
-suc: cee:2 ces:1 h:53 k:1 kle:1
-sud: den:16
-sue: -:2 d:3
-suf: fer:7 fic:1
-sug: ar:1 arl:2
-sui: t:4 tab:1 ted:3 tor:5 ts:1
-sul: kil:1 ky:1 ted:1
-sum: -:1 ed:1 mer:3 mon:7
-sun: -:31 bea:1 g:1 k:1 ris:1 shi:1
-sup: eri:1 per:7 por:1 pos:6
-sur: e:17 ely:2 pri:2 rou:2
-sus: pec:2 pic:2
-swa: llo:7 m:3 ns:1 rmi:1
-swe: at:1 ep:2 epi:1 et:6 eth:4 etl:1 lli:1 pt:2
-swi: ftl:1 m:2 mmi:4
-swo: rd:7 re:1
-swu: ng:3
-syr: up:1
-t: -:2584
-tab: le:36 les:1 let:2 ly:1
-tac: ked:1 le:1
-tag: e:10
-tai: l:12 lor:54 ls:4 n:8 nin:1 nly:11 ns:3 rs:13
-tak: e:107 en:23 es:4 ing:8
-tal: e:4 ers:4 es:4 k:5 ked:1 ks:1 l:3 ler:1 les:1 oon:1
-tan: -:3 ce:3 d:6 din:3 gle:1 t:2 tly:2
-tap: -:8 ped:2 pin:2
-tar: ry:2
-tas: k:9 ks:1 te:3 ted:6 tin:2
-tau: ght:1
-tch: -:12 ed:6 edl:2 es:1 ing:1
-te: -:137
-tea: ch:1 d:8 r:3 rs:7
-ted: -:150 ly:3
-tee: n:1 nth:1 th:4
-tef: ul:4
-tel: l:37 lin:5 y:1
-tem: pta:2 pte:1 pti:1 ptu:1
-ten: -:19 ce:1 ced:2 d:2 ded:2 der:3 din:1 ed:17 ing:3 t:2 ted:3
-ter: -:131 day:3 ed:2 er:1 ing:1 ly:5 n:1 pie:1 rib:8 rif:7 ror:2 s:10
-tes: -:3 s:1 t:1
-tev: er:8
-tex: t:1
-tfu: l:3 lly:1
-th: -:140
-tha: n:62 nk:1 nke:5 nkf:3 t:796 wed:1
-the: -:4560 d:1 e:23 ir:171 m:262 mse:32 n:151 nce:1 nwa:3 r:148 re:236 ref:18 rei:2 reu:2 rn:2 rs:31 s:24 se:29 y:593
-thf: ul:11 ull:2
-thi: ck:3 cke:7 ckl:1 ef:5 eve:10 evi:1 n:2 ne:2 ng:59 ngs:22 nk:26 nki:22 rd:37 rst:12 rte:2 s:215 the:8
-tho: rn:1 rns:6 rou:2 se:10 u:21 ugh:109 usa:12
-thr: ead:3 eat:4 ee:70 eep:1 en:2 esh:3 ew:31 ice:1 ive:1 ivi:1 oat:2 one:4 oug:73 ow:12 owi:3 own:12 ush:4 ust:6
-ths: -:3
-thu: nde:2 s:26
-thw: ith:1
-thy: -:24
-tia: ls:1
-tic: e:2 es:1 k:1 s:1 ula:1
-tid: ing:2
-tie: -:3 d:10 s:5 st:1
-tig: ht:1
-til: ed:1 l:92 s:1 t:2 y:2
-tim: e:152 es:12
-tin: g:103 ual:4 ue:2 ued:5
-tio: n:5 nar:1
-tir: ed:15 eso:2
-tis: -:1
-tiv: al:2
-tle: -:348 d:10 fie:1 man:4
-tli: ng:2
-tly: -:21
-tme: nt:5
-tne: r:2
-to: -:1759
-toa: dst:1 ste:1
-tob: acc:1
-tod: ay:4
-toe: -:2 s:1
-tog: eth:68
-tok: en:4
-tol: d:79
-tom: -:16 er:1 orr:9
-ton: -:9 gue:8 igh:2 s:3
-too: -:68 k:202 th:1
-top: -:17 mos:1
-tor: -:12 ch:1 che:2 e:8 men:1 n:4 s:2 y:3
-tos: s:1 sed:3 sin:1
-tou: ch:3 che:15
-tow: -:1 ard:18 el:1 er:14 n:11 ns:1
-tra: ck:3 de:5 in:2 ine:2 mpl:2 nce:1 nsf:1 nsl:2 p:2 st:1 vel:26
-tre: ach:1 adi:1 asu:9 ate:1 e:89 es:15 mbl:7 men:1 ss:21 sse:2
-tri: al:1 ck:1 cke:1 cks:1 ct:1 ed:18 ls:1 nke:2 p:1 ppe:1 ps:1 ve:3
-tro: d:1 l:1 op:3 tte:2 tti:2 ubl:23 ugh:1 yed:1
-tru: e:31 ly:1 mps:1 nk:4 st:1 ste:1 sty:2 th:7
-try: -:29 ing:2
-ts: -:47
-tsi: ed:2
-tsm: an:22 en:19
-tso: eve:2
-tte: d:4 n:1 r:5 red:7 rin:8
-tti: er:1 est:1 ly:1 ng:4
-tty: -:15
-tue: s:1
-tug: ged:1 gin:1
-tum: ble:1 bli:2
-tun: ate:1 e:15 es:4
-tur: al:1 e:6 n:20 ned:29 nin:4 nip:6 ns:1 tle:3
-tus: ks:1
-twa: s:1
-twe: lft:2 lve:29 nty:3
-twi: ce:7 g:2 gs:1 lig:1 nkl:1 ns:1
-two: -:109
-ty: -:35
-tyi: ng:2
-u: -:22
-uab: le:2
-uai: nta:2
-ual: ly:5
-uat: ed:1
-ubl: e:14 ed:2 es:4 eso:2 ing:1
-ubs: -:1
-uch: ed:1
-uck: -:19 ily:1
-ud: -:8
-uds: -:2
-ue: -:4
-ued: -:5
-uer: y:4
-ues: -:2 t:1
-ugh: -:47 ed:1 t:171 ter:4 tfu:1 ts:3
-ugl: y:8
-uir: e:3 ed:5
-ul: -:25
-ula: rs:1
-uld: -:119 er:5 ers:7
-ull: y:10
-ult: -:1 y:1
-uly: -:1
-ume: d:1
-umi: nat:1
-un: -:1
-una: ble:7 nim:1 war:3
-unb: eat:1 olt:2 oun:1 utt:1
-unc: le:1 omm:1
-und: -:29 eci:1 er:45 erg:1 ern:2 ers:9 ert:5 erw:1 ist:1 one:3 oub:1 rel:1 res:1
-une: asi:1 asy:9 xpe:1
-unf: ast:1
-unh: app:4 arm:1
-uni: cor:3 tie:1 ty:2 ver:1
-unk: now:4
-unl: ess:7 ock:1 uck:1
-unp: ack:1
-unr: uly:1
-uns: een:1
-unt: il:43 o:1 rue:1 yin:1
-unw: ill:4 rap:1
-unz: el:1
-uor: -:1
-up: -:288
-upo: n:138
-upp: er:3
-upr: igh:2 oar:2
-ups: et:2 ide:1 tai:13
-upt: ed:1
-ura: l:1
-urb: ed:1
-urc: hin:2
-ure: -:8 d:3
-urg: ed:1 ent:1
-urn: -:16 ed:6 ing:1
-urr: ed:3
-urs: ed:1
-ury: -:2
-us: -:49
-usa: nd:8 nds:4
-use: -:12 d:14 ful:1 s:1
-ush: -:4
-usl: y:1
-ust: -:5 rat:1 rio:2 ry:1 s:1
-usu: al:6
-ut: -:123
-ute: -:2 ous:1 st:1
-uti: ful:94 ng:2
-utt: one:1
-uty: -:7
-vag: abo:4
-vai: n:14
-val: ian:1 ley:4 uab:2 ue:1
-van: ish:3 t:28 ts:11
-ve: -:98
-ved: -:11
-veg: eta:2
-vei: ns:1
-vel: -:4 led:8 ler:5 lin:9 s:1 vet:1 y:2
-ven: -:15 gea:1 s:5 t:2 th:2 tur:5
-ver: -:26 ing:1 ly:1 nes:1 sal:1 sat:2 y:164
-ves: -:17
-vet: -:1
-vex: ed:5
-vic: e:2 es:1 tor:2
-vid: e:1 ed:1
-vie: r:1
-vil: lag:12 lai:1 y:1
-vin: ega:3 g:8
-vio: len:4 us:1
-vir: tue:1
-vis: ion:1 it:5
-voi: ce:13 ces:1
-vow: ed:2
-voy: age:2
-vy: -:19
-w: -:283
-wad: dle:1 dli:2
-wag: er:1 es:2 ged:1 gon:1
-wai: stc:1 t:12 ted:16 tin:15
-wak: e:3 ene:2
-wal: k:19 ked:27 kin:6 l:7 ls:5
-wan: d:7 der:9 t:21 ted:41 tin:1 ts:6
-war: -:4 d:8 ds:4 e:1 es:6 lik:1 m:12 med:3 n:1 ned:1 rio:2
-was: -:1004 h:5 hed:6 hin:3 te:1 tef:1
-wat: ch:14 che:10 chi:3 er:57 ers:2
-wav: e:1 ed:1 es:6
-way: -:101
-wd: -:4
-we: -:118
-wea: k:4 lth:3 r:4 rer:1 rin:2 ry:3 the:4 ve:3
-wed: -:27 din:14 ge:1
-wee: ks:1 n:7 p:4
-wei: gh:1 ghe:2 ght:2
-wel: com:7 l:78
-wen: t:345
-wep: t:17
-wer: -:26 e:271 ed:45 ing:1 s:10 t:1
-wes: t:2
-wet: -:1 ted:1
-wha: t:183 tev:8 tso:2
-whe: el:6 els:7 n:334 nce:1 nev:4 re:96 rei:3 reo:1 res:1 reu:1 rev:3 rew:1 the:17 tte:1
-whi: ch:141 le:37 lst:4 p:3 rlw:2 rri:1 spe:1 stl:8 t:1 te:47 the:2
-who: -:222 eve:5 le:40 m:13 se:9 soe:3
-why: -:13
-wic: ked:18
-wid: e:11 ow:2
-wif: e:78
-wig: hts:1
-wil: d:22 l:303 lin:16 low:9 t:2
-win: d:27 dow:38 ds:2 e:30 g:19 ged:1 gs:8 ter:6
-wip: e:2 ed:1
-wis: dom:4 e:2 er:3 h:22 hed:31 hes:2 hin:4
-wit: ch:25 h:490 her:2 hin:8 hou:39 hst:1 s:2 ted:1
-wl: -:1
-wle: d:5 dge:1
-wli: ng:1
-wly: -:2
-wn: -:33
-wne: d:3
-wns: -:2
-woe: ful:1 s:1
-wol: f:42
-wom: an:71
-won: -:8 der:15 dro:1
-woo: -:1 d:60 den:4 dma:6 ds:4 er:2
-wor: d:17 ds:12 e:2 k:46 ked:7 kin:4 kma:1 kme:1 ksh:1 ld:32 m:1 n:2 ry:1 se:5 st:2 th:3 thy:1
-wou: ld:185 lds:1 nd:2 nde:5
-wra: ppe:3
-wre: ath:3 n:5 ns:3 tch:14
-wri: tte:1
-wro: ng:3 ngs:1 te:1
-ws: -:11
-xpe: cte:1
-y: -:1412
-yar: d:6 ds:2
-ybo: dy:1
-ye: -:4
-yea: r:10 rs:27
-yed: -:36
-yel: led:1 low:6
-yer: s:1
-yes: -:5 ter:3
-yet: -:28
-yie: lde:3
-yin: g:14
-yma: n:6
-yok: ed:1
-yon: der:1
-you: -:574 ng:56 nge:27 r:121 rs:1 rse:21 th:26
-yth: ing:1
-ze: -:3
-zed: -:22
-zen: -:2
-zin: g:2
-zli: ng:2
+oi: le:2 lt:1 nt:1
+ok: -:290 e:54 ed:96 en:13 in:41 s:7
+ol: -:11 d:146 de:6 ds:1 e:47 en:8 ic:1 is:3 l:2
+om: -:222 ac:5 e:3 ed:6 er:1 is:16 s:4
+on: -:787 at:2 ce:84 ds:4 e:327 ed:12 er:9 es:16 g:40 gs:5 in:1 le:1 ly:78 ou:1 s:11 t:8 ti:1 wa:1 y:1
+oo: ch:1 d:90 f:1 k:17 l:3 m:8 mi:1 ms:1 my:3 n:2 nf:1 ns:1 p:4 pe:5 r:8 se:4 t:3 th:2 ti:1
+op: -:15 ed:5 en:51 er:5 he:2 in:1 ke:1 le:29 os:1 pe:21 pi:1 po:7 s:2 t:1
+or: -:297 al:1 ch:1 d:6 de:38 e:34 ed:4 ie:2 in:8 k:1 m:8 ma:1 me:1 mo:1 my:1 n:5 ne:2 nf:1 ns:6 ou:2 s:10 t:19 ta:1 te:6 th:2 tu:6 y:8
+os: e:66 ed:6 en:3 et:1 it:4 oe:3 pe:1 s:3 se:4 si:1 t:2
+ot: -:72 e:2 ed:2 h:12 he:270 hi:2 in:1 s:7 te:8 ti:2 y:1
+ou: -:21 bl:23 ch:1 d:8 ds:2 gh:230 ld:131 nc:2 nd:33 nt:1 r:39 rh:1 ri:1 rs:5 s:17 sa:12 sl:2 t:488 ti:2 ts:13 tw:1
+ov: e:36 ed:1 el:1 en:4 er:145 id:2 is:1
+ow: -:202 d:4 ed:37 er:29 es:1 fu:13 in:21 l:4 le:2 li:1 ly:2 n:73 ne:4 ns:2 s:29
+ox: en:5
+oz: en:2
+p: -:103
+pa: ce:3 ck:3 ge:1 id:11 il:2 in:8 ir:9 l:1 la:24 le:5 ll:1 lt:1 n:2 ne:2 nt:3 ra:2 rc:1 rd:2 re:1 rk:1 rl:6 rs:10 rt:18 ss:57 st:1 th:11 ti:4 us:1 w:1 ws:3 y:5 ym:1
+pb: oa:3
+pe: -:31 ac:10 ar:20 as:52 at:1 bb:4 ck:6 ct:3 d:61 di:1 dl:3 el:2 ep:6 er:2 lt:1 ma:1 nc:1 nd:1 ni:1 nn:1 nt:1 op:29 r:25 rc:13 re:3 rf:5 rh:10 ri:7 ro:2 rs:9 rt:1 ry:1 s:3 st:1 ti:2 tu:1
+pi: ck:47 di:1 ec:36 ed:2 er:2 g:6 ge:6 gs:5 le:1 ll:7 n:7 na:1 nc:5 ne:1 ng:26 nk:1 ns:1 pe:4 ta:2 tc:5 te:1 ti:4 ty:15
+pl: ac:43 ag:2 ai:2 an:17 as:4 at:8 ay:24 e:15 ea:39 en:10 es:13 ie:13 ig:1 in:1 ot:2 ou:1 uc:9 um:2 un:1 y:4
+pm: os:1
+po: ck:23 in:6 is:4 ke:2 li:1 ll:1 mp:3 n:3 nd:3 od:2 ol:1 or:53 pe:4 pp:1 rt:3 se:1 si:4 ss:10 t:9 ts:2 ul:1 un:2 ur:1 ve:1 we:10
+pp: ea:5 ed:11 en:41 er:7 il:9 in:8 or:1 os:6 y:18
+pr: ay:12 ec:6 en:1 ep:3 es:13 et:23 ev:2 ey:2 ic:7 id:2 ie:2 in:137 is:5 iz:3 oa:5 oc:3 od:1 of:1 om:16 on:1 oo:1 op:8 os:1 ou:6 ov:6 ud:1 y:1 yi:2
+ps: -:12 e:1
+pt: -:33 ai:1 h:1 ie:3 io:1 uo:1 y:5 yi:1
+pu: bl:3 dd:2 ff:1 ll:24 ni:5 nz:1 re:3 rp:4 rs:9 sh:12 ss:1 t:99 ts:2 tt:2
+py: in:1
+qu: ai:2 ar:10 ee:53 en:2 es:1 ic:29 ie:15 il:2 ir:8 it:56 or:1
+r: -:2411
+ra: bl:3 ck:1 ct:1 ge:12 gi:2 gs:2 id:12 ig:20 in:5 is:7 it:1 ke:1 l:5 mb:2 mp:4 n:89 nd:1 ng:55 nk:2 ns:1 p:1 pi:1 pp:1 pu:1 re:1 ry:1 sc:5 st:1 ta:1 tc:4 te:10 th:4 ti:1 va:1 ve:18 w:10 y:3 ys:3
+rb: ad:1 id:2 le:4 s:1
+rc: as:3 e:1 ed:28 ei:4 h:2 ha:8 he:12 hi:17 il:1 le:6 y:4
+rd: -:187 ed:1 en:51 er:11 in:4 le:1 ly:9 on:2 ou:1 s:60
+re: -:709 ac:23 ad:58 ak:7 al:15 am:24 as:7 at:4 ce:10 ci:1 ck:2 co:5 ct:3 d:154 e:70 ed:22 el:2 ep:1 et:9 fe:1 fl:1 fr:2 fu:8 ga:1 ig:8 jo:12 l:3 le:3 ll:1 ly:8 ma:24 me:5 mo:3 n:1 nd:2 ne:1 ng:11 no:1 nt:1 ov:1 pa:3 pe:2 pl:18 po:1 qu:6 r:3 s:12 se:1 sh:3 si:3 so:4 sp:4 ss:6 st:95 su:1 tc:19 te:1 ti:2 to:2 tu:23 ve:6 w:33 wa:7 wd:1 we:3 wn:2
+rf: ec:1 ei:1 or:4 ul:5
+rg: ai:15 e:32 er:4 et:6 iv:3 ot:15 ro:1
+rh: ap:10 oo:1
+ri: al:1 b:1 bi:1 ce:1 ch:27 ct:1 d:3 dd:1 de:9 dg:1 di:7 ed:3 en:1 ft:2 gh:30 ke:6 l:1 ls:1 m:1 ng:76 nk:4 nt:1 or:1 os:2 ou:5 p:1 pe:7 pp:1 se:7 sh:1 si:1 st:2 ve:22 vi:1
+rk: -:75 ed:13 er:1 et:3 in:4 ma:1 me:1 ne:2 s:2 sh:1
+rl: -:48 ai:3 an:2 d:32 ed:2 ey:1 ie:1 ik:1 in:8 oa:2 or:1 ou:5 s:12 y:11
+rm: -:32 ed:8 en:1 er:7 in:4 ly:2 ya:1
+rn: -:73 e:1 ea:2 ed:36 er:16 es:8 et:2 in:83 ip:6 is:2 it:1 oo:1 s:2 t:6
+ro: -:3 ad:19 am:4 ar:5 as:9 at:2 b:1 bb:18 be:2 ck:9 d:2 de:28 ds:1 e:1 ga:1 gu:7 ke:4 l:1 ll:22 n:8 ne:4 ng:8 ns:1 of:10 om:48 ot:2 p:1 pe:10 r:2 se:23 ss:9 sy:3 ug:76 un:60 us:2 ut:1 ve:1 vi:1 w:34 we:1 wi:5 wn:12 ws:2 ya:14 ye:1
+rp: en:2 le:2 os:2 ri:2
+rr: ed:3 el:6 et:1 ia:13 ib:9 id:1 ie:58 if:7 il:5 im:1 io:2 or:4 ou:2 ow:37 up:1 y:69 yi:5 ym:1
+rs: -:125 ak:2 e:75 eb:1 ed:2 el:71 em:5 es:17 h:1 ha:1 hl:1 in:1 is:1 on:13 t:71 ta:9 to:1 ua:1 ue:5
+rt: -:41 ai:22 ak:4 ed:6 en:1 er:9 h:39 he:24 hw:1 hy:1 ic:1 ie:1 in:3 le:3 ne:2 oo:1 re:1 s:6 si:2 ue:1 un:12 ur:1 y:15
+ru: bb:1 bs:1 ck:19 de:1 e:5 le:1 ly:1 mb:2 n:38 nn:12 ns:3 p:1 sh:10 st:9
+rv: an:39 e:7 ed:9 es:2 ic:2 in:2
+rw: ar:30 is:6 oo:1
+ry: -:186
+s: -:3126
+sa: ck:9 d:9 dd:2 dl:13 dn:1 fe:20 id:374 il:6 ke:2 l:1 la:9 le:1 ll:1 lt:4 me:27 nd:13 ng:9 nk:2 nt:4 pp:5 sh:1 t:105 ti:10 us:11 va:1 ve:16 vi:2 w:145 y:23 yi:8 ys:7
+sb: an:29
+sc: al:6 am:1 an:1 ar:14 at:2 en:6 er:1 ha:2 hi:4 ho:4 is:6 ol:4 or:4 ou:1 ov:4 ra:6 re:16 ri:1
+sd: om:4
+se: -:106 a:22 al:1 am:2 ar:13 as:4 at:7 co:28 cr:5 ct:1 d:57 e:91 ed:2 ei:17 ek:12 em:30 en:33 es:1 ga:1 iz:19 l:6 le:1 lf:45 ll:6 lv:34 mb:2 n:2 nc:2 nd:3 ns:1 nt:42 pa:2 r:13 ra:3 rt:1 rv:61 ry:1 s:23 t:90 tt:12 ve:40 w:2 we:3 wn:2 xt:7
+sf: ie:8 ig:1 or:7 ul:1
+sg: ui:1 us:1
+sh: -:86 ab:6 ad:6 ak:7 al:84 am:6 ap:5 ar:12 av:1 e:825 ea:1 ed:68 ee:7 el:6 ep:16 er:18 es:16 ew:1 fu:1 if:1 in:20 io:2 ip:11 ir:2 iv:2 me:5 oc:1 oe:36 ol:3 on:7 oo:12 op:5 or:27 ot:7 ou:133 ov:1 ow:28 ra:1 re:1 ri:1 ru:1 ud:8 ut:22
+si: bl:4 c:2 ci:4 ck:8 de:74 ed:2 ft:1 gh:13 gn:6 le:4 lk:7 ll:9 lv:21 ly:9 mp:7 n:2 nc:4 ne:10 ng:41 nk:2 on:7 r:3 re:9 st:35 t:24 te:3 ti:1 ts:7 tt:46 tu:1 ve:1 x:9 xt:3 ze:4
+sk: -:17 ei:1 et:5 il:6 in:20 ip:2 s:3 ul:1 y:6
+sl: at:2 au:1 av:1 ay:1 ee:39 ep:17 ew:1 ic:2 ik:1 ip:23 ow:2 ug:1 y:3 yl:3
+sm: ac:1 al:22 an:22 ar:3 ay:1 ea:1 el:5 en:19 il:2 is:3 it:5 ok:6 oo:2 ot:1 ou:1
+sn: ai:1 ak:4 ap:4 ar:1 at:3 ee:2 if:1 ip:3 or:8 ow:13 uf:1 ug:2
+so: -:433 bb:1 ck:1 ev:2 ft:8 ld:43 le:3 li:2 lv:2 m:2 me:151 n:79 ng:10 ns:13 on:100 ot:5 r:1 re:4 rr:25 rs:5 rt:7 ug:10 ul:2 un:15 up:5 ur:3
+sp: ac:2 ai:1 an:1 ar:30 at:2 ea:15 ec:10 ee:1 el:9 en:8 ic:3 ie:3 il:3 in:19 ir:7 is:1 it:10 la:2 le:5 li:2 oi:3 ok:20 oo:2 or:1 os:2 ot:11 ra:34 re:6 ri:19 ro:1 un:3 ur:2 ut:2
+sq: ua:1 ue:3 ui:1
+ss: -:160 ad:1 ag:2 ed:41 el:1 en:5 es:21 ib:6 ie:1 in:9 io:5 ip:2 ly:1 ne:1 wo:1
+st: -:535 ab:12 ac:1 ag:2 ai:29 ak:1 al:4 an:55 ar:23 at:2 ay:25 e:14 ea:19 ed:12 ee:2 ef:1 em:1 en:28 ep:27 er:63 es:1 ic:13 if:1 il:92 in:5 ir:8 it:3 iv:2 le:54 li:2 ly:3 oc:7 ok:1 ol:11 om:9 on:44 oo:70 op:19 or:18 ou:1 ov:4 ow:1 ra:52 re:61 ri:19 ro:13 ru:19 ry:1 s:1 uc:10 ud:7 uf:1 um:2 up:3 ur:2 y:15
+su: bd:1 cc:3 ch:53 ck:2 dd:16 ff:8 ga:3 it:14 lk:2 m:1 me:1 mm:10 n:31 nb:1 ng:1 nk:1 nr:1 ns:1 pe:1 pp:14 re:29 rp:2 rr:2 sp:4
+sw: al:7 am:3 an:1 ar:1 ea:1 ee:14 el:1 ep:2 er:53 if:1 im:6 or:7 un:3
+sy: -:25 bo:1 ru:1
+t: -:3370
+ta: bl:42 ck:1 cl:1 ge:1 il:70 in:22 ke:135 ki:8 l:4 le:12 lk:7 ll:5 n:3 nd:9 ng:2 nt:1 p:8 pp:4 r:1 rr:2 sk:10 st:11 ti:2 ug:1
+tc: h:68 he:80 hi:6 oa:1
+te: -:56 ac:1 ar:10 d:101 dl:3 em:1 en:2 et:4 ll:43 ly:1 mp:7 n:35 nd:10 nt:5 ou:3 r:152 ra:2 re:17 ri:10 rm:4 rn:1 rr:18 rs:7 rt:1 rw:19 s:5 st:5 wa:1 xt:1
+tf: ul:5
+th: -:592 an:71 at:796 aw:1 e:4560 ea:6 ee:23 ei:171 em:294 en:152 er:534 es:29 ey:593 ic:11 ie:16 in:231 ir:51 is:215 it:8 or:9 os:10 ou:187 re:112 ri:3 ro:106 ru:10 s:1 st:1 un:2 us:26 y:23
+ti: al:1 at:1 ce:8 ck:1 de:1 di:2 e:3 ed:10 en:3 er:4 es:5 fu:94 gh:1 gu:1 l:43 le:2 ll:92 lt:2 ly:5 ma:1 me:173 ng:29 on:12 re:25 s:1 sf:8 sp:1 te:2
+tl: ed:6 er:3 es:1 in:2 y:38
+tm: en:5
+tn: in:4 ut:2
+to: -:2120 ad:1 as:1 ba:1 da:4 e:2 es:1 ge:69 ke:4 ld:81 mo:9 n:2 ng:8 ni:10 ns:1 o:68 ok:206 ot:1 p:17 pm:1 rc:3 re:7 rm:2 rn:4 ss:5 uc:18 wa:18 we:15 wn:12
+tr: ac:3 ad:5 ai:3 am:2 an:6 ap:2 av:26 ay:2 ea:19 ee:104 em:8 es:17 ia:1 ic:3 ie:19 in:2 ip:3 od:1 oo:3 ot:13 ou:24 ue:32 ul:1 um:1 un:4 us:4 ut:7 y:47 yi:2 ym:6
+ts: -:93 he:2 id:12 ki:1 me:1
+tt: ag:10 ed:4 en:2 er:74 in:67 le:294 om:13 on:3
+tu: al:1 at:1 de:1 gg:2 mb:3 ne:11 ou:1 ra:1 re:11 rn:83 rt:3 sk:1
+tw: as:1 ee:7 el:31 en:3 ic:7 ig:3 il:1 in:2 it:1 o:109
+ty: -:84 ar:6 in:2
+u: -:574
+ua: de:1 ge:2 l:8 ll:6 re:1
+ub: -:1 le:1 t:6 te:1
+uc: e:1 h:6 he:15 k:12 ke:6 ki:1 kl:2
+ud: -:9 de:8 e:1 en:7 ly:1 y:1
+ue: -:57 d:9 ez:3 lt:2 re:1 s:2
+uf: f:1 fe:1
+ug: -:2 ga:1 h:82 he:10 hi:1 ho:3 hs:1 ht:115 ly:8
+ui: pp:2 re:1 se:1 t:3 ts:1
+ul: -:35 ar:1 d:352 dr:2 ds:1 ls:1 ly:15 t:1 te:1 tr:1 ty:1 y:1
+um: bl:1 bs:3 ed:1 es:1 p:2 ps:1 si:2 sy:1
+un: -:3 ab:7 an:1 at:1 aw:3 be:1 bo:3 bu:1 ce:8 ch:1 cl:1 co:1 d:170 de:73 di:3 dl:3 do:4 dr:1 e:7 ea:10 es:1 ex:1 fa:1 g:60 ge:28 ha:5 ic:3 it:3 iv:1 k:7 ke:1 kn:4 le:7 lo:1 lu:1 pa:1 ru:1 se:8 t:8 ta:22 te:9 ti:43 tl:1 to:1 tr:27 ts:2 ty:1 wi:4 wr:1
+uo: us:1
+up: -:292 id:3 le:3 on:138 pe:3 ri:2 ro:2 se:2 si:1 st:13 te:1
+ur: -:177 ab:2 ag:1 al:1 be:1 ch:12 e:13 ed:7 el:1 er:1 ge:2 it:1 n:1 ne:23 nf:1 ni:1 ry:1 s:9 se:24 t:29 te:1 th:2 ti:3 ty:6
+us: -:75 ag:11 e:130 ed:21 ef:1 em:1 es:1 ew:1 h:1 he:5 hw:2 in:3 ly:4 t:1 te:2 ty:2 ua:6
+ut: -:26 ch:2 e:2 ed:3 h:44 hf:1 hs:1 te:4 ti:1
+va: ga:4 ge:1 gi:1 in:14 li:1 ll:4 lu:3 nc:1 ni:3
+ve: -:556 al:3 d:92 ge:2 in:1 li:4 ll:1 lv:1 ly:2 me:1 n:74 ng:4 ns:8 nt:10 r:158 ra:4 re:12 ri:2 rn:1 rt:4 ry:159 s:45 xe:5
+vi: ce:7 ct:2 de:1 ed:1 l:5 ll:13 ne:3 ng:33 ol:4 ou:3 rt:1 si:9 te:2
+vo: c:1 ic:14 ur:11 we:2 ya:2
+vy: -:3
+w: -:453
+wa: dd:3 ge:3 gg:2 il:4 is:1 it:43 ke:5 lk:52 ll:12 nd:16 nt:69 r:4 rd:37 re:5 rl:1 rm:15 rn:2 rr:2 s:1004 sh:14 st:2 tc:27 te:59 ve:8 y:104 ys:33
+wd: -:1 le:1 ro:1
+we: -:118 ak:4 al:3 ar:10 at:4 av:3 d:25 dd:14 dg:1 ek:1 ep:4 ig:5 l:1 lc:7 ll:78 ls:5 nt:345 pt:17 r:26 re:271 rf:1 rt:1 st:1 t:1 tt:1 ve:78
+wh: at:193 ee:13 el:2 en:339 er:108 et:18 ic:141 il:42 ip:3 ir:3 is:9 it:50 o:222 oe:5 ol:40 om:13 os:12 y:13
+wi: ck:18 de:11 do:2 fe:78 gh:1 ld:22 ll:332 lt:2 nd:67 ne:30 ng:15 nt:6 pe:3 sd:4 se:17 sh:59 tc:28 th:540 ts:2
+wl: -:9 ed:1 er:1 in:1 s:5 y:1
+wn: -:258 ed:5 s:1 st:1
+wo: ef:1 es:1 lf:42 ma:71 n:8 nd:16 o:1 od:74 oe:2 rd:30 re:2 rk:60 rl:32 rm:1 rn:2 rr:1 rs:7 rt:4 ul:186 un:7
+wr: ap:4 ea:3 en:8 et:14 it:1 on:4 ot:1 y:1
+ws: -:16 oe:1
+x: -:50
+xe: d:9 s:1
+xi: et:2 ou:2
+xt: -:50 h:1 on:7 y:2
+y: -:1239
+ya: ge:2 l:14 rd:9
+yb: od:6 re:5
+ye: -:4 ar:37 d:17 ll:7 rs:1 s:5 st:3 t:28
+yf: ul:5
+yi: el:3 ng:31
+yl: ig:5 y:3
+ym: ak:1 an:6 en:1
+yo: ke:1 nd:2 ne:25 r:2 u:574 un:83 ur:143 us:2 ut:26
+ys: -:64 ta:1
+yt: hi:50
+yw: he:5
+za: rd:1
+ze: -:6 d:6 l:10 r:2 s:4
+zi: ly:1 ng:2
+zy: -:6
+zz: ed:1 li:2
